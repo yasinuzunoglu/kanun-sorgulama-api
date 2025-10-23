@@ -5,6 +5,7 @@ import json
 import re
 from typing import List, Dict, Any, Optional
 import os
+import uvicorn
 
 app = FastAPI(title="Kanun Sorgulama API", version="1.0.0")
 
@@ -23,7 +24,7 @@ class QuestionResponse(BaseModel):
 async def root():
     """Ana sayfa"""
     return {
-        "message": "Kanun Sorgulama API - Vercel",
+        "message": "Kanun Sorgulama API - Railway",
         "version": "1.0.0",
         "status": "ready",
         "endpoints": {
@@ -67,6 +68,6 @@ async def health_check():
         "message": "API çalışıyor"
     }
 
-# Vercel için handler
-def handler(request):
-    return app(request)
+if __name__ == "__main__":
+    port = int(os.getenv("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
