@@ -1,0 +1,331 @@
+7194 sayılı Dijital Hizmet Vergisi ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun
+Yayımlandığı Resmî Gazete Tarihi: 07.12.2019
+Yayımlandığı Resmî Gazete Sayısı: 30971
+Kabul Tarihi	05.12.2019
+BİRİNCİ BÖLÜM
+Verginin Konusu, Tanımlar, Mükellef ve Vergi Sorumlusu, Muafiyet ve İstisnalar
+Madde 0001 : Verginin konusu
+(Yürürlüğe girişi 01.03.2020)
+(1) Türkiye'de sunulan aşağıdaki hizmetlerden elde edilen hasılat, dijital hizmet vergisine tabidir:
+a) Dijital ortamda sunulan her türlü reklam hizmetleri (reklam kontrol ve performans ölçüm hizmetleri, kullanıcılarla ilgili veri iletimi ve yönetimi gibi hizmetler ile reklamın sunulmasına ilişkin teknik hizmetler dâhil)
+b) Sesli, görsel veya dijital herhangi bir içeriğin (bilgisayar programları, uygulamalar, müzik, video, oyunlar, oyun içi uygulamalar ve benzerleri dâhil) dijital ortamda satışı ile bu içeriklerin dijital ortamda dinlenmesine, izlenmesine, oynanmasına veya elektronik cihazlara kaydedilmesine veya bu cihazlarda kullanılmasına yönelik dijital ortamda sunulan hizmetler
+c) Kullanıcıların birbirleriyle etkileşime geçebilecekleri dijital ortamların sağlanması ve işletilmesi hizmetleri (kullanıcılar arasında bir mal veya hizmetin satılmasına veya satılmasının kolaylaştırılmasına yönelik sunulan hizmetler dâhil)
+(2) Birinci fıkrada sayılan hizmetlere yönelik dijital ortamda dijital hizmet sağlayıcıları tarafından verilen aracılık hizmetlerinden elde edilen hasılat da dijital hizmet vergisine tabidir.
+Madde 0002 : Tanımlar
+(Yürürlüğe girişi 01.03.2020)
+(1) Bu Kanunun uygulanmasında;
+a) Dijital ortam: Fiziki olarak karşı karşıya gelmeksizin, çevrim içi faaliyetin gerçekleştirildiği her türlü ortamı,
+b) Dijital hizmet sağlayıcıları: 1 inci maddede sayılan hizmetleri sunanları,
+c) Hasılatın elde edilmesi: Hasılatın mahiyet ve tutar itibarıyla kesinlik kazanmış olmasını,
+ç) Hizmetin Türkiye'de sunulması: Hizmetin Türkiye'de sunulmasını, hizmetten Türkiye'de faydalanılmasını, hizmetin Türkiye'de bulunan kişilere yönelik gerçekleştirilmesini veya hizmetin Türkiye'de değerlendirilmesini (Değerlendirmeden maksat, hizmetin karşılığını teşkil eden ödemenin Türkiye'de yapılması veya ödeme yurt dışında yapılmışsa, Türkiye'de ödeyenin veya nam ve hesabına ödeme yapılanın hesaplarına intikal ettirilmesi veya kârından ayrılmasıdır. Şu kadar ki, dijital ortamda sunulan reklam hizmetinin Türkiye'de bulunmayan kişilere yönelik gerçekleştirilmesi durumunda hizmet Türkiye'de değerlendirilmiş sayılmaz.),
+d) Finansal muhasebe açısından konsolide grup: Uluslararası Finansal Raporlama Standartları veya Türkiye Finansal Raporlama Standartları uyarınca konsolide finansal tablolarda yer alan tüm işletmeleri,
+ifade eder.
+Madde 0003 : Mükellef ve vergi sorumlusu
+(Yürürlüğe girişi 01.03.2020)
+(1) Dijital hizmet vergisinin mükellefi, dijital hizmet sağlayıcılarıdır. Bunların, 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanunu ile 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanunu bakımından tam mükellef olup olmaması, dar mükellefiyette söz konusu faaliyetleri Türkiye'de bulunan iş yeri veya daimi temsilcileri vasıtasıyla gerçekleştirip gerçekleştirmemesi dijital hizmet vergisi mükellefiyetine tesir etmez.
+(2) Mükellefin Türkiye içinde ikametgâhının, iş yerinin, kanuni ve iş merkezlerinin bulunmaması hâlleri ile gerekli görülen diğer hâllerde Hazine ve Maliye Bakanlığı, vergi alacağının emniyet altına alınması amacıyla vergiye tabi işlemlere taraf olanlar ile işleme ve ödemeye aracılık edenleri verginin ödenmesinden sorumlu tutabilir.
+Madde 0004 : Muafiyet ve istisnalar
+(Yürürlüğe girişi 01.03.2020)
+(1) İlgili hesap döneminden önceki hesap döneminde, 1 inci maddede sayılan hizmetlere ilişkin, Türkiye'de elde edilen hasılatı 20 milyon Türk lirasından veya dünya genelinde elde edilen hasılatı 750 milyon avrodan veya muadili yabancı para karşılığı Türk lirasından az olanlar dijital hizmet vergisinden muaftır. Mükellefin, finansal muhasebe açısından konsolide bir grubun üyesi olması hâlinde, bu hadlerin uygulanmasında grubun verginin konusuna giren hizmetlere ilişkin elde ettiği toplam hasılat dikkate alınır.
+(2) İlgili hesap dönemi içerisinde birinci fıkrada yer alan hadlerin her ikisinin de aşılması hâlinde muafiyet sona erer ve haddin aşıldığı vergilendirme dönemini takip eden dördüncü vergilendirme döneminden itibaren dijital hizmet vergisi mükellefiyeti başlar. Söz konusu hadlerin aşılıp aşılmadığının tespitinde, hesap döneminin üçer aylık dönemlerinin sonu itibarıyla ilgili hesap dönemi içinde elde edilen kümülatif hasılat dikkate alınır.
+(3) Arka arkaya iki hesap dönemi boyunca birinci fıkradaki hadlerden herhangi birinin altında kalanların vergi muafiyeti, izleyen hesap döneminden itibaren tekrar başlar.
+(4) Cumhurbaşkanı, birinci fıkrada yer alan hadleri verginin konusuna giren hizmet türlerine göre ayrı ayrı veya birlikte sıfıra kadar indirmeye veya üç katına kadar artırmaya yetkilidir.
+(5) Hazine ve Maliye Bakanlığı, muafiyetin tespiti ve uygulanması amacıyla bildirim ve belgelendirme yükümlülüğü getirmeye ve maddenin uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir. Bu kapsamda bildirim ve belgelendirme yükümlülüklerini tam ve zamanında doğru olarak yerine getirmeyenlere, yükümlülüklerini yerine getirmeleri için otuz gün ek süre verilir. Verilen ek süre içerisinde, bildirim ve belgelendirme yükümlülüklerini tam ve zamanında doğru olarak yerine getirmeyenler bu maddede yer alan muafiyetten yararlanamaz.
+(6) Dijital ortamda yapılan aşağıdaki hizmetlerden elde edilen hasılat dijital hizmet vergisinden istisnadır ve bu hizmetlerden elde edilen hasılat birinci fıkradaki hadlerin tespitinde dikkate alınmaz:
+a) 4/2/1924 tarihli ve 406 sayılı Telgraf ve Telefon Kanununun ek 37 nci maddesi kapsamında üzerinden Hazine payı ödenen hizmetler
+b) 13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 39 uncu maddesi kapsamında üzerinden özel iletişim vergisi alınan hizmetler
+c) 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 4 üncü maddesi kapsamındaki hizmetler
+ç) 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanunun 2 nci maddesinde tanımlanan Ar-Ge merkezlerinde Ar-Ge faaliyetleri neticesinde oluşturulan ürünlerin satışı ile münhasıran bu ürünler üzerinden sunulan hizmetler
+d) 20/6/2013 tarihli ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanunun 12 nci maddesi kapsamında yer alan ödeme hizmetleri
+(7) Dijital hizmet vergisine ilişkin istisna ve muafiyetler, ancak bu Kanuna hüküm eklenmek veya bu Kanunda değişiklik yapılmak suretiyle düzenlenir. Diğer kanunlarda yer alan istisna veya muafiyet hükümleri bu vergi bakımından geçersizdir.
+İKİNCİ BÖLÜM
+Verginin Matrahı, Oranı ve Hesabı
+Madde 0005 : Verginin matrahı, oranı ve hesabı
+(Yürürlüğe girişi 01.03.2020)
+(1) Dijital hizmet vergisinin matrahı, ilgili vergilendirme döneminde verginin konusuna giren hizmetler nedeniyle elde edilen hasılattır. Hasılatın döviz ile hesaplanması hâlinde döviz, hasılatın elde edildiği tarihte geçerli olan Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden Türk parasına çevrilir.
+(2) Verginin matrahından gider, maliyet ve vergi adı altında indirim yapılmaz. Dijital hizmet vergisi, fatura ve fatura yerine geçen belgelerde ayrıca gösterilmez.
+(3) Dijital hizmet vergisi oranı %7,5'tir.
+(4) Dijital hizmet vergisi, matraha oranın uygulanması suretiyle hesaplanır. Bu şekilde hesaplanan vergiden herhangi bir indirim yapılmaz.
+(5) Cumhurbaşkanı, üçüncü fıkrada belirtilen oranı, hizmet türleri itibarıyla ayrı ayrı veya birlikte %1'e kadar indirmeye, iki katına kadar artırmaya yetkilidir.
+ÜÇÜNCÜ BÖLÜM
+Vergilendirme Dönemi, Verginin Beyanı, Tarhı ve Ödenmesi ile Vergi Güvenliği
+Madde 0006 : Vergilendirme dönemi, verginin beyanı, tarhı ve ödenmesi
+(Yürürlüğe girişi 01.03.2020)
+(1) Dijital hizmet vergisinde vergilendirme dönemi, takvim yılının birer aylık dönemleridir. Ancak Hazine ve Maliye Bakanlığı, hizmet türlerine ve mükelleflerin faaliyet hacimlerine göre birer aylık vergilendirme dönemi yerine üçer aylık vergilendirme dönemi tespit etmeye yetkilidir.
+(2) Dijital hizmet vergisi, mükellefin beyanı üzerine tarh olunur. 3 üncü maddenin ikinci fıkrasının uygulandığı durumlarda, bu beyan vergi kesintisi yapmakla sorumlu tutulanlar tarafından yapılır.
+(3) Mükellefler ve vergi kesintisi yapmakla sorumlu tutulanlar, dijital hizmet vergisi beyannamelerini, vergilendirme dönemini takip eden ayın sonuna kadar ilgili vergi dairesine vermekle yükümlüdürler.
+(4) Dijital hizmet vergisi, katma değer vergisi mükellefiyeti bulunan hizmet sağlayıcıları için bu vergi bakımından bağlı bulundukları vergi dairesince, bulunmayanlar bakımından Hazine ve Maliye Bakanlığınca belirlenecek vergi dairesince tarh olunur.
+(5) Dijital hizmet vergisi, mükellef veya vergi sorumlusu olan gerçek veya tüzel kişi adına tarh olunur. Adi ortaklıklarda, verginin ödenmesinden müteselsilen sorumlu olmak üzere, ortaklardan herhangi biri adına tarhiyat yapılır.
+(6) Beyanname vermek mecburiyetinde olan mükellefler ile vergi kesmekle sorumlu tutulanlar, bir vergilendirme dönemine ait dijital hizmet vergisini beyanname verme süresi içinde öderler.
+(7) Dijital hizmet vergisi mükelleflerince ödenen dijital hizmet vergisi, bu mükellefler tarafından gelir ve kurumlar vergisine esas safi kazancın tespitinde gider olarak indirilebilir.
+(8) Hazine ve Maliye Bakanlığı, dijital hizmet vergisi beyannamesinin ve eklerinin şekil ve muhtevasını belirlemeye, faaliyetin gereğini göz önünde tutarak mükellefin müracaatı üzerine veya resen tarh yerini tayin etmeye, mükellef veya vergi sorumlularına sadece vergiye tabi hizmetlerin sunulduğu dönemler için beyanname verdirmeye, verginin beyan ve ödeme zamanı ile tahsiline ilişkin usul ve esasları belirlemeye, bildirim ve belgelendirme yükümlülüğü getirmeye ve buna ilişkin usul ve esasları belirlemeye yetkilidir.
+Madde 0007 : Vergi güvenliği
+(Yürürlüğe girişi 01.03.2020)
+(1) 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu kapsamına giren vergilere ilişkin beyanname verme ve ödeme yükümlülüklerini süresinde yerine getirmeyen bu Kanun kapsamındaki dijital hizmet sağlayıcılarına veya Türkiye'deki yetkili temsilcisine, bu yükümlülüklerin yerine getirilmesi için dijital hizmet vergisini tarha yetkili vergi dairesi tarafından internet sayfalarındaki iletişim araçları, alan adı, IP adresi ve benzeri kaynaklarla elde edilen bilgiler kullanılarak 213 sayılı Kanunda sayılan tebligat yöntemleri, elektronik posta veya diğer tüm iletişim araçları ile ihtarda bulunulabilir ve bu durum Gelir İdaresi Başkanlığının internet sitesinde ilan edilir.
+(2) İlandan itibaren otuz gün içinde bu yükümlülüklerin yerine getirilmemesi hâlinde, dijital hizmet sağlayıcılarının sunmuş oldukları hizmetlere erişimin, bu yükümlülükler yerine getirilinceye kadar engellenmesine Hazine ve Maliye Bakanlığınca karar verilir ve bu karar erişim sağlayıcılarına bildirilmek üzere Bilgi Teknolojileri ve İletişim Kurumuna gönderilir. Engelleme kararlarının gereği bildirimden itibaren yirmi dört saat içinde erişim sağlayıcıları tarafından yerine getirilir. (*)
+(3) Bu maddenin uygulanmasına ilişkin usul ve esaslar, Ulaştırma ve Altyapı Bakanlığının görüşü alınarak Hazine ve Maliye Bakanlığınca belirlenir.
+(*) (Üstü Çizili 1.ve 2. Cümleler, Anayasa Mahkemesinin 12.09.2023 tarih ve 32307 Sayılı Resmi Gazetede Yayımlanan 18.05.2023 tarihli ve E:2020/11; K:2023/98 sayılı kararı ile iptal edilmiş olup, söz konusu karar Resmî Gazete de yayımından başlayarak dokuz ay sonra [12.06.2024] yürürlüğe girecektir.)
+DÖRDÜNCÜ BÖLÜM
+Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına İlişkin Düzenlemeler
+Madde 0008 :
+13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 33 üncü maddesinin birinci fıkrasında yer alan binde biridir ibaresi binde ikisidir şeklinde ve ikinci fıkrasında yer alan yukarıdaki oranları aşmayacak şekilde yeniden tespit etmeye yetkilidir ibaresi kambiyo muamelelerinde on katına, vergiye tabi diğer muamelelerde ise kanuni seviyesine kadar artırmaya yetkilidir şeklinde değiştirilmiştir.
+Madde 0009 :
+6802 sayılı Kanunun İkinci Kısmının İkinci Bölümünün mülga başlığı Konaklama Vergisi şeklinde ve mülga 34 üncü maddesi başlığı ile birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
+Konaklama vergisi
+Madde 34- Otel, motel, tatil köyü, pansiyon, apart otel, misafirhane, kamping, dağ evi, yayla evi gibi konaklama tesislerinde verilen geceleme hizmeti ile bu hizmetle birlikte satılmak suretiyle konaklama tesisi bünyesinde sunulan diğer tüm hizmetler (yeme, içme, aktivite, eğlence hizmetleri ve havuz, spor, termal ve benzeri alanların kullanımı gibi) konaklama vergisine tabidir. Geceleme hizmetinin; sağlıklı yaşam tesisleri, eğlence merkezleri gibi tesislerin bünyesinde sunulması, vergilendirmeye etki etmez.
+Konaklama vergisinin mükellefi birinci fıkrada belirtilen hizmetleri sunanlardır.
+Vergiyi doğuran olay, birinci fıkrada belirtilen hizmetlerin sunulması ile meydana gelir.
+Konaklama vergisinin matrahı, verginin konusuna giren hizmetler karşılığında, katma değer vergisi hariç, her ne suretle olursa olsun alınan veya bu hizmetler için borçlanılan para, mal ve diğer suretlerde sağlanan ve para ile temsil edilebilen menfaat, hizmet ve değerler toplamıdır.
+Konaklama vergisinin oranı % 2'dir. Cumhurbaşkanı, bu oranı bir katına kadar artırmaya, yarısına kadar indirmeye, bu sınırlar içinde farklı oranlar tespit etmeye yetkilidir.
+Konaklama vergisi, konaklama tesislerince düzenlenen fatura ve benzeri belgelerde ayrıca gösterilir. Bu vergiden herhangi bir ad altında indirim yapılamaz. Bu vergi, katma değer vergisi matrahına dahil edilmez.
+Aşağıda sayılan hizmetler konaklama vergisinden müstesnadır:
+a) Öğrenci yurtları, pansiyonları ve kamplarında öğrencilere verilen hizmetler.
+b) Karşılıklı olmak kaydıyla yabancı devletlerin Türkiye'deki diplomatik temsilcilikleri, konsoloslukları ve bunların diplomatik haklara sahip mensupları ile uluslararası anlaşmalar gereğince vergi muafiyeti tanınan uluslararası kuruluşlar ve mensuplarına verilen hizmetler.
+Konaklama vergisinde vergilendirme dönemi, faaliyet gösterilen takvim yılının birer aylık dönemleridir. Her bir vergilendirme dönemine ait konaklama vergisi, vergilendirme dönemini takip eden ayın yirmi altıncı günü akşamına kadar katma değer vergisi yönünden bağlı olunan vergi dairesine (katma değer vergisi mükellefiyeti bulunmayanlarca tesisin bulunduğu yer vergi dairesine) beyan edilir ve aynı süre içinde ödenir.
+Hazine ve Maliye Bakanlığı, konaklama vergisi beyannamesinin şekil, içerik ve ekleri ile uygulamaya ilişkin usul ve esasları belirlemeye yetkilidir.
+Madde 0010 :
+31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 18 inci maddesine aşağıdaki fıkra eklenmiştir.
+Bu madde kapsamındaki kazançları toplamı 103 üncü maddede yazılı tarifenin dördüncü gelir diliminde yer alan tutarı aşanlar bu istisnadan faydalanamazlar. Bu durumda olanların, 94 üncü maddenin birinci fıkrası kapsamında tevkifat yapma yükümlülüğü yoktur.
+Madde 0011 :
+193 sayılı Kanunun 23 üncü maddesinin birinci fıkrasının (10) numaralı bendinde yer alan taşıma giderleri ibaresinden sonra gelmek üzere aşağıdaki parantez içi hüküm eklenmiştir.
+(İşverenlerce taşıma hizmeti verilmeyen durumlarda, çalışılan günlere ait bir günlük ulaşım bedelinin 10 Türk lirasını aşmaması ve buna ilişkin ödemenin toplu taşıma kartı, bileti veya bu amaçla kullanılan ödeme araçlarının temini şeklinde yapılması şarttır. Ödemenin bu tutarı aşması hâlinde aşan kısım ile hizmet erbabına ulaşım bedeli olarak nakden yapılan ödemeler ve bu amaçla sağlanan menfaatler ücret olarak vergilendirilir. Bu istisnanın uygulanmasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye Bakanlığı yetkilidir.
+Madde 0012 :
+193 sayılı Kanunun 29 uncu maddesinin birinci fıkrasının (4) numaralı bendi aşağıdaki şekilde değiştirilmiştir.
+4. Amatör spor yarışmalarını yöneten hakemlere ödenen ücretler (basketbol ve voleybol spor dallarının en üst liglerinde görev alanlar hariç);
+Madde 0013 :
+193 sayılı Kanunun 40 ıncı maddesinin birinci fıkrasının (1), (5) ve (7) numaralı bentlerine sırasıyla aşağıdaki parantez içi hükümler eklenmiştir.
+(Faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması veya çeşitli şekillerde işletilmesi olanların bu amaçla kullandıkları hariç olmak üzere, kiralama yoluyla edinilen binek otomobillerinin her birine ilişkin aylık kira bedelinin 5.500 Türk lirasına kadarlık kısmı ile binek otomobillerinin iktisabına ilişkin özel tüketim vergisi ve katma değer vergisi toplamının en fazla 115.000 Türk lirasına kadarlık kısmı gider olarak dikkate alınabilir.)
+(Şu kadar ki faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması veya çeşitli şekillerde işletilmesi olanların bu amaçla kullandıkları hariç olmak üzere, binek otomobillere ilişkin giderlerin en fazla %70'i indirilebilir.)
+(Faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması veya çeşitli şekillerde işletilmesi olanların bu amaçla kullandıkları hariç olmak üzere, özel tüketim vergisi ve katma değer vergisi hariç ilk iktisap bedeli 135.000 Türk lirasını, söz konusu vergilerin maliyet bedeline eklendiği veya binek otomobilin ikinci el olarak iktisap edildiği hâllerde, amortismana tabi tutarı 250.000 Türk lirasını aşan binek otomobillerinin her birine ilişkin ayrılan amortismanın en fazla bu tutarlara isabet eden kısmı gider yazılabilir. Bu hükmün uygulanmasında binek otomobilin iktisap edildiği tarihte yürürlükte olan tutar dikkate alınır.
+Madde 0014 :
+193 sayılı Kanunun 68 inci maddesinin birinci fıkrasının (4) ve (5) numaralı bentlerine sırasıyla aşağıdaki parantez içi hükümler eklenmiştir.
+(Şu kadar ki özel tüketim vergisi ve katma değer vergisi hariç ilk iktisap bedeli 135.000 Türk lirasını, söz konusu vergilerin maliyet bedeline eklendiği veya binek otomobilin ikinci el olarak iktisap edildiği hâllerde, amortismana tabi tutarı 250.000 Türk lirasını aşan binek otomobillerinin her birine ilişkin ayrılan amortismanın en fazla bu tutarlara isabet eden kısmı gider yazılabilir. Bu hükmün uygulanmasında binek otomobilin iktisap edildiği tarihte yürürlükte olan tutar dikkate alınır.)
+(Şu kadar ki binek otomobillerine ilişkin giderlerin en fazla %70'i ve kiralama yoluyla edinilen binek otomobillerinin her birine ilişkin aylık kira bedelinin 5.500 Türk lirasına kadarlık kısmı ile binek otomobillerinin iktisabında ödenen özel tüketim vergisi ve katma değer vergisi toplamının en fazla 115.000 Türk lirasına kadarlık kısmı gider olarak dikkate alınabilir.
+Madde 0015 :
+193 sayılı Kanunun 86 ncı maddesinin birinci fıkrasının (1) numaralı bendinin (b) alt bendi aşağıdaki şekilde değiştirilmiştir.
+b) Tek işverenden alınmış ve tevkif suretiyle vergilendirilmiş 103 üncü maddede yazılı tarifenin dördüncü gelir diliminde yer alan tutarı aşmayan ücretler (birden fazla işverenden ücret almakla beraber, birinciden sonraki işverenden aldıkları ücretlerinin toplamı, 103 üncü maddede yazılı tarifenin ikinci gelir diliminde yer alan tutarı ve birinci işverenden alınan dâhil ücret gelirleri toplamı 103 üncü maddede yazılı tarifenin dördüncü gelir diliminde yer alan tutarı aşmayan mükelleflerin, tamamı tevkif suretiyle vergilendirilmiş ücretleri dâhil),
+Madde 0016 :
+193 sayılı Kanunun 94 üncü maddesine ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu ile 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanunu uyarınca karşı tarafa yükletilen vekalet ücretini (icra ve iflas müdürlüklerine yatırılanlar dâhil) ödeyenler tarafından gelir vergisi tevkifatı yapılır.
+Madde 0017 :
+193 sayılı Kanunun 103 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
+Madde 103- Gelir vergisine tabi gelirler;
+18.000 TL'ye kadar  	  %15
+40.000 TL'nin 18.000 TL'si için 2.700 TL, fazlası  	  %20
+98.000 TL'nin 40.000 TL'si için 7.100 TL (ücret gelirlerinde 148.000 TL'nin 40.000 TL'si için 7.100 TL), fazlası  	  %27
+500.000 TL'nin 98.000 TL'si için 22.760 TL (ücret gelirlerinde 500.000 TL'nin 148.000 TL'si için 36.260 TL), fazlası  	  %35
+500.000 TL'den fazlasının 500.000 TL'si için 163.460 TL (ücret gelirlerinde 500.000 TL'den fazlasının 500.000 TL'si için 159.460 TL), fazlası  	  %40
+oranında vergilendirilir.
+Madde 0018 :
+193 sayılı Kanunun mükerrer 121 inci maddesinin ikinci fıkrasının (1) ve (3) numaralı bentleri ile beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+1. İndirimin hesaplanacağı beyannamenin ait olduğu yıl ile bu yıldan önceki son iki yıla ait vergi beyannamelerinin kanuni süresinde verilmiş (Kanuni süresinde verilen bir beyannameye ilişkin olarak kanuni süresinden sonra düzeltme amacıyla veya pişmanlıkla verilen beyannameler bu şartın ihlali sayılmaz.) olması,
+3. İndirimin hesaplanacağı beyannamenin verildiği tarih itibarıyla, (1) numaralı bent kapsamındaki vergi beyannameleri üzerine tahakkuk eden vergilerin ödenmiş olması (Ödemenin, ilgili mevzuatı gereği istenilen bilgi ve belgelerin tam ve eksiksiz olarak ibraz edilmiş olması koşuluyla, vergi kanunları gereği doğan iade alacaklarından mahsuben yapılmış olması ve indirimden yararlanıldıktan sonra söz konusu iade alacağı tutarının mahsuben ödemesi talep edilen vergi borcu tutarının altına düşmesi hâlinde, eksik ödenmiş duruma gelen vergilerin mahsuben ödenmek istenilen tutarın %10'unu aşmaması kaydıyla, eksik ödenmiş vergiler dolayısıyla veya vergi kanunları gereğince, tecil edilerek belirlenen şartların gerçekleşmesine bağlı olarak terkin edilecek vergilerin, şartların sağlanamaması hâlinde kanunlarında belirlenen tecil süresinin sonunu takip eden onbeşinci günün bitimine kadar ödenmesi şartıyla, bu şart ihlal edilmiş sayılmaz.), ayrıca, vergi aslı (vergi cezaları ile fer'i alacaklar dâhil) 1.000 Türk lirasının üzerinde vadesi geçmiş borcunun bulunmaması,
+Bu maddede geçen vergi beyannameleri ibaresi, yıllık gelir vergisi ve kurumlar vergisi beyannameleri, geçici vergi beyannameleri, muhtasar, muhtasar ve prim hizmet beyannameleri ile Hazine ve Maliye Bakanlığına bağlı vergi dairelerine verilmesi gereken katma değer vergisi ve özel tüketim vergisi beyannamelerini; vergi ibaresi, anılan Bakanlığa bağlı vergi dairelerine verilmesi gereken beyannameler üzerine tahakkuk eden vergileri ifade eder.
+Madde 0019 :
+193 sayılı Kanunun mükerrer 123 üncü maddesinin ikinci fıkrasına 23/8, ibaresinden sonra gelmek üzere 23/10, ibaresi, 31, ibaresinden sonra gelmek üzere 40/1, 40/7, ibaresi ve 48, ibaresinden sonra gelmek üzere 68, ibaresi eklenmiştir.
+Madde 0020 :
+193 sayılı Kanunun geçici 67 nci maddesinin altıncı fıkrasında yer alan beş puana kadar ibaresi ayrı ayrı veya birlikte bir katına kadar şeklinde değiştirilmiştir.
+Madde 0021 :
+193 sayılı Kanunun geçici 72 nci maddesinin birinci fıkrasında yer alan 31/12/2019 ibaresi 31/12/2023 şeklinde, fıkranın (a) bendinin (1) numaralı alt bendinde yer alan % 15, ibaresi %20, şeklinde ve ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+(2) Bu ödemeler üzerinden 94 üncü madde kapsamında ayrıca tevkifat yapılmaz. Bu madde kapsamındaki gelirler toplamının, 103 üncü maddede yazılı tarifenin dördüncü diliminde yer alan tutarı aşması hâlinde, bu gelirler yıllık beyannameyle beyan edilir. Yıllık beyanname verilmesi durumunda, beyan edilen bu gelirler üzerinden hesaplanan gelir vergisinden, tevkifat yapmakla sorumlu olanlarca vergi dairesine ödenmiş olması şartıyla, bu Kanuna göre kesilen vergiler mahsup edilir.
+Madde 0022 :
+193 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+Geçici Madde 91- 1/1/2019-31/12/2019 tarihleri arasında elde edilen ücret gelirlerine, bu maddeyi ihdas eden Kanunla 103 üncü maddede yapılan değişiklik öncesi tarife uygulanır.
+Mükerrer 123 üncü maddeye bu maddeyi ihdas eden Kanunla eklenen 40/1 maddesi ile 68 inci maddede yer alan 5.500 Türk liralık kira tutarı hakkında, 2019 yılına ilişkin olarak 1/1/2020 tarihinden itibaren geçerli olacak şekilde yeniden değerleme yapılmaz.
+Geçici 72 nci maddenin birinci fıkrasının (a) bendinin (1) numaralı alt bendinde ve ikinci fıkrasında bu maddeyi ihdas eden Kanunla yapılan değişiklikler, 1/11/2019 tarihinden önce akdedilerek geçerlilik kazanmış sporcu sözleşmeleri kapsamında yapılan ücret ödemelerine uygulanmaz. Daha önceki sözleşmeler kapsamında yapılan ücret ödemeleri için geçici 72 nci maddenin değişiklik öncesi hükümleri uygulanır. 1/11/2019 tarihinden önceki sözleşmelere ilişkin olarak 1/11/2019 tarihinden sonra yapılan süre uzatımı ve ücreti etkileyen değişiklikler bu kapsamda değildir.
+Madde 0023 :
+4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 112 nci maddesinin üçüncü fıkrasına (b) bendinden sonra gelmek üzere aşağıdaki bent eklenmiştir.
+c) 379 uncu madde kapsamında kanun yolundan vazgeçilmesi durumunda söz konusu maddeye göre hesaplanacak vergilere, kendi vergi kanunlarında belirtilen ve tarhiyatın ilgili bulunduğu döneme ilişkin normal vade tarihinden itibaren, kanun yolundan vazgeçme dilekçesinin vergi dairesine verildiği tarihe kadar;
+Madde 0024 :
+213 sayılı Kanuna 160 ıncı maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+Mükellefiyet kaydının analiz ve değerlendirme sonuçlarına bağlı olarak terkini:
+Madde 160/A- Mükellefiyet süresi, aktif ve öz sermaye büyüklüğü, ödenen vergi tutarı, çalışan sayısı, vergisel yükümlülüklerin yerine getirilip getirilmediği gibi hususlar dikkate alınarak mükelleflerin vergisel uyum seviyelerine yönelik olarak Hazine ve Maliye Bakanlığınca yapılan analiz ve değerlendirme çalışmaları neticesinde sahte belge düzenleme riskinin yüksek olduğu tespit edilen mükellefler vergi incelemesine sevk edilir ve bunlar nezdinde yoklama yapılır.
+Yoklamayı müteakip, Hazine ve Maliye Bakanlığı tarafından belirlenen esaslar çerçevesinde vergi dairesinin mükellefin sahte belge düzenleme riskinin yüksek olduğuna ilişkin görüşü ve ilgisine göre vergi dairesi başkanı veya defterdarın onayı ile mükellefiyet kaydı terkin edilir ve bu durum mükellefe tebliğ edilir. Tebliğ tarihinden itibaren bir ay içerisinde 153/A maddesinin birinci fıkrasında yer alan asgari teminat tutarından az olmamak üzere, sahte belge düzenleme riskinin yüksek olduğu dönemlerde düzenlenen belgelerde yer alan toplam tutarın %10'u tutarında aynı maddede belirtilen türde teminat verilmesi ve tüm vergi borçlarının ödenmesi şartıyla mükellefiyet, terkin tarihi itibarıyla yeniden tesis edilir. Mükellefiyetin terkin edildiği tarih ile yeniden tesis edildiği tarih aralığında verilmeyen beyanname ve bildirimler, yeniden tesise ilişkin yazının mükellefe tebliğ edildiği tarihten itibaren bir ay içinde verilir ve tahakkuk eden vergiler aynı sürede ödenir.
+Bu madde kapsamında mükellefiyeti terkin edilenler ve 153/A maddesinin birinci ve ikinci fıkrasında belirtildiği şekilde bunlarla ilişkili olan kişilerin işe başlama bildiriminde bulunmaları hâlinde, bu kişiler hakkında mükellefiyet tesis edilebilmesi için işe başlama bildiriminde bulunanların ve mükellefiyet kaydı bu madde kapsamında terkin edilenlerin tüm vergi borçlarının ödenmiş ve ikinci fıkrada belirtilen şekilde teminat verilmiş olması şarttır. Bu madde uyarınca teminat alınarak mükellefiyeti yeniden tesis edilenlerin düzenlemek zorunda oldukları fatura veya fatura yerine geçen belgelerden Hazine ve Maliye Bakanlığınca belirlenenlerin, elektronik belge olarak düzenlenmesi zorunludur. Kâğıt olarak düzenlenmesi hâlinde bu belgeler vergi kanunları bakımından hiç düzenlenmemiş sayılır ve kayıtların tevsikinde kullanılamaz.
+Mükellef hakkında yapılan inceleme neticesinde, mükellefin başka bir ticari, zirai ve mesleki faaliyeti olmadığı hâlde münhasıran sahte belge düzenlemek amacıyla mükellefiyet tesis ettirdiği tespit olunursa, alınan teminat inceleme neticesinde doğan borçlar dâhil vergi borçlarına mahsup edilerek artan tutar iade olunur. Yapılan incelemede mükellefin başka bir ticari, zirai veya mesleki faaliyeti bulunduğu hâlde sahte belge düzenlediği tespit olunursa, mükellef hakkında 153/A maddesinin dördüncü fıkrası hükümleri çerçevesinde işlem tesis edilir. Şu kadar ki, daha önceden alınmış olan teminat sahte belge düzenleme fiili nedeniyle yapılan tarhiyatların ve kesilen cezaların kesinleşmesine kadar mükellefe iade olunmaz. Yapılan inceleme neticesinde mükellefin sahte belge düzenlemediği tespit olunursa, alınan teminat başkaca vergi borcu bulunmaması kaydıyla iade olunur.
+Bu madde kapsamında alınan teminatların iadesinde, 153/A maddesinin birinci fıkrası uyarınca alınan teminatların iadesine ilişkin; bu teminatların vergi borçlarına mahsubu ve eksilen teminatların tamamlatılmasında ise aynı maddenin dokuzuncu fıkrasına ilişkin hükümler uygulanır.
+Bu madde kapsamında elektronik belge düzenleme yükümlülüğü getirilen mükelleflere ilişkin bilgiler Hazine ve Maliye Bakanlığı tarafından belirlenecek usul ve esaslara göre duyurulur. Bu kapsamda yapılan duyurular vergi mahremiyetinin ihlâli sayılmaz.
+Hazine ve Maliye Bakanlığı, madde kapsamındaki işlemlere ilişkin süreleri, elektronik ortamda belge düzenleme zorunluluğunun başlayacağı tarihi, bu madde kapsamındaki mükelleflerin tahsilat ve ödemelerinin tevsiki ile bu maddenin uygulanmasına ilişkin diğer usul ve esasları belirlemeye yetkilidir.
+Madde 0025 :
+213 sayılı Kanunun 370 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+Madde 370- a) Vergi incelemesine başlanılmadan veya takdir komisyonuna sevk edilmeden önce verginin ziyaa uğradığına delalet eden emareler bulunduğuna dair yetkili merciler tarafından yapılmış ön tespitler hakkında tespit tarihine kadar ihbarda bulunulmamış olması kaydıyla mükellefler izaha davet edilebilir. Kendisine izaha davet yazısı tebliğ edilen mükellefler, davet konusu tespitle sınırlı olarak, bu Kanunun 371 inci maddesinde yer alan pişmanlık hükümlerinden yararlanamaz. İzaha davet yazısının tebliğ tarihinden itibaren otuz günlük süre içerisinde izahta bulunulması durumunda, yapılan izah değerlendirilerek değerlendirme sonucunu içeren yazı mükellefe tebliğ edilir.
+1. Mükelleflerce yapılan izah sonucu vergi ziyaına sebebiyet verilmediğinin idarece anlaşılması hâlinde mükellefler söz konusu tespitle ilgili olarak vergi incelemesine tabi tutulmaz veya takdir komisyonuna sevk edilmez.
+2. Mükelleflerce yapılan izahın yeterli bulunmaması hâlinde, değerlendirme sonucunu içeren yazının tebliğ edildiği tarihten itibaren otuz gün içerisinde; hiç verilmemiş olan vergi beyannamelerinin verilmesi, eksik veya yanlış yapılan vergi beyanının tamamlanması veya düzeltilmesi ve ödeme süresi geçmiş bulunan vergilerin, ödemenin geciktiği her ay ve kesri için, 6183 sayılı Kanunun 51 inci maddesinde belirtilen nispette uygulanacak gecikme zammı oranında bir zamla aynı sürede ödenmesi şartıyla vergi ziyaı cezası, ziyaa uğratılan vergi üzerinden %20 oranında kesilir. Bu durum vergi incelemesi yapılmasına ve gerekirse tarhiyatın ikmaline engel teşkil etmez.
+b) (a) fıkrası uyarınca yapılmış ön tespitlerin, verginin bu Kanunun 359 uncu maddesinde yer alan fiillerle ziyaa uğratılmış olabileceğine ilişkin olması hâlinde bu kapsamdaki mükellefler izaha davet edilmez. Şu kadar ki, sahte veya muhteviyatı itibarıyla yanıltıcı belge kullanma fiilinin işlenmiş olabileceğine dair yapılan ön tespitlerde, kullanılan sahte veya muhteviyatı itibarıyla yanıltıcı belge tutarı, bir takvim yılında 100 bin Türk lirasını geçmeyen veya bu tutarı geçse bile ilgili yıldaki toplam mal ve hizmet alışlarının %5'ini aşmayan mükelleflere ön tespite ilişkin yazı tebliğ edilebilir. Mükelleflerce, haklarında yapılan tespite ilişkin yazının tebliğ edildiği tarihten itibaren otuz gün içerisinde; hiç verilmemiş olan vergi beyannamelerinin verilmesi, eksik veya yanlış yapılan vergi beyanının tamamlanması veya düzeltilmesi ve ödeme süresi geçmiş bulunan vergilerin, ödemenin geciktiği her ay ve kesri için, 6183 sayılı Kanunun 51 inci maddesinde belirtilen nispette uygulanacak gecikme zammı oranında bir zamla aynı sürede ödenmesi şartıyla vergi ziyaı cezası, ziyaa uğratılan vergi üzerinden %20 oranında kesilir. Bu durum vergi incelemesi yapılmasına ve gerekirse tarhiyatın ikmaline engel teşkil etmez. Bu fıkra kapsamında kendisine ön tespite ilişkin yazı tebliğ edilen mükellefler, tespitle sınırlı olarak bu Kanunun 371 inci maddesinde yer alan pişmanlık hükümlerinden yararlanamaz. Bu fıkrada yer alan tutar, her yıl bir önceki yıla ilişkin olarak bu Kanun uyarınca belirlenen yeniden değerleme oranında artırılmak suretiyle uygulanır.
+c) Hazine ve Maliye Bakanlığı bu madde uyarınca ön tespiti ve/veya izaha daveti yapacak ve yapılan izahı değerlendirecek mercii, yapılacak ön tespitin ve/veya izaha davetin şekli ve kapsamını, davet yapılacakları, yapılan izahın değerlendirme süresini, yapılan izahta kullanılacak bilgi ve belgeler ile uygulamaya ilişkin usul ve esasları belirlemeye yetkilidir.
+Madde 0026 :
+213 sayılı Kanunun 376 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Mükellef veya vergi sorumlusu;
+1. İkmalen, resen veya idarece tarh edilen vergiyi veya vergi farkını ve vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarının yarısını ihbarnamelerin tebliğ tarihinden itibaren otuz gün içinde ilgili vergi dairesine başvurarak vadesinde veya 6183 sayılı Kanunda belirtilen türden teminat göstererek vadenin bitmesinden itibaren üç ay içinde ödeyeceğini bildirirse kesilen cezanın yarısı,
+2. Uzlaşmanın vaki olması durumunda, üzerinde uzlaşılan vergiyi veya vergi farkını ve vergi ziyaı cezasının %75'ini, bu Kanunun ek 8 inci maddesinin birinci fıkrasının (1) numaralı bendinde yer alan ödeme süreleri içinde öderse üzerinde uzlaşılan cezanın %25'i,
+indirilir.
+Madde 0027 :
+213 sayılı Kanunun mülga 379 uncu maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
+Kanun yolundan vazgeçme:
+Madde 379- Vergi/ceza ihbarnamesine karşı süresinde açılan davalarda, vergi mahkemesince verilen istinaf yolu açık kararlar ile bölge idare mahkemesince verilen temyiz yolu açık kararlarda (Danıştayın bozma kararı üzerine verilen kararlar hariç);
+1. Kaldırılan vergi tutarının %60'ı, tasdik edilen vergi tutarının tamamı ile tasdik edilen vergi tutarına ilişkin vergi ziyaı cezasının %75'i,
+2. Bağlı olduğu vergi aslı dava konusu yapılmayan veya 359 uncu maddede yazılı fiillere iştirak nedeniyle kesilen vergi ziyaı cezaları ile usulsüzlük ve özel usulsüzlük cezalarının kaldırılan tutarının %25'i ve tasdik edilen tutarının %75'i,
+mükellef için geçerli olan kanun yoluna başvuru süresi içerisinde, dava konusu vergi ve/veya vergi cezalarının tümü için kanun yolundan vazgeçildiğine ilişkin dilekçenin ilgili vergi dairesine verilmesi şartıyla kanun yolundan vazgeçme dilekçesinin verildiği tarih itibarıyla başkaca bir işleme gerek kalmaksızın tahakkuk eder.
+Bu şekilde tahakkuk eden tutarlar tahakkuk tarihinden itibaren bir ay içinde ödenir. Bu maddeye göre tahakkuk eden vergi ve/veya vergi cezalarının %80'inin, hesaplanacak gecikme faizi ile birlikte bu sürede tamamen ödenmesi şartıyla, vergi ve ceza tutarından %20 oranında indirim yapılır. Şu kadar ki, tasdik edilerek tahakkuk eden vergi tutarında indirim yapılmaz. İndirim hükmünden yararlanılabilmesi için dava konusu yapılan ve bu maddeye göre tahakkuk eden vergi ve/veya vergi cezaları ile gecikme faizlerinin birlikte bu fıkra kapsamında ödenmesi şarttır.
+Kanun yolundan vazgeçme dilekçesi vergi dairesince ilgili yargı merciine gönderilir ve bu dilekçenin vergi dairesine verildiği tarih kanun yolundan vazgeçme tarihi olarak kabul edilir. Kanun yolundan vazgeçilmesi hâlinde idarece de ihtilaf sürdürülmez. Kanun yolundan vazgeçildiği hâlde istinaf veya temyiz yoluna başvurulması durumunda ise bu başvurular incelenmez.
+Kanun yolundan vazgeçilen vergi ve vergi ziyaı cezası için bu maddeye göre yapılan tahakkuktan önce ödenen gecikme faizi ve gecikme zammı da dâhil tutarlar, bu madde hükmüne göre ödenecek tutarlara mahsup edilir.
+Bu madde uyarınca istinaf ve temyiz yolundan vazgeçilen davaya ilişkin kararlarda hükmedilen yargılama giderleri, avukatlık ücretleri ve fer'ileri karşılıklı olarak talep edilmez ve bu alacaklar için icra takibi yapılamaz.
+Bu maddenin uygulanmasına ilişkin usul ve esaslar Hazine ve Maliye Bakanlığınca belirlenir.
+Madde 0028 :
+213 sayılı Kanunun ek 1 inci maddesinin birinci fıkrasındaki parantez içi hükümde yer alan kesilen ceza hariç ibaresi kesilen ceza ve 370 inci maddenin (b) fıkrası kapsamında kendilerine ön tespite ilişkin yazı tebliğ edilen mükelleflere mezkur maddeye göre kesilen ceza hariç şeklinde değiştirilmiştir.
+Madde 0029 :
+213 sayılı Kanunun ek 9 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+Ek Madde 9- Bu bölüm uyarınca üzerinde uzlaşılan vergi ve cezalar hakkında 376 ncı maddenin birinci fıkrasının (2) numaralı bendi hükmü dışında indirim uygulanmaz.
+Hakkında 376 ncı maddenin birinci fıkrasının (1) numaralı bendi hükümleri uygulanan vergi ve cezalar için bu bölüm hükümleri uygulanmaz. Mükellefin uzlaşma tutanağını imzalayıncaya kadar uzlaşma talebinden vazgeçtiğini beyanla hadiseye 376 ncı maddenin birinci fıkrasının (1) numaralı bendi hükümlerinin uygulanmasını isteme hakkı mahfuzdur.
+Madde 0030 :
+29/7/1970 tarihli ve 1319 sayılı Emlak Vergisi Kanununa 41 inci maddeden sonra gelmek üzere kısım başlığıyla birlikte aşağıdaki madde eklenmiştir.
+DÖRDÜNCÜ KISIM
+Değerli Konut Vergisi
+Konu:
+Madde 42- Türkiye sınırları içinde bulunan mesken nitelikli taşınmazlardan bina vergi değeri veya Tapu ve Kadastro Genel Müdürlüğünce belirlenen değeri 5.000.000 Türk lirası ve üzerinde olanlar değerli konut vergisine tabidir.
+Madde 0031 :
+1319 sayılı Kanuna, bu Kanunla eklenen 42 nci maddeden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+Vergiye ait değerlerin tespiti, ilanı ve kesinleşmesi:
+Madde 43- Tapu ve Kadastro Genel Müdürlüğünce ilgili mevzuat kapsamında yapılan veya yaptırılan değerleme sonucunda belirlenen ve değeri 42 nci maddede yer alan tutarı aşan (bu tutar dâhil) mesken nitelikli taşınmazlar, ilgilileri tarafından ulaşılabilecek şekilde Tapu ve Kadastro Genel Müdürlüğünün internet sitesinde ilan edilir ve ilgilisine ayrıca tebliğ edilir. Tebliğ tarihinden itibaren on beşinci günün sonuna kadar Tapu ve Kadastro Genel Müdürlüğüne itiraz edilmeyen mesken nitelikli taşınmaz değeri kesinleşir. Süresinde yapılan itirazlar, on beş gün içinde değerlendirilerek sonuçlandırılır ve kesinleşen değer, aynı usulle ilan ve ilgilisine tebliğ edilir. Bu değer, değerli konut vergisi uygulamasında Tapu ve Kadastro Genel Müdürlüğünce belirlenen değer olarak kabul edilir.
+Bu vergi uygulamasında, Tapu ve Kadastro Genel Müdürlüğünce belirlenen bir değerin bulunmaması durumunda, bina vergi değeri esas alınarak vergilendirme işlemleri yapılır.
+Bina vergi değeri, 29 uncu maddeye göre belirlenen vergi değeridir.
+Madde 0032 :
+1319 sayılı Kanuna, bu Kanunla eklenen 43 üncü maddeden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+Matrah ve nispet:
+Madde 44- Verginin matrahı, bina vergi değeri ve Tapu ve Kadastro Genel Müdürlüğünce belirlenen değerden yüksek olanıdır.
+Değerli konut vergisine tabi mesken nitelikli taşınmazlardan değeri;
+5.000.000 TL ile 7.500.000 TL arasında olanlar	 	(Binde 3)
+7.500.001 TL ile 10.000.000 TL arasında olanlar	 	(Binde 6)
+10.000.001 TL yi aşanlar	 	(Binde 10)
+oranında vergilendirilir.
+Paylı mülkiyette ve elbirliği mülkiyette, matrahın hesabında mesken nitelikli taşınmazın toplam değeri esas alınır.
+42 nci maddede yer alan tutar, ikinci fıkrada yer alan vergi oranlarına esas mesken nitelikli taşınmaz değerlerinin alt ve üst sınırları ile Tapu ve Kadastro Genel Müdürlüğünce belirlenen ve 42 nci maddede yer alan tutarı aşan (bu tutar dâhil) mesken nitelikli taşınmazların değeri her yıl bir önceki yıla ilişkin olarak 213 sayılı Vergi Usul Kanunu hükümlerine göre belirlenen yeniden değerleme oranında artırılır. Bu şekilde hesaplanan tutarların 10.000 Türk lirasına kadar olan kesirleri dikkate alınmaz (Şu kadar ki; Tapu ve Kadastro Genel Müdürlüğünce belirlenen taşınmaz değeri, değer tespitinin yapıldığı yıl yeniden değerleme oranında artırılmaz.).
+Madde 0033 :
+1319 sayılı Kanuna, bu Kanunla eklenen 44 üncü maddeden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+Mükellefiyet:
+Madde 45- Değerli konut vergisini mesken nitelikli taşınmazların maliki, varsa intifa hakkı sahibi, her ikisi de yoksa mesken nitelikli taşınmaza malik gibi tasarruf edenler öder.
+Bir mesken nitelikli taşınmaza paylı mülkiyet hâlinde malik olanlar, hisseleri oranında mükelleftirler. Elbirliği mülkiyette malikler vergiden müteselsilen sorumlu olurlar.
+Değerli konut vergisi mükellefiyeti;
+a) Mesken nitelikli taşınmazın değerinin, bina vergi değeri veya Tapu ve Kadastro Genel Müdürlüğünce belirlenen değerin 42 nci maddede belirtilen tutarı aştığının (bu tutar dâhil) belirlendiği tarihi,
+b) 33 üncü maddenin (1) ila (7) numaralı fıkralarında yazılı vergi değerini tadil eden sebeplerin doğması hâlinde bu değişikliklerin vuku bulduğu tarihi,
+c) Muafiyetin sukut ettiği tarihi,
+takip eden yıldan itibaren başlar.
+Yanan, yıkılan, tamamen kullanılmaz hâle gelen veya vergiye tabi iken muaflık şartlarını kazanan mesken nitelikli taşınmazlardan dolayı mükellefiyet, bu olayların vuku bulduğu tarihi takip eden taksitten itibaren sona erer.
+Madde 0034 :
+1319 sayılı Kanuna, bu Kanunla eklenen 45 inci maddeden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+Muaflıklar:
+Madde 46- Aşağıda yazılı mesken nitelikli taşınmazlar, değerli konut vergisinden muaftır:
+a) Genel ve özel bütçeli idarelerin, belediyelerin ve üniversitelerin maliki veya intifa hakkına sahip olduğu mesken nitelikli taşınmazlar.
+b) Türkiye sınırları içinde mesken nitelikli tek taşınmazı olan kişilerden; kendisine bakmakla mükellef kimsesi olup onsekiz yaşını doldurmamış olanlar hariç olmak üzere hiçbir geliri olmadığını belgeleyenlerin, gelirleri münhasıran kanunla kurulan sosyal güvenlik kurumlarından aldıkları aylıktan ibaret bulunanların sahip olduğu mesken nitelikli taşınmazlar (intifa hakkına sahip olunması hâli dâhil) (Bu hüküm, belirtilen kişilerin tek meskene hisse ile sahip olmaları hâlinde hisselerine ait kısım hakkında da uygulanır.).
+c) Yabancı devletlere ait olup elçilik ve konsolosluk olarak kullanılan mesken nitelikli taşınmazlar ile elçilerin ikametine mahsus mesken nitelikli taşınmazlar ve bunların müştemilatı (karşılıklı olmak şartıyla) ve merkezi Türkiye'de bulunan milletlerarası kuruluşlara, milletlerarası kuruluşların Türkiye'deki temsilciliklerine ait mesken nitelikli taşınmazlar.
+ç) Esas faaliyet konusu bina inşası olanların işletmelerine kayıtlı bulunan ve henüz ilk satışa, devir ve temlike konu edilmemiş yeni inşa edilen mesken nitelikli taşınmazlar (arsa karşılığı inşaat işlerinde sözleşme gereği taahhüt işini üstlenen müteahhide kalan mesken nitelikli taşınmazlar dâhil) (bu taşınmazların kiraya verilmesi veya sair surette kullanılması hâlleri hariç).
+Madde 0035 :
+1319 sayılı Kanuna, bu Kanunla eklenen 46 ncı maddeden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+Verginin beyanı, ödeme süresi ve ödeme yeri:
+Madde 47- Mükellef tarafından, mesken nitelikli taşınmaza ilişkin bina vergi değeri ve Tapu ve Kadastro Genel Müdürlüğünce belirlenen değer, buna ait vesikalarla, mesken nitelikli taşınmazın bulunduğu yerdeki Gelir İdaresi Başkanlığına bağlı yetkili vergi dairesine, mesken nitelikli taşınmazın değerinin 42 nci maddede belirtilen tutarı aştığı (bu tutar dâhil) yılı takip eden yılın şubat ayının 20 nci günü sonuna kadar beyanname ile beyan edilir ve vergi, yetkili vergi dairesince yıllık olarak tarh ve tahakkuk olunur. Müteakip yıllar için mükellef tarafından aynı şekilde yıllık olarak beyanname verilir ve vergi ilgili vergi dairesince tarh ve tahakkuk olunur.
+Elbirliği mülkiyetinde mükellefler müşterek beyanname verebilecekleri gibi, münferiden de beyanname verebilirler. Paylı mülkiyet hâlinde ise beyanname münferiden verilir.
+Vergi dairesi tarafından tarh ve tahakkuk ettirilen vergi, ilgili yılın şubat ve ağustos aylarının sonuna kadar iki eşit taksitte ödenir.
+Yıl içerisinde mükellefiyetin başlamasını gerektirecek durumun meydana gelmesi hâlinde, mükellef tarafından takip eden yılın beyanname verme süresi içerisinde ilgili vergi dairesine beyanname verilir.
+Bu Kanunun 37 nci maddesinin ikinci ve üçüncü fıkrası hükümleri, değerli konut vergisi bakımından uygulanmaz.
+Madde 0036 :
+1319 sayılı Kanuna, bu Kanunla eklenen 47 nci maddeden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+Değerli konut vergisi hasılatı:
+Madde 48- Tahsil edilen değerli konut vergisi, genel bütçe geliri olarak kaydedilir ve 2/7/2008 tarihli ve 5779 sayılı İl Özel İdarelerine ve Belediyelere Genel Bütçe Vergi Gelirlerinden Pay Verilmesi Hakkında Kanun ile diğer kanunlara göre mahalli idarelere verilecek payların hesabında dikkate alınmaz.
+Madde 0037 :
+1319 sayılı Kanuna, bu Kanunla eklenen 48 inci maddeden sonra gelmek üzere aşağıdaki madde eklenmiş ve mevcut maddeler buna göre teselsül ettirilmiştir.
+Yetki:
+Madde 49- Bu verginin uygulanmasına ilişkin usul ve esasları belirlemeye, muafiyetlerin uygulanmasında aranacak belgeleri tespit etmeye, 47 nci maddede yer alan beyanname verme ve ödeme sürelerini üç aya kadar uzatmaya, beyannamenin verileceği yetkili vergi dairesini, beyannamenin şekil, içerik ve eklerini belirlemeye ve verginin beyanname aranmaksızın tahakkuk ettirilmesine Hazine ve Maliye Bakanlığı yetkilidir.
+Madde 0038 :
+14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanununun 34 üncü maddesinin birinci fıkrasının (A) bendinin ikinci paragrafında yer alan 2 yılda ibaresi üç yılda şeklinde ve bendin üçüncü paragrafının (e) alt bendi aşağıdaki şekilde değiştirilmiştir.
+e) Yönetim ve Denetim Kurulu üyeleri ile 11/7/2019 tarihli ve 7183 sayılı Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanun ile kurulan Türkiye Turizm Tanıtım ve Geliştirme Ajansı Yönetim Kurulunun asıl ve yedek üyelerini seçmek,
+Madde 0039 :
+1618 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+Geçici Madde 5- Birliğin 2019 yılı Kasım ayında yapılacak olan seçimlerinde 34 üncü maddenin birinci fıkrasının (A) bendinde yer alan, seçimlerin üç yılda bir kasım ayında yapılacağına ilişkin hüküm uygulanmaz.
+Birliğin 2019 yılı Kasım ayında yapılan seçimlerinde seçilen Yönetim, Denetim ve Disiplin Kurulu üyeleri ile Türkiye Turizm Tanıtım ve Geliştirme Ajansı Yönetim Kurulunun asıl ve yedek üyelerinin görev süresi üç yıl olarak uygulanır.
+Madde 0040 :
+21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Hizmetleri Kanununun ek 12 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Amatör sporun desteklenmesi
+Ek Madde 12- Gençlik ve Spor Bakanlığı, Türkiye Futbol Federasyonu ve bağımsız spor federasyonlarına tescil edilmiş olan ve Türkiye'de faaliyette bulunan spor kulüpleri ve sportif alanda faaliyette bulunan sermaye şirketleri tarafından sporculara ödenen ücretlerden tevkif edilerek ilgili vergi dairesine kanuni süresinde beyan edilen ve ödenen gelir vergisinden Gençlik ve Spor Bakanlığının talebi üzerine Hazine ve Maliye Bakanınca uygun görülen pay, Gençlik ve Spor Bakanlığı adına açılacak özel hesaba Hazine ve Maliye Bakanlığınca aktarılır.
+Özel hesaba aktarılan tutarlar aşağıdaki harcamalar dışında kullanılamaz:
+a) Amatör spor dallarında sportif faaliyet gösteren sporculara, bunların çalıştırıcılarına ve diğer spor elemanlarına yapılan ücret ve ücret sayılan ödemeler (Her bir sporcu, çalıştırıcı ve diğer spor elemanları için yıllık olarak yapılacak ödeme, 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 103 üncü maddesinde yazılı tarifenin üçüncü gelir diliminde yer alan ve ilgili yılda ücretler için geçerli olan tutarın üç katını aşamaz.),
+b) Bu fıkranın (a) bendi kapsamındaki sporcu, çalıştırıcılar ve diğer spor elemanlarının, sportif faaliyetlerine ilişkin iaşe, ibate, seyahat, sağlık, eğitim-öğretim harcamaları ile amatör spor dallarına ilişkin hazırlık kampları, müsabaka, malzeme ve ekipman, federasyon vize, lisans, tescil ve katılım harcamaları.
+Özel hesaptan spor kulüpleri ve sportif alanda faaliyette bulunan sermaye şirketlerine aktarılan tutarlar ile bu tutarlardan yapılan harcamalar, gelir ve kurumlar vergisi uygulamalarında gelir, gider, indirim veya maliyet olarak dikkate alınamaz.
+Özel hesaba aktarılan tutarların kullanılması ve denetlenmesi ile maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye Bakanlığı ile Gençlik ve Spor Bakanlığı müştereken yetkilidir.
+Madde 0041 :
+25/3/1987 tarihli ve 3332 sayılı Sermaye Piyasasının Teşviki, Sermayenin Tabana Yaygınlaştırılması Ve Ekonomiyi Düzenlemede Alınacak Tedbirler İle 5422 Sayılı Kurumlar Vergisi Kanunu, 213 Sayılı Vergi Usul Kanunu Ve 3182 Sayılı Bankalar Kanununda Değişiklik Yapılması Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
+Geçici Madde 4-  (1.Fıkra Anayasa Mahkemesinin 12.09.2023 tarih ve 32307 Sayılı Resmi Gazetede Yayımlanan 18.05.2023 tarihli ve E:2020/11; K:2023/98 sayılı kararı ile iptal edilmiştir.)
+(2.Fıkra Anayasa Mahkemesinin 12.09.2023 tarih ve 32307 Sayılı Resmi Gazetede Yayımlanan 18.05.2023 tarihli ve E:2020/11; K:2023/98 sayılı kararı ile iptal edilmiştir.)
+Madde 0042 :
+6802 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+Geçici Madde 3- Bu Kanunun 34 üncü maddesinde yer alan konaklama vergisi oranı 31/12/2020 tarihine kadar % 1 olarak uygulanır.
+Madde 0043 :
+11/7/2019 tarihli ve 7183 sayılı Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanunun 3 üncü maddesinin beşinci fıkrasında yer alan temsilcisi ibareleri Başkanı şeklinde ve temsilcilerinden ibaresi başkanlarından şeklinde değiştirilmiştir.
+Madde 0044 :
+4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin birinci fıkrasına (z) bendinden sonra gelmek üzere aşağıdaki bent eklenmiştir.
+aa)  (Bent Anayasa Mahkemesinin 12.09.2023 tarih ve 32307 Sayılı Resmi Gazetede Yayımlanan 18.05.2023 tarihli ve E:2020/11; K:2023/98 sayılı kararı ile iptal edilmiştir.)
+Madde 0045 :
+4734 sayılı Kanunun geçici 4 üncü maddesinin beşinci fıkrasının ikinci cümlesine yapım işlerinde ibaresinden sonra gelmek üzere ; Devlet Malzeme Ofisi Genel Müdürlüğünün idareler adına gerçekleştireceği taşıt alımı, taşıt kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımlarında (*) ibaresi ve maddeye aşağıdaki fıkra eklenmiştir.
+Beşinci fıkra kapsamında Devlet Malzeme Ofisi Genel Müdürlüğü tarafından yapılacak alımlarda uygulanacak usul ve esaslar Kurum görüşü üzerine Devlet Malzeme Ofisi Genel Müdürlüğü tarafından belirlenir. Bu kapsamda yapılacak alımlarda Kanunun 5 inci maddesinin birinci fıkrasında belirlenen temel ilkelere uyularak, ihaleler en yüksek katılımı sağlayacak şekilde gerçekleştirilir.
+(*) (Üstü Çizili İbare, Anayasa Mahkemesinin 12.09.2023 tarih ve 32307 Sayılı Resmi Gazetede Yayımlanan 18.05.2023 tarihli ve E:2020/11; K:2023/98 sayılı kararı ile iptal edilmiştir.)
+Madde 0046 :
+28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanunun 3 üncü maddesinde yer alan Dış borcun tahsisi tanımına Devlet Su İşleri Genel Müdürlüğüne ibaresinden sonra gelmek üzere , Türkiye Sağlık Enstitüleri Başkanlığına ibaresi eklenmiştir.
+Madde 0047 :
+4749 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+Geçici Madde 31- 5 inci maddede düzenlenen net borç kullanımı tutarı 2019 yılı için, 1/1/2019 tarihinden geçerli olmak üzere, Bakan ve Cumhurbaşkanı tarafından artırılan net borç kullanım tutarına yetmiş milyar Türk lirası ilave edilerek uygulanır.
+Madde 0048 :
+31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa aşağıdaki geçici madde eklenmiştir.
+Geçici Madde 79- 5434 sayılı Kanunun mülga 64 üncü maddesi, bu Kanunun 47 nci maddesinin sekizinci fıkrası ile 2330 sayılı Kanun veya 2330 sayılı Kanun hükümleri uygulanarak aylık bağlanmasını gerektiren kanunlara, 1005 sayılı Kanun, 3713 sayılı Kanunun ek 3 üncü maddesine, 17/7/2004 tarihli ve 5233 sayılı Terör ve Terörle Mücadeleden Doğan Zararların Karşılanması Hakkında Kanuna ve 24/6/2008 tarihli ve 5774 sayılı Başarılı Sporculara Aylık Bağlanması ile Devlet Sporcusu Unvanı Verilmesi Hakkında Kanuna göre aylık bağlanmış olanların kendilerine veya bunlardan ölenlerin hak sahiplerine, bu kapsamda maddenin yürürlük tarihine kadar yapılan ve bu Kanunun 96 ncı maddesinin birinci fıkrasının (b) bendi kapsamında olduğu Kurumca tespit edilen fazla veya yersiz ödemelere ilişkin borç çıkarılmaz, çıkarılmış borçların ödenmemiş olan kısımları terkin edilir, maddenin yayımı tarihinden önce tahsil edilmiş tutarlar iade ve mahsup edilmez.
+2330 sayılı Kanunun 4 üncü maddesinin ikinci fıkrasının üçüncü, dördüncü, beşinci ve altıncı cümlelerine aykırı olacak şekilde ödenen ve bu Kanunun 96 ncı maddesinin birinci fıkrasının (b) bendi kapsamında olduğu Kurumca tespit edilen fazla veya yersiz olarak yapılan ödemeler hakkında da birinci fıkra hükümleri uygulanır.
+Madde 0049 :
+3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanununa aşağıdaki ek madde eklenmiştir.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumuna ilişkin hükümler
+Ek Madde 5- (1) Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumunda Başkan ve üyeler, görevlerinin devamı süresince görevlerini tam bir dikkat, dürüstlük ve tarafsızlık ile yürüteceklerine, ilgili mevzuat hükümlerine aykırı hareket etmeyeceklerine ve ettirmeyeceklerine dair Yargıtay Birinci Başkanlık Kurulu huzurunda yemin eder. Yemin için yapılan başvuru Yargıtay tarafından acele işlerden sayılır. Başkan ve üyeler, yemin etmedikçe göreve başlamış sayılmaz.
+(2) Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumunda Başkan Yardımcısı, Daire Başkanı ve Grup Başkanı kadrolarına atanacaklarda aşağıdaki şartlar aranır:
+a) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılan genel şartları taşımak.
+b) En az dört yıllık yükseköğrenim mezunu olmak.
+c) Kamuda ve/veya sosyal güvenlik kurumlarına tabi olmak kaydıyla uluslararası kuruluşlar ile özel sektörde veya serbest olarak en az beş yıl çalışmış olmak.
+(3) Başkan ve üyeler ile Kurum personeline; 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 11 inci maddesi uyarınca belirlenmiş emsali personele mali ve sosyal haklar kapsamında yapılan ödemeler aynı usul ve esaslar çerçevesinde ödenir. Emsali personele yapılan ödemelerden vergi ve diğer yasal kesintilere tabi olmayanlar bu Kanuna göre de vergi ve diğer kesintilere tabi olmaz. Başkan ve üyeler ile Kurum personeli emeklilik hakları bakımından da emsali olarak belirlenen personel ile denk kabul edilir.
+(4) Başkan ve üyeler ile Kurum personeli, sosyal güvenlik açısından 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı sayılır. 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı iken Başkan ve üyeliğe atananlardan bu görevleri sona erenler veya bu görevlerinden ayrılma isteğinde bulunanların bu görevlerde geçen hizmet süreleri kazanılmış hak aylık, derece ve kademelerinin tespitinde dikkate alınır. Bunlardan bu görevleri sırasında 5510 sayılı Kanunun geçici 4 üncü maddesi kapsamına girenlerin bu görevlerde geçen süreleri makam tazminatı ile temsil tazminatı ödenmesi gereken süre olarak değerlendirilir. Kamu kurum ve kuruluşlarında 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı iken Başkan ve üyeliğe atananların, önceki kurum ve kuruluşları ile ilişiklerinin kesilmesi kendilerine kıdem tazminatı veya iş sonu tazminatı ödenmesini gerektirmez. Bu durumda olanların kıdem tazminatı veya iş sonu tazminatı ödenmesi gereken hizmet süreleri, Başkan ve üyelikte geçen hizmet süreleri ile birleştirilir ve emeklilik ikramiyesi ödenecek süre olarak değerlendirilir.
+(5) Başkan ve üyeliğe atananlardan atama yapılmadan önce sosyal güvenlik yönünden diğer statülere tabi olanların, istekleri hâlinde bu statülere bağlılıkları devam eder ve bunlar hakkında dördüncü fıkra hükmü uygulanmaz.
+(6) Kurum, 375 sayılı Kanun Hükmünde Kararnamenin ek 25 inci maddesi hükümlerine göre personel görevlendirebilir.
+(7) Kurumda, 375 sayılı Kanun Hükmünde Kararnamenin ek 6 ncı maddesinde belirtilen usul ve esaslar çerçevesinde sözleşmeli olarak bilişim personeli çalıştırılabilir. Söz konusu maddenin üçüncü fıkrasının (a) ve (b) bentlerinde yer alan şartlar Kurum için aranmaz.
+(8) Başkan ve üyeler ile Kurum personelinin görevleriyle bağlantılı olarak işledikleri iddia edilen suçlara ilişkin soruşturmalar için izin verme yetkisi; Başkan ve üyeler için ilişkili Bakana, Kurum personeli için ise Başkana aittir. Başkan ve üyeler ile Kurum personelinin görevleri ile ilgili olarak iştirak hâlinde işledikleri iddia edilen suçlara ilişkin soruşturmalarda Kurum personeli hakkında soruşturma izni verme yetkisi ilişkili Bakana aittir. Başkan ve üyeler ile Kurum personelinin, görevden ayrılmış olsalar dahi, görevleriyle bağlantılı olarak işledikleri iddia edilen suçlardan dolayı başlatılan soruşturma ve kovuşturmalar, ilgili üye veya personelin talebi hâlinde, Kurum tarafından görevlendirilecek bir avukat tarafından takip edilir. Söz konusu davalara ilişkin dava giderleri ile Türkiye Barolar Birliğince açıklanan asgari ücret tarifesinde belirlenen avukatlık ücretinin onbeş katını aşmamak üzere belirlenen avukatlık ücreti Kurum bütçesinden karşılanır. Başkan ve üyeler ile Kurum personelinin, kovuşturma sonucunda mahkumiyetine karar verilmesi ve bu kararın kesinleşmesi hâlinde, Kurum bütçesinden karşılanan avukatlık ücreti, ilgili Başkan ve üyeler ile Kurum personelinden genel hükümlere göre tahsil olunur.
+(9) Başkan ve üyeler, 19/4/1990 tarihli ve 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanununa tabidir.
+(10) Başkan ve üyeler, görevlerinden ayrılmalarını izleyen iki yıl içinde Kurumun denetlemekle ve düzenlemekle yetkili olduğu sektör ve alandaki özel kuruluşlarda görev alamaz. Bu fıkra hükmüne uymayanlar hakkında 2/10/1981 tarihli ve 2531 sayılı Kamu Görevlerinden Ayrılanların Yapamayacakları İşler Hakkında Kanunun 4 üncü maddesi hükmü uygulanır.
+(11) Kurumun malları, varlıkları, hak ve alacakları Devlet malı hükmündedir, haczedilemez ve rehnedilemez.
+(12) Aşağıdaki gelirler Kurumun gelirleri arasında yer alır:
+a) Türkiye'de kurulmuş sigorta, reasürans ve emeklilik şirketleri ile yurt dışında kurulmuş sigorta, reasürans ve emeklilik şirketlerinin Türkiye'deki teşkilatlarından ve sigorta ve reasürans brokerlerinden tahsil edilen katılma payları.
+b) Sigorta acenteleri ve sigorta eksperlerinden Türkiye Odalar ve Borsalar Birliği tarafından levha kayıt ücreti veya aidat olarak tahsil edilen tutarlardan indirilmek suretiyle Kuruma aktarılan katılma payları.
+c) Kurumca belirlenen tescil, izin ve ruhsat hizmet bedelleri.
+(13) Onikinci fıkra uyarınca katılma payı olarak tahsil olunacak tutarlar, söz konusu fıkranın (a) bendinde belirtilen kuruluşların bir önceki yıl bilanço toplamlarının onbinde beşini, (b) bendinde belirtilen tutarın ise beşte birini geçemez.
+(14) Kurum kadrolarına atanan ve haklarında 375 sayılı Kanun Hükmünde Kararnamenin geçici 12 nci ve geçici 16 ncı maddeleri hükümleri uygulananların mali hakları hususunda söz konusu hükümlerin uygulanmasına devam olunur.
+Madde 0050 :
+8/11/2016 tarihli ve 6755 sayılı Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 37 nci maddesine aşağıdaki fıkra eklenmiştir.
+(3) Terör örgütlerine veya Milli Güvenlik Kurulunca (*) Devletin milli güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti veya iltisakı yahut bunlarla irtibatı olan ve bu nedenle kamu görevinden çıkarılmış olan kişilerden, adli veya idari soruşturma veya kovuşturması devam edenlerin sosyal güvenlik haklarına ilişkin başvuruları hakkında 31/10/2019 tarihine kadar karar alan, bu kararları yerine getiren veya işlem yapmayan kamu görevlilerinin bu karar ve fiilleri nedeniyle hukuki, (*), idari, mali (*) ve cezai sorumluluğu doğmaz.
+(*) (Üstü Çizili İbareler, Anayasa Mahkemesinin 23.09.2021 tarih ve 31607 Sayılı Resmi Gazetede Yayımlanan 03.06.2021 tarihli ve E:2020/18 - K:2021/38 sayılı kararı ile iptal edilmiştir.)
+Madde 0051 :
+27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 32 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+Ek Madde 32- Vergi Müfettişleri, en az dört yıllık yükseköğretim veren hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler fakülteleri ile yönetmelikle belirlenen yükseköğretim kurumlarından veya bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yükseköğretim kurumlarından mezun olup, sınavın yapıldığı tarih itibarıyla otuz beş yaşını doldurmamış olan ve yapılacak özel yarışma sınavını kazananlar arasından, Bakan onayı ile mesleğe Vergi Müfettiş Yardımcısı olarak atanır.
+Vergi Müfettiş Yardımcıları, fiilen üç yıl çalışmak ve yardımcılık döneminde performans değerlendirmesine göre başarılı olmak şartıyla yapılacak yeterlik sınavına girmeye hak kazanırlar. Yeterlik sınav konuları ile sınava ilişkin diğer usul ve esaslar yönetmelikle düzenlenir. Yapılacak yeterlik sınavında başarılı sayılabilmek için yeterlik sınavında alınan puanın yüz puan üzerinden en az altmış beş puan olması şarttır. Yeterlik sınavında başarılı olanlar Vergi Müfettişi olarak atanırlar. Yeterlik sınavında başarılı olamayanlar ise Hazine ve Maliye Bakanlığında derecelerine uygun memur kadrolarına atanırlar.
+Yardımcılık dönemi dahil Vergi Müfettişi olarak en az on yıl çalışan ve Vergi Müfettişliğine atanma tarihi sonrasında en az altı yıl performans değerlendirmesinde başarılı olanlar, Vergi Başmüfettişi kadrolarına atanırlar.
+Performans değerlendirme sistemi, Vergi Müfettişlerinin mesleki yeterlik ve yetkinliklerinin objektif, nesnel ve mukayeseli bir şekilde değerlendirilmesi için görev yaptıkları süre içindeki sınavlarda elde ettikleri başarı derecesi, görev yaptıkları başkanlıkların Vergi Müfettişlerinin iş performansına ilişkin değerlendirmeleri, düzenledikleri vergi inceleme raporları hakkında rapor değerlendirme komisyonları tarafından yapılan değerlendirmeler, düzenledikleri diğer inceleme, araştırma, görüş, denetim ve soruşturma raporları hakkında yapılan değerlendirmeler, lisansüstü eğitim düzeyleri ve benzeri kriterler esas alınarak oluşturulur. Vergi Müfettişlerinin performans değerlendirmesi takvim yılı itibarıyla yapılır.
+Performans değerlendirme sisteminin oluşturulması ve yönetimi ile Vergi Müfettişlerinin görev, yetki ve sorumlulukları, mesleğe alınmaları, yetiştirilmeleri, yeterlikleri, yükselmeleri, görevlendirilmeleri ve yer değiştirmelerine ilişkin usul ve esaslar yönetmelikle belirlenir.
+Madde 0052 : Yürürlük
+(1) Bu Kanunun;
+a) 1 inci ila 7 nci maddeleri bu Kanunun yayım tarihini izleyen üçüncü ay başında,
+b) 9 uncu ve 42 nci maddeleri 1/1/2023 (1)(2)(3) tarihinde,
+c) 10 uncu ve 15 inci maddeleri 1/1/2020 tarihinden itibaren elde edilen gelirlere uygulanmak üzere yayımı tarihinde,
+ç) 11 inci ve 12 nci maddeleri bu Kanunun yayım tarihini izleyen ay başında,
+d) 13 üncü ve 14 üncü maddeleri 1/1/2020 tarihinden itibaren başlayan vergilendirme dönemi gelir ve kazançlarına uygulanmak üzere yayımı tarihinde,
+e) 17 nci maddesi 1/1/2019 tarihinden itibaren elde edilen gelirlere uygulanmak üzere yayımı tarihinde,
+f) 18 inci maddesi 1/1/2020 tarihinden itibaren verilmesi gereken yıllık gelir ve kurumlar vergisi beyannamelerinde uygulanmak üzere yayımı tarihinde,
+g) 21 inci maddesinin 193 sayılı Kanunun geçici 72 nci maddesinde yer alan 31/12/2019 ibaresini 31/12/2023 şeklinde değiştiren hükmü yayımı tarihinde, diğer hükümleri 1/1/2020 tarihinden itibaren elde edilen gelirlere uygulanmak üzere yayımı tarihinde,
+ğ) 23 üncü, 25 inci, 27 nci ve 28 inci maddeleri, 32 nci maddesiyle 1319 sayılı Kanuna eklenen 44 üncü maddenin dördüncü fıkrası ve 40 ıncı maddesi 1/1/2020 tarihinde,
+h) Diğer hükümleri yayımı tarihinde,
+yürürlüğe girer.
+(1) 1/4/2020 İbaresi 26.03.2020 Tarih ve 31080 Sayılı Resmi Gazetede Yayımlanan 7226 Sayılı Kanunun 51. Maddesi ile 1/1/2021 şeklinde değişmiştir.
+(2) 1/1/2021 İbaresi 17.11.2020 Tarih ve 31307 Sayılı Resmi Gazetede Yayımlanan 7256 Sayılı Kanunun 42. Maddesi ile 1/1/2022 şeklinde değişmiştir.
+(3) 1/1/2022 İbaresi 26.10.2021 Tarih ve 31640 Sayılı Resmi Gazetede Yayımlanan 7338 Sayılı Kanunun 61. Maddesi ile 1/1/2023 şeklinde değişmiştir.
+Madde 0053 : Yürütme
+(1) Bu Kanun hükümlerini Cumhurbaşkanı yürütür.
+Yükleyen: yasinuzunoglu

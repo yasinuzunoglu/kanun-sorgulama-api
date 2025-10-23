@@ -1,0 +1,316 @@
+5147 sayılı Entegre Devre Topoğrafyalarının Korunması Hakkında Kanun
+Yayımlandığı Resmî Gazete Tarihi: 30.04.2004
+Yayımlandığı Resmî Gazete Sayısı: 25448
+Kabul Tarihi	22.04.2004
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Genel Gerekçe İçin Tıklayın
+Madde 0001: Amaç ve kapsam
+Bu Kanunun amacı, bu Kanun hükümlerine uygun entegre devre topoğrafyalarının korunmasını, bu alanda rekabet ortamının oluşturulmasını ve bu suretle sanayinin gelişmesini sağlamaktır.
+Bu Kanun, tescilli entegre devre topoğrafyalarının korunmaları ile ilgili esasları, kuralları ve şartları kapsar. Bu Kanun kapsamında entegre devre topoğrafyalarına sağlanan koruma, hak sahiplerinin diğer kanunlarla getirilen korumalardan yararlanmalarına engel teşkil etmez.
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Madde 0002: Tanımlar
+Bu Kanunda geçen;
+Entegre devre: Elektronik bir işlevi veya bunun gibi diğer işlevleri yerine getirmek üzere tasarlanmış, en az bir aktif elemanı olan ve ara bağlantılarından bir kısmının ya da tümünün bir parça malzeme içerisinde ve/veya üzerinde bir araya getirilmiş ara veya son formdaki bir ürünü,
+Entegre devre topoğrafyası: Entegre devreyi oluşturan tabakaların üç boyutlu dizilimini gösteren, üretim amacıyla hazırlanmış ve herhangi bir formatta sabitlenmiş görüntüler dizisi olup, her görüntü entegre devrenin üretiminin herhangi bir aşamasındaki yüzeyinin tamamının veya bir kısmının görünümünü,
+Kurum: Türk Patent ve Marka Kurumunu, (1)
+Sicil: Entegre Devre Topoğrafyaları Sicilini,
+Lisans: Kullanım hakkını,
+Lisans sözleşmesi: Entegre devre topoğrafyası hakkı sahibinin entegre devre topoğrafyasının kullanım hakkını üçüncü kişilere verdiği sözleşmeyi,
+Bülten: Sicile kaydedilen entegre devre topoğrafyalarının yayımlandığı bülteni,
+Yeniden İnceleme ve Değerlendirme Kurulu: Sınai mülkiyet haklarının tescil işlemleri ile ilgili Kurumun (1) almış olduğu kararlara karşı başvuru sahibi veya üçüncü kişiler tarafından yapılacak itirazları inceleyen ve değerlendiren Kurulu,
+Mahkeme: İhtisas mahkemelerini,
+İfade eder. (1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle birinci fıkrasının (c) bendinde yer alan Enstitü: Türk Patent Enstitüsünü, ibaresi Kurum: Türk Patent ve Marka Kurumunu,, (h) bendinde yer alan Enstitünün ibaresi Kurumun şeklinde değişmiştir.
+İKİNCİ BÖLÜM
+Korumadan Yararlanacak Kişiler, Korumanın Konusu, Şartları ve Süresi
+Madde 0003: Korumadan yararlanacak kişiler
+Bu Kanun ile sağlanan korumadan; Türkiye Cumhuriyeti vatandaşları, Türkiye Cumhuriyeti sınırları içinde ikametgahı olan ve sınai veya ticari faaliyette bulunan gerçek ve tüzel kişiler ile ilgili uluslararası anlaşmaların hükümleri dahilinde başvuru hakkına sahip kişiler yararlanır.
+Birinci fıkra hükmü kapsamı dışında kalmasına rağmen, Türkiye Cumhuriyeti uyruğundaki kişilere kanunen veya fiilen entegre devre topoğrafyası koruması tanıyan devletlerin uyruğundaki gerçek ve tüzel kişiler de karşılıklılık ilkesi gözetilerek Türkiye de bu haktan yararlanırlar.
+İKİNCİ BÖLÜM
+Korumadan Yararlanacak Kişiler, Korumanın Konusu, Şartları ve Süresi
+Madde 0004: Korumanın konusu
+Orijinal niteliğe sahip entegre devre topoğrafyaları, tescil belgesi verilerek korunur. Koruma; entegre devre topoğrafyasının dayandığı içerik, işlem süreci, sistem, teknik veya topoğrafyanın kendisi dışında topoğrafyada sabitlenmiş bilgiye uygulanmaz.
+Bu Kanun kapsamındaki korumadan yararlanma, yapısında koruma altına alınmış bir entegre devre topoğrafyası bulunduran entegre devrenin, herhangi bir üründe kullanılıp kullanılmamasına bağlı değildir.
+İKİNCİ BÖLÜM
+Korumadan Yararlanacak Kişiler, Korumanın Konusu, Şartları ve Süresi
+Madde 0005: Orijinallik
+Bir entegre devre topoğrafyası, tasarlayıcısının kendi fikri çabası sonucu ortaya çıkmış ve tasarlama sırasında entegre devre üreticileri ve entegre devre topoğrafyası tasarlayıcıları arasında bilinmiyorsa orijinal sayılır.
+Bilinen elemanların ve ara bağlantıların düzenlenmesinden oluşan bir entegre devre topoğrafyası, bütün olarak ele alındığında, bir araya getirilmiş şekli bakımından orijinallik şartını taşıyorsa korumadan yararlanır.
+İKİNCİ BÖLÜM
+Korumadan Yararlanacak Kişiler, Korumanın Konusu, Şartları ve Süresi
+Madde 0006: Korumanın başlangıcı ve süresi
+Bu Kanuna göre entegre devre topoğrafyasına sağlanan korumanın başlangıcı; entegre devre topoğrafyasının, hak sahibi tarafından veya onun izniyle üçüncü bir kişi tarafından, yurt içinde veya yurt dışında ilk kez ticari açıdan piyasaya sürüldüğü tarihten itibaren iki yıl içinde tescil başvurusunun da yapılmış olması kaydıyla; sözü edilen piyasaya sürülme tarihi veya ticari açıdan piyasaya sürümün olmadığı hallerde, tescil başvurusunun yapıldığı tarihtir.
+Koruma süresi, birinci fıkrada belirtilen başlangıç tarihinden itibaren on yıl olup, bu süre onuncu takvim yılının bitiminde sona erer.
+Entegre devre topoğrafyası gizlilik gerektiren haller dışında, ticari olarak kullanılmamışsa ve tasarlandığı tarihten itibaren onbeş yıl içerisinde Kuruma (1) tescil için başvurulmamışsa entegre devre topoğrafyasını koruma hakkı talep edilemez.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitüye ibaresi Kuruma şeklinde değişmiştir.
+ÜÇÜNCÜ BÖLÜM
+Hak Sahipliği, Hak Sahibinin Yetkileri ve Koruma Hakkının Sınırlandırılması
+Madde 0007: Hak sahipliği
+Entegre devre topoğrafyasını koruma hakkı, tasarlayıcısına veya onun hukuki haleflerine aittir.
+Entegre devre topoğrafyasının birden çok kişi tarafından tasarlandığı durumlarda, aralarında aksine bir sözleşme yoksa, koruma hakkı bu kişiler tarafından müştereken kullanılır.
+ÜÇÜNCÜ BÖLÜM
+Hak Sahipliği, Hak Sahibinin Yetkileri ve Koruma Hakkının Sınırlandırılması
+Madde 0008: Hizmet ilişkisinde hak sahipliği
+Aralarındaki sözleşmede aksine bir hüküm yoksa; memur, hizmetli ve işçilerin işlerini görürken tasarladıkları entegre devre topoğrafyasının koruma hakkı işverenlere aittir.
+Sözleşmesi gerektirmediği halde memur, hizmetli veya işçinin; işyerindeki bilgiler ya da araçlardan faydalanarak, bir entegre devre topoğrafyası yapması durumunda, yapılan entegre devre topoğrafyasının koruma hakkı işverenlere ait olur. Bu durumda memur, hizmetli veya işçiye yaptığı entegre devre topoğrafyasının önemi göz önüne alınarak, tespit edilecek bir bedel ödenir. Tarafların bedel konusunda anlaşamamaları halinde, söz konusu bedel mahkemece belirlenir.
+ÜÇÜNCÜ BÖLÜM
+Hak Sahipliği, Hak Sahibinin Yetkileri ve Koruma Hakkının Sınırlandırılması
+Madde 0009: Üniversite mensuplarının hak sahipliği
+Üniversitelere bağlı fakülte ve yüksek okullarda bilimsel çalışma yapmakta olan öğretim elemanlarınca tasarlanan entegre devre topoğrafyaları üzerindeki hak, öğretim elemanlarına aittir.
+Öğretim kurumu, entegre devre topoğrafyasıyla sonuçlanan araştırmalar için özel olarak belli araç ve gereçleri sağlamak suretiyle harcamalarda bulunmuşsa, öğretim elemanları öğretim kurumuna entegre devre topoğrafyasının değerlendirildiğini yazı ile bildirmekle, talep halinde, entegre devre topoğrafyasının değerlendirme şekli ve elde edilen kazanç miktarı hakkında bilgi vermekle yükümlüdür. Öğretim kurumu, kendisine yapılan yazılı bildirim tarihinden itibaren üç ay içinde elde edilen kazançtan uygun bir miktarın verilmesini talep edebilir. Ancak, talep edilecek miktar öğretim kurumu tarafından yapılan harcamaları aşamaz.
+ÜÇÜNCÜ BÖLÜM
+Hak Sahipliği, Hak Sahibinin Yetkileri ve Koruma Hakkının Sınırlandırılması
+Madde 0010: Hizmet sözleşmesi dışında kalan sözleşmelerde hak sahipliği
+Hizmet sözleşmesi dışında kalan iş görme sözleşmeleri çerçevesinde tasarlanan entegre devre topoğrafyalarının hak sahibi, aksine bir anlaşma yoksa işi veren kişidir.
+ÜÇÜNCÜ BÖLÜM
+Hak Sahipliği, Hak Sahibinin Yetkileri ve Koruma Hakkının Sınırlandırılması
+Madde 0011: Entegre devre topoğrafyası hak sahibinin yetkileri
+Entegre devre topoğrafyası hak sahibi, izni dışında yapılan aşağıdaki fiilleri önleme konusunda inhisari yetkilere sahiptir:
+Orijinal olma şartlarını haiz bulunmayan parçaların çoğaltılması hariç olmak üzere, koruma altındaki entegre devre topoğrafyasının bütününün veya bir kısmının, bir entegre devre içine alınması ya da bunun dışında herhangi bir şekilde çoğaltılması.
+Korunan bir entegre devre topoğrafyasının, korunan entegre devre topoğrafyasını içeren bir entegre devrenin ya da yasal olmayan bir biçimde çoğaltılmış entegre devre topoğrafyasını içeren ürünün ithali, satışı veya ticari amaçlı dağıtılması.
+ÜÇÜNCÜ BÖLÜM
+Hak Sahipliği, Hak Sahibinin Yetkileri ve Koruma Hakkının Sınırlandırılması
+Madde 0012: Koruma hakkının sınırlandırıldığı durumlar
+Aşağıda sayılan fiiller entegre devre topoğrafyası koruma hakkı kapsamı dışındadır:
+Koruma altındaki entegre devre topoğrafyasının ticari olmayan kişisel amaçlar için veya yalnızca değerlendirme, analiz, araştırma ya da eğitim amaçları için çoğaltılması.
+(a) bendinde belirtilen analiz ve değerlendirme sonucu ortaya çıkan ve orijinal olan entegre devre topoğrafyasının 11 inci maddedeki fiillere konu edilmesi.
+Korunan entegre devre topoğrafyasının veya bu entegre devre topoğrafyasını üzerinde bulunduran entegre devrenin, hak sahibi tarafından veya onun onayı ile yurt içinde veya yurt dışında piyasaya sürülmesinden sonra, söz konusu entegre devre topoğrafyası veya entegre devrenin ithalatı, satılması veya ticari amaçlı dağıtımı.
+11 inci maddenin (b) bendinde belirtilen fiillerin, bu tür bir fiili gerçekleştiren veya gerçekleştirilmesini isteyen şahsın, söz konusu entegre devreyi ya da bu entegre devre üzerinde kullanılan herhangi bir entegre devre topoğrafyasını edinirken, bunun kanunlara aykırı tarzda çoğaltılmış bir entegre devre ya da entegre devre topoğrafyası olduğunu bilmediği ya da bilmesinin mümkün olmadığı ancak, bu kişinin entegre devre ya da entegre devre topoğrafyalarının kanunlara aykırı tarzda çoğaltılmış olduğunu fark ettiği andan sonra, yalnızca o zamana kadar elinde tuttuğu ya da sipariş ettiği mallar üzerinden 11 inci maddenin (b) bendinde belirtilen fiilleri gerçekleştirmek ve hak sahibine bu entegre devre ya da entegre devre topoğrafyaları ile ilgili olarak makul bir bedel ödemek şartıyla işlenmesi.
+Üçüncü bir kişi tarafından bağımsız olarak tasarlanmış orijinal ve birebir aynı olan bir entegre devre topoğrafyasına ilişkin olarak 11 inci maddenin (b) bendindeki fiillerden herhangi birinin gerçekleştirilmesi.
+DÖRDÜNCÜ BÖLÜM
+Başvuru Şartları ve Tescil
+Madde 0013: Tescil mercii
+Entegre devre topoğrafyalarının tescilinde yetkili kuruluş, Kurumdur. (1) Tescil başvuruları yazılı olarak ve her entegre devre topoğrafyası için ayrı yapılır.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitüdür. İbaresi Kurumdur. şeklinde değişmiştir.
+DÖRDÜNCÜ BÖLÜM
+Başvuru Şartları ve Tescil
+Madde 0014: Başvuru şartları
+Entegre devre topoğrafyası tescil başvuru dilekçesi aşağıdaki bilgi ve belgeleri ihtiva eder:
+Başvuru sahibinin adı ve adresi.
+Entegre devre topoğrafyası hakkında özet bilgi.
+Başvuru ücretinin ödendiğine dair belge.
+Entegre devre topoğrafyasının ilk ticari kullanım tarihi veya böyle bir kullanımın gerçekleşmediğine dair beyan.
+7, 8, 9 ve 10 uncu maddelere göre hak sahipliğinin ne şekilde elde edildiğinin beyanı.
+Başvuru vekil aracılığı ile yapılıyorsa vekaletname.
+(Bent 03.02.2021 tarih ve 31384 sayılı Resmi Gazetede yayımlanan 7263 Sayılı Kanunun 16. Maddesi ile Yürürlükten Kaldırılmıştır.)
+Entegre devrenin yerine getirdiği elektronik işlevleri tanımlayan bilgileri de içeren entegre devre topoğrafyası kopya veya çizimleri.
+Ancak, ibraz edilen kopya veya çizimlerin entegre devre topoğrafyasının tanınmasına yeterli olması durumunda, entegre devrenin üretimiyle ilgili parçalara ait kopya veya çizimler verilmeyebilir.
+Başvuruya ilişkin usul ve esaslar yönetmelikle düzenlenir.
+DÖRDÜNCÜ BÖLÜM
+Başvuru Şartları ve Tescil
+Madde 0015: Şekli inceleme ve başvuru tarihinin kesinleşmesi
+Başvurunun 14 üncü maddedeki koşullara ve yönetmeliğe uygun bir şekilde yapılmadığı durumlarda; Kurum (1) başvuru sahibine bildirimde bulunarak eksiklikleri gidermesi için tebliğ tarihinden itibaren iki aylık süre verir.
+Ancak;
+Başvuru dilekçesi,
+Başvuru sahibinin kimliğine ilişkin bilgiler,
+Entegre devre topoğrafyasının kopyaları ya da çizimleri,
+Başvuru sırasında verilmiş ise, başvuru Kuruma (1) verildiği tarih itibarıyla kesinleşir.
+Başvurunun Kuruma (1) verildiği tarihte, ikinci fıkrada sayılan koşullarda eksiklik olması halinde başvuru, eksikliklerin giderildiği tarih itibarıyla kesinleşir.
+Eksiklikler verilen süre içerisinde giderilmediği takdirde, başvuru yapılmamış sayılır.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle birinci fıkrasında yer alan Enstitü ibaresi Kurum, ikinci ve üçüncü fıkralarında yer alan Enstitüye ibareleri Kuruma şeklinde değişmiştir.
+DÖRDÜNCÜ BÖLÜM
+Başvuru Şartları ve Tescil
+Madde 0016: Tescil ve yayımlama
+Başvurunun kesinleşmesiyle Kurum (1); başvuruyu, başvuru dilekçesinde belirtilen bilgilerin doğruluğunu, başvuru yapanın başvuru yapma hakkına sahip olup olmadığını, entegre devre topoğrafyasının orijinal olup olmadığını incelemeksizin Sicile kaydeder.
+Sicil alenidir. Ücretin ödenmesi koşuluyla sicil örneği alınabilir. Ücretler, Kurum (1) tarafından yayımlanacak tebliğ ile belirlenir.
+Sicile kaydı yapılmış entegre devre topoğrafyası, Bültende yayımlanır.
+Sicilde yer alacak bilgiler yönetmelikle belirlenir.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitü İbaresi Kurum şeklinde değişmiştir.
+BEŞİNCİ BÖLÜM
+Devir, İntikal, Rehin, Haciz ve Lisans
+Madde 0017: Devir, intikal, rehin ve haciz
+Entegre devre topoğrafyası başvurusu veya tescilinden doğan haklar başkasına devredilebilir ve miras yoluyla intikal eder. Bu haklar üzerinde ölüme bağlı tasarrufların yapılması mümkündür.
+Başvuru ve tescilden doğan hak, kanuni veya akdi rehne ve hacze konu olabilir. Bu durumda taraflardan birinin talebi üzerine ilgili haklar Sicile kaydedilir ve Bültende yayımlanır. Rehin hakkı ve haciz bakımından 4721 sayılı Türk Medeni Kanunu ile 2004 sayılı İcra ve İflas Kanununun ilgili hükümleri uygulanır.
+Başvuru ve tescilden doğan hak üzerinde yapılacak sağlararası işlemler yazılı şekle tabidir.
+Başvuru ve tescilden doğan entegre devre topoğrafyası hakkının devri veya miras yolu ile intikali, tebliğde öngörülen ücretin ödenmesi ile Sicile kaydedilir ve Bültende yayımlanır. Yayım tarihi üçüncü şahıslara karşı hüküm ifade etme tarihidir.
+BEŞİNCİ BÖLÜM
+Devir, İntikal, Rehin, Haciz ve Lisans
+Madde 0018: Lisans
+Başvuru ve tescilden doğan hakla ilgili olarak lisans sözleşmesi yapılabilir. Taraflardan birinin talebi üzerine lisans sözleşmesi Sicile kayıt ve ilan edilir. Kurum (1), ibraz edilen sözleşmeye ait gizli bilgileri dosyalayarak saklar. Lisans sözleşmesi Sicile kaydedilmediği sürece üçüncü kişilere karşı ileri sürülemez.
+Lisans, inhisari lisans veya inhisari olmayan lisans şeklinde verilebilir. Aksi sözleşmede kararlaştırılmamışsa lisans inhisari değildir. Lisans veren, entegre devre topoğrafyasını kendi kullanabileceği gibi, üçüncü kişilere aynı entegre devre topoğrafyasına ilişkin başka lisanslar da verebilir.
+İnhisari lisans söz konusu olduğu zaman, lisans veren başkasına lisans veremez ve hakkını açıkça saklı tutmadıkça, kendisi de entegre devre topoğrafyasını kullanamaz.
+Aksi sözleşmede kararlaştırılmamışsa, lisans alanlar, sözleşmeden doğan haklarını üçüncü kişilere devredemezler ve alt lisans veremezler.
+Aksi sözleşmede kararlaştırılmamışsa, inhisari lisansa sahip olan kişi, üçüncü bir kişi tarafından, entegre devre topoğrafyası hakkı sahibinin tescilden doğan haklarına tecavüz edilmesi durumunda, entegre devre topoğrafyası hakkı sahibinin bu Kanun uyarınca açabileceği davaları, kendi adına açabilir. İnhisari olmayan lisans sahiplerinin dava açma hakları yoktur.
+Entegre devre topoğrafyası hakkına tecavüz dolayısıyla dava açma hakkı olmayan bir lisans alan, noter vasıtasıyla yapacağı bir bildirim ile dava açmasını entegre devre topoğrafyası hakkı sahibinden isteyebilir. Entegre devre topoğrafyası hakkı sahibinin, bu talebi kabul etmemesi veya bildirimin alındığı tarihten itibaren üç ay içerisinde dava açmaması halinde lisans alan, yaptığı bildirimi de ekleyerek kendi adına dava açabilir. Lisans alan, dava açtığı takdirde, dava açtığını entegre devre topoğrafyası hakkı sahibine bildirmekle yükümlüdür. Lisans alan, ciddi bir zarar tehlikesi karşısında ve üç aylık sürenin geçmesinden önce ihtiyati tedbire karar verilmesini mahkemeden talep edebilir.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitü İbaresi Kurum şeklinde değişmiştir.
+ALTINCI BÖLÜM
+Hükümsüzlük Halleri, Hakkın Sona Ermesi ve İşlem Yapma Yetkisi Olanlar
+Madde 0019: Hükümsüzlük talebi ve hükümsüzlük halleri
+Aşağıdaki hallerde entegre devre topoğrafyası hakkının hükümsüz sayılmasına, tüketici dernekleri, 8.3.1950 tarihli ve 5590 sayılı Kanun ile 17.7.1964 tarihli ve 507 sayılı Kanuna tabi kuruluşlar ve diğer menfaati olan kişilerin talebi üzerine mahkemece karar verilir:
+Entegre devre topoğrafyasının 4 üncü ve 5 inci maddelerde belirtilen koruma şartlarını haiz olmadığı ispat edilmişse.
+Entegre devre topoğrafyası hak sahipliğinin başka kişi veya kişilere ait olduğu ispat edilmişse.
+Entegre devre topoğrafyası tescil başvurusunun yapılmasından önce entegre devre topoğrafyasının yurt içinde veya yurt dışında ticari kullanımı durumunda, söz konusu başvurunun, 6 ncı maddenin birinci fıkrasında belirtilen süre içinde yapılmadığı ispat edilirse.
+Hükümsüzlük nedenleri entegre devre topoğrafyasının bir bölümüne ilişkin bulunuyorsa, sadece ilgili bölümün hükümsüzlüğüne karar verilir.
+Hükümsüzlük, karşı dava olarak da ileri sürülebilir.
+Mahkeme gerek dava açıldığında, gerek kararın kesinleşmesi halinde durumu Kuruma (1) bildirir. Kurum (1) duyuru ve kararı en kısa sürede Sicile kaydeder ve Bültende yayımlar.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitü İbaresi Kurum ve Enstitüye İbaresi Kuruma şeklinde değişmiştir.
+ALTINCI BÖLÜM
+Hükümsüzlük Halleri, Hakkın Sona Ermesi ve İşlem Yapma Yetkisi Olanlar
+Madde 0020: Hükümsüzlüğün etkisi
+Entegre devre topoğrafyasının hükümsüzlüğüne karar verilmesi halinde, karar geçmişe etkili sonuçlar doğurur.
+Entegre devre topoğrafyası hakkı sahibinin kötüniyetli olarak hareket etmesinden kaynaklanan zararın giderilmesine ilişkin tazminat talepleri saklı kalmak üzere, hükümsüzlüğün geriye dönük etkisi aşağıdaki durumları etkilemez:
+Entegre devre topoğrafyasının hükümsüz sayılmasından önce, bir entegre devre topoğrafyasına tecavüz sebebiyle verilen hukuken kesinleşmiş ve uygulanmış kararlar.
+Entegre devre topoğrafyasının hükümsüzlüğüne karar verilmeden önce, yapılmış ve uygulanmış sözleşmeler. Ancak, hal ve şartlara göre, haklı sebepler ve hakkaniyet ilkesi göz önünde bulundurularak sözleşme uyarınca ödenmiş bedelin kısmen veya tamamen iadesi mümkündür.
+Entegre devre topoğrafyasının hükümsüzlüğüne ilişkin kesinleşmiş karar, herkese karşı hüküm doğurur.
+ALTINCI BÖLÜM
+Hükümsüzlük Halleri, Hakkın Sona Ermesi ve İşlem Yapma Yetkisi Olanlar
+Madde 0021: Hakkın sona erme sebepleri
+Entegre devre topoğrafyası koruma hakkı; koruma süresinin dolması veya entegre devre topoğrafyası hakkı sahibinin bu hakkından vazgeçmesi hallerinden birinin gerçekleşmesi ile sona erer.
+Entegre devre topoğrafyası koruma hakkının sona ermesi halinde, sona erme sebebinin gerçekleşmiş olduğu andan itibaren hakkın konusu kamu malı sayılır. Bu husus Kurum (1) tarafından Bültende ilan edilir.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitü İbaresi Kurum şeklinde değişmiştir.
+ALTINCI BÖLÜM
+Hükümsüzlük Halleri, Hakkın Sona Ermesi ve İşlem Yapma Yetkisi Olanlar
+Madde 0022: Koruma hakkından vazgeçme
+Entegre devre topoğrafyası koruma hakkı sahibi, başvuru veya tescilden doğan hakkından vazgeçebilir.
+Vazgeçme isteğinin yazılı olarak Kuruma (1) bildirilmesi gerekir. Vazgeçme, Sicile kayıt tarihi itibarıyla hüküm doğurur.
+Sicile kayıt edilmiş hakların ve lisansların sahiplerinin izni olmadıkça, hak sahibi hakkından vazgeçemez.
+Entegre devre topoğrafyası koruma hakkı üzerinde, üçüncü bir kişi tarafından hak sahipliği iddia edilmekte ise onun izni olmadıkça, entegre devre topoğrafyası koruma hakkından vazgeçilemez.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitüye İbaresi Kuruma şeklinde değişmiştir.
+ALTINCI BÖLÜM
+Hükümsüzlük Halleri, Hakkın Sona Ermesi ve İşlem Yapma Yetkisi Olanlar
+Madde 0023: Kurum (1) nezdinde işlem yapma yetkisi olan kişiler
+Entegre devre topoğrafyası başvurusu yapan gerçek ve tüzel kişiler ile Sicile kayıtlı patent vekilleri Kurum (1) nezdinde işlem yapabilir.
+Tüzel kişiler, yetkili organları tarafından tayin edilen kişi veya kişilerce temsil edilirler.
+İkametgahı yurt dışında bulunan kişiler ancak, Sicile kayıtlı patent vekilleri vasıtasıyla temsil edilirler.
+Vekil tayin edilmesi halinde, tüm işlemler vekil vasıtasıyla yapılır. Vekile yapılan tebligat asile yapılmış sayılır.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Madde Başlığında ve birinci fıkrada ki Enstitü İbaresi Kurum şeklinde değişmiştir.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0024: Hakka tecavüz sayılan fiiller
+12 nci maddede sayılan fiiller hariç olmak üzere, 11 inci maddenin (a) ve (b) bentlerinde sayılan fiillerin işlenmesi durumunda, bu fiillerin işlenmesinin önlenmesi için, zarar görenin dava açma hakkı vardır.
+Entegre devre topoğrafyası başvurusu, 16 ncı maddeye göre Bültende yayımlandığı takdirde başvuru sahibi, entegre devre topoğrafyasına vaki tecavüzlerden dolayı dava açma hakkına sahiptir. Tecavüz eden, başvurudan veya kapsamından haberdar edilmiş ise başvurunun Bültende yayımlanmış olmasına bakılmaz. Tecavüz edenin kötüniyetli olduğuna mahkeme tarafından hükmolunursa, yayımdan önce de tecavüzün varlığı kabul edilir.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0025: Devir talebinde bulunma hakkı
+Başvuruya konu olan temel unsurun, üçüncü bir kişinin entegre devre topoğrafyasından izinsiz alınması durumunda, bu üçüncü kişi başvurunun kendisine devredilmesini mahkemeden talep edebilir.
+Başvurunun tescil edilmiş olması durumunda ise üçüncü kişi tescilin yayımlanmasından itibaren üç yıl içerisinde, tescilin kendi adına devredilmesini ve Sicilin buna göre düzeltilmesini mahkemeden talep edebilir.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0026: Hak sahibinin hakları ve hukuk davalarında yetkili mahkeme
+Başvuru veya tescilden doğan hakkı tecavüze uğrayan entegre devre topoğrafyası hak sahibi, mahkemeden aşağıdaki taleplerde bulunabilir:
+Tecavüz fiilini ispatlayacak delillerin tespiti.
+Fiilin tecavüz olup olmadığının tespiti.
+Tecavüzün giderilmesi ve maddi-manevi zararın tazmini.
+Entegre devre topoğrafyasından doğan haklara tecavüz suretiyle üretilen veya ithal edilen ürünlere ve bunların üretiminde doğrudan doğruya kullanılan araçlara el konulması.
+Hakka tecavüz eden kişi aleyhine verilen mahkeme kararının, masrafları tecavüz eden tarafından karşılanarak ilgililere tebliğ edilmesi ve kamuya ilan yoluyla duyurulması.
+Hakka tecavüzün durdurulması ve devamını önlemek üzere tedbirlerin alınması, (d) bendine göre el konulan ürünlerin ve araçların şekillerinin değiştirilmesi veya entegre devre topoğrafyasından doğan haklara tecavüzün önlenmesi kaçınılmaz ise imhası.
+Mümkün olduğu takdirde (d) bendi uyarınca el konulan ürün ve araçlar üzerinde kendisine mülkiyet hakkı tanınması. Bu durumda, söz konusu ürünlerin değeri, tazminat miktarından düşülür. Bu değer, kabul edilen tazminatı aştığı takdirde, aşan miktar entegre devre topoğrafyası hak sahibince karşı tarafa ödenir.
+Tedbirler konusunda mahkeme, 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun ilgili hükümlerine göre karar verir.
+Hak sahibi tarafından üçüncü kişiler aleyhine açılacak hukuk davalarında yetkili mahkeme, davacının yerleşim yerinin olduğu veya suçun işlendiği veya tecavüz fiilinin etkilerinin görüldüğü yerdeki mahkemedir.
+Davacının Türkiye de yerleşim yerinin olmaması halinde yetkili mahkeme, Sicile kayıtlı vekilin işyerinin bulunduğu yerdeki ve eğer vekillik kaydı silinmiş ise Kurum (1) merkezinin bulunduğu yerdeki mahkemedir.
+Üçüncü kişiler tarafından entegre devre topoğrafyası başvurusu veya entegre devre topoğrafyası hakkı sahibi aleyhine açılacak davalarda yetkili mahkeme, davalının yerleşim yerinin bulunduğu yerdeki mahkemedir. Entegre devre topoğrafyası başvurusu veya entegre devre topoğrafyası hakkı sahibinin Türkiye de ikamet etmemesi halinde, bu maddenin dördüncü fıkrası hükmü uygulanır.
+Birden fazla mahkemenin yetkili olduğu durumda yetkili mahkeme, ilk davanın açıldığı mahkemedir.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitü İbaresi Kurum şeklinde değişmiştir.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0027: Tecavüzü kanıtlayan belgeleri talep etme
+Entegre devre topoğrafyası hak sahibi, entegre devre topoğrafyasının kendi izni olmaksızın kullanılması sonucunda uğramış olduğu zarar miktarının belirlenmesi için tazminat yükümlüsünden kullanım ile ilgili belgeleri vermesini talep edebilir.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0028: Yoksun kalınan kazanç
+Entegre devre topoğrafyası hak sahibinin uğradığı zarar, sadece fiili kaybın değerini değil, ayrıca tescilden doğan haklara tecavüz dolayısıyla yoksun kalınan kazancı da kapsar.
+Yoksun kalınan kazanç, zarar gören hak sahibinin seçimine bağlı olarak aşağıdaki değerlendirme usullerinden birine göre hesap edilir:
+Tecavüz edenin rekabeti olmasaydı, entegre devre topoğrafyası hak sahibinin entegre devre topoğrafyasını kullanması ile elde edebileceği muhtemel gelire göre.
+Tecavüz edenin, entegre devre topoğrafyasını kullanmakla elde ettiği kazanca göre.
+Tecavüz edenin, entegre devre topoğrafyasını bir lisans anlaşması ile hukuka uygun şekilde kullanmış olması halinde ödemesi gereken lisans bedeline göre.
+Yoksun kalınan kazancın hesaplanmasında, entegre devre topoğrafyasının ekonomik önemi, topoğrafyadan doğan haklara tecavüz edildiği anda geçerlilik süresi ve tecavüz sırasında entegre devre topoğrafyasına ilişkin lisansların sayısı ve çeşidi gibi etkenler göz önünde tutulur.
+Entegre devre topoğrafyası koruma hakkı üzerinde tasarruf yetkisi olan kişi, yoksun kalınan kazancın hesaplanmasında, bu maddede belirtilen değerlendirme usullerinden birini seçmişse mahkeme, ürünün üretilmesi için entegre devre topoğrafyasının ekonomik bakımdan önemli bir katkısının bulunduğu kanaatine vardığı takdirde, kazancın hesaplanmasında makul bir payın daha eklenmesine karar verir.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0029: Zamanaşımı
+Entegre devre topoğrafyasından doğan haklara tecavüzden kaynaklanan özel hukuka ilişkin taleplerde, 818 sayılı Borçlar Kanununun zamanaşımına ilişkin hükümleri uygulanır.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0030: Kurum (1) kararlarına karşı itiraz ve dava açılması
+Başvuru sahibi Kurum (1) kararlarına karşı, kararın tebliğinden itibaren iki ay içerisinde yazılı olarak Kuruma (1) itirazda bulunabilir. İtiraz, Kurum (1) Yeniden İnceleme ve Değerlendirme Kurulunca incelenerek karara bağlanır.
+Yeniden İnceleme ve Değerlendirme Kurulunun söz konusu kararlarına karşı, kararın tebliğ tarihinden itibaren altmış gün içinde görevli ve yetkili mahkemede dava açılabilir.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitü İbaresi Kurum ve Enstitüye İbaresi Kuruma şeklinde değişmiştir.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0031: Görevli mahkeme
+Bu Kanunda öngörülen davalarda görevli mahkeme ihtisas mahkemeleridir. Bu mahkemeler tek hakimli olarak görev yaparlar. Asliye hukuk ve asliye ceza mahkemelerinden hangilerinin ihtisas mahkemesi olarak görevlendirileceğini ve bu mahkemelerin yargı çevresini, Adalet Bakanlığının teklifi üzerine Hakimler ve Savcılar Yüksek Kurulu belirler.
+Kurumun (1) bu Kanun hükümlerine göre aldığı bütün kararlara karşı açılacak davalarda ve Kurumun (1) kararlarından zarar gören üçüncü kişilerin Kurum (1) aleyhine açacakları davalarda görevli ve yetkili mahkeme, bu maddenin birinci fıkrasında belirtilen mahkemelerden, Ankara ihtisas mahkemeleridir.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitü İbaresi Kurum ve Enstitünün İbaresi Kurumun şeklinde değişmiştir.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0032: Hükmün ilanı
+Dava sonucunda haklı çıkan taraf, haklı bir sebebin veya menfaatinin bulunması halinde, masrafları karşı tarafa ait olmak üzere, kesinleşmiş kararın günlük gazete veya benzeri vasıtalarla tamamen veya özet olarak ilan edilmesini talep etme hakkına sahiptir. İlan hakkı, kararın kesinleşmesinden sonra üç ay içinde talep edilmezse düşer. İlanın şekli ve kapsamı mahkemece belirlenir.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0033: Tecavüzün yokluğunun tespiti
+Menfaati olan herkes, hak sahibine karşı dava açarak, fiillerinin entegre devre topoğrafyasından doğan haklara tecavüz teşkil etmediğine karar verilmesini talep edebilir.
+Birinci fıkrada belirtilen davanın açılmasından önce, menfaati olanlar Türkiye de giriştikleri veya girişecekleri sınai faaliyetin veya bu amaçla yapmış oldukları fiili girişimlerin entegre devre topoğrafyasından doğan haklara tecavüz teşkil edip etmediği konusunda hak sahibinden görüşlerini bildirmesini noter aracılığı ile talep edebilirler. Bu talebin kendisine tebliğinden itibaren hak sahibinin bir ay içinde cevap vermemesi veya verilen cevabın menfaat sahibi kişi tarafından kabul edilmemesi halinde, menfaat sahibi birinci fıkrada belirtilen talebi içeren davayı açabilir.
+Bu dava, entegre devre topoğrafyasından doğan haklara tecavüzden dolayı kendisine karşı dava açılmış bir kişi tarafından açılamaz.
+Dava, entegre devre topoğrafyası üzerinde hak sahibi bulunan ve Sicile kayıt edilmiş olan bütün hak sahiplerine tebliğ edilir.
+Bu maddede belirtilen dava, hükümsüzlük davasıyla birlikte de açılabilir.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0034: İhtiyati tedbir talebi ve tedbirin niteliği
+Bu Kanunda öngörülen davaları açan veya açacak olan kişiler, davanın etkinliğini temin etmek üzere görevli ve yetkili mahkemeden ihtiyati tedbire karar verilmesini talep edebilir.
+İhtiyati tedbir, dava açılmadan önce veya dava ile birlikte ya da karar kesinleşene kadar istenebilir. İhtiyati tedbir talebi, davadan ayrı olarak incelenir.
+İhtiyati tedbir, verilecek hükmün etkinliğini tamamen sağlayacak nitelikte olmalı ve aşağıda belirtilen hususları kapsamalıdır:
+Davacının entegre devre topoğrafyasından doğan haklarına tecavüz teşkil eden fiillerin durdurulması.
+Entegre devre topoğrafyasından doğan haklara tecavüz edilerek üretilen veya ithal edilen şeylere Türkiye sınırları içinde veya gümrük ve serbest liman veya bölge gibi alanlar dahil, bulundukları her yerde el konulması ve bunların muhafazası.
+İleride doğması muhtemel bir zararın tazmini bakımından teminat verilmesi.
+YEDİNCİ BÖLÜM
+Tecavüz Sayılan Fiiller, Davalar, Mahkemeler, İhtiyati Tedbirler ve Zamanaşımı
+Madde 0035: Uygulanacak hükümler
+Tespit davaları ve ihtiyati tedbirlerle ilgili olarak, bu Kanunda düzenlenmeyen hususlarda 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu hükümleri uygulanır.
+SEKİZİNCİ BÖLÜM
+Zorunlu Lisansın Genel Şartları ve Sona Ermesi
+Madde 0036: Gümrüklerde el koyma
+Aynısının üretilmesi hak sahibinin yetkilerine tecavüz oluşturması nedeniyle cezayı gerektiren taklit mallara, ithalat sırasında hak sahibinin veya temsilcisinin talebi üzerine, gümrük idareleri tarafından 4458 sayılı Gümrük Kanununun 57 nci maddesi çerçevesinde işlem yapılır.
+Gümrük idarelerindeki el koyma kararı, kararın tebliğinden itibaren on iş günü içinde esas hakkında ihtisas mahkemesinde dava açılmaz veya mahkemeden tedbir niteliğinde karar alınmazsa ortadan kalkar.
+SEKİZİNCİ BÖLÜM
+Zorunlu Lisansın Genel Şartları ve Sona Ermesi
+Madde 0037: Zorunlu lisansın verilme şartları
+Bir entegre devre topoğrafyasını, hak sahibinin izni olmaksızın bir kamu kurumunun veya üçüncü bir kişinin kullanmasına;
+Kamu yararı, ulusal güvenlik, genel sağlık veya ulusal ekonominin diğer hayati sektörlerinin kalkındırılması nedenleri ile korunan bir entegre devre topoğrafyasının ticari olmayan amaçlarla kullanılmasına ihtiyaç duyulması,
+Korunan bir entegre devre topoğrafyasının, hak sahibince veya lisans hakkı sahibince gerçekleştirilen kullanım şeklinin, rekabeti ortadan kaldırıcı nitelikte olduğunun adli ya da idari makamlar tarafından tespiti halinde, bu menfi durumun ortadan kaldırılmasına ihtiyaç duyulması,
+Koşullarından birinin mevcudiyeti halinde Bakanlar Kurulunca karar verilebilir.
+Entegre devre topoğrafyası hak sahibinden sözleşmeye dayalı lisans talebinde bulunan bir kamu kurumu veya üçüncü kişi, makul ticari koşullar dahilinde ve makul bir süre içinde talebinin kabul edilmemesi durumunda, kullanım hakkı için Kuruma (1) başvurabilir. Başvuruda, sözleşmeye dayalı lisans talebinde bulunulduğunu tevsik eden bilgi ve belgeler yer almalıdır. Kurumun (1) görüşü ve Kurumun (1) bağlı olduğu bakanlığın teklifi üzerine Bakanlar Kurulu kararıyla, birinci fıkrada belirtilen esaslar dahilinde, zorunlu lisans verilerek kullanım hakkı tanınır. Olağanüstü hallerde ve aciliyet gerektiren durumlarda Bakanlar Kurulu kararı çıkarılması için bu fıkrada öngörülen koşulların yerine getirilmiş olması aranmaz.
+Entegre devre topoğrafyasının kullanımının milli savunma, ulusal ekonominin hayati sektörlerinin geliştirilmesi veya genel sağlık bakımından önemli olması halinde, zorunlu lisansın verilmesi teklifi Kurumun (1) bağlı olduğu bakanlık ile ilgili bakanlıklar tarafından birlikte hazırlanır. Milli savunma bakımından önemli olması dolayısıyla, zorunlu lisans verilmesine ilişkin karar, entegre devre topoğrafyasının bir veya bir kaç işletme tarafından kullanılması ile sınırlandırılabilir.
+Bu madde kapsamında tanınan entegre devre topoğrafyasının kullanımı, kapsam ve süre bakımından yetkili kılındığı amaçla sınırlı ve sadece iç piyasanın talebini karşılayacak nitelikte olmalıdır.
+Söz konusu bu hak inhisari değildir. Bu kullanım hakkının verilmesi halinde, entegre devre topoğrafyası hakkı sahibine, gerçek değere esas kullanım bedeli ödenir. Kullanım bedeli Bakanlar Kurulunun verdiği yetkinin ekonomik değeri ve uygulandığı yerde rekabeti ortadan kaldırıcı uygulamaları telafi etme ihtiyacı göz önüne alınarak, yönetmelikte düzenlenecek esaslar çerçevesinde Kurumca (1) belirlenir. Kullanım bedelini kullanım hakkı sahibi öder.
+Bakanlar Kurulu kararı ile üçüncü kişiye verilen kullanım hakkı devredilebilir. Ancak bu devrin yapılabilmesi için, işletmenin tümünün ya da sadece bu kullanımdan yararlanan kısmının devredilmesi gerekir. Taraflardan birinin talebi halinde devir, Kurum (1) tarafından Sicile kayıt edilir. Sicile kaydedilmeyen devir üçüncü kişilere karşı ileri sürülemez.
+Kullanım hakkı sahibi, alt lisans veremez. Bu amaçla yapılan işlem geçersiz sayılır.
+Birinci fıkranın (b) bendinde belirtilen hallerde, kullanım hakkının verilmesi durumunda dördüncü fıkra hükümleri uygulanmaz.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle ikinci fıkrasında yer alan Enstitüye ibaresi Kuruma, Enstitünün ibareleri Kurumun, üçüncü fıkrasında yer alan Enstitünün ibaresi Kurumun, beşinci fıkrasında yer alan Enstitüce ibaresi Kurumca, altıncı fıkrasında yer alan Enstitü ibaresi Kurum şeklinde değişmiştir.
+SEKİZİNCİ BÖLÜM
+Zorunlu Lisansın Genel Şartları ve Sona Ermesi
+Madde 0038: Zorunlu lisansın sona ermesi
+Zorunlu lisansın verilme kararına neden olan halin ortadan kalktığı ve yeniden gerçekleşmesinin mümkün bulunmadığı durumlarda, entegre devre topoğrafyası hak sahibinin talebi, Kurumun (1) uygun görüşü ve Kurumun (1) bağlı olduğu bakanlığın teklifi üzerine Bakanlar Kurulunca zorunlu lisansın iptaline karar verilebilir.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitünün İbaresi Kurumun şeklinde değişmiştir.
+DOKUZUNCU BÖLÜM
+Cezalar ve Şikayet Hakkı
+Madde 0039: Hakka tecavüz hallerinde uygulanacak cezalar
+(Madde 08.02.2008 tarih ve 26781 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.)
+Aşağıdaki her bir bentte yazılı fiilleri işleyenler bir yıldan iki yıla kadar hapis ve beşyüz günden bin güne kadar adlî para cezası ile cezalandırılır:
+a) Entegre devre topoğrafyası hakkı sahibi olarak belirtilmesi gereken kimlik bildirimini gerçeğe aykırı olarak yapanlar.
+b) Korunan bir entegre devre topoğrafyasının, korunan bir entegre devre topoğrafyasını içeren entegre devrenin ya da koruma altında olan bir entegre devre topoğrafyasını içeren ürünün veya ambalajının üzerine konulmuş entegre devre topoğrafyası koruması olduğunu belirten işareti yetkisi olmadan kaldıranlar.
+c) Kendilerini haksız olarak entegre devre topoğrafyası başvurusu veya entegre devre topoğrafyası hakkı sahibi olarak gösterenler.
+Aşağıdaki her bir bentte yazılı fiilleri işleyenler hakkında, iki yıldan üç yıla kadar hapis ve beşyüz günden ikibin güne kadar adlî para cezasına hükmolunur:
+a) Hakkı olmadığını veya tasarruf yetkisi bulunmadığını bilmesi gerektiği hâlde, bu Kanunun devir, intikal, rehin ve haciz ile ilgili maddelerinde yazılı haklardan birini veya bu hakla ilgili lisansı başkasına devreden, veren, rehneden ya da bu haklar üzerinde herhangi bir tasarrufta bulunanlar.
+b) Korunan bir entegre devre topoğrafyası hakkının sahibi olmayan veya koruma süresi biten veya entegre devre topoğrafyası hakkı hükümsüz kalan veya entegre devre topoğrafyası korumasından doğan hakkı sona erdiği halde; kendisinin veya başkasının imal ettiği veya satışa çıkardığı eşyaya veya ambalajlarına veya ticarî evrakına veya ilânlarına, hukuken korunan bir entegre devre topoğrafyası koruma hakkı ile ilgili olduğu kanısını uyandıracak şekilde işaretler koyanlar veya bu amaçla yazılı ve görsel basındaki ilân ve reklamlarda bu tarz yazı, işaret veya ifadeleri kullananlar.
+11 inci maddenin (a) ve (b) bentlerinin her birinde sayılan fiilleri işleyenler hakkında, iki yıldan dört yıla kadar hapis ve beşyüz günden ikibin güne kadar adlî para cezasına hükmolunur.
+Bu maddede yer alan suçların bir tüzel kişinin faaliyeti çerçevesinde işlenmesi halinde, bu tüzel kişi hakkında Türk Ceza Kanununun 60 ıncı maddesi hükümleri uygulanır.
+Bu maddede sayılan suçlardan dolayı soruşturma ve kovuşturma yapılması şikayete bağlıdır.
+DOKUZUNCU BÖLÜM
+Cezalar ve Şikayet Hakkı
+Madde 0040: Şikayet hakkına sahip olanlar
+(Madde 08.02.2008 tarih ve 26781 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+DOKUZUNCU BÖLÜM
+Cezalar ve Şikayet Hakkı
+Madde 0041: Yönetmelik
+Bu Kanunda öngörülen yönetmelikler, Kanunun yayımı tarihinden itibaren altı ay içinde Kurum (1) tarafından hazırlanarak yürürlüğe konulur.
+(1) 10.01.2017 Tarih ve 29944 Sayılı Resmi Gazetede Yayımlanan 6769 Sayılı Kanun İle Enstitü İbaresi Kurum şeklinde değişmiştir.
+DOKUZUNCU BÖLÜM
+Cezalar ve Şikayet Hakkı
+Madde 0042: Yürürlük
+Bu Kanun yayımı tarihinde yürürlüğe girer.
+DOKUZUNCU BÖLÜM
+Cezalar ve Şikayet Hakkı
+Madde 0043: Yürütme
+Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Yükleyen: yasinuzunoglu

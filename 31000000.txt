@@ -1,0 +1,67 @@
+3100 sayılı Katma Değer Vergisi Mükelleflerinin Ödeme Kaydedici Cihazları Kullanmaları Mecburiyeti Hakkında Kanun 15.12.1984
+Yayımlandığı Resmî Gazete Tarihi: 15.12.1984
+Yayımlandığı Resmî Gazete Sayısı: 18606
+Kabul Tarihi	06.12.1984
+Madde 0001: Kapsam
+Satışı yapılan malları aynen veya işlendikten sonra satışını yapanlar dışındaki kimselere satan veya aynı kimselere hizmet veren birinci ve ikinci sınıf tüccarlar, bu Kanuna göre ödeme kaydedici cihaz kullanmak mecburiyetindedirler.
+Ödeme kaydedici cihazlar kullanılarak verilen satış fişleri ve rulolar yukarıda sayılan mükelleflerin fatura vermek mecburiyetinde olmadıkları satışların ve yaptıkları işlerin belgelendirilmesinde kullanılır ve fatura yerine geçer.
+Ödeme kaydedici cihazların kullanılması mecburiyeti, Maliye Bakanlığınca tespit edilen faaliyetlerle uğraşanlar hakkında uygulanmaz.
+Genel ve Katma Bütçeli İdarelere, İl Özel İdarelerine, belediyeler ve köyler ile bunların teşkil ettikleri birliklere, üniversitelere, dernek ve vakıflara, her türlü mesleki kuruluşlara ait veya tabi olan veyahut bunlar tarafından kurulan veya işletilen müesseseler ile döner sermayeli kuruluşlara veya bunlara ait veya tabi müesseselere ödeme kaydedici cihazlar kullanılma mecburiyeti getirmeye Maliye Bakanlığı yetkilidir.
+Madde 0002: Ödeme kaydecici cihazlar
+Ödeme kaydedici cihazlar, bu Kanunla ve Maliye Bakanlığınca belirlenen şartları taşıyan elektronik yazar kasalar, yazıcı tertibatı bulunan elektronik teraziler veya eletronik terminaller gibi cihazlardır.
+Ödeme kaydedici cihazların; her alış veriş için satışla ilgili bilgileri taşıyan bir satış fişi ve günlük kapanış fişi vermesi, satış fişinde yazılı olan bilgilerin aynen kaydedildiği ayrı bir şerit tertibatı olması, fiş ve günlük toplamlar için en az iki ayrı sayıcısının bulunması, mekanik, elektronik veya manyetik müdahalelere karşı korunmuş harici bir enerjiye ihtiyaç göstermeyen sadece pozitif işlem kabul eden toplam tahsilat ve vergi tutarlarını kaydeden bir mali hafızasının olması, mali hafıza ile bağlantısının açılması halinde çalışmaması, yetkili kimseler dışında cihaza müdahaleye imkan vermeyecek tarzda hayati bölümlerin muhafazasının tek bir vida ile kapatılmasına ve üzerinin özel bir mühürle mühürlenmesine uygun yapıda olması ve makine içerisine tespit edilmiş mali hafızaya da kaydedilen bir sicil numarasının bulunması gerekir.
+Maliye Bakanlığı belirleyeceği esaslar dahilinde, gerekli şartları taşımayan cihazlar kullanılarak veya elle doldurularak satış fişi düzenlenmesine izin verebilir.
+Madde 0003: Satış fişleri
+Ödeme kaydedici cihazlar kullanılmak suretiyle verilen satış fişlerinde; satış fişini veren kişi veya kuruluşun adı ve soyadı veya ünvanının, adresinin, bağlı bulunduğu vergi dairesi ve hesap numarasının, satılan malların cinsi ve bedellerinin, vergili olup olmadıklarının ve bunlara ait toplamların, müteselsil fiş numarasının, işlem tarihinin, cihazın onaylandığını gösterir sembolün ve cihaz sicil numarasının gösterilmesi gerekir.
+Madde 0004: Satış ve onarım
+Maliye Bakanlığı tarafından onaylanan ödeme kaydedici cihazların, üretici veya ithalatçı kuruluşlar tarafından verilen ve cihaz sicil numarasını taşıyan bir ruhsatnamesi bulunur. Söz konusu ruhsatnamelerde yer alacak diğer hususları tayin ve tespite Maliye Bakanlığı yetkilidir. Üretici, İthalatçı veya satıcı firmalar satılan cihazların sicil numaralarını ve kimlere satıldıklarını her ay Maliye Bakanlığına ve bağlı bulundukları vergi dairelerine bildirmek mecburiyetindedir.
+Arızalanan ödeme kaydedici cihazların tamiri, bunları üreten veya ithal eden kişi veya kuruluşların yetkili servis elemanlarınca yapılabilir. Cihazların mühürü yetkili elemanlar tarafından açılabilir ve tamir işlemini takiben yine aynı elemanlar tarafından mühürlenir. Üretici veya ithalatçı kişi veya kuruluşların kuracakları bakım ve onarım servislerinin arızalanan cihazları kendilerine başvuru tarihinden itibaren en kısa sürede çalışır hale getirmeleri şarttır. Yapılan tamir işleri başlama ve bitiş tarih ve saatlerini de gösterir şekilde ayrıntılarıyla cihazın ruhsatnamesine kaydedilir.
+Üretici veya ithalatçı kişi veya kuruluşların kuracakları bakım ve onarım teşkilatlarının uyacakları şartlar ve esaslar Maliye Bakanlığınca tespit edilir ve denetlenir.
+Yetkili mercilere gerekli kayıt ve tasdik işlemi yaptırılmadan veya ruhsatsız olarak ödeme kaydedici cihazlar, satılamaz, kiralanamaz, devredilemez veya diğer yollarla kullandırılamaz.
+Madde 0005: Onay
+Ödeme kaydedici cihaz modellerinin bu Kanun ve Maliye Bakanlığınca belirlenen şartlara uygunluğu, kuruluş şekli aşağıda belirlenen Komisyonun görüşü alınarak Maliye Bakanlığınca onaylanır.
+Komisyon, Maliye Bakanlığı Müsteşarının başkanlığında Gelirler Genel Müdürü ile Gelirler Genel Müdürlüğünün iki, Sanayi ve Ticaret Bakanlığının bir, Yüksek Öğretim Kurumu tarafından belirlenecek üniversitelerin bir, Türkiye Bilimsel ve Teknik Araştırma Kurumunun bir, Türkiye Ticaret Sanayi Deniz Ticaret Odaları ve Ticaret Borsaları Birliğinin bir, Türkiye Esnaf ve Sanatkarları Konfederasyonunun bir temsilcisinden kurulur.
+Ödeme kaydedici cihaz modellerinin onayı üç yıl için geçerli olup, eşit süreler itibariyle uzatılabilir. Uzatma reddedildiği takdirde, onaylanan modele uygun faaliyette bulunan cihazlar için onay hükümleri geçerli sayılır.
+Ödeme kaydedici cihazların kullanımı sırasında başlangıçta verilen garantiye uygun düşmeyen kusurlar ortaya çıktığı, onaylanan modele uygun olmayan cihazların üretildiği veya ithal edildiği ve satış sonrası bakım ve onarım konusunda öngörülen şartlara uyulmadığı takdirde modelin onayı iptal edilir. Onayın iptali tedbirin alındığı tarihten itibaren hüküm icra eder.
+Madde 0006: Ödeme kaydedici cihazları kullanma mükellefiyetinin başlaması
+ödeme kaydedici cihazların kullanılması mecburiyeti bir önceki dönem satışları veya gayri safi iş hasılatı;
+120.000.000,- TL. aşan mükellefler için 01.07.1985 tarihinden itibaren,
+60.000.000,- TL. aşan mükellefler için 01.01.1986 tarihinden itibaren,
+30.000.000,- TL. aşan mükellefler için 01.01.1987 tarihinden itibaren,
+15.000.000,- TL. aşan mükellefler için 01.01.1988 tarihinden itibaren,
+15.000.000,- TL. altında kalanlar için 01.01.1989 tarihinden itibaren başlayacaktır.
+Maliye Bakanlığı, bu maddedeki tutarları iki katına kadar artırmaya yetkilidir.
+Madde 0007: İndirim ve dahili tevkifat
+(31.07.2004 tarih ve 25539 sayılı Resmi Gazete de yayımlanan 5228 sayılı Kanunun 13 üncü maddesiyle değişen şekli.) Mükellefler kullanmak üzere satın aldıkları ödeme kaydedici cihazlar için %100 e kadar amortisman oranı seçebilirler, amortisman ayırma imkanı bulunmayanlar ise alış bedellerinin tamamını vergiye tabi kazançlarının tespitinde indirim konusu yaparlar. (1)
+(03.12.1988 tarih ve 3505 sayılı Kanunun 34 üncü maddesiyle, 01.01.1989 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+Bu maddenin uygulamasına ilişkin usul ve esaslar, Maliye Bakanlığınca belirlenir.
+(1) (Bu kısımda yer alan %100 e kadar amortisman oranı seçebilirler. ibaresi; 31.12.2004 tarih ve 25687 (3) mükerrer sayılı Resmi Gazete de yayımlanan 5281 sayılı Kanunun 43/11 maddesiyle 2004 yılı gelirlerine de uygulanmak üzere metinde görüldüğü şekilde değiştirilmiştir.)
+Madde 0008: Cezalar
+(04.12.1985 tarih ve 3239 sayılı Kanunun 137 nci maddesiyle, 01.01.1989 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+Mükerrer Madde 0008: Ceza ve sorumluluk
+(26.10.1988 tarih ve 3482 sayılı Kanunun 2 nci maddesiyle eklenmiştir.)
+(24.06.1994 tarih ve 4008 sayılı Kanunun 38 inci maddesiyle değişen ve 06.07.1994 tarihinden geçerli olarak yürürlüğe giren şekli.) Onaylanan modele uygun üretim veya ithalat yapmayan, cihazları satışa sunmadan önce Maliye Bakanlığı nın özel mühürü ile mühürlettirmeyen, servis teşkilatını (satış,bakım-onarım)kurmayan, satışını yaptığı her cihazın yedek parça da dahil olmak üzere en az on yıllık bakım ve onarımını sağlayamayan üretici veya ithalatçı kuruluşlar ile süresi içerisinde ödeme kaydedici cihazları almayan, cihazları bozan, bozuk cihazları kullanan veya başkalarının kullanmasına izin veren mükellefler adına Vergi Usul Kanununun 353 üncü maddesinin 8 numaralı bendinde yazılı özel usulsüzlük cezası kesilir.
+Üretici veya ithalatçı kuruluşlar, Maliye Bakanlığı nın özel mühürü ile mühürlenen her 500 cihaz için en az bir eleman bulunduracak şekilde yurt sathına yayılmış bakım ve onarım teşkilatlarını kurmak zorundadırlar.
+Maliye Bakanlığınca belirlenip açıklanan usul ve esaslara uymayan, üretici veya ithalatçı kuruluşlar, bunların satış, bakım-onarım servislerinde görevli elemanları ile ödeme kaydedici cihazları kullanma mecburiyeti bulunan mükellefler hakkında; her bir tespit için ayrı ayrı olmak üzere, Vergi Usul Kanununa bağlı Usulsüzlük Cezalarına Ait Cetvelde yer alan birinci derece usulsüzlük cezalarının beş katı uygulanır.
+Bu Kanunun uygulanması ile ilgili olarak Maliye Bakanlığından onay alan üretici veya ithalatçı kuruluşlar, kurmuş oldukları satış ve bakım - onarım servisleri ile birlikte müteselsilen sorumludurlar.
+Satışını yaptıkları cihazları, (daha önce satılan ve halen mükelleflerce kullanılanlar da dahil) Maliye Bakanlığınca uygun görülen şekilde düzenlemeyen veya arızalandığı halde çalışır hale getirmeyen üretici veya ithalatçı kuruluşlar, düzenlemedikleri veya çalışır hale getirmedikleri cihazların rayiç veya emsal bedelini ilgili mükellefe ödemek zorundadırlar.
+Bu maddenin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.
+Madde 0009: Diğer hükümler
+Üretici veya ithalatçı kişi veya kuruluşlar tarafından kurulan servislerde bakım ve onarım işlerini yapacak teknik görevlilerin Maliye ve Gümrük Bakanlığı tarafından sicilleri tutulur, kendilerine tanıtıcı bir yetki belgesi ve özel mühür verilir. Kaydedici cihazların bakım ve onarımı sadece kendilerine yetki belgesi verilen kimseler tarafından yapılabilir. Verilen yetkiyi kötüye kullananların yetki belgeleri iptal edilir. Ayrıca, bunlar hakkında Vergi Usul Kanununun 338 ve 347 nci maddeleri hükümleri uygulanır.
+Bakım ve onarım işlerini yapacak teknik görevliler Maliye ve Gümrük Bakanlığının yoklama ve incelemeye yetkili elemanları tarafından istenilen her türlü yardım ve kolaylığı göstermek mecburiyetindedirler.
+(26.10.1988 tarih ve 3482 sayılı Kanunun 3 üncü maddesiyle eklenmiştir.) Kullanılan ödeme kaydedici cihazlar, ilgilinin Gelir veya Kurumlar Vergisi mükellefiyeti sona ermedikçe haczedilemez.
+(26.10.1988 tarih ve 3482 sayılı Kanunun 3 üncü maddesiyle eklenmiştir.) Bu Kanunda hüküm bulunmayan hallerde Vergi Usul Kanunu ve Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
+(03.07.2001 tarih ve 24451 sayılı Resmi Gazete de yayımlanan 4684 sayılı Kanunun 16/b maddesiyle 01.01.2002 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+Madde 0010: Yetki
+(28.08.1991 tarih ve 3762 sayılı Kanunun 4 üncü maddesiyle değişen şekli.) Maliye Bakanlığı;
+Ödeme kaydedici cihazların kullanılmalarıyla ilgili olarak, bu Kanunla belli edilen hususlar dışında uyulması gereken usul ve esasları belirlemeye ve bunlarda değişiklik yapmaya,
+Talih oyunları işletmelerinde kullanılanlar da dahil olmak üzere para, marka ve jeton gibi araçlarla oynanan her türlü oyun makinaları ile akaryakıt sayaçları, parkmetre, otomatik satış makinaları ve benzeri cihazlarda hafıza tertibatı bulunma mecburiyeti getirmeye, bu tertibatın teknik ve fonksiyonel özellikleri ile uygulama usul ve esaslarını belirlemeye,
+Yetkilidir.
+Geçici Madde 0001:
+(28.8.1991 tarih ve 3762 sayılı Kanunun 5 inci madesiyle eklenmiştir.) Maliye ve Gümrük Bakanlığı; bu Kanunun yayımı tarihine kadar 3100 sayılı Kanun uyarınca 1991 yılı içinde ödeme kaydedici cihaz kullanma mecburiyeti başladığı halde, bu mecburiyeti yerine getiremeyen mükellefler ile daha sonraki tarihlerde mecburiyetleri başlayacak olanlar için, bu mecburiyetlerinin başlama tarihini bir önceki yıl satış tutarları veya gayri safi iş hasılatına göre 1992 yılının sonuna kadar uzatmaya ve bu süre içine kademeli olarak yaymaya yetkilidir.
+İsteğe bağlı olarak ödeme kaydedici cihaz olan mükelleflerin bu cihazları kullanma mecburiyetleri cihazları aldıkları tarihten itibaren 30 gün içinde başlar.
+Madde 0011: Yürürlük
+Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 0012: Yürütme
+Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Yükleyen: yasinuzunoglu

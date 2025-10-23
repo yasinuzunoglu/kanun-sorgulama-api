@@ -1,0 +1,21 @@
+# n8n.com Kanun Sorgulama Sistemi için Gerekli Paketler
+
+# FastAPI ve Web Server
+fastapi==0.104.1
+uvicorn==0.24.0
+
+# HTTP İstekleri
+requests==2.31.0
+httpx==0.25.2
+
+# Embedding ve NLP
+sentence-transformers==2.2.2
+scikit-learn==1.3.2
+numpy==1.24.3
+
+# Veri işleme
+pandas==2.1.3
+
+# n8n entegrasyonu için ek paketler
+python-multipart==0.0.6
+pydantic==2.5.0

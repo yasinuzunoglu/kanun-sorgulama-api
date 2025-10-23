@@ -1,0 +1,1026 @@
+5429 sayılı Türkiye İstatistik Kanunu
+Yayımlandığı Resmî Gazete Tarihi: 18.11.2005
+Yayımlandığı Resmî Gazete Sayısı: 25997
+Kabul Tarihi	10.11.2005
+BİRİNCİ KISIM
+Genel Hükümler
+Genel Gerekçe İçin Tıklayın
+Madde 0001: Amaç
+Bu Kanunun amacı; resmi istatistiklerin üretimine ve organizasyonuna ilişkin temel ilkeleri ve standartları belirlemek; ülkenin ihtiyaç duyduğu alanlarda veri ve bilgilerin derlenmesini, değerlendirilmesini, gerekli istatistiklerin üretilmesini, yayımlanmasını, dağıtımını ve Resmi İstatistik Programında istatistik sürecine dahil kurum ve kuruluşlar arasında koordinasyonu sağlamak üzere, Türkiye İstatistik Kurumunun kuruluş, görev ve yetkilerine ilişkin esasları düzenlemektir.
+BİRİNCİ KISIM
+Genel Hükümler
+Madde 0002: Tanımlar
+Bu Kanunun uygulanmasında;
+Kurum: Türkiye İstatistik Kurumunu (TÜİK),
+Konsey: İstatistik Konseyini,
+Başkanlık: Türkiye İstatistik Kurumu Başkanlığını,
+Başkan: Türkiye İstatistik Kurumu Başkanını,
+Kurum ve kuruluşlar: Başbakanlık ve bakanlıklar ile bunların bağlı, ilgili ve ilişkili kuruluşlarını, mahalli idareler ve bunların bağlı ve ilgili kuruluşları ile birlik ve şirketlerini, Türkiye Cumhuriyet Merkez Bankası, İstanbul Menkul Kıymetler Borsası ve üniversiteler de dahil olmak üzere, tüzel kişiliği haiz enstitü, teşebbüs, teşekkül, birlik, döner sermaye, fon ve sair adlarla kurulmuş olan diğer kurum ve kuruluşlar ile kamu kurumu niteliğindeki meslek kuruluşlarını,
+Program: Resmi İstatistik Programını,
+Resmi istatistik: Türkiye İstatistik Kurumu veya Programda yer alan konularda istatistik üretecek kurum ve kuruluşlar tarafından derlenen verilerin, kitle özelliklerini ortaya koymak amacıyla işlenmesi ile elde edilen bilgiyi,
+İstatistiki birim: Yapılan sayım veya örnekleme çalışmalarına konu olan, hakkında veri toplanacak gerçek ve tüzel kişiler ile kurum ve kuruluşları,
+Kitle: Sayım veya örneklemeye konu olan istatistiki birim veya alt birimlerin tamamını,
+Sayım: Kitle özelliklerini ortaya koymak üzere ilgili tüm istatistiki birimlerden veri derlenmesini,
+Örnekleme: Kitleyi oluşturan istatistiki birimler arasından kitleyi temsil etmek üzere belli sayıda birimin seçilmesi işlemini,
+Ulusal kayıt sistemi: Kurum ve kuruluşların idari işlemlerini yürütmek amacıyla kayıt altına aldıkları bilgilerin standartlaştırılarak tanımlanmış tek bir numara vasıtasıyla ulusal düzeyde ilgili diğer kurum ve kuruluşların kayıtları ile konuşabilirliğinin sağlandığı veri tabanı sistemini,
+Alan çalışması: İstatistik çalışmalarıyla ilgili her türlü veriyi derlemek üzere istatistiki birim ile görüşülmesi, bilgilerin anket formuna aktarılması ve bu formların Başkanlığa teslimine kadar geçen sürede yapılan çalışmaları,
+Veri: Anket veya idari kayıtlar yoluyla elde edilen nicel ve/veya nitel istatistiki bilgileri,
+Bireysel veri: Hakkında bilgi toplanan istatistiki birimlerin, özellikleri ile birlikte tanımlandığı veriyi,
+Doğrudan tanınma: Bir istatistiki birimin kimliğinin adı, adresi veya resmen verilmiş ve genel olarak bilinen bir kimlik numarası ile ortaya çıkarılmasını,
+Dolaylı tanınma: Bir istatistiki birimin kimliğinin, doğrudan tanımlamada yer almayan diğer özelliklerinden faydalanılarak ortaya çıkarılmasını,
+Gizli veri: İstatistik birimin doğrudan veya dolaylı bir şekilde özellikleri ile birlikte tanınabilmesine ve bu şekilde bireysel bilgilerin açığa çıkarılmasına imkan sağlayan bireysel veya tablo halinde saklı tutulan veriyi,
+İstatistik amaçlı kullanım: İstatistik birimlerden toplanan verilerin sadece istatistiki tabloların oluşturulması ve istatistiki analizlerin yapılması için kullanımını,
+Dağıtım: Kullanılan şekil ve araçlara bakılmaksızın, istatistiki bilgilerin kullanıcılara sunulmasını,
+İfade eder.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+BİRİNCİ BÖLÜM
+Resmi İstatistik Programı, İlkeler, Uygulama Esasları ve Makamları
+Madde 0003: Resmi İstatistik Programı
+Resmi İstatistik Programı, ulusal ve uluslararası düzeyde ihtiyaç duyulan konularda üretilecek resmi istatistiklere ilişkin çerçeveyi oluşturur. Sayım ve araştırmalar Program çerçevesinde yapılır.
+Program; mevcut kaynakları, cevap verenlerin üzerindeki yükü, fayda-maliyet ilişkisini göz önüne alarak, ülkenin ekonomi, sosyal, demografi, kültür, çevre, bilim, teknoloji ve ihtiyaç duyduğu diğer alanlardaki durumunun tespit edilmesi ve izlenmesi için gereken istatistikleri kapsar.
+Program, Konseyin istişari görüşleri doğrultusunda Başkanlık tarafından beş yıllık olarak hazırlanır ve Bakanlar Kuruluna sunulur. Program, Bakanlar Kurulu kararının Resmi Gazetede yayımlanmasıyla yürürlüğe girer. Gerekli hallerde Programda değişiklik, ilgili kuruluşların görüşü alınarak Başkanlığın teklifi üzerine Bakanlar Kurulu kararı ile yapılır ve Resmi Gazetede yayımlanır. Programın yürütülmesinden Başkanlık sorumludur.
+Başkanlık, Programın uygulanması konusunda Konseye sunulmak üzere Yıllık İzleme Raporları hazırlar ve uygun araçlarla kamuoyuna duyurur.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+BİRİNCİ BÖLÜM
+Resmi İstatistik Programı, İlkeler, Uygulama Esasları ve Makamları
+Madde 0004: İlkeler
+Resmi istatistiklerin kalitesinin geliştirilmesi için Program kapsamında üretilen istatistikler, güvenilirlik, tutarlılık, tarafsızlık, istatistiki gizlilik, güncellik ve şeffaflık ilkelerine göre hazırlanır ve uygulanır.
+Resmi istatistiklerin gerçekleri yansıtmasının sağlanması, tüm kullanıcılara tarafsız ve eş zamanlı olarak sunulması, gizlilik ilkesine riayet edilmesi, kamuoyunun bilgi edinme hakkının gözetilmesi temel esaslardır.
+Resmi istatistiklerin kalitesinin ve ilkelere uygunluğunun değerlendirilebilmesi için gerekli tüm bilgiler ve resmi istatistik üretiminde kullanılan yöntemler kamuoyuna açıklanır.
+Programı uygulayan tüm kurum ve kuruluşlar ile görevliler, bu Kanunda ve bu Kanuna dayanılarak çıkarılacak her türlü düzenleyici işlemlerde belirtilen ilkelere uymakla yükümlüdür.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+BİRİNCİ BÖLÜM
+Resmi İstatistik Programı, İlkeler, Uygulama Esasları ve Makamları
+Madde 0005: Uygulama esasları
+Programda; üretilecek tüm resmi istatistiklerin amaç, kapsam, yöntem, sıklık, iş planı ve dağıtım ilkeleri ile çalışmayı yürütecek ve koordine edecek kurum ve kuruluşlar açıkça belirtilir.
+Söz konusu kurum ve kuruluşlar, Programda kendilerine verilen görev ve sorumlulukları belirtilen zamanda yerine getirmekle yükümlüdür. Bu görev ve sorumluluklar Programın yürürlüğe girmesiyle başlar.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+BİRİNCİ BÖLÜM
+Resmi İstatistik Programı, İlkeler, Uygulama Esasları ve Makamları
+Madde 0006: Uygulama makamları
+Resmi istatistikler Türkiye İstatistik Kurumu Başkanlığı ve Programda belirtilen kurum ve kuruluşlar tarafından üretilir, dağıtılır ve yayımlanır. Kurum ve kuruluşların, görev alanları ile ilgili resmi istatistiklere ilişkin veri derleme, değerlendirme ve yayımlama görev ve yetkisi Programda açıkça belirtilir. Bu kurum ve kuruluşlar, talep edilmesi durumunda, derlenen verileri istenilen zamanda Başkanlığa vermekle yükümlüdür. Diğer yasal düzenlemelerdeki gizlilik hükümleri belirtilerek Kuruma iletilen veri ve bilgilerin korunmasında ve saklanmasında söz konusu gizlilik hükümleri aynen uygulanır. Başkanlık, kurum ve kuruluşlar tarafından derlenen resmi istatistikleri de yayımlayabilir ve dağıtabilir.
+Kurum ve kuruluşların Programda yer almayan istatistiki konulardaki çalışmaları ile gerçek kişiler veya özel hukuk tüzel kişiliğine sahip kuruluşlarca yapılan sayım veya araştırmalara ait sonuçlar resmi istatistik olarak kabul edilmez.
+İstatistiki sonuçlar içeren araştırma faaliyetleri yürüten gerçek kişiler veya özel hukuk tüzel kişiliğine sahip kuruluşlar, araştırmalarının sonuçlarını basın ve yayın yoluyla kamuoyuna açıklamaları halinde, araştırmanın kapsam, örnekleme yöntemi ve örnek hacmi, veri derleme yöntemi ve uygulama zamanını araştırma sonuçlarıyla birlikte kamuoyuna açıklamakla yükümlüdürler.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+İKİNCİ BÖLÜM
+Bilgilerin Toplanması, Dağıtımı ve Gizliliği
+Madde 0007: Bilgi isteme, bilgilerin doğruluğunu araştırma, kontrol ve saklama
+Başkanlık, Kurumun görev alanına giren konularla ilgili sayım ve araştırmalarda, istatistik üretimi için gerekli gördüğü her türlü ortamdaki veri ve bilgiyi, tüm istatistiki birimlerden, Başkanlıkça belirlenen şekil, süre ve standartlarda doğrudan isteme yetkisine sahiptir.
+Başkanlık, gerektiğinde verilen veri veya bilgilerin doğruluğunu araştırmaya, kontrol etmeye, ilgililerden ek bilgi ve belge istemeye, araştırma ve kontroller sonucu düzenlenecek belgelerle gerçek veri ve bilgiyi belirlemeye yetkilidir.
+Başkanlığın veri ve bilgi derleme ve yayımlama işlemleri dahil her türlü faaliyetleri elektronik ortamda yapılabilir, arşivlenebilir ve elektronik imza kullanılabilir.
+Elektronik ortamda tutulan bilgilere ilişkin belgeler, bu veri ve bilgilerin kesinleşip kullanıma açık hale gelmesine kadar saklanır ve bu sürenin sonunda imha edilir.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+İKİNCİ BÖLÜM
+Bilgilerin Toplanması, Dağıtımı ve Gizliliği
+Anayasa Mahkemesince iptal edilen 8 inci maddesi başlığı ile birlikte aşağıdaki şekilde 05/12/2008 tarih ve 27075 sayılı regada yayımlanan 5813 sayılı kanun ile yeniden düzenlenmiştir.
+Madde 0008: Cevap verme yükümlülüğü ve sınırları
+İstatistikî birimler, ülkenin ekonomi, sosyal, demografi, kültür, çevre, bilim, teknoloji ve ihtiyaç duyulan diğer alanlardaki resmi istatistikleri üretmek üzere, Anayasa'da belirlenen temel haklar ve ödevler çerçevesinde, kendilerinden istenen veri veya bilgileri, Başkanlığın belirleyeceği şekil, süre ve standartlarda eksiksiz ve doğru olarak ücretsiz vermekle yükümlüdür.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+İKİNCİ BÖLÜM
+Bilgilerin Toplanması, Dağıtımı ve Gizliliği
+Madde 0009: İdari verilere erişim
+Kurum ve kuruluşlar, resmi istatistik üretiminde kullanılmak üzere, kendi görev alanları ile ilgili konularda topladıkları, işledikleri ve sakladıkları kayıt ve diğer veri dosyalarını ve her türlü harita ile uzaktan algılanmış veriyi, belirlenen süre içerisinde ücret talep etmeksizin Başkanlığa vermek veya kullanımına açmakla yükümlüdürler.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+İKİNCİ BÖLÜM
+Bilgilerin Toplanması, Dağıtımı ve Gizliliği
+Madde 0010: Ulusal kayıt sistemleri
+Kurum ve kuruluşlar kendi görev alanlarına ilişkin ulusal kayıt sistemlerini Başkanlığın belirlediği standartlarda oluşturmak, güncellemek ve Başkanlığın istatistik amaçlı kullanımına açmakla yükümlüdür.
+Bu konuda yapılacak her türlü mevzuat çalışmalarında Başkanlığın uygun görüşü alınır.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+İKİNCİ BÖLÜM
+Bilgilerin Toplanması, Dağıtımı ve Gizliliği
+Madde 0011: Sınıflamalar
+Kurum ve kuruluşlar, Başkanlık tarafından oluşturulan istatistik amaçlı tanım ve sınıflamaları kullanmakla; kendi ihtiyaçları doğrultusunda belirleyecekleri sınıflamaları kullanmaları halinde ise, Başkanlığın belirlediği sınıflamalara dönüştürülmesini sağlayacak tedbirleri almakla yükümlüdür.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+İKİNCİ BÖLÜM
+Bilgilerin Toplanması, Dağıtımı ve Gizliliği
+Madde 0012: İstatistik sonuçlarına erişim
+Başkanlık ve Programda yer alan kurum ve kuruluşlar, üretilen resmi istatistiklere, Programda belirtilen standart ve yayın tarihine uyarak, tüm kullanıcıların kolay ve eşit şartlarda erişmesini sağlayacak tedbirleri alırlar.
+Kurum tarafından derlenen istatistiki bilgiler, kullanıma açılmadan önce herhangi bir şahsa veya makama verilemez.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+İKİNCİ BÖLÜM
+Bilgilerin Toplanması, Dağıtımı ve Gizliliği
+Madde 0013: Gizli veriler
+Gizli verilere yalnızca resmi istatistik üretiminde görev alanlar, görevlerini yerine getirebilmek için ihtiyaç duydukları ölçüde erişebilirler.
+Bireysel verinin toplulaştırılması ile oluşturulan veri tablosunun herhangi bir hücresindeki istatistiki birim sayısının üçten az olması veya birim sayısı üç ve daha fazla olduğu halde bir veya iki istatistiki birimin hakim durumda olması halinde ilgili hücredeki veri gizli kabul edilir.
+Resmi istatistiklerin üretilmesi için toplanan, işlenen ve saklanan verilerden gizli olanları, idari, adli ve askeri hiçbir organ, makam, merci veya kişiye verilemez, istatistik amacı dışında kullanılamaz ve ispat aracı olamaz. Bu bilgileri derleyen ve değerlendiren memurlar ve diğer görevliler de bu yasağa uymak zorundadır. Bu yükümlülük, görevlilerin görevlerinden ayrılmalarından sonra da devam eder.
+Resmi istatistik üreten kurum ve kuruluşların yetkilileri tarafından, gizli verilerin hukuka aykırı erişimine, açıklanmasına veya kullanımına karşı her türlü önlem alınır.
+Herkese açık kaynaklardan elde edilen veri veya bilgiler gizli kabul edilmez.
+İstatistiki birimin, kendisine ait gizli verilerin açıklanmasına yazılı onay vermesi halinde, veri gizliliği ortadan kalkar.
+Gizli veriler, ancak doğrudan veya dolaylı tanımlamaya yol açmayacak şekilde diğer bilgilerle birleştirilerek yayımlanabilir.
+(Fıkra 05.12.2008 tarih ve 27075 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) Dış ticaret istatistiklerinde dolaylı tanınma ile gizlilik kapsamına giren veriler için bu gizlilik hükümleri, istatistikî birimin kendisine ait verinin gizlenmesini talep eden yazılı başvurusu halinde uygulanır.
+Veri gizliliği ve güvenliğine ilişkin usul ve esaslar, ulusal ve uluslararası ilkeler doğrultusunda, ilgili kurum ve kuruluşların görüşleri alınarak çıkarılacak yönetmelikle düzenlenir.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+İKİNCİ BÖLÜM
+Bilgilerin Toplanması, Dağıtımı ve Gizliliği
+Madde 0014: Bireysel verilerin kullanımı
+Bireysel veriler, istatistiki birimlerin doğrudan veya dolaylı olarak tanınmasına yol açacak bölümleri gizlendikten sonra, münferit birimlere atıfta bulunmayan bilimsel amaçlı araştırmalarda kullanılması kaydı ve Başkanlığın yazılı izniyle verilebilir. Bireysel verileri kullanma hakkı elde edenler, bu verileri üçüncü şahıslara veremezler.
+İKİNCİ KISIM
+Resmi İstatistik Programı, Bilgi Derleme ve Gizlilik
+İKİNCİ BÖLÜM
+Bilgilerin Toplanması, Dağıtımı ve Gizliliği
+Madde 0015: İstatistiki birimlerin hakları
+Resmi istatistiklerin üretimi için veri veya bilgi talep edilen istatistiki birimler, sayımın veya araştırmanın amacı, kapsamı, istatistiki verinin gizliliğinin sağlanması için alınan önlemler ve hakları ile ilgili konularda 4982 sayılı Bilgi Edinme Hakkı Kanunu çerçevesinde, bilgi edinme, kendilerine ait gizli verinin izinsiz açıklanması durumunda da maddi ve manevi her türlü zararının tazmin edilmesini isteme hakkına sahiptir.
+Kendilerine ait gizli verilerin açıklanması nedeniyle açılan davalarda Başkanlık veya diğer kurum ve kuruluşlar aleyhine tazminata hükmedilmesi durumunda, bu hususta kusuru olan memur ve diğer görevlilere genel hükümlere göre rücu edilir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+BİRİNCİ BÖLÜM
+Kuruluş, Görev ve Teşkilat Yapısı
+Madde 0016: Türkiye İstatistik Kurumu
+Bu Kanunun uygulanmasını sağlamak ve kanunla kendisine verilen görevleri yerine getirmek üzere Türkiye İstatistik Kurumu kurulmuştur. Kurum kısaca TÜİK olarak adlandırılır.
+Kurum Başbakanlığa bağlı olup, Başbakan, Kurumun yönetimi ile ilgili yetkilerini gerekli gördüğü takdirde bir Devlet Bakanı vasıtasıyla kullanabilir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+BİRİNCİ BÖLÜM
+Kuruluş, Görev ve Teşkilat Yapısı
+Madde 0017: Bilimsel ve teknik özerklik
+Programın uygulanmasında, Kurum çalışanları ile diğer uygulayıcı birimlere, veri kaynakları, istatistiki yöntem ve süreçlerinin seçimi, dağıtımın içerik, şekil ve zamanı ve istatistiki gizliliğin uygulanması başta olmak üzere, hiçbir konuda talimat verilemez.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+BİRİNCİ BÖLÜM
+Kuruluş, Görev ve Teşkilat Yapısı
+Madde 0018: Türkiye İstatistik Kurumunun görev ve yetkileri
+Kurumun görev ve yetkileri şunlardır:
+Resmi İstatistik Programını hazırlamak.
+Program ile belirlenen istatistiki faaliyetlerin yürütülmesini organize etmek ve uygulanmasını sağlamak.
+Resmi istatistiklerin üretimi sırasında kullanılacak istatistiki yöntemleri, tanımları, sınıflamaları ve standartları, ulusal ve uluslararası normlara uygun olarak belirlemek.
+Ülkenin ekonomi, sosyal, demografi, kültür, çevre, bilim ve teknoloji alanları ile gerekli görülen diğer alanlardaki istatistiklerini derlemek, değerlendirmek, analiz etmek ve yayımlamak.
+Resmi istatistik sonuçlarının bilimsel ve teknik açıklamalarını yapmak.
+İstatistik alanındaki bilimsel araştırma teknikleri ile istatistiki yöntem ve bilgi teknolojilerine ilişkin gelişmeleri takip etmek ve bunların uygulanması için gerekli önlemleri almak.
+İstatistik alanındaki ulusal ve uluslararası öncelikleri dikkate alarak istatistiki veri ihtiyacı duyulan alanları ve veri derleme yöntemlerini ilgili kurum ve kuruluşlarla işbirliği içinde belirlemek.
+Programın kurum ve kuruluşlara verdiği resmi istatistik görevlerinin yerine getirilmesini izlemek, bu kurumlarca üretilen istatistiklerin uluslararası standartlara uygunluğunu incelemek, kalite kontrolünü yapmak ve bu konularda teknik destek ve koordinasyonu sağlamak.
+Kalkınma planları, programlar, ilgili mevzuat ve benimsediği temel ilkeler çerçevesinde, Kurumun orta ve uzun vadeli strateji ve politikalarını belirlemek; Kurumun stratejik planlarına, yıllık amaç ve hedeflerine bağlı olarak teşkilat yapısını, hizmet kalite standartlarını, yönetim hizmet ve süreçlerini sürekli geliştirici tedbirler almak.
+Programın uygulanmasına ilişkin Yıllık İzleme Raporlarını hazırlamak.
+İstatistiki bilgilerin saklanmasını, kullanıcıya sunulmasını, bu alanlara ilişkin sistemlerin geliştirilmesini ve bu amaçla ulusal ve uluslararası bir bilgi ağı ve bilgi akış sisteminin oluşturulmasını koordine etmek.
+Ulusal kayıt sistemlerinin oluşturulmasında standartları tanımlamak, uygulamak ve kurumlararası koordinasyon ile uygulanmasını sağlamak.
+Uluslararası düzeyde karşılaştırmalar yapmak amacıyla diğer ülkelere veya ülke gruplarına ait göstergeleri takip etmek, değerlendirmek ve gerekli durumlarda yayımlamak.
+İhtiyaç duyulan alanlarda veri üretilmesi, teknik kapasitenin geliştirilmesi ve güçlendirilmesi amacıyla, ulusal ve uluslararası kurum ve kuruluşlarla işbirliği içinde araştırma ve teknik yardım projeleri hazırlamak, geliştirmek ve yürütmek.
+İstatistikle ilgili konularda diğer ülkelerle ve uluslararası kuruluşlarla işbirliğini sağlamak ve uluslararası toplantılar düzenlemek.
+Kanunla verilen diğer görevleri yerine getirmek.
+Başkanlık, yüksek öğretim kurumlarının görevleri saklı kalmak şartıyla, Kurumun görev alanına giren konularda üniversiteler ve diğer eğitim kurumları ile işbirliği yaparak ulusal ve uluslararası eğitim ve araştırma merkezleri kurabilir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+BİRİNCİ BÖLÜM
+Kuruluş, Görev ve Teşkilat Yapısı
+Madde 0019: Teşkilat
+Türkiye İstatistik Kurumu; İstatistik Konseyi ve Türkiye İstatistik Kurumu Başkanlığından oluşur.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+İKİNCİ BÖLÜM
+İstatistik Konseyi
+Madde 0020: İstatistik Konseyi
+Programın hazırlanmasına, uygulanmasına, resmi istatistiklerin gelişimine ve işlevlerine ilişkin tavsiyelerde bulunmak, resmi istatistik ihtiyaçlarını tespit etmek, değerlendirmek ve ileriye yönelik görüş ve önerileri kapsayan çalışmalar yapmak üzere İstatistik Konseyi oluşturulmuştur.
+(Fıkra 18.05.2012 tarih ve 28296 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Konsey; Bakanlık müsteşarları, Hazine Müsteşarı, Sosyal Güvenlik Kurumu Başkanı, Gelir İdaresi Başkanı, Yurtdışı Türkler ve Akraba Topluluklar Başkanı, Devlet Personel Başkanı, Türkiye Cumhuriyet Merkez Bankası Başkanı, Yükseköğretim Kurulunca farklı ana bilim dallarında görev yapanlar arasından seçilecek üç öğretim üyesi, Türkiye Odalar ve Borsalar Birliği Yönetim Kurulu Başkanı, Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği Başkanı, Vergi Konseyi Başkanı, Türkiye Gazeteciler Cemiyeti Başkanı, istatistik alanında faaliyet gösteren ve en fazla öğretim elemanı üyeye sahip sivil toplum kuruluşunun başkanı, istatistiki sonuçlar içeren araştırma faaliyetleri yürüten gerçek kişiler veya özel hukuk tüzel kişilerinin üye olduğu en fazla üyeye sahip sivil toplum kuruluşunun başkanından oluşur. Konsey üyeleri, toplantılara katılamamaları hâlinde, yerlerine yetkilendirilmiş birer temsilci görevlendirirler.
+Türkiye İstatistik Kurumu Başkanı ve Başkan yardımcıları Konseyin doğal üyesidir. Konsey yılda en az bir defa toplanır.
+Konseyin görüşeceği konuların özelliklerinin gerektirmesi halinde, diğer kurum ve kuruluşlar ile sivil toplum kuruluşlarının temsilcileri ve Başkanlık yetkilileri oy hakkı olmaksızın Konsey toplantılarına çağrılabilir.
+Kurum Başkanı, Konseyin de başkanıdır. Konseyin sekretarya hizmetleri Başkanlık tarafından yürütülür.
+Konseyin çalışmaları için yapılacak giderler Kurum bütçesine konulacak ödenekten karşılanır.
+Konseyin çalışma usul ve esasları Bakanlar Kurulu tarafından çıkarılacak yönetmelikle belirlenir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+ÜÇÜNCÜ BÖLÜM
+Başkanlık
+Madde 0021: Başkanlık teşkilatı
+Türkiye İstatistik Kurumu Başkanlığı; merkez ve taşra teşkilatından meydana gelir. Merkez teşkilatı, ana hizmet birimleri, danışma birimleri ve yardımcı hizmet birimlerinden oluşur. Başkanlığın merkez teşkilatı ekli (I) sayılı cetvelde gösterilmiştir. Başkanlıkta, daire başkanlıkları ve bölge müdürlükleri bünyesinde işlerin niteliğine göre, devamlı veya geçici gruplar ve takımlar oluşturulabilir. Başkan bu yerlere kadroları uhdelerinde kalmak üzere sorumlular görevlendirir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+ÜÇÜNCÜ BÖLÜM
+Başkanlık
+Madde 0022: Başkan
+Başkan, Türkiye İstatistik Kurumunun en üst yöneticisi olup, Başkanlık hizmetlerini, mevzuat hükümlerine, resmi istatistik programına, Kurumun amaç ve politikalarına, stratejik planına, performans göstergelerine ve hizmet kalite standartlarına uygun olarak yürütmekle görevli ve yetkilidir. Başkan, Başbakana veya Kurumun bağlı olduğu Bakana(1) karşı sorumludur.
+(1) 02.11.2011 Tarih ve 28103 Sayılı Resmi Gazetede Yayınlanan 0662 Sayılı Khk ile birinci fıkrasında yer alan Başbakana ibaresinden sonra gelmek üzere veya Kurumun bağlı olduğu Bakana ibaresi eklenmiştir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+ÜÇÜNCÜ BÖLÜM
+Başkanlık
+Madde 0023: Başkanlığa atanma şartları ve usulü
+(Fıkra 02.11.2011 tarih ve 28103 sayılı Resmi Gazetede yayımlanan 0662 sayılı Khk ile Değişmiştir.) Başkanlığa atanacaklarda; 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde öngörülen genel şartlara ilave olarak, en az dört yıllık eğitim veren yüksek öğretim kurumlarından ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki yüksek öğretim kurumlarından mezun olma şartı aranır.
+Başkan, Bakanlar Kurulu kararı ile beş yıl süre için atanır. Süresi dolan Başkan aynı göreve bir defaya mahsus olmak üzere tekrar atanabilir. Başkanın görev süresi dolmadan görevine son verilemez. Başkan, ancak, resmi sağlık kurulu raporuyla görevini devamlı yapmasına engel olabilecek durumun tespiti veya atamaya ilişkin şartları kaybetmesi halinde atama usulüne göre süresi dolmadan görevden alınabilir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+ÜÇÜNCÜ BÖLÜM
+Başkanlık
+Madde 0024: Başkan yardımcıları
+Başkanlıkta Başkana yardımcı olmak üzere dört(1) başkan yardımcısı atanabilir. Bunlardan en az birinin daha önce Türkiye İstatistik Kurumu Uzmanı unvanını almış olması şartı aranır. Başkan yardımcıları Başkana karşı sorumludur.
+Başkan yardımcılıklarına yapılacak atamalarda, 657 sayılı Devlet Memurları Kanununda öngörülen genel şartlar ile en az dört yıllık eğitim veren yüksek öğretim kurumlarından ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki yüksek öğretim kurumlarından mezun olma(1) ve İngilizce, Fransızca, Almanca dillerinden birinde Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında en az (C) düzeyinde belge almış veya buna denk kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip(1) olmaları şartı da aranır.
+(1) 02.11.2011 Tarih ve 28103 Sayılı Resmi Gazetede Yayınlanan 0662 Sayılı Khk ile birinci fıkrasında yer alan üç ibaresi dört şeklinde değiştirilmiş, ikinci fıkrasında yer alan 23 üncü maddede sayılan yüksek öğretim kurumlarından mezun olmaları ibaresi en az dört yıllık eğitim veren yüksek öğretim kurumlarından ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki yüksek öğretim kurumlarından mezun olma şeklinde değiştirilmiş ve aynı fıkraya belge almış ibaresinden sonra gelmek üzere veya buna denk kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip ibaresi eklenmiştir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0025: Ana hizmet birimleri
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.)
+Kurumun ana hizmet birimleri on altı daire başkanlığından oluşur. Daire başkanlıklarının isim, görev ve yetkileri Kurumun bağlı olduğu Bakan tarafından belirlenir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0026: Ulusal Hesaplar Daire Başkanlığı
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0026/A: Ekonomik Göstergeler ve Fiyat İstatistikleri Daire Başkanlığı
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0027: Tarım ve Çevre İstatistikleri Daire Başkanlığı
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0028: İş İstatistikleri Daire Başkanlığı
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0028/A: Sektörel İstatistikler Daire Başkanlığı
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0029: Nüfus ve Demografi İstatistikleri Daire Başkanlığı
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0029/A: Sosyal Sektörler ve Araştırmalar Daire Başkanlığı
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0030: Yöntem Araştırmaları Daire Başkanlığı
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0031: Dış İlişkiler Daire Başkanlığı
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0032: Yayın ve Bilgi Dağıtım Daire Başkanlığı
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DÖRDÜNCÜ BÖLÜM
+Ana Hizmet Birimleri
+Madde 0033: Bilgi ve İletişim Teknolojileri Daire Başkanlığı
+(Madde 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+BEŞİNCİ BÖLÜM
+Danışma Birimleri
+Madde 0034: Danışma birimleri
+Başkanlığın danışma birimleri şunlardır:
+Strateji Geliştirme Daire Başkanlığı.
+Hukuk Müşavirliği.
+Basın ve Halkla İlişkiler Müşavirliği.
+Ayrıca, Kurumun görev alanına giren, özel önem ve öncelik taşıyan konularda Başkanlığa yardımcı olmak ve danışma kurulları, özel ihtisas komisyonları, inceleme-araştırma grupları, Veri Kalite Kontrol Kurulu ile Yayın ve Dağıtım Kurulu çalışmalarında yer almak üzere en fazla on istatistik müşaviri görevlendirilebilir.
+İstatistik müşaviri kadrosuna yapılacak atamalarda, 657 sayılı Devlet Memurları Kanununda öngörülen genel şartlar ile en az dört yıllık eğitim veren yüksek öğretim kurumlarından ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki yüksek öğretim kurumlarından mezun olmak(1) ve İngilizce, Fransızca, Almanca dillerinden birinde Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında en az (C) düzeyinde belge almış veya buna denk kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip(1) olmak ya da Başkanlıkta daire başkanı veya üstü kadrolarda en az iki yıl görev yapmış olmak şartları aranır.
+(1) 02.11.2011 Tarih ve 28103 Sayılı Resmi Gazetede Yayınlanan 0662 Sayılı Khk ile üçüncü fıkrasında yer alan 23 üncü maddede sayılan yüksek öğretim kurumlarından mezun olmak ibaresi en az dört yıllık eğitim veren yüksek öğretim kurumlarından ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki yüksek öğretim kurumlarından mezun olmak şeklinde değiştirilmiş ve aynı fıkraya belge almış ibaresinden sonra gelmek üzere veya buna denk kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip ibaresi eklenmiştir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+BEŞİNCİ BÖLÜM
+Danışma Birimleri
+Madde 0035: Strateji Geliştirme Daire Başkanlığı
+(Madde 02.11.2011 tarih ve 28103 sayılı Resmi Gazetede yayımlanan 0662 sayılı Khk ile Değişmiştir.)
+Strateji Geliştirme Daire Başkanlığının görevleri şunlardır:
+a) 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile 22/12/2005 tarihli ve 5436 sayılı Kanunun 15 inci maddesi ve diğer mevzuatla strateji geliştirme ve malî hizmet birimlerine verilen görevleri yapmak.
+b) Başkan tarafından verilecek benzeri görevleri yapmak.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+BEŞİNCİ BÖLÜM
+Danışma Birimleri
+Madde 0036: Hukuk Müşavirliği
+Hukuk Müşavirliğinin görevleri şunlardır:
+Başkan, Başkanlık birimleri ve bakanlıklar tarafından gönderilen kanun, tüzük ve yönetmelik tasarıları ile diğer hukuki konular hakkında görüş bildirmek.
+Başkanlığın menfaatlerini koruyucu, anlaşmazlıkları önleyici hukuki tedbirleri zamanında almak, anlaşma ve sözleşmelerin bu esaslara uygun olarak yapılmasına yardımcı olmak.
+08.01.1943 tarihli ve 4353 sayılı Kanun hükümlerine göre adli ve idari davalarda gerekli bilgileri hazırlamak, taraf olduğu idari davalarda Başkanlığı temsil etmek veya Başkanlıkça hizmet satın alma yoluyla temsil ettirilen davaları takip ve koordine etmek.
+Başkan tarafından verilecek benzeri görevleri yapmak.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+BEŞİNCİ BÖLÜM
+Danışma Birimleri
+Madde 0037: Basın ve Halkla İlişkiler Müşavirliği
+Basın ve Halkla İlişkiler Müşavirliğinin görevleri şunlardır:
+Basın ve halkla ilişkilerle ilgili faaliyetleri planlamak ve yürütülmesini sağlamak.
+4982 sayılı Bilgi Edinme Hakkı Kanununa göre yapılacak bilgi edinme başvurularını etkin, süratli ve doğru sonuçlandırmak üzere gerekli tedbirleri almak.
+Başkan tarafından verilecek benzeri görevleri yapmak.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+ALTINCI BÖLÜM
+Yardımcı Hizmet Birimleri
+Madde 0038: Yardımcı hizmet birimleri
+Başkanlığın yardımcı hizmet birimleri şunlardır:
+İnsan Kaynakları Daire Başkanlığı.
+Destek Hizmetleri Daire Başkanlığı.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+ALTINCI BÖLÜM
+Yardımcı Hizmet Birimleri
+Madde 0039: İnsan Kaynakları Daire Başkanlığı
+İnsan Kaynakları Daire Başkanlığının görevleri şunlardır:
+Başkanlığın insan gücü politikası ve planlaması konusunda çalışmalar yapmak ve tekliflerde bulunmak.
+Başkanlık personelinin atama, nakil, sicil, terfi, ücret, emeklilik ve benzeri özlük işlemlerini yürütmek.
+Başkanlığın eğitim planını hazırlamak (1) ve değerlendirmek.
+Program kapsamındaki kurum ve kuruluşlara yönelik eğitim programları hazırlamak ve uygulamak.
+Başkan tarafından verilecek benzeri görevleri yapmak.
+Eğitim program ve hizmetleri ile katılma şartları, süreleri, belgeleme usulleri ve diğer hususlar yönetmelikle tespit olunur.
+(1) 02.11.2011 Tarih ve 28103 Sayılı Resmi Gazetede Yayınlanan 0662 Sayılı Khk ile birinci fıkrasının (c) bendinde yer alan , uygulamak ibaresi yürürlükten kaldırılmıştır.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+YEDİNCİ BÖLÜM
+Kurul, Komisyon ve Gruplar
+Madde 0040: Destek Hizmetleri Daire Başkanlığı
+Destek Hizmetleri Daire Başkanlığının görevleri şunlardır:
+Başkanlığın ihtiyacı olan her türlü yapım, satın alma, kiralama, bakım ve onarım, arşiv, sağlık ve benzeri idari ve mali hizmetleri yürütmek.
+Taşınır ve taşınmaz mal kayıtlarını tutmak.
+Başkanlık sivil savunma ve seferberlik hizmetlerini planlamak ve yürütmek.
+Kuruma ait hizmet binalarının iç ve dış koruma hizmetini, 10.06.2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun hükümleri çerçevesinde yerine getirmek.
+Başkan tarafından verilecek benzeri görevleri yapmak.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+YEDİNCİ BÖLÜM
+Kurul, Komisyon ve Gruplar
+Madde 0041: Veri Kalite Kontrol Kurulu
+Başkanlıkta, Başkanlığın merkez ve taşra teşkilatının istatistik çalışmaları ve Programda yer alan istatistiklerin üretimine yönelik alan çalışmaları ile diğer kayıtlardan başlayıp, verilerin yayımlanmasına kadar geçen tüm süreçleri bilimsellik ve uluslararası standartlara uygunluk açısından incelemek ve değerlendirmek ve gerektiğinde yerinde kalite kontrol çalışmaları yapmak üzere Veri Kalite Kontrol Kurulu oluşturulur.
+Kurul, Başkanın görevlendireceği bir Başkan Yardımcısının başkanlığında, Yöntem Araştırmaları Daire Başkanı, ana hizmet birimlerinden en az iki daire başkanı ve en az bir istatistik müşavirinden oluşur. Kurulun çalışmalarına yardımcı olmak üzere Başkanlıkça geçici veya sürekli çalışma grupları oluşturulabilir. Bu gruplarda, kamu kurum ve kuruluşlarından personel görevlendirilebilir. Bu şekilde görevlendirilen personelin aylık, ek gösterge, ödenek, her türlü zam ve tazminatları ile diğer mali ve sosyal hak ve yardımları kendi kurumlarınca ödenir. Kurulun sekretarya hizmetleri, Yöntem Araştırmaları Daire Başkanlığı tarafından yürütülür.
+Veri Kalite Kontrol Kurulunun oluşumu, çalışma usul ve esasları yönetmelikle belirlenir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+YEDİNCİ BÖLÜM
+Kurul, Komisyon ve Gruplar
+Madde 0042: Yayın ve Dağıtım Kurulu
+Program kapsamında üretilen istatistiklerin yayın ve dağıtım ilke, standart ve politikalarının belirlenmesi ve bunların uygunluğunun kontrol edilmesi amacıyla, Kurum bünyesinde Yayın ve Dağıtım Kurulu oluşturulur. Kurul, Başkanın görevlendireceği bir Başkan Yardımcısının başkanlığında, Yayın ve Bilgi Dağıtım Daire Başkanı, ana hizmet birimlerinden en az iki daire başkanı ve en az bir istatistik müşavirinden oluşur. Kurulun sekretarya hizmetleri Yayın ve Bilgi Dağıtım Daire Başkanlığı tarafından yürütülür.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+YEDİNCİ BÖLÜM
+Kurul, Komisyon ve Gruplar
+Madde 0043: Danışma kurulları, özel ihtisas komisyonları ve inceleme-araştırma grupları
+Sayım, araştırma ve proje çalışmalarında ihtiyaç duyulan konularda gerçek ve tüzel kişilerin uzmanlık, deneyim ve görüşlerinden yararlanmak, en son bilimsel teknik ve yöntemlerin uygulamaya aktarılmasını sağlamak amacıyla danışma kurulları oluşturulabilir.
+Ayrıca, Kurumun hizmet birimlerinde gerektiğinde sürekli veya geçici özel ihtisas komisyonları ve inceleme- araştırma grupları kurulabilir.
+Danışma kurullarında, özel ihtisas komisyonlarında ve inceleme-araştırma gruplarında görev alacaklardan uhdesinde kamu görevi bulunup da diğer kamu kurum ve kuruluşlarından görevlendirilenlere her toplantı günü için bin (1000), uhdesinde herhangi bir kamu görevi bulunmayanlara ise ikibin (2000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucunda bulunacak miktar üzerinden ve ayda ikiden fazla olmamak üzere toplantı ücreti ödenir.
+Danışma kurullarında, özel ihtisas komisyonlarında ve inceleme-araştırma gruplarında görev alacak Başkanlık personeline herhangi bir ücret ödenmez.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+SEKİZİNCİ BÖLÜM
+Taşra Teşkilatı
+Madde 0044: Taşra teşkilatı
+Başkanlığın taşra teşkilatı ekli (II) sayılı cetvelde gösterilmiştir. (Cümle 02.11.2011 tarih ve 28103 sayılı Resmi Gazetede yayımlanan 0662 Sayılı Khk ile Eklenmiştir) Başkanlıkça gerek duyulan illerde bölge müdürlüklerine bağlı olarak irtibat büroları kurulabilir. Taşra teşkilatı, bu Kanunla Kuruma verilen ulusal düzeydeki sayım ve araştırma faaliyetlerinde sorumluluk bölgesine ait verilerin derlenmesi, değerlendirilmesi, kalite kontrolü, analizi ve merkeze aktarımı ile bölgesel istatistiklerin alt yapısını oluşturmakla ve üretmekle görevlidir. Bölge Müdürleri bölgesel düzeydeki tüm istatistik faaliyetlerini yürütmek ve yerel birimlerle koordinasyonu sağlamaktan doğrudan Başkana karşı sorumludur.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DOKUZUNCU BÖLÜM
+Personel Rejimi
+Madde 0045: Personel rejimi ve fazla çalışma
+Başkanlıkta; Başkan, Başkan Yardımcısı, I. Hukuk Müşaviri, Daire Başkanı, İstatistik Müşaviri, Hukuk Müşaviri, Bölge Müdürü, Türkiye İstatistik Kurumu Uzmanı, Türkiye İstatistik Kurumu Uzman Yardımcısı, İstatistikçi, Matematikçi, Mühendis ile dört yıllık yüksek öğrenim görmüş olmak kaydıyla Programcı kadrolarına atananlar, kadroları karşılık gösterilmek suretiyle, 657 sayılı Devlet Memurları Kanunu ve diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın sözleşmeli çalıştırılabilir.
+(Anayasa mahkemesinin; 21.02.2006 tarih ve 26087 sayılı Resmi Gazete de yayımlanan; 19.12.2005 tarih ve E. 2005/143, K. 2005/99 no lu Kararı ile iptal edilmiştir. Yürürlük: 21.05.2006) (24.05.2006 tarih ve 26177 sayılı Resmi Gazete de yayımlanan 5503 sayılı Kanunun 2 nci maddesiyle yeniden düzenlenen şekli. Yürürlük: 21.05.2006)) Sözleşmeli olarak Başkanlıkta fiilen çalışan personele, bu Kanuna ekli (III) sayılı cetvelde unvanlar itibarıyla yer alan taban ve tavan ücretleri arasında kalmak üzere, Başkan tarafından belirlenecek tutarda aylık brüt sözleşme ücreti ödenir. Başbakanlık merkez teşkilatında sözleşmeli olarak çalıştırılan emsali personelin yararlandığı ücret artışlarından Başkanlıkta çalışan sözleşmeli personel de aynı usul ve esaslara göre aynen yararlandırılır. Bu personel T.C. Emekli Sandığı ile ilişkilendirilir. Söz konusu personele, çalıştıkları günlerle orantılı olarak (hastalık ve yıllık izinleri dahil) ocak, nisan, temmuz ve ekim aylarında birer aylık sözleşme ücreti tutarında ikramiye ödenir. Bunlardan üstün gayret ve çalışmaları sonucunda emsallerine göre başarılı çalışma yaptıkları tespit edilenlere Başkanın teklifi ve Başkanlığın bağlı olduğu Bakanın onayı ile(1) haziran ve aralık aylarında birer aylık sözleşme ücreti tutarına kadar teşvik ikramiyesi ödenebilir. Bu fıkranın uygulanmasına ilişkin usul ve esaslar ile söz konusu personele yapılacak diğer ödemeler Bakanlar Kurulunca tespit edilir.
+Özel uzmanlık gerektiren hizmetlerde sözleşmeli olarak yabancı uzman çalıştırılabilir. Bu şekilde çalıştırılacak olan yabancı uzmanlara yapılacak ödemeler ile çalışma usul ve esasları Bakanlar Kurulu tarafından belirlenir.
+Başkanlık merkez ve taşra teşkilatı kadrolarında çalışan (kadro karşılığı çalışan sözleşmeli personel dahil) memurlara 10.10.1984 tarihli ve 3056 sayılı Kanunun 31 inci maddesinde yer alan fazla çalışma ücreti aynı esas ve usullere göre ödenir.
+(1) 02.11.2011 Tarih ve 28103 Sayılı Resmi Gazetede Yayınlanan 0662 Sayılı Khk ile ikinci fıkrasında yer alan Başkanın teklifi, ilgili Bakanın uygun görüşü üzerine Başbakan onayı ile ibaresi Başkanın teklifi ve Başkanlığın bağlı olduğu Bakanın onayı ile şeklinde değiştirilmiştir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+DOKUZUNCU BÖLÜM
+Personel Rejimi
+Madde 0046: Türkiye İstatistik Kurumu Uzman Yardımcılığı ve Uzmanlığına atanma
+Türkiye İstatistik Kurumu Uzman Yardımcılığına atanabilmek için 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılan genel şartlara ilave olarak;
+(*) (Bent 02.08.2013 tarih ve 28726 sayılı Resmi Gazetede yayımlanan 6495 Sayılı Kanun ile Değişmiştir.) En az dört yıllık eğitim veren yükseköğretim kurumlarının hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler, mühendislik ve iletişim fakülteleri ile istatistik, fizik, matematik, sosyoloji, psikoloji bölümleri ve Başkanlıkça yönetmelikle belirlenecek fakülte ve bölümlerden veya bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt içindeki ya da yurt dışındaki yükseköğretim kurumlarından mezun olmak,
+Meslek ve yabancı dil konularında yapılacak yarışma ve yeterlik sınavlarında başarılı olmak,
+Sınavın yapıldığı yılın ocak ayının ilk gününde otuzbeş yaşını doldurmamış olmak,
+Şarttır.
+Birinci fıkraya göre uzman yardımcılığına atananlar, en az üç yıl fiilen çalışmak, olumlu sicil almak ve hazırladığı tez kabul edilmek kaydıyla, açılacak yeterlik sınavlarına girme hakkını kazanırlar. Yeterlik sınavlarında başarılı olanlar, İngilizce, Fransızca ve Almanca dillerinden birinde Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavından en az (C) düzeyinde veya buna denk kabul edilen ve uluslararası geçerliliği bulunan(1) belge ibraz etmeleri halinde, Türkiye İstatistik Kurumu Uzmanı kadrolarına atanırlar.
+Tezi kabul edilmeyenlerle, yeterlik sınavlarında başarı gösteremeyenler veya dil belgesini ibraz edemeyenler, durumlarına uygun diğer kadrolara atanırlar. Uzman yardımcılığında geçirilen süre, askerlik hizmetinde veya ücretsiz izinde geçirilen süreler hariç, beş yılı aşamaz.
+Uzman yardımcılarının seçilme, tez hazırlama, yeterlik sınavları, yurt içinde ve 657 sayılı Devlet Memurları Kanununun 78 ve 79 uncu maddelerinde yer alan hükümler çerçevesinde yurt dışında eğitime tabi tutulmaları ile diğer konulara ilişkin usul ve esaslar çıkarılacak bir yönetmelikle belirlenir.
+(1) 02.11.2011 Tarih ve 28103 Sayılı Resmi Gazetede Yayınlanan 0662 Sayılı Khk ile ikinci fıkrasında yer alan en az (C) düzeyinde ibaresinden sonra gelmek üzere veya buna denk kabul edilen ve uluslararası geçerliliği bulunan ibaresi eklenmiştir.
+(*)0662 Khk ile Değiştirilen (a) Bendi 29.05.2014 Tarih ve 29014 Sayılı Resmi Gazetede Yayımlanan 2011/142, K: 2013/52 Sayılı Anayasa Mahkemesi Kararı ile 29.02.2015 Tarihinden İtibaren (9 Ay Sonra) Geçerli Olmak Üzere İptal Edilmiştir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+ONUNCU BÖLÜM
+Görevlendirme ve Ödemeler
+Madde 0047: Kamu kurum ve kuruluşlarından personelin görevlendirilmesi
+Kamu kurum ve kuruluşlarında çalışanlardan memur ve diğer kamu görevlisi statüsünde olanlar, Resmi İstatistik Programı kapsamındaki görevler için, kurumlarının muvafakati alınmak ve aylık, ek gösterge, ödenek, her türlü zam ve tazminatlar ile diğer mali ve sosyal hak ve yardımları kendi kurumlarınca ödenmek kaydıyla geçici olarak Başkanlıkta görevlendirilebilir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+ONUNCU BÖLÜM
+Görevlendirme ve Ödemeler
+Madde 0048: Sayım komiteleri ve görevlendirme
+Sayımların hazırlık, uygulama ve değerlendirme çalışmalarını yürütmek ve koordine etmek üzere, Başkanın veya görevlendireceği bir kişinin başkanlığında Merkez Sayım Komiteleri kurulur. Bu komitelere gerektiğinde, üniversiteler, ilgili bakanlıklar ile diğer kamu kurum ve kuruluşları temsilcilerinin katılımı sağlanır.
+Sayımlar, Başkanlığın belirleyeceği il ve ilçelerde ve tespit edeceği esaslar çerçevesinde mahallin en büyük mülki amirinin başkanlığında kurulacak Sayım Komitesi ve buna bağlı Sayım Bürosu tarafından yapılır. Mahalli komite ve büroların çalışmalarından, bunlara her türlü araç, gereç ve eleman sağlanmasından o yerin en büyük mülki idare amiri sorumludur. Sayımlarda kamu kurum ve kuruluşlarının taşra teşkilatı personeli de mahallin en büyük mülki amiri tarafından görevlendirilebilir.
+ÜÇÜNCÜ KISIM
+Türkiye İstatistik Kurumu
+ONUNCU BÖLÜM
+Görevlendirme ve Ödemeler
+Madde 0049: Ödemeler
+Sayım, araştırma ve veri kalite kontrolü ile inceleme ve denetleme işlerinde kurum içinden veya dışından bu Kanun gereğince geçici görevle görevlendirilecek olan kişilere başka yerde görevlendirildikleri süre için verilecek gündelikler, 6245 sayılı Harcırah Kanunu hükümleri uyarınca belirlenecek gündeliklerin birbuçuk katı olarak uygulanır.
+657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (C) fıkrasına göre sözleşmeli olarak çalıştırılacak geçici personele ödenecek ücretler, Kurum dışından görevlendirileceklere verilecek zaruri gider karşılıkları ve her çeşit ödenekler ile anket formu başına verilecek ödenekler ve bunların usul ve esasları Bakanlar Kurulu kararı ile tespit edilir.
+657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (C) fıkrasına göre sözleşmeli olarak çalıştırılacak geçici personele, ayrıca en yüksek Devlet memuru aylığının (ek gösterge dâhil) %20'si oranında ödeme yapılır ve bu ödeme damga vergisi hariç herhangi bir vergiye tabi tutulmaz.(1)
+Bu Kanun gereğince geçici görevle görevlendirilenlere verilecek yol ve konaklama giderleri ile sürekli görevle görevlendirilenlerin harcırahları da 6245 sayılı Harcırah Kanunu hükümleri uyarınca ödenir.
+Sayım, araştırma, inceleme, denetleme ve veri kalite kontrolü için alanda görevlendirilenler, mahalli idarelerce işletilen toplu taşım araçlarından geçici görev süresince ücretsiz ve kamu kurum ve kuruluşlarının konaklama ve sosyal tesis imkanlarından, ilgili kamu kurum ve kuruluşlarının personeline uygulanan şartlarla aynen yararlandırılır.
+(1) 02.11.2011 Tarih ve 28103 Sayılı Resmi Gazetede Yayınlanan 0666 sayılı Khk ile üçüncü fıkrasında yer alan bu Kanunun 45 inci maddesinin dördüncü fıkrası kapsamında verilecek fazla çalışma ücreti, 15-11 inci dereceden aylık alanlar için tespit edilen tutar kadar ödenir. ibaresi ayrıca en yüksek Devlet memuru aylığının (ek gösterge dâhil) %20'si oranında ödeme yapılır ve bu ödeme damga vergisi hariç herhangi bir vergiye tabi tutulmaz. şeklinde değiştirilmiştir.
+DÖRDÜNCÜ KISIM
+Sorumluluk, Yetkiler ve Ceza Hükümleri
+BİRİNCİ BÖLÜM
+Sorumluluk ve Yetkiler
+Madde 0050: Yöneticilerin sorumlulukları
+Başkanlığın her kademedeki yöneticileri, görevlerini mevzuata, stratejik plan ve programlara, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak yürütmekten üst kademelere karşı sorumludur.
+DÖRDÜNCÜ KISIM
+Sorumluluk, Yetkiler ve Ceza Hükümleri
+BİRİNCİ BÖLÜM
+Sorumluluk ve Yetkiler
+Madde 0051: Uluslararası işbirliği
+Başkanlık, istatistiki bilgilerin en gelişmiş yöntemlerle elde edilmesi, veri ve yayın değişimi, eğitim, ortak proje geliştirme ve uygulama konularında diğer ülkelerin benzer kuruluşları, uluslararası ve uluslarüstü kuruluşların ilgili birimleri ile genel hükümler çerçevesinde ilişkiler kurabilir ve işbirliği yapabilir.
+DÖRDÜNCÜ KISIM
+Sorumluluk, Yetkiler ve Ceza Hükümleri
+BİRİNCİ BÖLÜM
+Sorumluluk ve Yetkiler
+Madde 0052: Yetki devri
+Başkanlıkta her kademedeki yöneticiler, sınırlarını açıkça belirtmek ve yazılı olmak şartıyla yetkilerinden bir kısmını astlarına devredebilir. Yetki devri, uygun araçlarla ilgililere duyurulur.
+DÖRDÜNCÜ KISIM
+Sorumluluk, Yetkiler ve Ceza Hükümleri
+İKİNCİ BÖLÜM
+Ceza Hükümleri
+Madde 0053: Ceza hükümleri
+Bu Kanunun 13 üncü maddesinde yazılı yasaklara aykırı hareket eden kamu görevlileri, 5237 sayılı Türk Ceza Kanununun 258 inci maddesine göre cezalandırılır.
+Bu Kanunun 6 ncı maddesinin üçüncü fıkrası ve 14 üncü maddesinde belirtilen yükümlülüklere uymayan gerçek kişilerle özel hukuk tüzel kişilerinin organ ve temsilcilerine adli para cezası verilir.
+DÖRDÜNCÜ KISIM
+Sorumluluk, Yetkiler ve Ceza Hükümleri
+İKİNCİ BÖLÜM
+Ceza Hükümleri
+Madde 0054: İdari para cezaları
+Sayımlarda geçerli mazereti olmadan verilen görevleri yapmaktan kaçınanlara beşyüz Yeni Türk Lirası idari para cezası uygulanır. Görevlendirilenleri geçerli mazereti olmaksızın eğitim ve toplantılara göndermeyen veya görev yapmasına izin vermeyen kamu kurum ve kuruluşlarının yöneticileri ve sorumlularına, izin vermedikleri her kişi için beşyüz Yeni Türk Lirası idari para cezası uygulanır ve bu durum ilgililerin kurumlarına bildirilir. Ayrıca, görevlendirilmek üzere yetiştirme kurslarına katılan kimselerden, görevlerini geçerli mazereti olmaksızın yapmaktan kaçındıkları takdirde, yetiştirilmeleri için yapılan giderler genel hükümler çerçevesinde tahsil edilir.
+Başkanlık veya kurum ve kuruluşlar tarafından Program kapsamında istenen bilgileri, geçerli bir mazereti olmaksızın belirlenen şekil ve sürede vermeyen veya eksik veya hatalı verenler, bir kereye mahsus olmak üzere uyarılarak yedi gün içerisinde bilgileri vermeleri veya eksik ve hataları gidermeleri istenir. Bu uyarıya rağmen, bilgileri hiç vermeyen veya talep edildiği halde eksikleri gidermeyen ve hataları düzeltmeyen gerçek kişiler veya özel hukuk tüzel kişilerinin organ ve temsilcileri hakkında, fiilin;
+Hanehalkı veya bireylerle yapılan araştırmalarda işlenmesi durumunda beşyüz Yeni Türk Lirası,
+(Anayasa Mahkemesince iptal edilen 54 üncü maddesinin ikinci fıkrasının (b) bendi aşağıdaki şekilde 05.12.2008 tarih ve 27075 sayılı Resmi Gazetede yayımlanan Kanun ileyeniden düzenlenmiştir.) Hane halkı veya bireyler dışında kalan diğer istatistikî birimlerle yapılan araştırmalarda işlenmesi durumunda binbeşyüz Yeni Türk Lirası,
+Sayımlarda işlenmesi durumunda ikibin Yeni Türk Lirası,
+İdari para cezası uygulanır.
+(Fıkra 29.06.2012 tarih ve 28338 sayılı Resmi Gazetede yayımlanan 6327 Sayılı Kanun ile Eklenmiştir) Kurum tarafından bu Kanunun 9 uncu maddesi kapsamında talep edilen her türlü kayıt ve verinin otuz gün içinde verilmemesi veya Kurumun kullanımına açılmaması durumunda ilgili kurum ve kuruluşun üst yöneticileri hakkında ikinci fıkranın (b) bendinde belirtilen tutarda idari para cezası uygulanır.
+İdari para cezası ve diğer cezaların uygulanması, istatistiki birimin bilgi verme yükümlülüğünü ortadan kaldırmaz.
+7201 sayılı Tebligat Kanununda belirtilen usullerden biri ile yapılan tebligatlar veya araştırmada görev alan personel tarafından bilgi ile ilgili dokümanların istatistiki birim yetkilisine verildiği veya bilginin istenmesi amacıyla istatistiki birimin ziyaret edildiğine ilişkin Başkanlıkça belirlenen usullere uygun olarak tanzim edilmiş tutanaklar, istatistiki birimlerden bilgi istendiğinin tevsikinde yeterli olup, ispat için başka belge aranmaz.
+Bu madde hükümleri, sözleşme ile üçüncü kişilere yaptırılan araştırmalar için de uygulanır.
+İdari para cezalarına ilişkin karar, sayım için mahalli komiteler kurulması durumunda, komitelerin başkanı tarafından; Programda belirtilmek şartıyla sayımların başka kurum ve kuruluşlar tarafından gerçekleştirilmesi durumunda bu kurum ve kuruluşların en üst yöneticileri tarafından; diğer durumlarda ise Başkanlığın merkez veya taşra teşkilatının en üst amirleri tarafından verilir.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Madde 0055: Döner Sermaye İşletmesi
+Kurum bünyesinde, yerli ve yabancı kurum, kuruluş ve kişilere, bu Kanunda öngörülen hizmetlere ait yayın, bilgi, belge satışı ile bilgi işlem, dizgi, baskı, teknik danışmanlık, eğitim, proje ve araştırma hizmetlerini yerine getirmek üzere Döner Sermaye İşletmesi kurulmuştur.
+Döner Sermaye İşletmesi için genel bütçeden beşyüz bin Yeni Türk Lirası sermaye tahsis olunmuştur. Bu miktar Bakanlar Kurulu kararıyla beş katına kadar artırılabilir. Bu suretle artırılan sermaye elde edilen karla karşılanır.
+Döner sermaye; Kurum bütçesine bu amaçla konulan ödenekler, Hazinece verilecek ayni yardımlar, döner sermaye faaliyetlerinden elde edilecek kar ile bağış ve yardımlardan meydana gelir. Elde edilen net kar, ödenmiş sermaye, tahsis edilen sermaye miktarına ulaşıncaya kadar sermayeye ilave olunur. Her yıl sonunda kullanılmayan gelir, ertesi yıllarda kanun hükümleri çerçevesinde yönetim kurulunun uygun göreceği mal ve hizmet alımlarında kullanılır. Bağış ve yardımlar, bu maddede yazılı limite bağlı kalmaksızın mevcut sermayeye eklenir.
+Döner sermaye faaliyetlerinin gerektirdiği giderler ile kiralama, satın alma, araç, gereç, araştırma, eğitim, tanıtım giderleri ile faaliyet alanına giren hizmetlerde çalıştırılacak personele bu Kanunun 49 uncu maddesi kapsamındaki harcırahları döner sermayeden karşılanır. Ayrıca, Kurumun dışardan aldığı hizmetlere karşılık yapılacak diğer ödemeler ve Döner Sermaye İşletmesinin faaliyetlerinde hizmet veren birimlerin her türlü ihtiyaçları da döner sermayeden karşılanabilir. Bu maddede sayılanlar dışında döner sermayeden herhangi bir harcama yapılamaz.
+Döner Sermaye İşletmesi; Kurumun hizmetlerine öncelik vermek ve aksatmamak kaydıyla, diğer kamu kurum ve kuruluşlarından, yerli veya yabancı gerçek ve tüzel kişilerden sipariş almaya, vermeye, her türlü teknik işlemlere girişmeye ve gerektiğinde müştereken iş yapmaya yetkilidir.
+Döner Sermaye İşletmesinin faaliyet alanları, çalışma usul ve esasları, giderleri, işletilmesi, hesap usulleri ile alım satım işlemlerine ilişkin hususlar Maliye Bakanlığından alınacak görüş üzerine çıkarılacak yönetmelikle tespit edilir.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Madde 0056: Atama
+(1. Fıkra: Anayasa mahkemesinin; 21.02.2006 tarih ve 26087 sayılı Resmi Gazete de yayımlanan; 19.12.2005 tarih ve E. 2005/143, K. 2005/99 no lu Kararı ile iptal edilmiştir. Yürürlük: 21.05.2006) (24.05.2006 tarih ve 26177 sayılı Resmi Gazete de yayımlanan 5503 sayılı Kanunun 2 nci maddesiyle yeniden düzenlenen şekli. Yürürlük: 21.05.2006)) Başkanlıkta, Başkan Yardımcıları, Birinci Hukuk Müşaviri, Daire Başkanları ve Bölge Müdürleri, Başkanın önerisi üzerine müşterek kararname ile bunların dışında kalan diğer personelin atamaları ise Başkan tarafından yapılır.
+Başkanlıkta; Daire Başkanı ve Bölge Müdürü kadrolarına yapılacak atamalarda, 657 sayılı Devlet Memurları Kanununda öngörülen genel şartlara ilave olarak en az dört yıllık eğitim veren yüksek öğretim kurumlarından ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki yüksek öğretim kurumlarından(1) mezun olmak şartları aranır.
+Ayrıca, ana hizmet birimi Daire Başkanlıkları, Strateji Geliştirme Daire Başkanı ve Bölge Müdürü kadrolarına atanmak için İngilizce, Fransızca, Almanca dillerinden birinde Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında en az (C) düzeyinde belge almış veya buna denk kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip(1) olmak şarttır.
+Başkanlığın merkez ve taşra teşkilatlarında görevlendirilecek personelin yer değiştirme suretiyle atanmaları ile yükselme usul ve esasları yönetmeliklerle düzenlenir.
+(1) 02.11.2011 Tarih ve 28103 Sayılı Resmi Gazetede Yayınlanan 0662 Sayılı Khk ile ikinci fıkrasında yer alan bu Kanunun 23 üncü maddesinde sayılan yüksek öğretim kurumlarından ibaresi en az dört yıllık eğitim veren yüksek öğretim kurumlarından ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki yüksek öğretim kurumlarından şeklinde değiştirilmiş, aynı maddenin üçüncü fıkrasında yer alan belge almış ibaresinden sonra gelmek üzere veya buna denk kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip ibaresi eklenmiştir.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Madde 0057: Değiştirilen hükümler
+657 sayılı Devlet Memurları Kanununun;
+36 ncı maddesinin Ortak Hükümler bölümünün (A) fıkrasının (11) numaralı bendine, Dış Ticaret Uzman Yardımcıları ibaresinden sonra gelmek üzere Türkiye İstatistik Kurumu Uzman Yardımcıları, ibaresi; Dış Ticaret Uzmanlığına, ibaresinden sonra gelmek üzere Türkiye İstatistik Kurumu Uzmanlığına, ibaresi,
+59 uncu maddesinin birinci fıkrasına Başbakanlık Basın Müşavirliğine, ibaresinden sonra gelmek üzere Türkiye İstatistik Kurumu Basın ve Halkla İlişkiler Müşavirliğine, ibaresi,
+Zam ve tazminatlar başlıklı 152 nci maddesinin II- Tazminatlar kısmının A- Özel Hizmet Tazminatı bölümünün (h) bendine Dış Ticaret Uzmanları, ibaresinden sonra gelmek üzere Türkiye İstatistik Kurumu Uzmanları, ibaresi,
+I sayılı Ek Gösterge Cetvelinin I- Genel İdare Hizmetleri Sınıfı başlığını taşıyan bölümünün (d) bendinde geçen DİE Başkanı ibaresi aynı bölümün (c) bendine Türkiye İstatistik Kurumu Başkanı olarak ve II sayılı Cetvelin 2- Yargı Kuruluşları, Bağlı ve İlgili Kuruluşlar ile Yüksek Öğretim Kuruluşlarında başlığını taşıyan bölümünde yer alan Devlet İstatistik Enstitüsü Başkan Yardımcısı ibaresi I sayılı Cetvelin (e) bendine Türkiye İstatistik Kurumu Başkan Yardımcıları olarak; I sayılı Ek Gösterge Cetvelinin I- Genel İdare Hizmetleri Sınıfı başlığını taşıyan bölümünün (g) bendine Türkiye İstatistik Kurumu Uzmanları ibaresi; II sayılı Cetvelin 2- Yargı Kuruluşları, Bağlı ve İlgili Kuruluşlar ile Yüksek Öğretim Kuruluşlarında başlığını taşıyan bölümünde yer alan Hazine Müsteşarlığı ve Dış Ticaret Müsteşarlığı Daire Başkanı (Ana ve Yardımcı Hizmet Birimi) ibaresinden sonra gelmek üzere Türkiye İstatistik Kurumu Daire Başkanı ibaresi; Serbest Bölge Müdürü ibaresinden sonra gelmek üzere Türkiye İstatistik Kurumu Bölge Müdürü ibaresi, II sayılı Cetvelin 5- Yargı Kuruluşları, Bağlı ve İlgili Kuruluşlar ile Yüksek Öğretim Kuruluşlarında başlığını taşıyan bölümüne İl Müdürü ibaresinden sonra gelmek üzere Türkiye İstatistik Kurumunda Müdür ibaresi, Hukuk Müşaviri ibaresinden sonra gelmek üzere İstatistik Müşaviri, ibaresi,
+Eklenmiştir.
+23.04.1981 tarihli ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atama Usulüne İlişkin Kanunun eki 2 sayılı Cetvelde yer alan Devlet İstatistik Enstitüsü Başkanı ibaresi çıkarılmış, aynı Kanunun 1 sayılı Cetveline Türkiye İstatistik Kurumu Başkanı olarak eklenmiştir.
+10.12.2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun eki I sayılı Cetvelde yer alan Devlet İstatistik Enstitüsü Başkanlığı ibaresi, Türkiye İstatistik Kurumu Başkanlığı olarak değiştirilmiştir.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Madde 0058: Yürürlükten kaldırılan ve uygulanmayacak hükümler ile atıflar(*)
+13.06.1962 tarihli ve 53 sayılı Devlet İstatistik Enstitüsünün Görev; Yetki ve Kuruluşu Hakkında Kanun; 08.06.1984 tarihli ve 219 sayılı Devlet İstatistik Enstitüsü Başkanlığının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararname; 27.11.1989 tarihli ve 357 sayılı Devlet İstatistik Enstitüsü Başkanlığının Kuruluş ve Görevleri Hakkında 219 sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Değiştirilmesine Dair Kanun Hükmünde Kararname; 05.02.1990 tarihli ve 403 sayılı Devlet İstatistik Enstitüsü Başkanlığının Kuruluş ve Görevleri Hakkında 219 sayılı Kanun Hükmünde Kararnamenin 2 nci Maddesinin (d) Fıkrasında Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname; 14.04.1989 tarihli ve 367 sayılı Bakanlıklarda ve Bağlı Kuruluşlarda Avrupa Topluluğuyla İlgili Birimler Kurulması ve 190 sayılı Kanun Hükmünde Kararnamenin Eki Cetvellerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin 12 nci maddesi yürürlükten kaldırılmıştır.
+23.02.1995 tarihli ve 547 sayılı Kanun Hükmünde Kararnamenin geçici 1 inci maddesinde yer alan Devlet İstatistik Enstitüsü Başkanlığı ibaresi madde metninden çıkarılmıştır.
+Diğer kanunların istatistik amaçlı veri toplama, derleme, düzenleme ve dağıtımıyla ilgili bu Kanuna aykırı hükümleri uygulanmaz. Resmi istatistik alanına ilişkin mevzuatta yapılacak değişiklik ve ilaveler, ancak bu Kanuna ek olarak çıkarılacak kanunlarda yer alır.
+(Fıkra 01.03.2014 tarih ve 28928 sayılı Resmi Gazetede yayımlanan 6527 Sayılı Kanun ile Eklenmiştir) Muhtelif mevzuatta Toptan Eşya Fiyat Endeksi (TEFE) ve Üretici Fiyat Endeksine (ÜFE) yapılmış olan atıflar, Kurumca hesaplanan Yurt İçi Üretici Fiyat Endeksine (Yİ-ÜFE), tarım sektörü TEFE ve ÜFE'ye yapılan atıflar Tarım Ürünleri Üretici Fiyat Endeksine yapılmış sayılır. (*) Yürürlükten kaldırılan ve uygulanmayacak hükümler Şeklinde ki Madde Başlığı 01.03.2014 Tarih ve 28928 Sayılı Resmi Gazetede Yayımlanan 6527 Sayılı Kanun ile Görüldüğü şekilde değişmiştir.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Ek Madde 0001 : Kurumun gelirleri
+(Madde 27.12.2024 tarih ve 32765 sayılı Resmi Gazetede yayımlanan 7537 Sayılı Kanunun 14. Maddesi ile Eklenmiştir)
+Kurumun gelirleri şunlardır:
+a) Genel bütçeden yapılacak Hazine yardımları.
+b) Taşınır ve taşınmaz malların satışı, kiraya verilmesi ve işletilmesinden elde edilen gelirler.
+c) Kurumun tarafsızlığını ve bağımsızlığını etkilemeyecek her türlü bağış, yardım, vasiyet ve sair gelirler.
+ç) Proje ve araştırma gelirleri.
+d) Diğer gelirler.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0001:
+Bu Kanunun yürürlüğe girdiği tarihte Devlet İstatistik Enstitüsü Başkanlığı, merkez ve taşra teşkilatlarına ait taşınırlar, araç, gereç, malzeme, demirbaş, taşıtlar ve her türlü hak ve yükümlülükler ile personel hiçbir işleme gerek kalmaksızın Türkiye İstatistik Kurumu Başkanlığına devredilmiş sayılır. Devlet İstatistik Enstitüsü Başkanlığının kullanımında bulunan veya mülkiyeti Hazineye ait olup da Devlet İstatistik Enstitüsü Başkanlığına tahsisli gayrimenkuller hiçbir işleme gerek kalmaksızın Türkiye İstatistik Kurumu Başkanlığına tahsis edilmiş sayılır.
+Türkiye İstatistik Kurumu Başkanlığının, 2005 Mali Yılı harcamaları, 2005 Mali Yılı Bütçe Kanununun 15 inci maddesinin (a) fıkrasının (8) numaralı bendine istinaden gerekli işlem ve düzenlemeler yapılıncaya kadar Devlet İstatistik Enstitüsü Başkanlığının 2005 yılı bütçesinde yer alan ödeneklerden karşılanır.
+219 sayılı Devlet İstatistik Enstitüsü Başkanlığının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnamenin ek 1 inci maddesi ile kurulan Döner Sermaye İşletmesine ait taşınır ve taşınmaz mallar, araç, gereç, malzeme, demirbaş, taşıtlar ve her türlü hak ve yükümlülükler ile burada çalışan personel hiçbir işleme gerek kalmaksızın Türkiye İstatistik Kurumu Başkanlığı Döner Sermaye İşletmesine devredilmiş sayılır.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0002:
+Başkanlığın teşkilat ve kuruluşu, bu Kanun esaslarına göre yeniden düzenleninceye kadar bu Kanunun yürürlüğe girdiği tarihte uygulanmakta olan mevcut kadroların kullanımına devam olunur.
+Bu Kanuna göre yeniden düzenleme ve atamalar yapılıncaya kadar Başkanlığın değişen veya yeniden kurulan birimlere verilen görevleri, daha önce bu görevleri yapmakta olan birimler tarafından yapılmaya devam edilir. Başkanlık, teşkilatını ve kadrolarını en geç altı ay içinde bu Kanuna uygun hale getirir. Bu çerçevede kadro değişiklikleri 190 sayılı Kanun Hükmünde Kararnamenin 9 uncu maddesinin son fıkrası hükmü uygulanmaksızın anılan Kanun Hükmünde Kararnamenin hükümlerine göre yapılır.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0003:
+Devlet İstatistik Enstitüsü Başkanlığına ait kadrolar iptal edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki cetvellerden çıkarılır ve ekli (1) sayılı listede belirtilen kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvele Türkiye İstatistik Kurumu Başkanlığı bölümü olarak eklenir.
+24.11.1994 tarihli ve 4046 sayılı Kanunun 25 inci maddesi uyarınca Devlet İstatistik Enstitüsü Başkanlığına tahsis edilmiş kadrolarda görev yapan personel kadroları ile birlikte Türkiye İstatistik Kurumu Başkanlığına devredilir.
+Devlet İstatistik Enstitüsü Başkanlığında sürekli işçi kadrolarında görev yapanlar kadroları ile birlikte Türkiye İstatistik Kurumu Başkanlığına devredilir.
+(1) SAYILI LİSTE
+KURUMU:TÜRKİYE İSTATİSTİK KURUMU BAŞKANLIĞI
+TEŞKİLATI:MERKEZ
+İHDAS EDİLEN KADROLAR
+SINIFI	UNVANI	DERECESİ	SERBEST
+KADRO
+ADEDİ	TUTULAN
+KADRO
+ADEDİ	TOPLAM
+GİH	TÜRKİYE İSTATİSTİK KURUMU BAŞKANI	1	1	-	1
+TÜRKİYE İSTATİSTİK KURUMU BAŞKAN YARDIMCISI	1	3	-	3
+I.HUKUK MÜŞAVİRİ	1	1	-	1
+HUKUK MÜŞAVİRİ	1	3	-	3
+3	1	-	1
+5	1	-	1
+ULUSAL HESAPLAR VE EKONOMİK GÖSTERGELER DAİRE BAŞKANI	1	1	-	1
+TARIM VE ÇEVRE İSTATİSTİKLERİ DAİRE BAŞKANI	1	1	-	1
+SANAYİ VE İŞ İSTATİSTİKLERİ DAİRE BAŞKANI	1	1	-	1
+SOSYAL İSTATİSTİKLER DAİRE BAŞKANI	1	1	-	1
+YÖNTEM ARAŞTIRMALARI DAİRE BAŞKANI	1	1	-	1
+DIŞ İLİŞKİLER DAİRE BAŞKANI	1	1	-	1
+YAYIN VE BİLGİ DAĞITIM DAİRE BAŞKANI	1	1	-	1
+BİLGİ VE İLETİŞİM TEKNOLOJİLERİ DAİRE BAŞKANI	1	1	-	1
+STRATEJİ GELİŞTİRME DAİRE BAŞKANI	1	1	-	1
+İNSAN KAYNAKLARI DAİRE BAŞKANI	1	1	-	1
+DESTEK HİZMETLERİ DAİRE BAŞKANI	1	1	-	1
+İSTATİSTİK MÜŞAVİRİ	1	10	-	10
+BASIN VE HALKLA İLİŞKİLER MÜŞAVİRİ	1	1	-	1
+TÜRKİYE İSTATİSTİK KURUMU UZMANI	1	59	-	59
+2	31	-	31
+3	18	-	18
+4	3	-	3
+MÜDÜR	1	15	-	15
+ŞUBE MÜDÜRÜ	1	45	-	45
+2	3	-	3
+3	1	-	1
+APK UZMANI	1	40	-	40
+PROGRAMCI	1	13	-	13
+2	3	-	3
+3	3	-	3
+4	3	-	3
+5	3	-	3
+6	3	-	3
+7	3	-	3
+8	3	-	3
+SOSYOLOG	4	1	-	1
+5	1	-	1
+6	1	-	1
+7	1	-	1
+8	1	-	1
+ŞEF	3	55	-	55
+4	9	-	9
+5	4	-	4
+TÜRKİYE İSTATİSTİK KURUMU UZMAN YARDIMCISI	6	60	-	60
+7	56	-	56
+AYNİYAT SAYMANI	1	1	-	1
+MEMUR	5	23	-	23
+6	9	-	9
+7	3	-	3
+8	5	-	5
+9	5	-	5
+KÜTÜPHANECİ	1	1	-	1
+2	1	-	1
+6	2	-	2
+MÜTERCİM	1	1	-	1
+3	1	-	1
+6	1	-	1
+AMBAR MEMURU	5	1	-	1
+SATINALMA MEMURU	5	3	-	3
+6	2	-	2
+7	2	-	2
+BİLGİSAYAR İŞLETMENİ	3	12	-	12
+4	2	-	2
+5	10	-	10
+6	5	-	5
+7	13	-	13
+8	9	-	9
+VERİ HAZIRLAMA VE KONTROL İŞLETMENİ	3	48	-	48
+4	22	-	22
+5	30	-	30
+6	22	-	22
+7	20	-	20
+8	2	-	2
+9	8	-	8
+ŞOFÖR	5	9	-	9
+6	7	-	7
+7	2	-	2
+ANKETÖR	3	43	-	43
+4	31	-	31
+5	16	-	16
+6	17	-	17
+7	4	-	4
+SHS	DAİRE TABİBİ	1	3	-	3
+DİŞ TABİBİ	1	1	-	1
+VETERİNER HEKİM	1	1	-	1
+PSİKOLOG	1	1	-	1
+6	1	-	1
+GİH	ÇOCUK EĞİTİMCİSİ	5	2	-	2
+SHS	HEMŞİRE	3	2	-	2
+9	1	-	1
+THS	MÜHENDİS	1	8	-	8
+2	13	-	13
+3	10	-	10
+4	5	-	5
+5	5	-	5
+6	3	-	3
+7	2	-	2
+MATEMATİKÇİ	1	8	-	8
+2	9	-	9
+3	3	-	3
+4	2	-	2
+5	5	-	5
+6	5	-	5
+İSTATİSTİKÇİ	1	110	-	110
+2	50	-	50
+3	32	-	32
+4	10	-	10
+5	20	-	20
+6	5	-	5
+7	5	-	5
+8	5	-	5
+EKONOMİST	1	13	-	13
+2	5	-	5
+3	6	-	6
+4	10	-	10
+5	1	-	1
+6	1	-	1
+7	1	-	1
+FİZİKÇİ	5	1	-	1
+8	2	-	2
+TEKNİKER	1	6	-	6
+2	2	-	2
+3	1	-	1
+TEKNİSYEN	3	17	-	17
+4	5	-	5
+5	16	-	16
+6	6	-	6
+7	1	-	1
+GRAFİKER	7	1	-	1
+8	1	-	1
+YHS	TEKNİSYEN YARDIMCISI	5	23	-	23
+6	10	-	10
+7	9	-	9
+8	10	-	10
+10	1	-	1
+DAĞITICI	5	3	-	3
+AŞÇI	6	1	-	1
+7	1	-	1
+BEKÇİ	5	4	-	4
+7	1	-	1
+10	1	-	1
+12	1	-	1
+TOPLAM		1351		1351
+(1) SAYILI LİSTE
+KURUMU:TÜRKİYE İSTATİSTİK KURUMU BAŞKANLIĞI
+TEŞKİLATI:TAŞRA
+İHDAS EDİLEN KADROLAR
+SINIFI	UNVANI	DERECESİ	SERBEST
+KADRO
+ADEDİ	TUTULAN
+KADRO
+ADEDİ	TOPLAM
+GİH	BÖLGE MÜDÜRÜ	1	26	-	26
+ARAŞTIRMACI	1	17	-	17
+TÜRKİYE İSTATİSTİK KURUMU UZMANI	1	6	-	6
+2	5	-	5
+3	9	-	9
+4	18	-	18
+5	6	-	6
+ŞUBE MÜDÜRÜ	1	24	-	24
+2	1	-	1
+3	1	-	1
+PROGRAMCI	1	1	-	1
+3	1	-	1
+8	2	-	2
+9	2	-	2
+SOSYOLOG	6	2	-	2
+7	2	-	2
+8	1	-	1
+TÜRKİYE İSTATİSTİK KURUMU UZMAN YARDIMCISI	6	102	-	102
+7	76	-	76
+8	82	-	82
+ŞEF	3	11	-	11
+4	2	-	2
+MEMUR	5	20	-	20
+6	3	-	3
+7	4	-	4
+8	2	-	2
+9	2	-	2
+VERİ HAZIRLAMA VE KONTROL İŞLETMENİ	3	1	-	1
+4	3	-	3
+5	5	-	5
+6	5	-	5
+7	6	-	6
+8	4	-	4
+9	2	-	2
+10	2	-	2
+ŞOFÖR	5	2	-	2
+6	3	-	3
+7	4	-	4
+8	4	-	4
+9	1	-	1
+10	1	-	1
+11	1	-	1
+ANKETÖR	3	16	-	16
+4	15	-	15
+5	10	-	10
+6	20	-	20
+7	10	-	10
+8	10	-	10
+9	8	-	8
+THS	MÜHENDİS	1	5	-	5
+2	4	-	4
+3	3	-	3
+4	2	-	2
+5	7	-	7
+6	2	-	2
+7	2	-	2
+MATEMATİKÇİ	1	2	-	2
+2	2	-	2
+3	2	-	2
+4	2	-	2
+5	8	-	8
+6	9	-	9
+İSTATİSTİKÇİ	1	30	-	30
+2	36	-	36
+3	18	-	18
+4	22	-	22
+5	26	-	26
+6	25	-	25
+7	27	-	27
+8	26	-	26
+EKONOMİST	1	15	-	15
+2	2	-	2
+3	3	-	3
+4	2	-	2
+5	4	-	4
+FİZİKÇİ	1	1	-	1
+3	1	-	1
+TEKNİKER	3	1	-	1
+4	1	-	1
+TEKNİSYEN	3	1	-	1
+4	1	-	1
+5	1	-	1
+6	1	-	1
+7	1	-	1
+8	1	-	1
+9	3	-	3
+10	1	-	1
+YHS	TEKNİSYEN YARDIMCISI	8	1	-	1
+HİZMETLİ	5	3	-	3
+6	3	-	3
+7	4	-	4
+8	3	-	3
+9	5	-	5
+10	2	-	2
+11	4	-	4
+12	2	-	2
+BEKÇİ	6	1	-	1
+7	1	-	1
+9	1	-	1
+10	1	-	1
+11	1	-	1
+12	1	-	1
+TOPLAM		868		868
+(1) SAYILI LİSTE
+KURUMU	: TÜRKİYE İSTATİSTİK KURUMU BAŞKANLIĞI
+TEŞKİLATI	: DÖNER SERMAYE İŞLETMESİ MÜDÜRLÜĞÜ
+İHDAS EDİLEN KADROLAR
+SINIFI	UNVANI	DERECESİ	SERBEST
+KADRO
+ADEDİ	TUTULAN
+KADRO
+ADEDİ	TOPLAM
+GİH	İŞLETME MÜDÜRÜ	1	1	-	1
+TOPLAM		1		1
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0004:
+Bu Kanunda yapılan yeni düzenleme ile kadro ve görev unvanları değişmeyenlerden bu Kanunda öngörülen şartları taşıyanlar, başka bir işleme gerek kalmaksızın yeni kadrolarına atanmış sayılır.
+Devlet İstatistik Enstitüsü Başkanlığında; Bölge Müdür Yardımcısı kadrosunda bulunanların görevleri bu Kanunun yayımı tarihinde sona erer ve bunlar ekli (1) sayılı listede ihdas edilen Araştırmacı kadrolarına atanmış sayılırlar. Herhangi bir sebeple boşalması halinde Araştırmacı (taşra teşkilatı), Şube Müdürü (merkez teşkilatı) ve Şef kadroları hiçbir işleme gerek kalmaksızın iptal edilmiş sayılır.
+Bu Kanuna göre kadro ve görev unvanları değişen yahut kaldırılan veya bu Kanunda öngörülen şartları taşımayan personel, en geç altı ay içinde derece ve kademelerine uygun kadrolara atanır ve atama işlemi yapılıncaya kadar Kurumca ihtiyaç duyulan işlerde görevlendirilirler. Bunlar, yeni bir kadroya atanıncaya kadar, eski kadrolarına ait aylık, ek gösterge ve her türlü zam ve tazminatlar ile diğer mali haklarını bu süre içerisinde kamu görevlilerine yapılacak artış oran ve/veya miktarları uygulanmak suretiyle almaya devam ederler.
+Söz konusu personelin, atandıkları yeni kadroların aylık, ek gösterge, her türlü zam ve tazminatları ile diğer mali hakları (fazla çalışma ücreti hariç) toplamının net tutarının, eski kadrolarına bağlı olarak en son ayda aldıkları aylık, ek gösterge, her türlü zam ve tazminatlar ile diğer mali hakları (fazla çalışma ücreti hariç) toplamının net tutarından az olması halinde, aradaki fark giderilinceye kadar atandıkları kadrolarda kaldıkları sürece herhangi bir kesintiye tabi tutulmaksızın tazminat olarak ödenir. Kadro karşılığı sözleşmeli statüde çalışanların sözleşmeleri, sözleşme süresi sonuna kadar devam eder.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0005:
+Bu Kanunun yürürlüğe girmesinden önce Genel İdare Hizmetleri ve Teknik Hizmetler Sınıfına dahil DİE Uzmanı unvanını almış olanlar Türkiye İstatistik Kurumu Uzmanı unvanını, DİE Uzman Yardımcısı olarak atanmış bulunanlar Türkiye İstatistik Kurumu Uzman Yardımcısı unvanını bu Kanunun yayımlandığı tarihte başka bir işleme gerek kalmaksızın almış sayılırlar. DİE Uzman Yardımcısı unvan ve kadrosunda geçirilen süreler, Türkiye İstatistik Kurumu Uzman Yardımcısı unvan ve kadrolarında geçmiş sayılır.
+Ayrıca, bu Kanunun yürürlüğe girmesinden önce Başkanlıkta Avrupa Birliği Uzmanı unvanını almış olanlar Türkiye İstatistik Kurumu Uzmanı unvanını ve kadrosunu, Avrupa Birliği Uzman Yardımcısı unvanını almış olanlar ise Türkiye İstatistik Kurumu Uzman Yardımcısı unvanını ve kadrosunu başka bir işleme gerek kalmaksızın almış sayılırlar. Avrupa Birliği Uzman Yardımcısı unvan ve kadrosunda geçirilen süreler, Türkiye İstatistik Kurumu Uzman Yardımcısı unvan ve kadrolarında geçmiş sayılır.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0006:
+Bu Kanunun yürürlüğe girdiği tarihte Başkanlıkta, Enstitü Başkan Yardımcısı kadrosunda görev yapmakta olanlar, TÜİK Başkan Yardımcısı kadrosuna, DİE Bölge Müdürü kadrosunda görev yapmakta olanlar, TÜİK Bölge Müdürü kadrosuna hiçbir işleme gerek kalmaksızın atanmış sayılır.
+Bu Kanunun yürürlüğe girdiği tarihte Enstitü hizmet birimlerine ait Daire Başkanı kadrosunda görev yapmakta olanların yeniden Türkiye İstatistik Kurumu Başkanlığı hizmet birimlerine ait Daire Başkanı kadrosuna atanmaları durumunda, bu Kanunda öngörülen şartlar aranmaz.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0007:
+Bu Kanunun yürürlüğe girmesiyle Devlet İstatistik Enstitüsü Başkanının görevi sona erer. Türkiye İstatistik Kurumu Başkanı kadro ve görevine, bu Kanunda yer alan şartları taşıyanlar arasından, Kanunun yürürlüğe girdiği tarihten itibaren bir ay içerisinde beş yıl süre için yeni atama yapılır. Atama yapılıncaya kadar, mevcut DİE Başkanı görevine devam eder.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0008:
+Bu Kanunda öngörülen yönetmelikler Başkanlıkça en geç altı ay içerisinde hazırlanarak yürürlüğe konulur. Bu yönetmelikler yürürlüğe girinceye kadar mevcut yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+Diğer mevzuatta Devlet İstatistik Enstitüsü Başkanlığına yapılmış olan atıflar, Türkiye İstatistik Kurumu Başkanlığına, 53 sayılı Devlet İstatistik Enstitüsünün Görev; Yetki ve Kuruluşu Hakkında Kanun ile 219 sayılı Devlet İstatistik Enstitüsü Başkanlığının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnameye yapılmış olan atıflar, bu Kanuna aykırı hükümleri hariç, bu Kanuna yapılmış sayılır.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0009:
+2005 Yılı için geçerli olmak ve toplam 200 adedi geçmemek üzere, 5277 sayılı 2005 Mali Yılı Bütçe Kanununun 25 inci maddesinin (a) fıkrasındaki (48 000 adet) sınırlamasına tabi olmaksızın, bu Kanunla 190 sayılı Kanun Hükmünde Kararnameye eklenen Türkiye İstatistik Kurumu kadrolarından boş bulunan 200 TÜİK Uzman Yardımcısı kadrosuna KPSS (A) Grubu sınav sonuçlarına ve Başkanlıkça belirlenecek puan grubuna göre 70 ve üstü ile yabancı dilden 50 ve üstü puan alanlardan ilan edilen kadronun başarı sırasına göre dört katına kadarının çağrılması ile yapılacak sınavda başarı gösterenlerin taşra teşkilatı kadrolarına atamaları Başkanlıkça yapılır.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0010:
+07.12.2004 tarihli ve 5272 sayılı Belediye Kanununun 12 nci maddesinin üçüncü fıkrasında öngörülen yerleşim yerlerinin nüfus tespiti işlemleri ile geçici 4 üncü maddesinde yer alan süre sınırı, Başkanlık ile İçişleri Bakanlığının müştereken yürüteceği ikametgaha dayalı nüfus kayıt sisteminin kurulmasına kadar ertelenir. Ancak, aynı Kanunun 8 inci maddesi hükümleri doğrultusunda işlem yapılması halinde 2000 Genel Nüfus Sayımı sonuçları esas alınır.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0011:
+Bu Kanunun 13 üncü maddesinin sekizinci fıkrası, bu maddenin yürürlük tarihinden önceki veri ve bilgiler hakkında da uygulanır.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0012:
+(Madde 02.11.2011 tarih ve 28103 sayılı Resmi Gazetede yayımlanan 0662 sayılı KHK ile Eklenmiştir.)
+Başkanlığın yeni kurulan daire başkanlıklarına göre yeniden yapılanması tamamlanıncaya kadar, yeni kurulan birimlere verilen görevlerin, bu maddenin yayımı tarihinden önce bu görevleri yerine getirmekte olan birimler, kurullar ve personel tarafından yürütülmesine devam edilir.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0013:
+(Madde 02.11.2011 tarih ve 28103 sayılı Resmi Gazetede yayımlanan 0662 sayılı KHK ile Eklenmiştir.)
+Bu maddenin yayımı tarihinde Başkanlık merkez teşkilatında; Ulusal Hesaplar ve Ekonomik Göstergeler Daire Başkanı, Sanayi ve İş İstatistikleri Daire Başkanı ile Sosyal İstatistikler Daire Başkanı kadrolarında bulunanların görevleri hiçbir işleme gerek kalmaksızın sona erer. Bunlar ekli (I) sayılı liste ile ihdas edilen İstatistik Müşaviri kadrolarına hâlen bulundukları kadro dereceleriyle birlikte hiçbir işleme gerek kalmaksızın atanmış sayılır. Anılan liste ile ihdas edilen İstatistik Müşaviri kadroları herhangi bir sebeple boşalması hâlinde hiçbir işleme gerek kalmaksızın iptal edilmiş sayılır.
+Birinci fıkraya göre İstatistik Müşaviri kadrolarına atanmış sayılan personelin yeni kadrolarına atanmış sayıldıkları tarih itibarıyla eski kadrolarına ilişkin olarak en son ayda sözleşme ücreti, aylık, ek gösterge, ikramiye (bir aya isabet eden net tutarı), her türlü zam ve tazminatları, makam tazminatı, temsil tazminatı, görev tazminatı, ek ücret, ek ödeme ve benzeri adlarla yapılan her türlü ödemelerin (ilgili mevzuatı uyarınca fiili çalışmaya bağlı fazla mesai ücreti hariç) toplam net tutarının (bu tutar sabit bir değer olarak esas alınır); atanmış sayıldıkları kadrolara ilişkin olarak sözleşme ücreti, aylık, ek gösterge, ikramiye (bir aya isabet eden net tutarı), her türlü zam ve tazminatları, makam tazminatı, temsil tazminatı, görev tazminatı, ek ücret, ek ödeme ve benzeri adlarla yapılan her türlü ödemelerin (ilgili mevzuatı uyarınca fiili çalışmaya bağlı fazla mesai ücreti hariç) toplam net tutarından fazla olması hâlinde aradaki fark tutarı, herhangi bir vergi ve kesintiye tâbi tutulmaksızın fark kapanıncaya kadar ayrıca tazminat olarak ödenir. Atanmış sayıldıkları kadro unvanlarında isteğe bağlı olarak herhangi bir değişiklik olanlarla, kendi istekleriyle başka kurumlara atananlara fark tazminatı ödenmesine son verilir.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Geçici Madde 0014:
+(Madde 29.06.2012 Tarih ve 28338 Sayılı Resmi Gazetede Yayınlanan 6327 Sayılı Kanun ile Eklenmiştir.)
+Bu maddeye ekli (1) sayılı listede yer alan kadrolar iptal edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Türkiye İstatistik Kurumu Başkanlığına ait bölümünden çıkarılmış ve ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Türkiye İstatistik Kurumu Başkanlığına ait bölümüne eklenmiştir.
+Bu maddeyle kadrosu iptal edilen daire başkanları hiçbir işleme gerek kalmaksızın bulundukları kadro dereceleriyle birlikte bu maddeyle ihdas edilen daire başkanlığı kadrolarına atanmış sayılırlar. Bunların yeni kurulan daire başkanlıklarından hangisinde görevlendirileceği eski yürüttükleri görevler dikkate alınarak Kurumun bağlı olduğu Bakan tarafından belirlenir.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Madde 0059: Yürürlük
+Bu Kanun yayımı tarihinde yürürlüğe girer.
+BEŞİNCİ KISIM
+Çeşitli Hükümler
+Madde 0060: Yürütme
+Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+(1 Sayılı cetvel 02.11.2011 tarih ve 28103 sayılı Resmi Gazetede yayımlanan 0662 Sayılı Khk ile Değişmiştir)
+EK (I) SAYILI CETVEL
+TÜRKİYE İSTATİSTİK KURUMU BAŞKANLIĞI
+MERKEZ TEŞKİLATI
+Başkan
+Başkan Yardımcısı
+Ana Hizmet Birimleri
+Danışma Birimleri
+Yardımcı Hizmet Birimleri
+TÜİK Daire Başkanlıkları
+1. Ulusal Hesaplar Daire Başkanlığı
+2. Ekonomik Göstergeler ve Fiyat İstatistikleri Daire Başkanlığı
+3. Tarım ve Çevre İstatistikleri Daire Başkanlığı
+4. İş İstatistikleri Daire Başkanlığı
+5. Sektörel İstatistikler Daire Başkanlığı
+6. Nüfus ve Demografi İstatistikleri Daire Başkanlığı
+7. Sosyal Sektörler ve Araştırmalar Daire Başkanlığı
+8. Yöntem Araştırmaları Daire Başkanlığı
+9. Dış İlişkiler Daire Başkanlığı
+10. Yayın ve Bilgi Dağıtım Daire Başkanlığı
+11. Bilgi ve İletişim Teknolojileri Daire Başkanlığı
+1. Strateji Geliştirme Daire Başkanlığı
+2. Hukuk Müşavirliği
+3. Basın ve Halkla İlişkiler Müşavirliği
+1. İnsan Kaynakları Daire Başkanlığı
+2. Destek Hizmetleri Daire Başkanlığı
+EK (II) SAYILI CETVEL
+TÜRKİYE İSTATİSTİK KURUMU BAŞKANLIĞI
+TAŞRA TEŞKİLATI
+BÖLGE MÜDÜRLÜĞÜNÜN ADI	BÖLGE MERKEZİ	BÖLGE MÜDÜRLÜKLERİNE BAĞLI İLLER
+İSTANBUL BÖLGE MÜDÜRLÜĞÜ	İSTANBUL	İSTANBUL
+EDİRNE BÖLGE MÜDÜRLÜĞÜ	EDİRNE	EDİRNE
+TEKİRDAĞ
+KIRKLARELİ
+DENİZLİ BÖLGE MÜDÜRLÜĞÜ	DENİZLİ	DENİZLİ
+AYDIN
+MUĞLA
+İZMİR BÖLGE MÜDÜRLÜĞÜ	İZMİR	İZMİR
+BURSA BÖLGE MÜDÜRLÜĞÜ	BURSA	BURSA
+ESKİŞEHİR
+BİLECİK
+KOCAELİ BÖLGE MÜDÜRLÜĞÜ	KOCAELİ	KOCAELİ
+SAKARYA
+DÜZCE
+BOLU
+YALOVA
+KONYA BÖLGE MÜDÜRLÜĞÜ	KONYA	KONYA
+KARAMAN
+ANTALYA BÖLGE MÜDÜRLÜĞÜ	ANTALYA	ANTALYA
+ISPARTA
+BURDUR
+ADANA BÖLGE MÜDÜRLÜĞÜ	ADANA	ADANA
+MERSİN
+KAYSERİ BÖLGE MÜDÜRLÜĞÜ	KAYSERİ	KAYSERİ
+SİVAS
+YOZGAT
+ZONGULDAK BÖLGE MÜDÜRLÜĞÜ	ZONGULDAK	ZONGULDAK
+KARABÜK
+BARTIN
+SAMSUN BÖLGE MÜDÜRLÜĞÜ	SAMSUN	SAMSUN
+TOKAT
+ÇORUM
+AMASYA
+TRABZON BÖLGE MÜDÜRLÜĞÜ	TRABZON	TRABZON
+ORDU
+GİRESUN
+RİZE
+ARTVİN
+GÜMÜŞHANE
+ERZURUM BÖLGE MÜDÜRLÜĞÜ	ERZURUM	ERZURUM
+ERZİNCAN
+BAYBURT
+KARS BÖLGE MÜDÜRLÜĞÜ	KARS	KARS
+AĞRI
+IĞDIR
+ARDAHAN
+MALATYA BÖLGE MÜDÜRLÜĞÜ	MALATYA	MALATYA
+ELAZIĞ
+BİNGÖL
+TUNCELİ
+GAZİANTEP BÖLGE MÜDÜRLÜĞÜ	GAZİANTEP	GAZİANTEP
+ADIYAMAN
+KİLİS
+DİYARBAKIR BÖLGE MÜDÜRLÜĞÜ	DİYARBAKIR	DİYARBAKIR
+ŞANLIURFA
+BALIKESİR BÖLGE MÜDÜRLÜĞÜ	BALIKESİR	BALIKESİR
+ÇANAKKALE
+MANİSA BÖLGE MÜDÜRLÜĞÜ	MANİSA	MANİSA
+AFYON
+KÜTAHYA
+UŞAK
+ANKARA BÖLGE MÜDÜRLÜĞÜ	ANKARA	ANKARA
+NEVŞEHİR BÖLGE MÜDÜRLÜĞÜ	NEVŞEHİR	NEVŞEHİR
+AKSARAY
+NİĞDE
+KIRIKKALE
+KIRŞEHİR
+KASTAMONU BÖLGE MÜDÜRLÜĞÜ	KASTAMONU	KASTAMONU
+ÇANKIRI
+SİNOP
+HATAY BÖLGE MÜDÜRLÜĞÜ	HATAY	HATAY
+KAHRAMANMARAŞ
+OSMANİYE
+SİİRT BÖLGE MÜDÜRLÜĞÜ	SİİRT	SİİRT
+MARDİN
+BATMAN
+ŞIRNAK
+VAN BÖLGE MÜDÜRLÜĞÜ	VAN	VAN
+MUŞ
+BİTLİS
+HAKKARİ
+(III) SAYILI CETVEL
+TÜRKİYE İSTATİSTİK KURUMU BAŞKANLIĞI SÖZLEŞMELİ PERSONELİNE İLİŞKİN AYLIK ÜCRET SINIRLARI (BRÜT YTL)
+(24.05.2006 tarih ve 26177 sayılı Resmi Gazete de yayımlanan 5503 sayılı Kanunun 1 inci maddesiyle eklenmiştir. Yürürlük: 21.05.2006)
+GÖREV UNVANI	Taban
+Ücreti	Tavan
+Ücreti
+Başkan	2.050	2.260
+Başkan Yardımcısı	1.650	1.960
+I. Hukuk Müşaviri	1.292	1.837
+Daire Başkanı, Bölge Müdürü	1.220	1.725
+İstatistik Müşaviri, Hukuk Müşaviri
+Kadro Derecesi 1	1.206	1.689
+Kadro Derecesi 2	1.189	1.647
+Kadro Derecesi 3	1.174	1.634
+Kadro Derecesi 4	1.163	1.622
+Kadro Derecesi 5	1.148	1.610
+Türkiye İstatistik Kurumu Uzmanı
+Kadro Derecesi 1	1.206	1.689
+Kadro Derecesi 2	1.186	1.647
+Kadro Derecesi 3	1.174	1.634
+Kadro Derecesi 4	1.162	1.622
+Kadro Derecesi 5	1.149	1.610
+Kadro Derecesi 6	1.137	1.597
+Kadro Derecesi 7	1.124	1.585
+Türkiye İstatistik Kurumu Uzman Yardımcısı	942	1.267
+İstatistikçi, Matematikçi, Mühendis, Programcı
+Kadro Derecesi 1	912	1.092
+Kadro Derecesi 2	815	1.056
+Kadro Derecesi 3	718	1.035
+Kadro Derecesi 4	621	1.015
+Kadro Derecesi 5, 6, 7, 8	524	1.005
+Yükleyen: yasinuzunoglu

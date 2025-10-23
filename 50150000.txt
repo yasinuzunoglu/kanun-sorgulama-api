@@ -1,0 +1,546 @@
+5015 sayılı Petrol Piyasası Kanunu
+Yayımlandığı Resmî Gazete Tarihi: 20.12.2003
+Yayımlandığı Resmî Gazete Sayısı: 25322
+Kabul Tarihi	04.12.2003
+BİRİNCİ KISIM
+Genel Hükümler
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Tanımlar ve Kısaltmalar
+Genel Gerekçe İçin Tıklayın
+Madde 0001: Amaç ve kapsam
+Bu Kanunun amacı; yurt içi ve yurt dışı kaynaklardan temin olunan petrolün doğrudan veya işlenerek güvenli ve ekonomik olarak rekabet ortamı içerisinde kullanıcılara sunumuna ilişkin piyasa faaliyetlerinin şeffaf, eşitlikçi ve istikrarlı biçimde sürdürülmesi için yönlendirme, gözetim ve denetim faaliyetlerinin düzenlenmesini sağlamaktır.
+Bu Kanun; petrole ilişkin piyasaların sağlıklı ve düzenli işlemelerinin sağlanmasına ve geliştirilmesine yönelik; düzenleme, yönlendirme, gözetim ve denetim işlemlerini kapsar.
+Türk Silahlı Kuvvetlerinin doğrudan kendi mülkiyetindeki araç ve tesisleri vasıtasıyla yürüttüğü bu Kanun kapsamındaki faaliyetleri ile 5 Nisan 2001 tarihli ve 4636 sayılı Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığının Kuruluşu ve Görevleri Hakkında Kanun kapsamındaki Başkanlığın kendi mülkiyetindeki araç ve tesisleri vasıtasıyla yürüttüğü faaliyetleri bu Kanun hükümlerine tabi değildir. (Cümle 03.02.2015 tarih ve 29256 sayılı Resmi Gazetede yayımlanan 6586 Sayılı Kanun ile Eklenmiştir) Ancak, bu Başkanlığın 4636 sayılı Kanun kapsamındaki faaliyetlerinin depolama ve iletim faaliyetlerine konu edilmesi hâlinde lisans alınmasına ilişkin usul, esas ve muafiyetler Kurumca belirlenir.
+(Fıkra 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan 6455 Sayılı Kanun ile Eklenmiştir) Gümrük ve Ticaret Bakanlığı ile il özel idareleri veya defterdarlıkların tasfiye işlemleri bu Kanun hükümlerine tabi değildir.
+BİRİNCİ KISIM
+Genel Hükümler
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Tanımlar ve Kısaltmalar
+Madde 0002: Tanımlar ve kısaltmalar
+Bu Kanunun uygulanmasında;
+Bakanlık: Enerji ve Tabiî Kaynaklar Bakanlığını,
+Kurum: Enerji Piyasası Düzenleme Kurumunu,
+Kurul: Enerji Piyasası Düzenleme Kurulunu,
+AFRA: Londra da ilan edilen ortalama navlun ücretlerinin değerlemesini,
+Akaryakıt: Benzin türleri, nafta (hammadde, solvent nafta hariç), gazyağı, jet yakıtı, motorin türleri, fuel-oil türleri ile Kurum tarafından belirlenen diğer ürünleri,
+Akaryakıt istasyonu: Dağıtıcı veya bunlarla tek elden satış sözleşmesi yapmış bayilerce ilgili mevzuata uygun (teknik, kalite ve güvenlik) olarak kurulup, bir veya farklı alt başlıktan birer akaryakıt dağıtıcısının tescilli markası altında faaliyette bulunan ve esas itibarıyla araçların akaryakıt, madeni yağ, otogaz LPG, temizlik ve ihtiyarî olarak bakım ile kullanıcıların tüplü LPG hariç diğer asgarî ihtiyaçlarını karşılayacak imkanları sunan yerleri,
+Akaryakıtla harmanlanan ürünler: Metil tersiyer bütil eter (MTBE), Etanol vb. (yerli tarım ürünlerinden denatüre olarak üretilenler ile biodizel hariç ) akaryakıt ile eşdeğer vergiye tabi olan ve olacak ürünleri,
+Asfalt: Zemin kaplamasında kullanılan ürünü,
+Bayi: Bayilik faaliyeti için gerekli donanıma sahip gerçek ve tüzel kişileri,
+Bayilik: Karşılıklı yükümlülüklerin ekinde fizibilite olan bir sözleşmeye bağlanarak akaryakıt dağıtım şirketleri tarafından gerçek ve tüzel kişilere akaryakıtın kullanıcılara ikmali yetkisi verilmesi işlemini,
+Dağıtıcı: Akaryakıt dağıtım yetkisi olan ve lisansına işlenmesi halinde depolama, taşıma, ihrakiye ve madeni yağ üretimi işlemleri yapabilen sermaye şirketini,
+Dağıtım: Serbest kullanıcılara akaryakıt toptan satışı ve ikmali dahil bayilere akaryakıt satış ve ikmal faaliyetlerinin bütününü,
+Fizibilite: Kuruma verilmesi gerekli olmayan fakat bayilik sözleşmesi ekinde yer alan ve yapılacak yatırımların analizini içeren raporu,
+Ham petrol: Yerden çıkarılan sıvı haldeki doğal hidrokarbonları,
+İhrakiye: Ülkenin karasuları ve/veya karasuları bitişiğinde deniz vasıtalarına veya hava meydanlarında yerli ve yabancı uçaklara vergili veya vergisiz sağlanan akaryakıtı ve madeni yağı,
+İhrakiye teslim şirketi ve bayii: Yurt içinden veya yurt dışından temin ettiği ihrakiyeyi deniz ve hava taşıtlarına ikmal eden lisanslı sermaye şirketini ve lisanslı bayileri,
+İletici: İletim faaliyeti yapan sermaye şirketini,
+İletim: Boru hattı vasıtasıyla petrolün taşınması işlemini (üreticilerin rafineriye veya iletim hattına ulaşan boru hatları ile tesislerin bünyesinde yer alan boru hatları hariç),
+İşleme: Petrol ve diğer kimyasal maddelerden madeni yağ üretimi hariç yeni ürünler elde edilmesine ve/veya ürünlerin nitelik veya niceliğinin değiştirilmesine ilişkin işlemleri,
+İşlemeci: Lisansı gereği işleme faaliyetini yapma hakkı verilmiş sermaye şirketini,
+(Bent 13.02.2007 tarih ve 26433 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir)
+Kaçak akaryakıt:  (Bent 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu hükümleri uyarınca kaçak olarak kabul edilen akaryakıtı,
+Katkı maddeleri: Akaryakıt ürünlerinin özelliklerini iyileştirmeye matuf organik ve inorganik maddeleri,
+Kilometre tahdidi: Şehir içi veya şehirlerarası trafiğe açık yollarda aynı istikamette iki akaryakıt istasyonu arasındaki, Kurul tarafından çıkarılacak yönetmelikte belirlenecek asgarî mesafeyi,
+Kötüniyet: Piyasa faaliyetinin yapılmasında, petrolün kaybına, karışmasına, bozulmasına veya amaç dışı kullanımına sebebiyet veren bir eylem veya ihmali,
+Kullanıcı: Petrol kullanımı yapan gerçek ve tüzel kişileri,
+Kullanım: Petrolün sadece kişisel ve işletme ihtiyaçları için tüketimini,
+Lisans: Bu Kanuna göre gerçek ve tüzel kişilere piyasada faaliyet gösterebilmeleri için Kurul tarafından izin verildiğini gösterir belgeyi,
+Lisanslı depocu: Lisanslı depolama faaliyeti yapan sermaye şirketini,
+Lisanslı depolama: Piyasa faaliyetinde bulunanların stok ve işletme ihtiyaçlarını gidermek üzere başkasının mülkiyetindeki petrolün depolanması işlemini,
+Madeni yağ üreticisi: Madeni yağ üretimi yapan gerçek ve tüzel kişileri,
+Madeni yağ: Baz yağına veya kimyasal sentez yöntemi ile işlenen maddelere, bazı katkıların ilavesi sonucu, hareketli ve temas halinde olan iki yüzey arasındaki sürtünme ve/veya aşınmayı azaltma veya soğutma özelliğine sahip mamul haline getirilen doğal veya yapay maddeleri,
+Özel işlem: Petrolün nitelik olarak ayrı ürün haline getirilmesine yönelik olarak Kurumca belirlenen yöntemleri,
+Petrol: Bu maddenin (5), (14) ve (44) numaralı bentlerinde tanımlananları,
+Piyasa faaliyeti: Petrolün; ithalini, ihracını, rafinajını, işlenmesini, depolanmasını, iletimini, ihrakiye teslimini, taşınmasını, dağıtımını, bayiliğini,
+Rafinaj: Ham petrolden başlayarak yeni ürünler elde edilmesine ilişkin işlemleri,
+Rafinerici: Lisansı gereği rafinaj faaliyeti yapma hakkı verilmiş, petrol ticareti yapan sermaye şirketini,
+Serbest kullanıcı: Kalorifer yakıtı, fuel-oil ve motorinde yıllık 5 000 tondan aşağı olmayacak şekilde Kurum tarafından ürün bazında belirlenen tüketim miktarından fazla yıllık petrol tüketimi olan lisanslı kullanıcıyı,
+Solvent: Kimya ve sanayi tesislerinde tüketilen ve/veya yeni kimya ve sanayi mamulleri üretiminde kullanılan petrol ürünlerini,
+Taşıma:  (Bent 26.07.2008 tarih ve 26948 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Ham petrol ve akaryakıtların, kabotaj kapsamında denizyolu ve demiryolu taşıma araçlarıyla yapılan nakil faaliyetlerini,
+Taşıyıcı: Taşıma faaliyeti yapan gerçek ve tüzel kişileri,
+(Bent 13.02.2007 tarih ve 26433 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir)
+Teknik düzenleme: Petrolün ve madenî yağın, ilgili idarî hükümler de dahil olmak üzere, standartları, ölçüleri, özellikleri, işleme ve üretim yöntemleri, bunlarla ilgili terminoloji, sembol, ambalajlama, işaretleme, etiketleme ve uygunluk değerlendirmesi işlemleri hususlarından biri veya birkaçını belirten ve uyulması zorunlu olan her türlü düzenlemeyi,
+Tehlikeli eylem: Piyasa faaliyetinin yapılmasında, bunların yapıldığı mahalde veya yakınında bulunan bir kimsenin ölümüne, engelli hâle gelmesine (1) veya sağlığının bozulmasına, çevrenin kirlenmesine sebep olan veya olabilecek nitelikte bulunan bir fiil veya ihmali,
+Transit taşıma: Başka bir ülkeden gelen petrolün başka bir ülkeye Türkiye üzerinden kara ve deniz yolu ile taşınmasını,
+Ulusal marker: Akaryakıta rafineri çıkışında veya gümrük girişinde eklenecek katkıyı,
+Üretim: Petrolün çıkarılmasını, ön işlenmesi ile saha dahilinde veya civarında bulunan depolara, iletim hattına veya rafineriye boru hattı ile taşınmasını veya depolanmasını,
+Ürün: Fiziksel veya kimyasal işlem, rafinaj veya diğer yöntemlerle ham petrol ve/veya ürünlerinden elde edilen ürün veya ara ürün herhangi bir hidrokarbonu,
+İfade eder. (1) sakatlanmasına İbaresi 03.05.2013 Tarih ve 28636 Sayılı Resmi Gazetede Yayımlanan 6462 Sayılı Kanun İle engelli hâle gelmesine olarak değişmiştir.
+BİRİNCİ KISIM
+Genel Hükümler
+İKİNCİ BÖLÜM
+Lisansların Tabi Olacağı Usul ve Esaslar, Lisans Sahiplerinin Temel Hak ve Yükümlülükleri
+Madde 0003: Lisansların tabi olacağı usul ve esaslar
+Petrol ile ilgili;
+Rafinaj, işleme, madeni yağ üretimi, depolama, iletim, serbest kullanıcı ve ihrakiye faaliyetlerinin yapılması ve bu amaçla tesis kurulması ve/veya işletilmesi,
+Akaryakıt dağıtımı, taşıması ve bayilik faaliyetlerinin yapılması,
+İçin lisans alınması zorunludur. Kurum, geliştireceği ilke ve ölçütler doğrultusunda, iletim ve işleme faaliyetlerinde lisans alma zorunluluğuna muafiyet getirebilir. Lisans vermede taahhüt üzerinden işlem yapılamaz.
+Lisans taleplerine ilişkin değerlendirmeler 3 üncü madde hükümleri ve Kurumca belirlenecek diğer unsurlar çerçevesinde tamamlanarak en geç altmış gün içerisinde karara bağlanır ve ilgiliye tebliğ edilir. Reddedilen taleplerin gerekçesi bildirilir.
+Bu Kanuna göre; lisansların verilmesi, güncelleştirilmesi, geçici olarak durdurulması veya iptaline ilişkin işlemler Kurumca yapılır. Lisansların verilmesinde pazara giriş açısından teknoloji, kalite, güvenlik, hizmet ve teşebbüsün sürdürülebilirliği dikkate alınır, , bayi sayısı, depolama kapasitesi (işletme stok kapasitesi hariç) konularında sayısal büyüklüklerle sınırlama yapılmaz (1) (Cümle 03.02.2015 tarih ve 29256 sayılı Resmi Gazetede yayımlanan 6586 Sayılı Kanun ile Eklenmiştir) Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığının 4636 saılı Kanun kapsamındaki faaliyetlerinin depolama ve iletim faaliyetlerine konu edilmesi hâlinde verilecek lisanslarda sermaye şirketi olma şartı aranmaz; lisans vermede taahhüt üzerinden işlem yapılamaz.
+(Fıkra 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan 6455 Sayılı Kanun ile Eklenmiştir) 5607 sayılı Kanuna aykırı veya bu Kanuna göre lisansa tabi faaliyetler ile ilgili olarak; 213 sayılı Kanunun 359 uncu maddesinin (a) ve (b) fıkraları kapsamında; muhteviyatı itibarıyla yanıltıcı belge düzenleme veya bu belgeleri kullanma, belgelerin asıl veya suretlerini tamamen veya kısmen sahte olarak düzenleme veya bu belgeleri kullanma suçları ile aynı maddenin (ç) fıkrasında sayılan (2) fiillerden dolayı haklarında kesinleşmiş mahkûmiyet kararı olanlara lisans verilmez. Lisans sahibinin tüzel kişi olması durumunda söz konusu tüzel kişilikte suçun işlendiği tarih itibarıyla yüzde ondan fazla paya sahip ortaklar ile görevden ayrılmış olan veya halen görevde bulunan yönetim kurulu başkan ve üyelerine, temsil ve ilzama yetkili olanlara lisans verilmez ve bu kişiler lisans başvurusu yapan tüzel kişiliklerde doğrudan pay sahibi olamaz.
+Başvurunun Kurumca kabul veya reddedilmesinde talebin, mevzuatta öngörülen koşullara uygun olması aranır.
+Lisans kapsamındaki faaliyetlerde bulunacak özel hukuk tüzel kişileri 29.06.1956 tarihli ve 6762 sayılı Türk Ticaret Kanunu hükümlerine tabidir. Türkiye de piyasa faaliyetlerinde bulunan ve yabancı devletler mevzuatına göre sermaye şirketi niteliğinde bulunan özel hukuk tüzel kişileri, Türk parasının kıymetini koruma hakkındaki mevzuata göre Türkiye deki faaliyetleri bakımından Türkiye de yerleşik sayılırlar.
+Lisanslar; yukarıda sayılan faaliyet başlıklarına göre düzenlenir. Ayrıca lisanslarda, Kurumca belirlenen diğer alt başlıklar da yer alır.
+Lisans, üzerinde kayıtlı faaliyeti yapmak üzere hak sahibi kılınan gerçek veya tüzel kişi adına verilir. Lisans belgesinde, faaliyet niteliğinin yanı sıra faaliyetin gerektirdiği tesisin türü ve coğrafi konumu, teknoloji ve miktarlar ile ilgili bilgiler de yer alır.
+Kurum, bu Kanunda tanınan yetkiler dahilinde;
+Lisans gerektiren faaliyet ve/veya işlemlerin kapsamları,
+Lisans ile kazanılan hak ve üstlenilen yükümlülükler,
+Lisans kapsamındaki faaliyetlerin kısıtlanması,
+Faaliyetin yürütülmesine ilişkin olarak özel şartlar belirlenmesi,
+Konularında düzenlemeler yapmaya yetkilidir.
+Lisansta yer alan hususlarda değişiklik yapılmasını gerektirecek faaliyetler, Kurumca onaylanıp lisansa işlenmedikçe yapılamaz.
+Lisanslar ile ilgili olarak;
+Başvuru, değerlendirme, lisans verme, lisans süresi, tadili, bedeli ile sona ermesi ve süre uzatma işlemlerine,
+Sınıflandırılması uygun görülen lisansların, sınıflandırılmasına ait esaslar ve sınıflara göre asgarî büyüklüklerine,
+Değişiklik ile sınıflandırmaya tabi lisanslarda sınıf değiştirme işlemlerine,
+Aranacak asgarî nitelikler ve ilgililerin tasarrufunda olması gereken asgarî varlıklarına,
+Tutulması zorunlu olan kayıtlar ve kayıt yöntemleri ile bildirim yükümlülüklerine,
+Faaliyet alt başlıkları ve bunların tanımlarına,
+Kamunun can ve mal güvenliği ile kullanıcı haklarına ilişkin hususlara,
+Lisansta yer alacak hususlara,
+Lisans kapsamında olsun veya olmasın piyasa ile ilgili faaliyetlerin yönlendirilmesi, gözetimi, denetimi ve benzeri konulara,
+Ait usul ve esaslar Kurumca çıkarılacak yönetmeliklerle düzenlenir.
+(Fıkra 30.04.2021 tarih ve 31470 sayılı Resmi Gazetede yayımlanan 7318 Sayılı Kanunun 6. Maddesi ile Eklenmiştir) Bu Kanuna göre dağıtıcı, ihrakiye teslimi ve bayilik lisansları ile Kurum tarafından belirlenen diğer lisans türlerine ilişkin olarak lisans başvurusu, lisans tadili veya lisans süresi uzatılmasına ilişkin taleplerin yerine getirilmesi için Sosyal Güvenlik Kurumuna vadesi geçmiş prim ve idari para cezası borcu ile vergi dairelerine 6183 sayılı Kanunun 22/A maddesi kapsamında vadesi geçmiş borcun bulunmaması şarttır. Kurum tarafından lisans sahiplerinin vadesi geçmiş borcu bulunmadığına dair bilgiler Gelir İdaresi Başkanlığı ile Sosyal Güvenlik Kurumundan temin edilir. Kurum, bu fıkranın uygulanmasına ilişkin usul ve esasları Gelir İdaresi Başkanlığı ile Sosyal Güvenlik Kurumunun görüşünü alarak belirlemeye yetkilidir.
+(Fıkra 30.04.2021 tarih ve 31470 sayılı Resmi Gazetede yayımlanan 7318 Sayılı Kanunun 6. Maddesi ile Eklenmiştir) Kurum, lisans sahipleri için bayilik teşkilatı oluşturma ve asgari satış miktarı sağlama şartları da dâhil olmak üzere teknoloji, kalite, güvenlik, hizmet ve teşebbüsün sürdürülebilirliğine ilişkin olarak teknik, ekonomik kriterler ve özel şartlar belirleyebilir. Belirlenen kriter ve şartları sağlayamayanların lisansı sona erdirilir. Bu fıkrada yer alan hususlara ilişkin düzenlemeler Kurumca çıkarılan yönetmelikle yapılır.
+Bu Kanun hükümleri saklı kalmak ve ilgili mevzuata göre işlemleri tamamlanmış olmak üzere, lisans sahiplerince veya kullanıcılarca, lisanslı depolar dışında kalan her türlü petrol depolama tesisi veya düzeneklerinin yapımı ve/veya kendi faaliyetleri kapsamında işletilmesi serbesttir.
+(Fıkra 28.02.2019 tarih ve 30700 sayılı Resmi Gazetede yayımlanan 7164 Sayılı Kanunun 30. Maddesi ile Eklenmiştir) Kurum, lisans sahiplerinden bu Kanun kapsamındaki mali yükümlülüklerinin tahsilinde kullanmak üzere Kurulca belirlenecek hususlarda teminat mektubu talep edebilir. Teminat mektubu alınacak lisans türleri, teminat mektubunun miktarı, türü, hangi şartlarda paraya çevrileceği ve diğer hususlar Kurumca yapılacak düzenlemeler ile belirlenir.
+(1) Üstü Çizili İbareler 28.02.2019 Tarih ve 30700 Sayılı Resmi Gazetede Yayımlanan 7164 Sayılı Kanunun 30. Maddesi ile madde metninden çıkarılmıştır.
+(2) Altı Çizili İbare 28.12.2023 Tarih ve 32413 Sayılı Resmi Gazetede Yayımlanan 7491 Sayılı Kanunun 47. Maddesi ile eklenmiştir.
+BİRİNCİ KISIM
+Genel Hükümler
+İKİNCİ BÖLÜM
+Lisansların Tabi Olacağı Usul ve Esaslar, Lisans Sahiplerinin Temel Hak ve Yükümlülükleri
+Madde 0004: Lisans sahiplerinin temel hak ve yükümlülükleri
+Lisans, sahibine lisansta yer alan faaliyetin yapılması ile bu konularda taahhütlere girişilmesi haklarını verir.
+Lisans ile tanınan haklar; bu Kanunun, ilgili diğer mevzuatın ve lisansta yer alan kayıtlı hususların yerine getirilmesi koşuluyla kullanılır.
+Piyasa faaliyetinde bulunanlar, kötüniyet veya tehlikeli eylem sonucunu doğuracak her türlü işlemden özenle kaçınmak, bunların oluşumunun engellenmesi için her türlü tedbiri almak ile istenmeyen durumları en kısa sürede gidermek zorundadır.
+Bu Kanuna göre faaliyette bulunanlar;
+Ticarî ve teknik mevzuata uygun davranmak,
+Çevreye zarar vermemek için gerekli tedbirleri almak,
+Kamunun can, mal ve çevre güvenliği ile kendi tesis ve faaliyetlerini önemli ölçüde tehdit eden veya olumsuz etkileyen bir durum oluştuğunda, kamu yetkililerini ve bundan etkilenme ihtimali bulunan ilgilileri haberdar etmek ile tehdidin niteliği ve niceliği ile bunu önlemek üzere alınmakta olan tedbirleri Kuruma bildirmek,
+Zorunlu sigorta yükümlülüğü kapsamında bulunan, tesis ve/veya faaliyetleri sigortalamak,
+Faaliyetleri nedeniyle üçüncü kişilere veya çevreye verilecek zarar veya ziyanları tazmin etmek,
+14 üncü maddenin birinci fıkrasına göre Kurumca belirlenen usul ve esaslara uygun bildirimleri yapmak,
+Kurumca 14 üncü maddenin üçüncü fıkrasına göre istendiğinde, gerekli bilgi, belge ve numuneleri vermek, tutanakları imzalamak ile görevlilerin tesislerde inceleme yapmasına müsaade etmek,
+Esas faaliyetlerine ilişkin tip sözleşme örneklerini ve bunlarda yapılacak değişiklikleri yürürlüğe koymadan önce Kuruma bildirmek,
+Piyasa faaliyetlerinde, Kurulun belirleyeceği teknik düzenlemelere uygun akaryakıt sağlamak,
+İletim ve depolamada kapasite kısıtları dışında kendilerinden yapılan talepleri ayrım gözetmeksizin karşılamak,
+Eşit durumdaki alıcılara (kategorilere), eşit hak ve yükümlülük tanımak, farklı şartlar sürmemek,
+(Bent 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan 6455 Sayılı Kanun ile Eklenmiştir) Kaçak akaryakıt veya sahte ulusal marker elde etmeye, satmaya ya da herhangi bir piyasa faaliyetine konu etmeye yarayacak şekilde lisansa esas teşkil eden belgelerde belirlenenlere aykırı sabit ya da seyyar tank, düzenek veya ekipmanı bulundurmamak,
+İle yükümlüdür.
+BİRİNCİ KISIM
+Genel Hükümler
+ÜÇÜNCÜ BÖLÜM
+Lisans Türleri ve Faaliyetlerin Kısıtlanması
+Lisansların türleri
+Madde 0005: Rafinerici
+Rafinerici lisansı sahipleri, 9 uncu maddede sayılan faaliyetlerin yanı sıra;
+Lisansına işlenmek koşuluyla;tesisi içinde veya civarında işleme, depolama ile yakınındaki diğer tesislere boru hatları ile taşıma,
+Sahip olacağı dağıtım şirketi ile akaryakıt dağıtımı,
+Faaliyetlerinde de bulunabilir. Rafinerici kendi dağıtım şirketine tanıdığı şartları kendisinden akaryakıt talep eden diğer dağıtıcılara da kategori bazında tanımak zorundadır.
+Ulusal güvenlik açısından ihtiyaç duyulan akaryakıt ve diğer ürünlerin üretimi ve teslimi önceliklidir. Rafinericiler, Türk Silahlı Kuvvetlerinin kullandığı taktik yakıtların üretim kabiliyetini ürün talebi halinde sağlamak ve korumakla yükümlüdür.
+(Fıkra 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan 6455 Sayılı Kanun ile Eklenmiştir) Rafinerici lisansı sahipleri, tesislerindeki ham petrol, ara ürün, akaryakıt harici ürün ve akaryakıt tankları ile yurt içi ve yurt dışı satış tanklarını lisanslarına işletmek ve tankların kullanımına ilişkin bilgileri Kuruma bildirmekle yükümlüdürler. Bu maddenin uygulanmasına ilişkin usul ve esaslar Enerji ve Tabii Kaynaklar Bakanlığı, Gümrük ve Ticaret Bakanlığı, İçişleri Bakanlığı ve Gelir İdaresi Başkanlığının görüşü alınarak Kurum tarafından çıkarılan yönetmelik ile belirlenir.
+BİRİNCİ KISIM
+Genel Hükümler
+ÜÇÜNCÜ BÖLÜM
+Lisans Türleri ve Faaliyetlerin Kısıtlanması
+Lisansların türleri
+Madde 0006: Taşıma, işleme, depolama, iletim, madeni yağ üretimi, serbest kullanıcı, ihrakiye teslim şirketi ve ihrakiye bayii
+2 nci maddenin birinci fıkrasının (16), (18), (19), (28), (29), (36) ve (38) numaralı bentlerinde tanımlanan faaliyetlerin yapılması için verilecek lisanslara uygulanacak değerleme kriterleri ve lisansın verilmesini gerektirecek teknik ve malî şartlar Kurumca belirlenir.
+BİRİNCİ KISIM
+Genel Hükümler
+ÜÇÜNCÜ BÖLÜM
+Lisans Türleri ve Faaliyetlerin Kısıtlanması
+Lisansların türleri
+Madde 0007: Dağıtım
+Dağıtıcı lisansı sahipleri, akaryakıt olarak tanımlanan ürünlerin dağıtım hakkına sahip olur.
+Dağıtıcı lisansı sahipleri, kendi mülkiyetlerindeki veya sözleşmelerle oluşturacakları bayilerinin istasyonlarına akaryakıt dağıtımının yanı sıra, serbest kullanıcılara akaryakıt toptan satışı ve depolama tesislerinin yakınındaki tesislere boru hatları ile taşıma faaliyetlerinde bulunabilir. Dağıtıcılar başka akaryakıt dağıtıcılarının bayilerine dağıtım yapamazlar.
+Dağıtıcılar, yıllık pazarlama projeksiyonları yapmak ve detayları ile her yıl Kuruma Şubat ayı içinde vermekle yükümlüdür. Yıl içinde, üçer aylık dönemlerde projeksiyonlarının gerçekleşme değerlemesini yaparak Kuruma; Ocak, Nisan, Temmuz, Ekim aylarında verir ve projeksiyonlarında oluşan yüzde ondan fazla artış ve eksilişleri açıklarlar.
+Dağıtıcılar, 2 nci maddenin birinci fıkrasının (10) ve (13) numaralı bentlerinde belirtilen şekilde sözleşme ile bayilikler oluşturur. Bayilik süresi bitiminden üç ay öncesinde bayiliğin devamı için sözleşme yenilenemez ise sürenin bitimine kadar dağıtıcı, bayinin ikmal ihtiyacını karşılar. Süre bitiminde bayi, sözleşme yaptığı yeni dağıtıcının ürünlerini pazarladığı anlaşılacak şekilde faaliyetine devam eder ve en geç bir ay içinde eski dağıtım şirketi ile ilgili tüm belirtileri kaldırır.
+Dağıtıcıların kendi işlettiği istasyonlar aracılığı ile yaptığı satış, dağıtıcının toplam yurt içi pazar payının yüzde onbeşinden fazla olamaz. Dağıtıcıların yurt içi pazar payı, toplam yurt içi pazarın yüzde kırkbeşini geçemez. Dağıtıcı, kendi işlettiği istasyonlara sübvansiyon ve bayi istasyonlarından farklı uygulama yapamaz.
+(Fıkra 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan 6455 Sayılı Kanun ile Değişmiştir.) Dağıtıcı lisansı sahipleri, Kurum tarafından belirlenen esaslara uygun olarak bayilerinde kaçak akaryakıt satışının yapılmasını önleyen teknolojik yöntemleri de içeren bir denetim sistemi kurmak ve uygulamakla yükümlüdür. (Cümleler 30.04.2021 tarih ve 31470 sayılı Resmi Gazetede yayımlanan 7318 Sayılı Kanunun 7. Maddesi ile 1.1.2022 tarihinden itibaren yürürlüğe girecek şekilde Eklenmiştir) Dağıtıcı lisansı sahibi, Kurumca yetkilendirilen tüzel kişiler aracılığı ile denetim sistemini kurar ve uygular. Denetim sistemini kuracak ve uygulayacak tüzel kişilerde aranacak idari, mali ve teknik şartlar ile bu tüzel kişilerin hak ve yükümlülükleri Kurum tarafından belirlenir. Denetim sisteminin kurulması ve uygulanmasına ilişkin yükümlülüklerin yerine getirilmemesinden lisans sahibi ile Kurumca yetkilendirilen tüzel kişiler müştereken sorumludur. Dağıtıcı lisansı sahibi, Kurumun bu sisteme erişimini sağlar. Kurum; Bilim, Sanayi ve Teknoloji Bakanlığı, Gümrük ve Ticaret Bakanlığı, İçişleri Bakanlığı, Maliye Bakanlığı, Ulaştırma, Denizcilik ve Haberleşme Bakanlığı ve ilgili diğer kamu kurum ve kuruluşlarının görevlerinin gerektirdiği ölçüde bu sisteme doğrudan erişimini sağlar. Kurum, yukarıda sayılan kamu kurum ve kuruluşlarının ihtiyaç duyacağı bilgi ve belgeleri yine görevlerinin gerektirdiği ölçüde verir. Söz konusu sistemi kurmadığı ya da Kurumca belirlenen usul ve esaslara uygun denetimi sağlayamadığı tespit edilen dağıtıcılara ve yetkilendirilen tüzel kişilere (1) 19 uncu maddede öngörülen miktarda idari para cezası uygulanır. Dağıtıcı lisansı sahipleri, bayi denetim sisteminin kurulmadığı veya kurulan sistemin Kurumca yapılan düzenlemelere uygun bulunmadığı tespit edilen bayilere akaryakıt ikmali yapamaz.
+Dağıtıcılar, tescilli markası altında yapılan faaliyetlere ilişkin kalite kontrol izlemesini etkin biçimde yapmak, bayilik iptallerini gerekçeleriyle birlikte Kuruma bildirmekle yükümlüdür. Akaryakıt dağıtımı için kurulacak tesis ve ekipmanlara ilişkin teknik, güvenlik, çevre ve benzeri kriterler Kurum tarafından çıkarılacak yönetmelikle belirlenir.
+(1) Altı Çizili İbare 30.04.2021 Tarih ve 31470 Sayılı Resmi Gazetede Yayımlanan 7318 Sayılı Kanunun 7. Maddesi ile 1.1.2022 tarihinden itibaren yürürlüğe girecek şekilde eklenmiştir.
+BİRİNCİ KISIM
+Genel Hükümler
+ÜÇÜNCÜ BÖLÜM
+Lisans Türleri ve Faaliyetlerin Kısıtlanması
+Lisansların türleri
+Madde 0008: Bayiler
+Bayi lisanslarına ilişkin düzenlemeler (teknik, güvenlik, kapasite, çevre vb.) Kurum tarafından yapılır. Bayiler, dağıtıcıları ile yapacakları tek elden satış sözleşmesine göre bayilik faaliyetlerini yürütürler.
+Bayiler lisanslarının devamı süresince;
+Bayisi olduğu dağıtıcı haricinde diğer dağıtıcı ve onların bayilerinden akaryakıt ikmali yapılmaması,
+Tağşiş ve/veya hile amacıyla akaryakıta katılabilecek ürünlerin akaryakıta katılmaması ve istasyonunda bulundurmaması,
+İle yükümlüdür.
+Bayiler ve dağıtıcılar, lisanslarına göre kurdukları akaryakıt istasyonlarını Kuruma bildirerek işletmeye başlar. Akaryakıt istasyonları, gerekli tedbirleri alarak tarım sektörünün ihtiyaçları için tanker ve köy pompası vasıtasıyla LPG hariç akaryakıt satışı yapabilir.
+Kurul, teknik ve ekonomik kriterlere göre bayilik kategorileri oluşturabilir. Bu durumda bayilik lisansları kategorilerine göre düzenlenir. Akaryakıt ve LPG istasyonları arasındaki mesafeler, aynı yönde olmak üzere, şehirler arası yollarda on kilometreden, şehir içi yollarda bir kilometreden az olmamak üzere Kurul tarafından çıkarılacak ve 01.01.2005 tarihinde yürürlüğe girecek yönetmelikle düzenlenir.
+BİRİNCİ KISIM
+Genel Hükümler
+ÜÇÜNCÜ BÖLÜM
+Lisans Türleri ve Faaliyetlerin Kısıtlanması
+Madde 0009: Faaliyetlerin kısıtlanması
+Yurt dışından ham petrol ve akaryakıt temin edeceklerin rafinerici veya dağıtıcı veya ihrakiye teslim şirketi lisansına sahip olması gereklidir. Türkiye de ham petrol üretimi yapan üreticiler, düşük gravite yerli üretim ham petrol ile karıştırılacak miktarda ham petrol ithalatı yapabilirler. Ham petrol ve akaryakıt ithalatı miktar ve belirli teknik ölçümleri yapabilecek donanıma sahip yetkili gümrük idarelerinden yapılır. Dağıtıcılarca yapılacak akaryakıt ithalatı, ilgilinin lisansında yer alan alt başlık kapsamındaki akaryakıtlarla sınırlıdır ve Kuruma bayi bilgileriyle birlikte verilen pazarlama projeksiyonu ile uyumlu olduğu bildirildikten sonra yapılabilir. Dağıtıcılar arası akaryakıt ticareti Kurulun iznine bağlıdır. (Cümle 30.04.2021 tarih ve 31470 sayılı Resmi Gazetede yayımlanan 7318 Sayılı Kanunun 8. Maddesi ile 1.1.2022 tarihinden itibaren yürürlüğe girecek şekilde Eklenmiştir) Dağıtıcılar, herhangi bir dağıtıcıdan aldıkları akaryakıtı başka bir dağıtıcıya satamazlar. Ham petrolün yurt içinde ticareti; sadece rafinerici ve üreticilerce ve birbirleri arasında yapılabilir.
+Dağıtıcılar, lisans başvurularında asgarî yıllık 60.000 ton beyaz ürün (benzin, motorin) dağıtım projeksiyonu ile bayi bilgilerini Kuruma vermek zorundadır ve kendi dağıtım ağına bağlı bayilerin işlettikleri akaryakıt istasyonlarında farklı lisans alt başlığına sahip dağıtıcıların bayisi sıfatı ile yapacakları faaliyetler hariç olmak üzere, kullanıcılara lisans alt başlığında yer almayan akaryakıtları teslim edemez.
+İhrakiye teslimleri; rafinerici, dağıtıcı ve ihrakiye teslim şirketlerince yapılır. İhrakiye teslimi yapanlar, gümrük antrepolarına getirdikleri ve deniz/hava taşıtlarına verilmek üzere çıkardıkları akaryakıt cins ve miktarlarını üç ayda bir Kuruma bildirirler.
+Akaryakıt haricinde kalan petrol ürünleri (solvent, madeni ve baz yağ, asfalt, solvent nafta vb.) ile ilgili ithalat ve ihracat dahil, faaliyetler Kurumun hazırlayacağı düzenlemelere göre yapılır.
+Sanayi tesislerinde yan ürün olarak elde edilen ürünün yurt içinde akaryakıt olarak faaliyete konu edilmesi halinde, Kuruma bilgi verilmek şartıyla teknik düzenlemelere uygun olanları dağıtıcılara, uygun olmayanlar rafinerilerin olumlu görüş vermesi ve anlaşma sağlanması halinde rafinerilere teslim edilir. Rafinerilere verilmeyen ürünlerin ihraç edilmesi halinde fiili üretim ve ihracata ait aylık bilgiler Kuruma bildirilir.
+Akaryakıtların, 4 üncü maddenin dördüncü fıkrasının (ı) bendinde belirlenen teknik düzenlemelere uygun olmayanları faaliyete konu edilemez.
+(Fıkra 26.07.2024 tarih ve 32613 sayılı Resmi Gazetede yayımlanan 7521 Sayılı Kanunun 12. Maddesi ile 1/1/2025 tarihinde yürürlüğe girecek şekilde Değişmiştir.) Yeterli depolama ve kendi araçlarına akaryakıt ikmal kapasitesine sahip olmaları ve akaryakıtı kendi ihtiyaçları için kullanmaları şartıyla; kamu kurum ve kuruluşlarına, liman, havalimanı, fabrika, şantiye, maden veya taş ocaklarına yapılan teslimler hariç, araçlara yapılacak akaryakıt ikmali bayilik lisansı ve yeterli donanımı olan akaryakıt istasyonları dışında yapılamaz. Akaryakıt istasyonu dışında yapılacak akaryakıt teslimlerinde akaryakıtın alıcı deposuna taşınması veya taşıttırılması bayilik lisansına sahip satıcı tarafından gerçekleştirilir.
+(Fıkra 26.07.2008 tarih ve 26948 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+İcrası için tesis gerektiren faaliyet türlerinde, bu maddede konu edilen hakların kullanılabilmesi için, ilgili tesisin fiilen faaliyette bulunması zorunludur.
+Rafinericiler evsafına uygun ürün teslim etmek, dağıtıcılar ile bayiler ise akaryakıtların kullanım amacını, niteliğini, niceliğini değiştirmemek ile yükümlüdür.
+Kurulca belirlenecek usul ve esaslara göre akaryakıtla harmanlanan ürünler bu durumda akaryakıt ile eşdeğer vergiye tabi olurlar. Ancak, yerli tarım ürünlerinden elde edilen ve akaryakıtla harmanlanan ürünler bunun dışındadır.
+Dağıtıcılar, bayilerin katılımıyla gerçekleştirdikleri promosyon kampanyası hakkında bayilerini, promosyon kampanyasının maliyetine ilişkin belgelerle birlikte şeffaf, açık bir şekilde bilgilendireceklerdir. Ancak bayilerin kampanyaya katılımı ihtiyarîdir.
+BİRİNCİ KISIM
+Genel Hükümler
+DÖRDÜNCÜ BÖLÜM
+Fiyat Oluşumu, Kamulaştırma, Erişim ve Eşgüdüm
+Madde 0010: Fiyat oluşumu
+Petrol alım satımında fiyatlar en yakın erişilebilir dünya serbest piyasa koşullarına göre oluşur. Yerli ham petrol için, teslim yeri olan en yakın liman veya rafineride teşekkül eden Piyasa Fiyatı fiyat olarak kabul edilir.
+Bu piyasa fiyatı, Türkiye de üretilen ham petrolün Türkiye içinde veya dışında en yakın erişilebilir dünya piyasasında, evsaf ve izafi ağırlık bakımından normal olarak mutat ayarlamalara göre tespit edilmiş emsal petrolün belirlenen serbest rekabet fiyatına, aynı evsafta ham petrolün dünya piyasasından Türkiye de teslim yeri olan limana veya rafineriye kadar getirilmesi için gerekli bütün giderlerin tamamının (2) eklenmesi ve fakat Süveyş Kanalı geçişi ile Batman veya civarında üretilen ham petrolün Batman rafinerisinde oluşan piyasa fiyatına Batman-Dörtyol Boru Hattı geçiş ücreti dahil (2) oluşan fiyat veya erişilebilir dünya piyasası mevcut olmadığı takdirde üretici tarafından Türkiye de teslim edildiği yerde vergiler hariç fiilen uygulanan satış fiyatı olarak kabul edilir.
+Üretimi yapılan yerli ham petrole emsal olarak, 26 API ve daha hafif petroller için Arab Medium (31 API) petrolünün, 26 API den daha ağır petroller için Arab Heavy (27.5 API) (2) petrolünün otuz gün vadeli fiyatları esas alınır ve yerli ham petrol ile emsal alınan petrol arasındaki gravite farkının fiyat bakımından değerlendirilmesinde;
+Emsal petrol ile yerli petrol arasındaki her bir 0.1 API gravite farkı için 2 ABD cent emsal petrolün varil fiyatına ilave edilir veya çıkarılır. Ancak bir alt gravite grubunun fiyatı üst grubun fiyatından yüksek olamaz.
+Emsal ham petrolün Türkiye ye getirilmesi için gerekli bütün giderlerin hesaplanmasında, Worldscale de ilan edilen nominal navlun baz alınır, LR-2 sınıfı tankerler için tespit edilen AFRA yüzdesinin uygulanması ile nakliye maliyeti hesaplanır.
+Gravite ayarlaması ve nakliyenin eklenmesi suretiyle bulunan fiyata (C+F) yürürlükteki sigorta mevzuatı ve primleri uygulanır. Tehlike ve harp hali sigorta primi uygulaması Bakanlığın değerlendirmesine tabidir. İkinci bir değişikliğe kadar uygulanacak sigorta primi miktarı yüzde 0.075 i aşamaz.
+İthalde alınan gümrük vergi ve resimlerin ilave edilmesiyle yerli ham petrolün piyasa fiyatı bulunur. Yurt içi kara nakliye ücretleri için akaryakıtların fiyat teşekkülündeki nakliye rayiçleri alınır.
+Piyasa fiyatı tekliflerinde, T.C. Merkez Bankası tarafından açıklanan aylık döviz satış kuru ortalaması, petrol birimi olarak varil, metrik ton ve döviz cinsi olarak ABD Doları kullanılır. Piyasa fiyatlarına esas olan unsurların uygulamasında ortaya çıkabilecek sorunları değerlendirme ve çözmeye Kurul yetkilidir.
+Rafinericiler, ham petrol üreticilerinin teklifi halinde oluşan bu asgarî fiyatlardan yerli ham petrolü alırlar ve ham petrol temininde yerli ham petrole öncelik tanırlar. Rafinericiler ham petrol üreticilerinin bu asgarî fiyat veya bunun üzerindeki fiyat tekliflerine onbeş gün içinde yazılı olarak cevap verirler. Rafinericiler üreticilerin aleyhine olacak teslim yeri ve şartlarında maddî talep ve teklifte bulunamazlar. Fiyat uyuşmazlıkları Kurumun hakemliğinde en geç otuz gün içerisinde tarafları bağlayacak şekilde sonuçlandırılır.
+İthal ham petrol fiyatları dünya afişe fiyatları doğrultusunda yapılan petrol anlaşmalarına ve spot piyasa değerlerine göre temin edilebilen fiyat olarak değerlendirilir. Fiili ithalata ait bilgiler aylık olarak Kuruma bildirilir.
+Rafinerici ve dağıtıcı lisansı kapsamında yapılan piyasa faaliyetlerine ilişkin fiyatlar, en yakın erişilebilir dünya serbest piyasa oluşumu dikkate alınarak, lisans sahipleri tarafından hazırlanan tavan fiyatlar olarak Kuruma bildirilir.
+İşleme, boru hatları ile bağlantılı olmayan lisanslı depolama ve taşıma faaliyetlerinin tarifeleri, lisans sahiplerince hazırlanarak Kuruma bildirildikten sonra uygulanır.
+İletim lisansı kapsamında yürütülen taşıma ve bu hatlarla bağlantılı tesislerdeki lisanslı depolama faaliyetlerine ilişkin tarifeler, lisans sahiplerince hazırlanarak Kurul onayını müteakip uygulanır. Kurul, tarife onay istemlerini müracaat tarihini takip eden otuz gün içerisinde karara bağlar.
+Ancak, petrol piyasasında faaliyetleri veya rekabeti engelleme, bozma veya kısıtlama amacını taşıyan veya bu etkiyi doğuran veya doğurabilecek nitelikte anlaşma veya eylemlerin piyasa düzenini bozucu etkiler oluşturması halinde, gerekli işlemlerin başlatılmasıyla birlikte, her seferinde iki ayı aşmamak üzere, faaliyetlerin her aşamasında, bölgesel veya ulusal düzeyde uygulanmak için taban ve/veya tavan fiyat tespitine ve gerekli tedbirlerin alınmasına Kurum yetkilidir.
+Belirli bölgelere ve belirli amaçlara yönelik olarak fiyatlara müdahale edilmeksizin kullanıcıların desteklenmesinin usul ve esasları ile miktarı Cumhurbaşkanı (1) kararı ile belirlenir.
+(1) Bakanlığın teklifi ve Bakanlar Kurulu İbaresi 07.07.2018 Tarih ve 30471 Sayılı Resmi Gazetede Yayımlanan 0700 Sayılı KHK ın 147. Maddesi ile Cumhurbaşkanı şeklinde değişmiştir.
+(2) yarısının İbaresi 28.02.2019 Tarih ve 30700 Sayılı Resmi Gazetede Yayımlanan 7164 Sayılı Kanunun 31. Maddesi ile tamamının şeklinde ve geçiş ücreti hariç İbaresi geçiş ücreti dahil şeklinde ve Ras Gharib (21.5 API) İbaresi Arab Heavy (27.5 API) şeklinde değişmiştir.
+BİRİNCİ KISIM
+Genel Hükümler
+DÖRDÜNCÜ BÖLÜM
+Fiyat Oluşumu, Kamulaştırma, Erişim ve Eşgüdüm
+Madde 0011: Mülkiyet, kamulaştırma ve özel tedbirler
+Bu Kanun kapsamındaki tesisler için gerekli arazi, arsa ve binalara ilişkin hak veya mülkiyet edinimlerinin öncelikle anlaşma yoluyla yapılması esastır.
+Bu Kanunda öngörülen faaliyetlerin gerektirmesi halinde;
+Rafineri ve lisanslı depolama tesislerine,
+İletim hatlarının mecralarına isabet eden arazi ve arsalarda irtifak hakkı tesisine ve bu hatların ayrılmaz parçası durumunda bulunan diğer binalar ve civarına isabet eden taşınmazlara,
+İşleme tesislerinden Kurumca belirlenecek olanlara,
+İlişkin edinimler 2942 sayılı Kamulaştırma Kanununda belirtilen esaslar dahilinde kamulaştırma yoluyla da yapılabilir. Kamulaştırılan taşınmazın mülkiyeti Hazineye, kullanma hakkı kamulaştırma bedelini ödeyen lisans sahibine ait olur. Kullanma hakkı tapu siciline kaydedilmek suretiyle lisans sahibi adına yapılır ve bunlar lisansın bir parçası olup lisans müddetince devam eder. Lisansın sona ermesi veya iptali halinde, lisans sahiplerince ödenmiş bulunan kamulaştırma bedelleri iade edilmez.
+Bu konuda Kurulca verilecek kamulaştırma kararı kamu yararı kararı yerine geçer ve müteakip işlemler Kamulaştırma Kanunu hükümlerine göre yürütülür.
+Kurulca uygun görülenler de dahil olmak üzere rafinaj ve iletim lisans sahiplerine ait tesislerin tapu sicil kayıtlarına, herhangi bir tasarrufun Kurumun izni bulunmadıkça kaydolunamayacağı şerhi de verilir.
+Mülkiyetin gayri aynî haklar ve kiralama:Tüzel kişiler, faaliyetleri ile ilgili olarak kamuya ait araziler üzerinde, bedeli ilgili tüzel kişi tarafından ödenmesi suretiyle mülkiyetin gayri aynî hak tesisini ve bu arazilerin kiralanmasını talep edebilir.
+Bu istek Kurulca uygun görüldüğünde, Kurum ilgili kanunlar uyarınca ihtiyaca göre intifa, irtifak, üst hakkı veya uzun süreli kiralama yoluna gider.
+Bu şekilde elde edilen hakkın Kurul tarafından tespit edilen bedelini ödeme yükümlülüğü devralan tüzel kişiye aittir. Kullanım hakları, ilgili lisans veya sözleşmenin bir cüzü olup, geçerliliği, bunların geçerlilik süresi ile sınırlıdır.
+İletim hatlarının her iki tarafında en az on beş metre, en fazla yüzer metre mesafe içerisinde; boru hattı için gerekli tesisler ve rafineriler ile lisanslı depoların tehlikelerden korunması için etrafında en fazla 500 metre mesafe içerisinde risk doğurabilecek nitelikte yapılaşma, ziraî ve tehlikeli işlere ilişkin olarak getirilecek kısıtlamalar ile bunların usul ve esasları Kurum tarafından çıkarılacak yönetmeliklerde düzenlenir.
+İletim hatları ve bunların ayrılmaz parçası olan diğer tesisler hakkında 406 sayılı Telgraf ve Telefon Kanununun 11 inci maddesi hükmü uygulanmaz.
+BİRİNCİ KISIM
+Genel Hükümler
+DÖRDÜNCÜ BÖLÜM
+Fiyat Oluşumu, Kamulaştırma, Erişim ve Eşgüdüm
+Madde 0012: İletim tesisleri ile lisanslı depolama tesislerine erişim
+Tesislerinde boş kapasite bulunan ileticiler ve lisanslı depocular; iletim ve depolama taleplerini, talebin aşağıda sayılan hususları sağlaması halinde, karşılamakla yükümlüdür.
+Yapılan talebin;
+Lisans sahibinin tarifesine uygun olması,
+İlgili tesisin kapasitesine uygun yapılması,
+Lisans sahibinin tesisine, işletme kural ve koşullarına, ilettiği veya depoladığı petrole yönelik olarak bozucu veya risk artırıcı olumsuz etkileri olmaması,
+Tesisin, iletilen veya depolanan petrolün niteliğine uygun ve lisans sahibinin tarifesinde belirtilen asgarî miktarda olması,
+İletim için, petrolün cinsi de dikkate alınarak üretici, rafinerici, iletici veya dağıtıcı tarafından depolama için, depocunun tarifesinde belirtilen asgarî miktarın üzerinde olmak şartı ile herkes tarafından yapılması,
+Gereklidir.
+BİRİNCİ KISIM
+Genel Hükümler
+DÖRDÜNCÜ BÖLÜM
+Fiyat Oluşumu, Kamulaştırma, Erişim ve Eşgüdüm
+Madde 0013: Eşgüdüm
+Piyasayı doğrudan veya dolaylı olarak ilgilendiren konularda yetkili kılınan diğer mercilerce yapılacak her türlü düzenleme çalışması öncesi(vergi, resim ve harçlara ilişkin düzenlemeler hariç), Kurumun haberdar edilmesi ve çalışmalara iştirakinin sağlanması esastır.
+Petrol piyasası faaliyetleri ile ilgili olarak Türk Standardları Enstitüsü tarafından yapılacak standard hazırlık çalışmalarında Kurum temsilcisi de bulunur. Piyasa faaliyetlerine ilişkin Türk standardları Kurul onayı ile mecburî hale getirilebilir.
+Kurum;
+Lisanslı tesisler açısından büyük tehlikeler doğurabilecek hallerde,
+Piyasada haksız rekabet yaratacak ve yanıltıcı nitelikte reklam ve ilanlar ile benzeri faaliyetlerin yapılması durumunda,
+Piyasada faaliyet gösteren malzeme ve cihaz ithalatçı, üretici ve satıcıları ile bunların yetkili servisleri hakkındaki düzenleme ve uygulamalarda,
+Görüş bildirmeye veya ilgili makamlardan talepte bulunmaya yetkilidir.
+(Fıkra 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Kurum, piyasa faaliyetlerine ilişkin olarak lisans sahipleri veya yetkilileri hakkında açılan kamu davalarını katılan sıfatıyla takip edebilir. Bu konularla ilgili olarak suç duyurusunda bulunabileceği gibi mevzuatın uygulanması açısından, adlî ve mülkî makamlardan yaptırım talebinde bulunabilir.
+BİRİNCİ KISIM
+Genel Hükümler
+BEŞİNCİ BÖLÜM
+Bilgilerin Toplanması, Kayıt Düzeni, Denetim, Tebligat ve Sigorta
+Madde 0014: Bilgilerin toplanması, kayıt düzeni, denetim ve tebligat
+Piyasa işleyişine ilişkin bilgileri derlemek amacıyla bildirim yükümlülükleri Kurumca belirlenir. Kurum, lisans sahiplerinin Vergi Usul Kanunu hükümleri saklı kalmak şartı ile düzenleyecekleri belge ve tutacakları kayıt düzenlerine ilişkin özel usul ve esaslar belirleyebilir.
+Kurum, bu Kanunun kendisine verdiği görevleri yerine getirirken, gerekli gördüğü her türlü bilgiyi kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerden isteyebilir.
+Görevlendirilen Kurum personeli, piyasa tarafları ve/veya tesisleri nezdinde, defterler de dahil olmak üzere her türlü evrak, belge ve emtianın incelenmesi, suret veya numune alınması, konuyla ilgili yazılı veya sözlü açıklama istenmesi, gerekli tutanakların düzenlenmesi, tesislerin ve işletiminin incelenmesi konularında yetkilidir. Görevlendirme yazısında amaç, kapsam, süre ve yetkinin çerçevesi yer alır.
+(Fıkra 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan 6455 Sayılı Kanun ile Değişmiştir.) Kurum, piyasa faaliyetlerini kendi personeli eliyle veya gerektiğinde diğer kamu kurum ve kuruluşları personeli eliyle denetime tabi tutar. Kurum, denetlemelerde kullanılmak üzere, Türk Akreditasyon Kurumu ile işbirliği yaparak akredite sabit ve gezici laboratuvarlar kurabilir, kurulmasına kaynak aktarabilir. Denetlemede, ön araştırmada ve soruşturmada takip edilecek usul ve esaslar Kurum tarafından, Gümrük ve Ticaret Bakanlığı, Bilim, Sanayi ve Teknoloji Bakanlığı, İçişleri Bakanlığı ve Maliye Bakanlığının görüşü alınarak çıkarılan yönetmelikle düzenlenir.
+Bilgilerin ilgililere ve kamuya açıklanmasına ilişkin ilke, usul ve esaslar Kurumca çıkarılacak yönetmelikle belirlenir. Piyasa açısından ticari gizlilik niteliği taşıyan bilgiler açıklanamaz.
+Lisans sahiplerinin lisans belgesi içeriği özet bilgileri Kurum tarafından ilan edilir.
+Kurumca bu Kanuna göre yapılacak her türlü tebligat hakkında 7201 sayılı Tebligat Kanunu hükümleri uygulanır, ancak, ilanen yapılacak tebligatlar Resmî Gazetede yayımlanır.
+BİRİNCİ KISIM
+Genel Hükümler
+BEŞİNCİ BÖLÜM
+Bilgilerin Toplanması, Kayıt Düzeni, Denetim, Tebligat ve Sigorta
+Madde 0015: Sigorta
+Lisans kapsamında yürütülen faaliyetler için, sigorta yaptırılması zorunludur. Bakanlar Kurulu kararıyla sigorta kapsamından muaf tutulacak faaliyetler belirlenebilir. Sigorta kapsamına alınacak varlık çeşitlerinin belirlenmesi ile bunların tabi olacağı sigorta kolları ve muafiyet tanınan hususlar, Kurumca çıkarılacak yönetmeliklerde düzenlenir.
+BİRİNCİ KISIM
+Genel Hükümler
+ALTINCI BÖLÜM
+Diğer Hükümler
+Madde 0016: Petrol stokları
+Piyasada sürekliliğin sağlanması, kriz veya olağanüstü hallerde risklerin önlenmesi ve uluslararası anlaşmalar gereği olağanüstü hal petrol stokları ile ilgili yükümlülüklerin ifası amaçlarıyla bir önceki yıl günlük ortalama kullanımının içindeki net ithalatın en az doksan günlük miktarı kadar petrol stoğu tutulur.
+Ulusal petrol stoğu, rafineri, akaryakıt ve LPG dağıtıcı lisansı sahiplerinin ikmal ettiği günlük ortalama ürün miktarının minimum yirmi katını kendi depolarında veya lisanslı depolama tesislerinde topluca veya statülerine göre ayrı ayrı bulundurma yükümlülüğü ile sağlanır. Rafinerilere ve depolara boşaltılmak üzere karasularında bulunan yüklü tankerler ile rafinerilerdeki ham petrol ve yarı mamul ürünler, ürüne tahvil edilerek ulusal stok mükellefiyetine sayılır. Ulusal petrol stoğu, depolanan yerin durumuna ve mevzuatın müsaadesi şartı ile vergisiz tutulabilir.
+Akaryakıt ve LPG dağıtıcı lisansı sahiplerinin, tank dibi hariç toplam stoğunun yirmi günlük kısmı şirketlerin minimum işletme stoğu olarak alınır ve ulusal petrol stoğundan sayılır.  (2. Cümle 22.02.2019 tarih ve 30694 sayılı Resmi Gazetede yayımlanan 7166 Sayılı Kanunun 13. Maddesi ile Yürürlükten Kaldırılmıştır.)
+Ulusal petrol stoğunun tamamlayıcı kısmı rafinericiler tarafından tutulur ve tamamlayıcı kısmın edinilmesi nedeniyle oluşabilecek kaynak ihtiyacı, finansman giderleri ve bu kısım stokların depolama ve idame maliyeti, tüketici fiyatlarına ilave edilen (Kurul tarafından azami 10 ABD Dolar/ton a kadar belirlenir.) ve rafinericilerin kullanımında kalan gelirler ile karşılanır. Rafinericilerin haricinde ithalat durumunda bu gelir rafinericiye ithalatçı tarafından ödenir. Rafinericiler tarafından her yıl bu gelirin muhasebesi hakkında Kuruma bilgi verilmesi zorunludur. Gelir, yeterli depolama tesisi ve stok sağlandıktan sonra idame giderlerini sağlayacak seviyeye çekilir.
+Ulusal petrol stoğunun esas gün sayısının belirlenmesi, artırılması, yönetimi, getirilebilecek yükümlülükler, ulusal petrol stoğunun temin süresi, ulusal petrol stoğunun cinsi, miktarı ve stoklama yerinin belirlenmesi, ulusal petrol stoğuna dair petrol ve hizmet alımları, stok ve stoklamaya ilişkin diğer kararlar ile tedbirlerin alınması, ulusal petrol stoklarından olağanüstü hallerde satış yapılması ile Cumhurbaşkanına (1) sunulacak tekliflerin hazırlanması gibi konularda karar vermek üzere ve bu Kanuna göre oluşturulan Komisyonun çalışmasına ait usul ve esasların belirlenmesinde Cumhurbaşkanı (1) yetkilidir.
+(Fıkra 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan 6455 Sayılı Kanun ile Eklenmiştir) Ulusal petrol stoğu düzenlemesi kapsamında rafineri, akaryakıt ve LPG dağıtıcı lisansı sahiplerinin (2) bulundurmakla yükümlü oldukları stokları denetlemeye ve tutulacak bu stokların miktarında azalma yapılmayacak şekilde ürün cinsini ve ürünlerin birbirine tahvil edilmesini düzenlemeye Kurum yetkilidir.
+(Fıkra 07.07.2018 tarih ve 30471 sayılı Resmi Gazetede yayımlanan 0700 Sayılı KHK ın 147. Maddesi ile Yürürlükten Kaldırılmıştır.)
+(1) Bakanlar Kurulu İbaresi 07.07.2018 Tarih ve 30471 Sayılı Resmi Gazetede Yayımlanan 0700 Sayılı KHK ın 147. Maddesi ile Cumhurbaşkanı şeklinde ve Bakanlar Kuruluna İbaresi Cumhurbaşkanına şeklinde değişmiştir.
+(2) lisansı sahipleri ile serbest kullanıcıların İbaresi 22.02.2019 Tarih ve 30694 Sayılı Resmi Gazetede Yayımlanan 7166 Sayılı Kanunun 13. Maddesi ile lisansı sahiplerinin şeklinde değişmiştir.
+BİRİNCİ KISIM
+Genel Hükümler
+ALTINCI BÖLÜM
+Diğer Hükümler
+Madde 0017: Serbest kullanıcı
+Serbest kullanıcıların belirlenmesine ve lisans verilmesine ilişkin usul ve esaslar Kurul tarafından çıkarılacak yönetmelikle düzenlenir.
+Kalorifer yakıtı, fuel-oil ve motorinde yıllık tüketimi, 5000 tonun altında olmayacak şekilde Kurum tarafından belirlenecek olan yıllık tüketim miktarının altındaki kullanıcılara dağıtıcılar kendi işlettikleri akaryakıt bayileri üzerinden satış yapamazlar.
+BİRİNCİ KISIM
+Genel Hükümler
+ALTINCI BÖLÜM
+Diğer Hükümler
+Madde 0018: Ulusal marker
+(Fıkra 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Yurt içinde pazarlanacak akaryakıta veya akaryakıtla harmanlanan ürünlere rafineri çıkışında veya serbest dolaşıma girişinde rafinericilerce ve dağıtıcılarca Kurumun belirleyeceği şart ve özellikte ulusal marker eklenir. Biyoyakıt ilk üretim merkezleri ile tasfiye edilecek akaryakıt için ulusal marker ekleme noktaları Kurum tarafından belirlenir. Ulusal marker ekleme işlemleri Kurumca yetki verilen bağımsız gözetim firmalarının nezaretinde Kurumun belirleyeceği usul ve esaslara göre yapılır. Ulusal marker ekleme işlemlerinde meydana gelecek usulsüzlüklerden lisans sahibi ile bağımsız gözetim firmaları müştereken sorumludur.
+(Fıkra 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Ulusal marker eklemekle yükümlü lisans sahipleri, her yıl kasım ayı içinde takip eden yıla ait pazarlama projeksiyonlarını Kuruma bildirir ve bu projeksiyona göre Kurumca temin edilecek ulusal marker, Kurumca belirlenecek usul ve esaslara göre akaryakıta eklenmek üzere ilgili lisans sahiplerine teslim edilir.
+Kurum, ulusal marker ve idari ve teknolojik yöntemler ile bir denetim sistemini kurar. Valilikler, görevli elemanların başvurusu halinde denetim amaçlı alınacak numunelerin kullanıcı ve bayilerden alınmasını ve emniyetini sağlamakla yükümlüdür.
+(Fıkra 11.04.2013 tarih ve 28615 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Numunelerde yapılacak testlerde ulusal markerin gerektiği şart ve seviyede bulunmadığı laboratuvar analizi ile tespit edildiğinde, 19 uncu madde hükümleri uygulanır.
+İKİNCİ KISIM
+Çeşitli Hükümler
+BİRİNCİ BÖLÜM
+Cezalar, İdari Yaptırımlar, Dava Hakkı, Yönetmelik ve Yürürlükten Kaldırılan ve Uygulanmayacak Hükümler
+Madde 0019: İdari para cezaları
+(Madde 28.02.2019 tarih ve 30700 sayılı Resmi Gazetede yayımlanan 7164 Sayılı Kanunun 32. Maddesi ile Değişmiştir.)
+Bu Kanuna veya ilgili mevzuata aykırı faaliyet gösterilmesi hâlinde sorumluları hakkında Kurulca aşağıdaki idari para cezaları uygulanır:
+a) Aşağıdaki hallerde iki milyon Türk Lirasından (2020: 2.451.600 TL - 2021: 2.674.940 TL - 2022: 3.643.268 TL - 2023: 8.121.937 TL - 2024: 12.870.021 TL - 2025: 18.523.821 TL) az olmamak ve on milyon Türk Lirasını (2020: 12.258.000 TL - 2021: 13.374.703 TL - 2022: 18.216.345 TL - 2023: 40.609.697 TL - 2024: 64.350.125 TL - 2025: 92.619.134 TL) geçmemek üzere fiilin işlendiği tarihten bir önceki yılda ilgili lisansa konu petrol piyasası faaliyetinden elde edilen net satış hasılatının binde ondördü oranında idari para cezası uygulanır:
+1) Rafinerici, dağıtıcı, taşıma, ihrakiye, işleme, depolama, iletim, madeni yağ üretimi ve serbest kullanıcı lisansı kapsamına giren faaliyetlerin lisans almaksızın yapılması.
+2) 18 inci maddenin ihlali.
+3) 4 üncü maddenin dördüncü fıkrasının (l) bendinin ihlali.
+4) 8 inci maddenin ikinci fıkrasının (b) bendinin ihlali.
+b) Bayilik lisansı sahipleri yönünden (a) bendinde yer alan cezaların yarısı uygulanır.
+c) Ulusal marker ekleme işlemlerine nezaret etmek üzere yetki verilen bağımsız gözetim firmalarına, yükümlülüklerini yerine getirmemeleri hâlinde ulusal markere ilişkin olarak lisans sahibine (a) bendi uyarınca uygulanan cezanın dörtte biri uygulanır.
+ç) Aşağıdaki hallerde bayilik faaliyetinde bulunanlar hariç olmak üzere sorumlulara, bir milyon iki yüz elli bin Türk Lirasından (2020: 1.532.250 TL - 2021: 1.671.837 TL - 2022: 2.277.041 TL - 2023: 5.076.207 TL - 2024: 8.043.757 TL - 2025: 11.577.379 TL) az olmamak ve altı milyon iki yüz elli bin Türk Lirasını (2020: 7.661.250 TL - 2021: 8.359.189 TL - 2022: 11.385.215 TL - 2023: 25.381.059 TL - 2024: 40.218.826 TL - 2025: 57.886.956 TL) geçmemek üzere fiilin işlendiği tarihten bir önceki yılda ilgili lisansa konu petrol piyasası faaliyetine ilişkin net satış hasılatının binde onikisi oranında idari para cezası uygulanır:
+1) 9 uncu maddede yer alan kısıtlamalara uyulmaması (yedinci fıkra hariç).
+2) 5 inci, 6 ncı ve 7 nci maddelerin ihlali.
+3) Kurumca, 10 uncu madde gereği yapılan uygulamaların dolaylı veya dolaysız olarak engellenmesi veya engellemeye teşebbüs edilmesi.
+d) Aşağıdaki hallerde sorumlulara, beş yüz elli bin Türk Lirasından (2020: 674.190 TL - 2021: 735.608 TL - 2022: 1.001.898 TL - 2023: 2.233.531 TL - 2024: 3.539.253 TL - 2025: 5.094.046 TL) az olmamak ve iki milyon yedi yüz elli bin Türk Lirasını (2020: 3.370.950 TL - 2021: 3.678.043 TL - 2022: 5.009.494 TL - 2023: 11.167.664 TL - 2024: 17.696.280 TL - 2025: 25.470.255 TL) geçmemek üzere fiilin işlendiği tarihten bir önceki yılda ilgili lisansa konu petrol piyasası faaliyetine ilişkin net satış hasılatının binde onbiri oranında idari para cezası uygulanır:
+1) 4 üncü maddenin üçüncü fıkrasının ihlali.
+2) Bayilik faaliyetinde bulunanlar hariç olmak üzere 4 üncü maddenin üçüncü fıkrası ile dördüncü fıkrasının (d) ve (l) bendi dışındaki hükümlerinin ihlali.
+3) Bayilik faaliyetinde bulunanlar hariç olmak üzere sahip olunan lisansın verdiği haklar dışında faaliyet gösterilmesi.
+4) 12 nci maddede yer alan hükümler dahilinde iletim ve depolama tesislerine erişimin dolaylı veya dolaysız olarak engellenmesi.
+5) 17 nci maddenin ihlali.
+e) Serbest kullanıcı lisansı sahiplerince (d) bendinde yer alan fiillerin işlenmesi hâlinde, elli bin (2020: 61.290 TL - 2021: 63.873 TL - 2022: 91.081 TL - 2023: 203.046 TL - 2024: 321.746 TL - 2025: 463.089 TL) Türk Lirasından az olmamak ve yüz bin (2020: 125.080 TL - 2021: 133.747 TL - 2022: 182.163 TL - 2023: 406.095 TL - 2024: 643.498 TL - 2025: 926.186 TL) Türk Lirasını geçmemek üzere fiilin işlendiği tarihten bir önceki yılda ilgili lisansa konu petrol piyasası faaliyetine ilişkin net satış hasılatının binde beşi oranında idari para cezası uygulanır.
+f) Aşağıdaki hallerde sorumlulara yüz yirmi beş bin Türk Lirasından (2020: 153.225 TL - 2021: 167.183 TL - 2022: 227.703 TL - 2023: 507.618 TL - 2024: 804.371 TL - 2025: 1.157.731 TL) az olmamak ve altı yüz yirmi beş bin Türk Lirasını (2020: 766.125 TL - 2021: 835.918 TL - 2022: 1.138.520 TL - 2023: 2.538.102 TL - 2024: 4.021.876 TL - 2025: 5.788.686 TL) geçmemek üzere fiilin işlendiği tarihten bir önceki yılda ilgili lisansa konu petrol piyasası faaliyetine ilişkin net satış hasılatının binde onu oranında idari para cezası uygulanır:
+1) Lisans almaksızın bayilik faaliyeti yapılması.
+2) 9 uncu maddenin yedinci fıkrasının ihlali.
+3) 8 inci maddenin ihlali (8 inci maddenin ikinci fıkrasının (b) bendi hariç).
+4) Bayilik lisansı sahiplerince lisansın verdiği haklar dışında faaliyet gösterilmesi.
+5) 4 üncü maddenin üçüncü fıkrası ile dördüncü fıkrasının (d) ve (l) bendi dışındaki hükümlerinin bayilik lisansı sahiplerince ihlali.
+6) Bayilik lisansı sahiplerince 10 uncu maddenin ihlali.
+g) Kanunun 16 ncı maddesi uyarınca ulusal petrol stoğu tutma yükümlülüğü bulunan lisans sahiplerine, tespit tarihinde eksik tutulan her bir ton ürün için iki yüz elli Türk Lirası (2020: 306 TL - 2021: 333 TL - 2022: 453 TL - 2023: 1.009 TL - 2024: 1.598 TL - 2025: 2.300 TL) idari para cezası verilir. Eksik tutulan stok miktarının hesabında ton küsuratı dikkate alınmaz. Bu bent kapsamında uygulanan idari para cezası, ulusal petrol stoğunun tamamlayıcı kısmının finansmanı için kullanılır.
+ğ) Kurum tarafından yapılan düzenlemeler uyarınca biodizel, etanol ve benzeri harmanlama yükümlülüğü bulunan lisans sahiplerine, eksik harmanlanan her bir metreküp ürün için iki yüz elli Türk Lirası (2020: 306 TL - 2021: 333 TL - 2022: 453 TL - 2023: 1.009 TL - 2024: 1.598 TL - 2025: 2.300 TL) idari para cezası uygulanır.
+h) (Bent 30.04.2021 tarih ve 31470 sayılı Resmi Gazetede yayımlanan 7318 Sayılı Kanunun 9. Maddesi ile eklenmiş ve diğer bent buna göre teselsül ettirilmiştir.) Denetim sistemini usulüne uygun olarak kurmak ve uygulamak üzere yetkilendirilen tüzel kişilere, yükümlülüklerini yerine getirmemeleri hâlinde dağıtıcı lisansı sahibine (ç) bendi uyarınca uygulanan cezanın onda biri uygulanır.
+ı) Yukarıda belirtilenlerin dışında kalan ancak bu Kanunun getirdiği yükümlülüklere, ikincil mevzuat veya lisans hükümlerine, Kurul kararlarına uymayanlara Kurumca yüz on bin Türk Lirasından (2020: 134.838 TL - 2021: 147.121 TL - 2022: 200.378 TL - 2023: 446.702 TL - 2024: 707.843 TL - 2025: 1.018.798 TL) az olmamak ve beş yüz elli bin Türk Lirasını (2020: 674.190 TL - 2021: 735.608 TL - 2022: 1.001.898 TL - 2023: 2.233.531 TL - 2024: 3.539.253 TL - 2025: 5.094.046 TL) geçmemek üzere fiilin işlendiği tarihten bir önceki yılda ilgili lisansa konu petrol piyasası faaliyetine ilişkin net satış hasılatının binde sekizi oranında idari para cezası uygulanır.
+Ceza uygulanan bir fiilin iki yıl geçmeden aynı kişi tarafından tekrar işlenmesi hâlinde, idari para cezaları iki kat olarak uygulanır.
+Bu Kanunun 20 nci maddesi ve bu madde hükümlerine göre yürütülen idari işlemler, lisans sahibinin Kuruma bildirdiği elektronik tebligat adresine tebliğ edilir. Kuruma bildirilen elektronik tebligat adresine tebligatın zorunlu bir sebeple yapılamaması hâlinde Kuruma bildirilen adrese yapılan bildirim tebligat yerine geçer.
+Bu Kanun kapsamında verilen idari para cezaları tebliğ tarihinden itibaren bir ay içinde ödenir. Süresinde ödenmeyen idari para cezaları, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri gereğince tahsil edilmek üzere ilgili vergi dairesine gönderilir.
+Bu Kanun kapsamında verilen idari para cezalarına karşı yargı yoluna başvurulması, ilgili vergi dairesine idari para cezasına ilişkin banka teminat mektubu verilmesi durumu hariç tahsil işlemlerini durdurmaz. Teminat mektubunun miktarı, türü, hangi şartlarda paraya çevrileceği ve diğer hususlar Kurumca yapılacak düzenlemeler ile belirlenir.
+Kurul, bu maddede belirtilen fiillerin işlendiği tarihten bir önceki yılda ilgili lisansa konu petrol piyasası faaliyetinden elde edilen net satış hasılatının olmaması veya tespitinin yapılamaması hâlinde, tespit edeceği akaryakıt ikmali veya satışı ve benzeri delillerden hareketle fiile ilişkin olarak bu maddenin ilgili bentlerinde belirlenmiş olan oranlar ve asgari azami had dâhilinde, hiçbir tespit yapılamaması hâlinde ise mevzuata aykırı fiili icra edenin petrol piyasası faaliyetinin emsali olabilecek petrol piyasası faaliyetinden elde edilen net satış hasılatını esas almak suretiyle fiile ilişkin olarak bu maddenin ilgili bentlerinde belirlenmiş olan oranlar ve asgari azami had dâhilinde ceza tayininde bulunur.
+İKİNCİ KISIM
+Çeşitli Hükümler
+BİRİNCİ BÖLÜM
+Cezalar, İdari Yaptırımlar, Dava Hakkı, Yönetmelik ve Yürürlükten Kaldırılan ve Uygulanmayacak Hükümler
+Madde 0020: İdari yaptırımlar
+(Madde 28.02.2019 tarih ve 30700 sayılı Resmi Gazetede yayımlanan 7164 Sayılı Kanunun 33. Maddesi ile Değişmiştir.)
+İdari yaptırımlar; tedbirler, lisans iptalleri ve idari para cezalarından oluşur. Bu Kanuna göre idari para cezaları, tedbirler ve lisans iptallerinin uygulanması bu Kanunun diğer hükümlerinin uygulanmasına engel oluşturmaz. Bu Kanuna göre verilen idari para cezaları, alınan tedbirler ve lisans iptalleri diğer kanunlar gereği yapılacak işlemleri engellemez.
+Bu Kanuna göre idari yaptırımlar aşağıdaki usulde yürütülür:
+a) Lisans sahibi kişiler hakkında bu Kanuna, ikincil mevzuata veya lisans hükümlerine, Kurul kararlarına aykırı davranılması hâlinde; Kurul tarafından belirlenen niteliği itibarıyla düzeltme imkânı olan fiiller için ilgilisine Kurum veya Kurumca yetkilendirilen kuruluşlar tarafından, otuz gün içerisinde aykırılığın giderilmesi, aksi halde hakkında geçici durdurma yapılabileceği ihtar edilir. Verilen ihtar süresi sonunda mevzuata aykırı durumu devam ettirenlerin ilgili piyasa faaliyeti altmış gün süre ile geçici olarak durdurulur. Niteliği itibarıyla düzeltme imkânı olan fiilin tespit tarihinden itibaren iki yıl içerisinde tekrar edilmesi hâlinde ise ihtar işlemi uygulanmaksızın ilgili piyasa faaliyeti altmış gün süre ile geçici olarak durdurulur. Geçici durdurma süresince, tehlikeli eylemin veya kötüniyetin veya ürünlerde zarar oluşmasının önlenmesi ile faaliyetin durdurulmasına neden olan durumun ortadan kaldırılmasına ilişkin faaliyetler dışında hiçbir piyasa faaliyeti yapılamaz. Geçici durdurma süresi sonunda da tespit edilen aykırılıklar giderilmezse, faaliyetin durdurulmasına devam edilerek soruşturma başlatılır ve gerekli idari yaptırımlar uygulanır. Lisans iptalleri Kurumca yapılacak soruşturma neticesine göre karara bağlanır. Yapılan geçici durdurma sonrasında mevzuata aykırı durumun ortadan kalkması hâlinde geçici durdurma hali sona erdirilir.
+b) Lisans sahibi kişiler hakkında, bu Kanuna, ikincil mevzuata veya lisans hükümlerine, Kurul kararlarına aykırı davranılması hâlinde, niteliği itibarıyla düzeltme imkânı olmayan fiiller ile 5607 sayılı Kanunda belirtilen akaryakıt kaçakçılığına ilişkin fiiller için ilgilisi hakkında Kurum tarafından doğrudan idari soruşturma başlatılarak gerekli yaptırımlar uygulanır. Lisans sahibinin ilgili piyasa faaliyeti niteliği itibarıyla düzeltme imkânı olmayan, kötüniyet veya tehlikeli eylem sonucunu doğuran fiilleri nedeniyle Kurumca geçici olarak durdurulabilir.
+c) 5607 sayılı Kanunda belirtilen kaçakçılık fiillerinin işlendiği tespit edilen rafineri hariç her türlü tesiste lisansa tabi tüm faaliyetler kovuşturmaya yer olmadığına dair karar veya mahkeme kararı kesinleşinceye kadar Kurum tarafından geçici olarak durdurulur ve bu süre içinde söz konusu tesis için başka bir gerçek veya tüzel kişiye de lisans verilmez. Kesinleşmiş mahkeme kararına göre lisans sahiplerinin lisansı iptal edilir. Lisans sahibine verilen idari para cezası ödenmeden lisansa konu tesis için lisans verilmez.
+ç) Kaçakçılık fiilinin sadece ulusal marker seviyesi ile ilgili olması durumunda, geçici durdurma kararı akredite laboratuvar analiz sonucuna göre verilir. Akredite laboratuvar analiz sonucunun bildirilmesine kadar kaçak akaryakıt satışını engelleyecek idari tedbirler Kurum tarafından alınır. Seyyar kontrol cihazı ile yapılan ulusal marker kontrol sonucunun geçersiz çıkması hâlinde, alınan numune en geç beş iş günü içinde laboratuvara teslim edilir. Laboratuvar, yapılması istenilen analizleri numune özellikleri değişime uğramadan onbeş gün içinde yapar ve sonucunu en geç üç iş günü içinde Kuruma ve ilgililerine bildirir.
+d) Lisans almaksızın lisansa tabi bir faaliyet gösterildiğinin tespiti hâlinde, tesisler, lisans alınıncaya veya bu Kanuna göre lisans gerektirmeyen faaliyet gösterecek hale getirilinceye kadar mühürlenir ve ilgililer hakkında soruşturma başlatılır. Mühürlemeye ilişkin usul ve esaslar Kurum tarafından çıkarılan yönetmelikle düzenlenir.
+e) Bu Kanuna göre yapılan talep veya işlemlerde, kanuna karşı hile veya yalan beyanda bulunulduğunun tespiti hâlinde lisans iptal olunur. (Cümleler 30.04.2021 tarih ve 31470 sayılı Resmi Gazetede yayımlanan 7318 Sayılı Kanunun 10. Maddesi ile Eklenmiştir) Bu hüküm kapsamında lisansı iptal olanlara yeniden lisans verilmez. Lisans sahibinin tüzel kişi olması durumunda söz konusu iptale konu fiilin işlendiği tarih itibarıyla; yüzde ondan fazla paya sahip ortaklara, yönetim kurulu başkanı ve üyeleri ile temsil ve ilzama yetkili olanlara ve bu kişilerin ortak, yönetim kurulu başkanı veya üyesi olduğu ya da temsil ve ilzama yetkili olduğu tüzel kişilere lisans verilmez.
+f) Kaçak ürün ikmal edenlerin lisansı iptal edilir. Teknik düzenlemelere uygun olmayan ürün ikmal edenler zararı tazmin etmekle yükümlüdür. Teknik düzenlemelere uygun olmayan akaryakıt ikmali nedeniyle kullanıcıya verilen zarar ve hasarların tazmini hususu, lisans sahibi gerçek ve tüzel kişilerin lisanslarında ve sözleşmelerinde yer alır. Uygulamaya ilişkin usul ve esaslar çıkarılan yönetmelikle belirlenir.
+g) (Bent 30.04.2021 tarih ve 31470 sayılı Resmi Gazetede yayımlanan 7318 Sayılı Kanunun 10. Maddesi ile Eklenmiştir) Bu Kanuna göre lisansa tabi faaliyetler ile ilgili olarak, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 359 uncu maddesinin (a) ve (b) fıkraları kapsamında; muhteviyatı itibarıyla yanıltıcı belge düzenleme veya bu belgeleri kullanma, belgelerin asıl veya suretlerini tamamen veya kısmen sahte olarak düzenleme veya bu belgeleri kullanma suçları ile aynı maddenin (ç) fıkrasında yazılı suçların işlendiğinin anılan Kanunun 367 nci maddesi uyarınca Cumhuriyet başsavcılığına bildirilmesi ile birlikte durum, Kuruma da iletilir ve Kurum tarafından her türlü tesiste (rafineri hariç) lisansa tabi tüm faaliyetler geçici olarak durdurulur ve bu süre içerisinde söz konusu tesis için başka bir gerçek veya tüzel kişiye de lisans verilmez (*) (1) Kesinleşmiş mahkeme kararına göre lisans sahiplerinin lisansı iptal edilir. (Cümleler 28.12.2023 Tarih ve 32413 Sayılı Resmi Gazetede Yayımlanan 7491 Sayılı Kanunun 48. Maddesi ile Eklenmiştir) Kurum tarafından geçici durdurma işleminin kaldırılıp kaldırılmayacağı bu fıkrada yer verilen suçlarla sınırlı olmak üzere Cumhuriyet başsavcılığı veya mahkemelerden temin edilecek bilgilere göre altı ayda bir değerlendirilir. Ancak kovuşturmaya yer olmadığına dair kararın kesinleşmesi üzerine ya da mahkûmiyet dışında bir hüküm veya hükmün açıklanmasının geri bırakılmasına karar verilmesi halinde kesinleşmesi beklenmeksizin Kuruma yargı merciince bildirilmesiyle veya sair suretlerle Kurumca ıttıla edilmesi durumunda geçici durdurma işlemi Kurum tarafından kaldırılır. Bu bent kapsamında kalan fiillere ilişkin olarak verilen idari para cezaları ödenmediği müddetçe lisansa konu tesis için lisans verilmez.  (Son Cümle 30.03.2025 tarih ve 32857 sayılı Resmi Gazetede yayımlanan 7546 Sayılı Kanunun 6. Maddesi ile 1/7/2025 tarihinden itibaren geçerli olacak şekilde Değişmiştir.) Bu bent kapsamındaki suçlara ilişkin vergi incelemesi görevi bulunduğunun Kuruma bildirilmesiyle söz konusu tesis için başka bir gerçek veya tüzel kişiye de lisans verilmemesi tedbiri Kurum tarafından uygulanır. (Cümleler 30.03.2025 tarih ve 32857 sayılı Resmi Gazetede yayımlanan 7546 Sayılı Kanunun 6. Maddesi ile 1/7/2025 tarihinden itibaren geçerli olacak şekilde Eklenmiştir) Bu tedbirin kaldırılıp kaldırılamayacağı Vergi Denetim Kurulu Başkanlığından temin edilecek bilgilere göre üç ayda bir değerlendirilir. Ancak bu tedbirin süresi Kuruma yapılan bildirimden itibaren bir yılı geçemez.
+ğ) (Bent 30.04.2021 tarih ve 31470 sayılı Resmi Gazetede yayımlanan 7318 Sayılı Kanunun 10. Maddesi ile Eklenmiştir) 9 uncu maddede yer alan dağıtıcılar arası akaryakıt ticaretine ilişkin hükümlere aykırı davrandığı tespit edilen dağıtıcılara 19 uncu madde kapsamında idari para cezası uygulanır. Aynı hükümlere aykırılığın lisans sahibi tarafından iki yıl içinde tekrar edilmesi halinde dağıtıcı lisansı iptal edilir.
+h) (Bent 30.04.2021 tarih ve 31470 sayılı Resmi Gazetede yayımlanan 7318 Sayılı Kanunun 10. Maddesi ile Eklenmiştir) Bu Kanun kapsamında lisansa tabi faaliyetlerde bulunanlardan, 213 sayılı Kanunun mükerrer 257 nci maddesinin birinci fıkrasının (8) numaralı bendine göre istenilen teminatı vermeyenlerin ilgili piyasa faaliyeti teminat verilinceye kadar durdurulur ve bu süre içinde söz konusu tesis veya faaliyet için başka bir gerçek veya tüzel kişiye de lisans verilmez.
+Mühürlemeye rağmen, faaliyetlerini sürdüren gerçek kişiler ile tüzel kişilerin suçun işlenişine iştirak eden yetkilileri hakkında, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 203 üncü maddesi hükümleri uygulanır.
+(*) (Üstü Çizili İbare, Anayasa Mahkemesinin 14.11.2023 tarih ve 32369 sayılı Resmi Gazetede Yayımlanan 28.09.2023 tarihli ve E:2023/35; K:2023/163 sayılı kararı ile iptal edilmiş olup, söz konusu karar Resmî Gazete de yayımından başlayarak dokuz ay sonra [14.08.2024] yürürlüğe girecektir.)
+(1) Anayasa Mahkemesi Tarafından İptal Edilmiş Olan ve Kurum tarafından her türlü tesiste (rafineri hariç) lisansa tabi tüm faaliyetler kovuşturmaya yer olmadığına dair karar veya mahkeme kararı kesinleşinceye kadar geçici olarak durdurulur ve bu süre içinde söz konusu tesis için başka bir gerçek veya tüzel kişiye de lisans verilmez ibaresi 28.12.2023 Tarih ve 32413 Sayılı Resmi Gazetede Yayımlanan 7491 Sayılı Kanunun 48. Maddesi ile ve Kurum tarafından her türlü tesiste (rafineri hariç) lisansa tabi tüm faaliyetler geçici olarak durdurulur ve bu süre içerisinde söz konusu tesis için başka bir gerçek veya tüzel kişiye de lisans verilmez şeklinde değişmiştir.
+İKİNCİ KISIM
+Çeşitli Hükümler
+BİRİNCİ BÖLÜM
+Cezalar, İdari Yaptırımlar, Dava Hakkı, Yönetmelik ve Yürürlükten Kaldırılan ve Uygulanmayacak Hükümler
+Madde 0021: Ön araştırma, soruşturma ve dava hakkı
+Kurul, re'sen veya kendisine intikal eden ihbar veya şikayetler üzerine doğrudan soruşturma açılmasına ya da soruşturma açılmasına gerek olup olmadığının tespiti için ön araştırma yapılmasına karar verir.
+Ön araştırma ve soruşturmada takip edilecek usul ve esaslar, Kurum tarafından yürürlüğe konulacak yönetmelikle düzenlenir.
+(Fıkra 05.07.2012 tarih ve 28344 sayılı Resmi Gazetede yayımlanan 6352 Sayılı Kanun ile Değişmiştir.) İdari yaptırım kararlarına karşı yetkili idare mahkemesinde dava açılabilir. Kurul kararlarına karşı açılan her türlü dava öncelikli işlerden sayılır.
+İKİNCİ KISIM
+Çeşitli Hükümler
+BİRİNCİ BÖLÜM
+Cezalar, İdari Yaptırımlar, Dava Hakkı, Yönetmelik ve Yürürlükten Kaldırılan ve Uygulanmayacak Hükümler
+Madde 0022: Yönetmelik
+Piyasa faaliyetlerine ilişkin hususlar; bu Kanunun ilgili maddelerinde atıfta bulunulan yönetmelikler ve piyasanın işleyişi esnasında ihtiyaç duyulan diğer hususlarda Kurum tarafından yürürlüğe konulacak yönetmeliklerle düzenlenir. Bu yönetmelikler Resmi Gazetede yayımlanır.
+Ayrıca, Kurum yetkilerini Kurul kararıyla özel nitelikli kararlar almak suretiyle de kullanabilir. Özel nitelikli kararlardan kamuoyunu ilgilendiren hususlar ile yapılacak düzenlemeleri açıklamak amacıyla çıkarılacak tebliğler, basın ve yayın araçlarıyla veya özel bültenlerle duyurulur.
+İKİNCİ KISIM
+Çeşitli Hükümler
+BİRİNCİ BÖLÜM
+Cezalar, İdari Yaptırımlar, Dava Hakkı, Yönetmelik ve Yürürlükten Kaldırılan ve Uygulanmayacak Hükümler
+Madde 0023: Yürürlükten kaldırılan ve uygulanmayacak hükümler
+10.09.1960 tarihli ve 79 sayılı Milli Korunma Suçlarının Affına, Milli Korunma Teşkilat, Sermaye ve Fon Hesaplarının Tasfiyesine ve Bazı Hükümler İhdasına Dair Kanunun 5 inci maddesi,
+03.04.1930 tarihli ve 1580 sayılı Belediye Kanununun 15 inci maddesinin ikinci fıkrasının (41) numaralı bendi,
+Yürürlükten kaldırılmıştır.
+6326 sayılı Petrol Kanununun bu Kanuna aykırı hükümleri uygulanmaz.
+İKİNCİ KISIM
+Çeşitli Hükümler
+İKİNCİ BÖLÜM
+Elektrik Piyasası Kanununda Yapılan Değişiklikler
+Madde 0024:
+20.02.2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanununun 5 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Kurul, biri Başkan, biri İkinci Başkan olmak üzere dokuz üyeden oluşur.
+İKİNCİ KISIM
+Çeşitli Hükümler
+İKİNCİ BÖLÜM
+Elektrik Piyasası Kanununda Yapılan Değişiklikler
+Madde 0025:
+4628 sayılı Elektrik Piyasası Kanununun 5/A maddesinden sonra gelmek üzere aşağıdaki 5/B maddesi eklenmiştir.
+Kurulun petrol piyasası ile ilgili görevleri
+MADDE 5/B.- Enerji Piyasası Düzenleme Kurulu petrol piyasası ile ilgili olarak aşağıda belirtilen görevleri de yerine getirir :
+Petrol Piyasası Kanunu hükümlerini uygulamak, Piyasa faaliyetlerine ilişkin her türlü düzenlemeleri yapmak ve yürütülmesini sağlamak.
+Petrol faaliyetlerine ilişkin plan, politika ve uygulamalarla ilgili Kurum görüş ve önerilerini belirlemek.
+Petrol piyasa faaliyetleriyle ilgili denetleme, ön araştırma ve soruşturma işlemlerini yürütmek, yetkisi dahilindeki ceza ve yaptırımları uygulamak ve dava açmak da dahil olmak üzere her türlü adli ve idari makama başvuru kararlarını almak.
+Uluslararası organizasyon ve teşkilatların petrol piyasasına ilişkin uygulamalarını izlemek.
+Petrol piyasasında lisans ve lisanslarla ilgili işlem bedellerini belirlemek.
+Petrol piyasasında faaliyet gösteren kişilerin denetlenmiş mali tablolarını incelemek veya incelettirmek.
+Petrol piyasasında faaliyet gösteren kişilerden istenecek olan, hizmet güvenilirliği, hizmet dışı kalmalar ve diğer performans ölçütleriyle ilgili raporların kapsamını belirlemek ve düzenli olarak Kurula vermelerini sağlamak.
+Petrol Piyasası Kanunu hükümlerine, çıkarılan yönetmelik hükümlerine, Kurul tarafından onaylanan tarife ve yönetmeliklere, lisans hüküm ve şartlarına ve Kurul kararlarına aykırı davranıldığı durumlarda, idari para cezası vermek ve lisansları iptal etmek.
+İKİNCİ KISIM
+Çeşitli Hükümler
+İKİNCİ BÖLÜM
+Elektrik Piyasası Kanununda Yapılan Değişiklikler
+Madde 0026:
+4628 sayılı Elektrik Piyasası Kanununun 9 uncu maddesine aşağıdaki fıkralar eklenmiştir.
+Kamu kurum ve kuruluşlarında en az beş yıl süre ile görev yapan ve en az dört yıl süreli eğitim veren yüksek öğrenim kurumlarından mezun olan ve kamu personeli dil sınavı sonucu A derecesinde dil bildiğini belgeleyenler veya özel sektörde beş yıldan fazla hizmeti olup yüksek öğrenim ile dil konusunda aynı şartları haiz olanlardan, hizmetine ihtiyaç bulunanlar, bu kurum ve kuruluşlarda fiilen çalışmış oldukları süreler de dikkate alınarak derece ve kademeleri tespit edilmek suretiyle, 31.12.2004 tarihine kadar Kurumda durumlarına uygun boş kadrolara 657 sayılı Kanunun sınav ve adaylık hükümlerine uyulmaksızın uzman olarak atanabilirler. Bu özelliklere sahip olmayan Petrol İşleri Genel Müdürlüğü personeli de, istekleri halinde ve Kurum ile Petrol İşleri Genel Müdürlüğünün mutabakatı alınmak şartıyla, Kurumda büro personeli olarak görevlendirilebilir. 4857 sayılı İş Kanunu hükümlerine göre istihdam edilmekte olanların bu hükme istinaden Kurum kadrolarına atanmaları, anılan Kanun hükümleri kapsamında değerlendirilir ve kıdem tazminatları kurumları tarafından ödenir.
+Bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay içerisinde Kurulun önerisi üzerine Bakanlar Kurulunca çıkarılacak yönetmelikle Kurumun teşkilatlanması yeniden yapılır. Kurumda ücret ve mali haklar dışında 657 sayılı Devlet Memurları Kanununa tabi olarak idari hizmet sözleşmesi ile sözleşmeli olarak istihdam edilen personelden; Kurum teşkilat yapısındaki değişiklik sebebiyle kadrosu kaldırılan, değiştirilen veya teşkilat kadrolarının hizmet icaplarına nitelikleri uygun olmadığı Kurulca tespit edilen ihtiyaç fazlası personel yukarıdaki yönetmeliğin yürürlüğe girdiği tarihten itibaren bir ay içerisinde Devlet Personel Başkanlığına bildirilir ve bu Başkanlıkça onbeş gün içerisinde ilgililerin kamu kurum ve kuruluşlarına atama teklifi yapılır. Kamu kurum ve kuruluşları, atama teklifi yapılan ilgili personeli durumlarına uygun boş kadrolara on gün içerisinde atarlar. Bu şekilde atanan personelin işe başlama sürelerine ve işe başlamamaları halinde yapılacak işlemlere ilişkin olarak 657 sayılı Devlet Memurları Kanununun 62 ve 63 üncü maddeleri hükümleri uygulanır. Kurum personelinden diğer kamu kurum ve kuruluşlarına atananların yeni görevlerine başlayacakları tarihe kadarki geçecek sürede ücret ve mali hakları Kurumca ödenir.
+İKİNCİ KISIM
+Çeşitli Hükümler
+İKİNCİ BÖLÜM
+Elektrik Piyasası Kanununda Yapılan Değişiklikler
+Madde 0027:
+4628 sayılı Elektrik Piyasası Kanununun 2 nci maddesinin üçüncü fıkrasına ...halinde, ibaresinden sonra gelmek üzere otoprodüktörler hariç olmak üzere ibaresi ile 10 uncu maddesinin (B) bendinden sonra gelmek üzere aşağıdaki (C) bendi eklenmiştir.
+C) Kurumun petrol piyasası ile ilgili gelirleri aşağıdaki kalemlerden oluşur:
+Katılma payı.
+Lisans, onay, izin ve vize işlemleri üzerinden alınacak bedeller.
+Yayın ve sair gelirler.
+Ayrıntıları kamuoyuna duyurulmak kaydıyla ve piyasanın gelişimine dair etüt ve proje çalışmalarının finansmanında kullanılmak üzere uluslararası kurum ve kuruluşlar tarafından verilecek hibeler.
+(a) alt bendindeki katılma payının mükellefi; rafinaj, işleme, dağıtıcı, iletim, taşıma, ihrakiye, depolama, bayi ve madeni yağ üretim lisansı sahibi gerçek ve tüzel kişilerdir. Müşterek lisans sahipleri katılma payını toplam net satışları üzerinden öder. Katılma payı, lisans sahiplerince yıllık gelir tablolarında yer alan net satışlar tutarının binde biri oranını ve iki milyon ABD Dolarını aşmayacak şekilde Kurulca belirlenir. Yıl içinde uygulanacak katılma payı oranı bir önceki yılın Aralık ayı içinde açıklanır.
+Net satış hasılatı içinde yer alması halinde, yıl içinde petrol için ödenen gümrük vergi, resim ve harçları ile Özel Tüketim Vergisi toplamı net satışlar toplamından tenzil edilir.
+Katılma payı ödemekle yükümlü lisans sahipleri, herhangi bir bildirim beklemeksizin her yıl Mayıs ayı sonuna kadar bir önceki yıla ait bilanço ve gelir tablolarını Kuruma göndermek ve katılma payının yarısını Haziran, ikinci yarısını Kasım ayı sonuna kadar ödemek zorundadır.
+Süresinde beyan edilmeyen veya hatalı beyan edilen katılma paylarına ilişkin cezai ve idari işlemler Kurumca tamamlanarak ilgili organlar nezdinde adli ve idari işlemler başlatılır. Süresinde ödenmeyen mali yükümlülükler ve gecikme zamları hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanarak ilgili vergi daireleri aracılığı ile tahsili sağlanır.
+İKİNCİ KISIM
+Çeşitli Hükümler
+İKİNCİ BÖLÜM
+Elektrik Piyasası Kanununda Yapılan Değişiklikler
+Madde 0028:
+4628 sayılı Elektrik Piyasası Kanununun geçici 2 nci maddesinin ikinci fıkrasının sonuna aşağıdaki hükümler eklenmiştir.
+Petrol Piyasası Kanununun yürürlüğe girmesini müteakip en geç bir ay içinde atanacak iki üyenin görev süreleri altı yıldır. Bu üyeler kuraya tabi tutulmaz ve bu iki üyeliğe görev süresinin bitiminde yeniden atama yapılır.
+İKİNCİ KISIM
+Çeşitli Hükümler
+İKİNCİ BÖLÜM
+Elektrik Piyasası Kanununda Yapılan Değişiklikler
+Ek Madde 0001:
+(02.05.2006 tarih ve 26156 sayılı Resmi Gazete de yayımlanan 5493 sayılı Kanunun 3 üncü maddesiyle eklenmiştir. Yürürlük: 01.06.2006) Enerji Piyasası Düzenleme Kurumu tarafından akaryakıt alt başlığı ve istasyonlu bayilik kategorisi altında verilen bayilik lisansı sahiplerince, 4760 sayılı Özel Tüketim Vergisi Kanununun 7/A maddesi ve 3065 sayılı Katma Değer Vergisi Kanununun 14 üncü maddesinin (3) numaralı fıkrası kapsamında satışı yapılan akaryakıtların satış fiyatı, ilgili akaryakıt türünün edinme bedelinin yüzde sekiz fazlasını aşamaz.
+İKİNCİ KISIM
+Çeşitli Hükümler
+İKİNCİ BÖLÜM
+Elektrik Piyasası Kanununda Yapılan Değişiklikler
+Ek Madde 0003: Kaçak petrolün tespiti ve tasfiyesi
+(11.04.2013 tarih ve 28615 Sayılı Resmi Gazetede yayımlanan 6455 Sayılı Kanun ile Yürürlükten Kaldırılmıştır.)
+İKİNCİ KISIM
+Çeşitli Hükümler
+İKİNCİ BÖLÜM
+Elektrik Piyasası Kanununda Yapılan Değişiklikler
+Ek Madde 0004: İkramiyeler
+(11.04.2013 tarih ve 28615 Sayılı Resmi Gazetede yayımlanan 6455 Sayılı Kanun ile Yürürlükten Kaldırılmıştır.)
+İKİNCİ KISIM
+Çeşitli Hükümler
+İKİNCİ BÖLÜM
+Elektrik Piyasası Kanununda Yapılan Değişiklikler
+Ek Madde 0005: Kaçak petrol ile ilgili ceza hükümleri
+(11.04.2013 tarih ve 28615 Sayılı Resmi Gazetede yayımlanan 6455 Sayılı Kanun ile Yürürlükten Kaldırılmıştır.)
+İKİNCİ KISIM
+Çeşitli Hükümler
+ÜÇÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Geçici Madde 0001:
+Bu Kanunun yürürlüğe girmesinden önce; 6326 sayılı Petrol Kanununa göre belge sahibi olan kişiler ile Bakanlıkça yapılan düzenlemelere istinaden faaliyetlerine izin verilen akaryakıt dağıtım ve pazarlama kuruluşlarının ilgili mevzuat kapsamında tanınan hak ve menfaatleri ile yükümlülüklerine ilişkin hükümler, bu Kanunda belirlenen süre ve esaslar dahilinde faaliyeti ile ilgili lisans verilinceye kadar saklıdır.
+Kanunun yürürlüğe girdiği tarihte fiilen, bu Kanunla yapılması için lisans alınması gereken faaliyetleri yürüten kişiler, bu Kanunun yayımı tarihinden sonra bir yıl içinde durumlarını bu Kanuna uygun hale getirerek, Kurum tarafından istenecek bilgi ve belgelerle Kuruma başvurmak zorundadır. Başvurusunu yapmış ancak işlemleri tamamlayamayan kişilerin faaliyetlerinin devamı için, üç ayı aşmamak üzere ek süre verilmesinde Kurum yetkilidir.
+Süresinde başvurmayan veya süresinde başvurduğu halde süresinde durumunu bu Kanuna uygun hale getirmeyenlerin faaliyetleri, sürenin bitim tarihi itibarıyla durdurulur. Daha önce verilen hak, izin ve yetki doğurucu her türlü karar, işlem ve evrak başkaca bir işleme gerek kalmaksızın hükümsüz hale gelir.
+Bu Kanunun yayımı tarihinde, yürürlükte olan petrol ürünleri ile ilgili kararname yönetmelik ve tebliğlerde yer alan hükümler, Kurumca düzenleme yapılıncaya kadar saklıdır. Kurum tarafından oluşturulacak yönetmelik ve diğer mevzuat yürürlüğe girene kadar Enerji ve Tabii Kaynaklar Bakanlığı ve/veya Petrol İşleri Genel Müdürlüğünce yürütülmekte olan işlemlere ilişkin görevler sürdürülür. Ancak, bu süre içerisinde anılan mevzuata istinaden akaryakıt dağıtım ve pazarlama şirketlerinin kurulması ile ilgili olarak yeni ön müsaade ve statü verilmez.
+Lisans yönetmeliği yürürlüğe girinceye kadar, faaliyete ilişkin lisans isteminde bulunulamaz. Lisans yönetmeliğinin yürürlüğe girişi, Kanunun yayımı tarihini takip eden yüzsekseninci günü aşamaz.
+10.09.1960 tarihli ve 79 sayılı Milli Korunma Suçlarının Affına, Milli Korunma Teşkilat, Sermaye ve Fon Hesaplarının Tasfiyesine ve Bazı Hükümler İhdasına Dair Kanunun 5 inci maddesinin ve petrol ürünleri ile ilgili 98/10745 sayılı Bakanlar Kurulu Kararının uygulanmasına 1 Ocak 2005 tarihine kadar devam edilir. Gerektiğinde bu süre Bakanlar Kurulu kararı ile altı aya kadar uzatılabilir. 98/10745 sayılı Bakanlar Kurulu Kararının yürürlükten kalkması ile birlikte dağıtıcıların serbest ithalat faaliyetleri başlar.
+Bu Kanunun yürürlüğe girmesinden sonra Kurul tarafından ikincil mevzuatın oluşturulması ve gerekli düzenlemeler tamamlanıncaya kadar Petrol İşleri Genel Müdürlüğü tarafından belgelerin verilmesine devam edilir. Bu süreç sonunda 6326 sayılı Petrol Kanununun belge ile ilgili hükümleri yürürlükten kalkar.
+6326 sayılı Petrol Kanunu hükümlerine göre belge sahiplerine tanınan gümrük ve diğer ithal vergi ve resimleri muafiyetinden yararlanarak ithal edilen malzemeye ilişkin takyitler başkaca hiçbir işleme ihtiyaç bulunmaksızın kaldırılır. Bu konuda doğmuş her türlü mükellefiyet ve kayıt terkin edilir.
+İKİNCİ KISIM
+Çeşitli Hükümler
+ÜÇÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Geçici Madde 0002:
+Petrol piyasasını ilgilendiren özelleştirme işlemlerinde Kuruma bilgi verilir. Yürürlükteki mevzuat çerçevesinde yapılan özelleştirme uygulamaları sonucu yeni lisans verilmesi veya lisansın tadil edilmesi işlemi herhangi bir işleme gerek kalmaksızın Kurumca yapılır.
+Bu Kanunun yürürlüğe girdiği tarihte lisansa tabi konularda faaliyet gösteren özelleştirme kapsamındaki kuruluşlar, özelleştirilinceye kadar üretim ve ticari faaliyetleri yönünden, 04.01.2002 tarihli ve 4734 sayılı Kamu İhale Kanununa tabi değildir. Bu kuruluşlarda çalışan kapsam dışı personelin ücret ve diğer mali haklarının net aylık toplamını, Başbakanlık Müsteşarının ortalama net aylığının iki katını geçmemek üzere belirlemeye kuruluş yönetim kurulu yetkilidir. Ancak, ücret ve mali hakları bu fıkraya göre belirlenen kapsam dışı personelin, 24.11.1994 tarihli ve 4046 sayılı Kanunun 22 nci maddesi uyarınca başka kamu kurum ve kuruluşlarına nakledilmeleri halinde, aynı maddenin beşinci fıkrası uygulanırken bu personelin eski pozisyonlarına ilişkin ücret ve diğer mali haklarının belirlenmesinde; bunların pozisyonlarına göre 15.11.2003 tarihinde uygulanmakta olan ücret ve diğer mali haklarına bu tarihten Devlet Personel Başkanlığına bildirildikleri tarihteki kadro ve pozisyonlarına ilişkin olarak bildirim tarihine kadar geçen süre içinde (1) kamu personeline yapılacak maaş artış oran ve/veya miktarları uygulanmak suretiyle bulunacak tutar esas alınır. (21.07.2005 tarih ve 25882 sayılı Resmi Gazete de yayımlanan 5398 sayılı Kanunun 18 inci maddesiyle eklenen cümle.) Devlet Personel Başkanlığına bildirildikleri tarihten sonra geçecek süre içerisinde ilgililerin eski pozisyonlarının mali haklarının tespitinde de belirlenecek bu tutar dikkate alınır.
+(1) (Bu kısımda yer alan aynı maddenin ikinci fıkrası uyarınca atandıkları tarihe kadar geçen süre içinde ibaresi; 21.07.2005 tarih ve 25882 sayılı Resmi Gazete de yayımlanan 5398 sayılı Kanunun 18 inci maddesiyle metinde görüldüğü şekilde değiştirilmiştir.)
+İKİNCİ KISIM
+Çeşitli Hükümler
+ÜÇÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Geçici Madde 0003:
+Ticari deniz vasıtalarına yapılacak Özel Tüketim Vergisiz akaryakıt satışları 7 nci maddenin ikinci fıkrasındaki sınırlamalar dışında dağıtıcılar tarafından doğrudan yapılır.
+İKİNCİ KISIM
+Çeşitli Hükümler
+ÜÇÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Geçici Madde 0004:
+Ek 3 üncü ve ek 4 üncü maddelerde belirtilen yönetmelikler ve düzenlemeler bu Kanunun yayımı tarihinden itibaren iki ay içinde yürürlüğe konulur.
+İKİNCİ KISIM
+Çeşitli Hükümler
+ÜÇÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Geçici Madde 0005:
+(11.04.2013 tarih ve 28615 Sayılı Resmi Gazetede yayımlanan 6455 Sayılı Kanun ile eklenmiştir.)
+14 üncü maddenin dördüncü fıkrasında belirtilen yönetmelik altı ay içinde yürürlüğe konulur.
+İKİNCİ KISIM
+Çeşitli Hükümler
+ÜÇÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Geçici Madde 0006:
+(Madde 28.02.2019 Tarih ve 30700 Sayılı Resmi Gazetede Yayımlanan 7164 Sayılı Kanunun 34. Maddesi ile eklenmiştir.)
+Bu maddenin yürürlüğe girdiği tarihten önce Kurulca idari para cezası verilmemiş olan ve Kurul tarafından belirlenen niteliği itibarıyla düzeltme imkânı bulunan fiiller için, 20 nci maddenin ikinci fıkrasının (a) bendinde belirtilen ihtar yapıldıktan sonra sonucuna göre gerekirse idari soruşturma başlatılarak yaptırımlar uygulanır. Bu maddenin yürürlüğe girdiği tarihten önce lisansı sonlandırılan veya iptal edilenler hakkında düzeltme imkânı bulunan fiiller için herhangi bir idari işlem tesis edilmez.
+Bu maddenin yürürlüğe girdiği tarih itibarıyla Kurul kararına bağlanmış ancak tahsilatı tamamlanmamış olan idari para cezaları, işlenen fiil için bu Kanunla birlikte daha düşük bir idari para cezası uygulanmasının öngörülmesi hâlinde, ilgili vergi dairesince 19 uncu maddenin ilgili bentlerinde belirlenmiş olan asgari maktu hadden tahsil edilir. Kısmen veya tamamen tahsil edilen idari para cezaları iade edilmez.
+İKİNCİ KISIM
+Çeşitli Hükümler
+ÜÇÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Geçici Madde 0007:
+(Madde 28.02.2019 Tarih ve 30700 Sayılı Resmi Gazetede Yayımlanan 7164 Sayılı Kanunun 34. Maddesi ile eklenmiştir.)
+20 nci maddenin ikinci fıkrasının (c) bendi, 11/4/2013 tarihinden önce kira sözleşmesi veya benzeri şekilde kullanım hakkı devredilmiş ve devralan adına lisanslandırılmış tesislerde, bu lisans süresince 5607 sayılı Kanunda belirtilen kaçakçılık fiillerinin işlenmesi durumunda, belirtilen tarihten önce kullanım hakkını devreden ayni hak sahiplerinin, söz konusu fiillerden dolayı şüpheli, sanık veya hükümlü olmaması kaydıyla ve bu maddenin yürürlük tarihinden itibaren üç ay içinde Kuruma yeni lisans için başvurulması hâlinde, söz konusu tesis için uygulanmaz. Varsa mevcut geçici durdurma hali ancak yeni lisans verilmesi durumunda kaldırılır.
+İKİNCİ KISIM
+Çeşitli Hükümler
+ÜÇÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Geçici Madde 0008:
+(Madde 28.12.2023 Tarih ve 32413 Sayılı Resmi Gazetede Yayımlanan 7491 Sayılı Kanunun 49. Maddesi ile eklenmiştir.)
+29/4/2021 tarihinden önce kira sözleşmesi ile kullanım hakkı devredilmiş ve devralan adına lisanslandırılmış tesislerde, bu lisans süresince 213 sayılı Kanunun 359 uncu maddesinin (a), (b) veya (ç) fıkralarında belirtilen fiillerin işlenmesi durumunda, malikin söz konusu fiillerden dolayı şüpheli, sanık veya hükümlü olmaması kaydıyla 29/4/2021 tarihinden önce yaptığı talebe istinaden mahkemelerce işletmenin tahliyesine karar verilmesi ve kararın kesinleşmesi ya da söz konusu tarihten önce yapılan talebe istinaden tahliye kararı kesinleşmeden kiracı tarafından tesisin rıza ile terk edilmesi üzerine, bu maddenin yürürlüğe girmesinden önce kesinleşen kararlar veya terk edilen tesisler için bu maddenin yürürlüğe girmesinden, tahliye kararı bu maddenin yürürlük tarihinden sonra kesinleşenler için ise kesinleşmeden itibaren üç ay içinde Kuruma yeni lisans için başvurulması hâlinde, söz konusu tesis için 20 nci maddenin ikinci fıkrasının (g) bendi uygulanmaz. Varsa mevcut geçici durdurma hali ancak yeni lisans verilmesi durumunda kaldırılır.
+İKİNCİ KISIM
+Çeşitli Hükümler
+ÜÇÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Madde 0029: Yürürlük
+Bu Kanun yayımı tarihinde yürürlüğe girer.
+İKİNCİ KISIM
+Çeşitli Hükümler
+ÜÇÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Madde 0030: Yürütme
+Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Yükleyen: yasinuzunoglu

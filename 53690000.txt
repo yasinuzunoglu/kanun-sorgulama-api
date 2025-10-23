@@ -1,0 +1,163 @@
+5369 sayılı Evrensel Hizmetin Sağlanması ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+Yayımlandığı Resmî Gazete Tarihi: 25.06.2005
+Yayımlandığı Resmî Gazete Sayısı: 25856
+Kabul Tarihi	16.06.2005
+BİRİNCİ BÖLÜM
+Amaç ve Tanımlar
+Madde 0001: Amaç
+Bu Kanunun amacı; kamu hizmeti niteliğini haiz, ancak işletmeciler tarafından karşılanmasında mali güçlük bulunan evrensel hizmetin sağlanması, yürütülmesi ve elektronik haberleşme sektörü ile bu Kanun kapsamında belirlenen diğer alanlarda evrensel hizmet yükümlülüğünün yerine getirilmesine ilişkin usul ve esasları belirlemektir.
+BİRİNCİ BÖLÜM
+Amaç ve Tanımlar
+Madde 0002: Tanımlar
+Bu Kanunda geçen;
+Bakanlık: Ulaştırma Bakanlığını,
+Kurum:  (Tanım 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Bilgi Teknolojileri ve İletişim Kurumunu
+Elektronik haberleşme: İşaret, sembol, ses, görüntü ve elektrik işaretlerine dönüştürülebilen her türlü verinin kablo, telsiz, optik, elektrik, manyetik, elektromanyetik, elektrokimyasal, elektromekanik ve diğer iletim sistemleri vasıtasıyla iletilmesini, gönderilmesini ve alınmasını,
+Evrensel hizmet: Türkiye Cumhuriyeti sınırları içinde coğrafi konumlarından bağımsız olarak herkes tarafından erişilebilir, önceden belirlenmiş kalitede ve herkesin karşılayabileceği makul bir bedel karşılığında asgari standartlarda sunulacak olan, internet erişimi de dahil elektronik haberleşme hizmetleri ile bu Kanun kapsamında belirlenecek olan diğer hizmetleri,
+Evrensel hizmet yükümlüsü: Elektronik haberleşme sektöründe, ilgili mevzuatına göre Kurumca yetkilendirilmiş ve bu Kanun kapsamındaki hizmetleri sağlamakla yükümlü kılınan işletmeciyi,
+Evrensel hizmetin net maliyeti: Bir işletmecinin, evrensel hizmet yükümlülüğünün gereklerini yerine getirmek için sağladığı durum ile hiç yükümlü olmasaydı içinde bulunacağı durum arasındaki net maliyet farkını,
+İşletmeci: İlgili mevzuatına göre Kurumca veya bu Kanun kapsamına alınmış hizmetler bakımından ilgili diğer mercilerce yetkilendirilmiş olan işletmecileri,
+Alt yapı: (Tanım 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) Evrensel hizmetin sağlanmasını teminen hizmetin verilebilmesi için gerektiğinde öncelikle fiziki ortamın oluşturulmasına yönelik her türlü teçhizat, ekipman, bilgisayar, yazılım ve donanımı,
+Deniz haberleşme hizmetleri: (Tanım 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) Sahil telsiz istasyonları aracılığıyla telsiz sistemleri kullanılarak gemi-kara ve gemi-gemi arasında ses ve veri şeklinde yapılan haberleşme hizmetlerini,
+Deniz yolu ile yolcu taşıma işletmecisi: (Tanım 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) Ana kara ile ada arasında yolcu taşıma işini yapan ve Denizcilik Müsteşarlığından hat izni almış olan işletmeciyi,
+Seyir güvenliği haberleşme hizmetleri: (Tanım 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) Her türlü deniz araçlarının emniyetli seyirleri için ses ve veri şeklinde yapılan telsiz yayın hizmetlerini,
+Net satış hasılatı: (Tanım 05.12.2017 tarih ve 30261 sayılı Resmi Gazetede yayımlanan 7061 Sayılı Kanunun 82. Maddesi ile Eklenmiştir) 4/2/1924 tarihli ve 406 sayılı Telgraf ve Telefon Kanununun ek 37 nci maddesinde tanımı yapılan tutarı,
+İfade eder.
+İKİNCİ BÖLÜM
+İlkeler, Yükümlülük ve Hizmet Türleri
+Madde 0003: İlkeler
+Evrensel hizmetin sağlanmasında ve bu hususta yapılacak düzenlemelerde aşağıdaki ilkeler göz önüne alınır:
+Evrensel hizmetten, Türkiye Cumhuriyeti sınırları içerisinde yaşayan herkes, bölge ve yaşadığı yer ayırımı gözetilmeksizin yararlanır.
+Evrensel hizmet, fert başına gayrisafi yurt içi hasıla tutarı da göz önünde bulundurularak karşılanabilir ve makul fiyat seviyesinde sunulur.
+Düşük gelirliler, engelliler (1) ve sosyal desteğe ihtiyacı olan grupların da evrensel hizmetten yararlanabilmesi için uygun fiyatlandırma ve teknoloji seçeneklerinin uygulanabilmesine yönelik tedbirler alınır.
+Evrensel hizmet, önceden belirlenmiş hizmet kalitesi standartlarında sunulur.
+Evrensel hizmetin sunulmasında ve ulaşılmasında devamlılık esastır.
+(1) özürlüler İbaresi 03.05.2013 Tarih ve 28636 Sayılı Resmi Gazetede Yayımlanan 6462 Sayılı Kanun İle engelliler olarak değişmiştir.
+İKİNCİ BÖLÜM
+İlkeler, Yükümlülük ve Hizmet Türleri
+Madde 0004: İşletmecinin yükümlülüğü
+İşletmeciler, bu Kanunda belirlenen evrensel hizmeti sağlamakla yükümlüdür. İmtiyaz ve görev sözleşmeleri ile ruhsat ve genel izinlerde her ne ad altında olursa olsun 3 üncü maddede belirtilen ilkelere aykırı düzenlemeler yapılamaz.
+(Fıkra 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) Bilgi teknolojileri yaygınlığı, internet alt yapısı ve karasal sayısal yayıncılık için ihtiyaç duyulan alt yapı malzemelerinin alımı ve montajı ile ulaşımı deniz yolu ile sağlanabilen yolcu taşıma hizmetlerinde yükümlü işletmeci şartı aranmaz.
+İKİNCİ BÖLÜM
+İlkeler, Yükümlülük ve Hizmet Türleri
+Madde 0005: Evrensel hizmetin kapsamı
+Evrensel hizmet;
+Sabit telefon hizmetlerini,
+Ankesörlü telefon hizmetlerini,
+Basılı veya elektronik ortamda sunulacak telefon rehber hizmetlerini,
+Acil yardım çağrıları hizmetlerini,
+İnternet hizmetlerini,
+(Bent 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Ulaşımı deniz yoluyla sağlanabilen yerleşim alanlarına yolcu taşıma hizmetlerini
+(Fıkra 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) Deniz haberleşmesi ve seyir güvenliği haberleşme hizmetlerini,
+Kapsar.
+Evrensel hizmetin kapsamı; ülkenin sosyal, kültürel, ekonomik ve teknolojik şartları da göz önünde bulundurularak, üç yılı aşmamak üzere belirli aralıklarla, Cumhurbaşkanınca (1) yeniden belirlenebilir.
+(1) Kurumun ve işletmecilerin de görüşlerini alarak Bakanlıkça yapılacak teklif üzerine Bakanlar Kurulunca İbaresi 07.07.2018 Tarih ve 30471 Sayılı Resmi Gazetede Yayımlanan 0700 Sayılı KHK ın 169. Maddesi ile Cumhurbaşkanınca şeklinde değişmiştir.
+ÜÇÜNCÜ BÖLÜM
+Evrensel Hizmetin Gelirleri ve Net Maliyet
+Madde 0006: Evrensel hizmetin gelirleri
+(Bent 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Hazine Müsteşarlığı, Kurumca yapılan yetkilendirme nedeniyle hesaplarına yatırılan yetkilendirme ücretinin % 2'sini yatırıldığı tarihi takip eden ayın sonuna kadar,
+(Bent 05.12.2017 tarih ve 30261 sayılı Resmi Gazetede yayımlanan 7061 Sayılı Kanunun 83. Maddesi ile Değişmiştir.) Türk Telekom yıllık net satış hâsılatının %1'ini, izleyen yılın Nisan ayı sonuna kadar, Hazine payı ödemekle yükümlü işletmeciler dışındaki işletmeciler yıllık net satış hâsılatının %1'ini, izleyen yılın Haziran ayı sonuna kadar ve faaliyetleri gereği Hazine payı ödemekle yükümlü olduğu halde Hazine payı ödemeyi gerektirmeyen hizmetleri de yürüten işletmeciler Hazine payına esas teşkil etmeyen yıllık net satış hâsılatının %1'ini, evrensel hizmet katkı payı olarak Kurum hesabına izleyen yılın Haziran ayı sonuna kadar yatırır ve Kurum takip eden ayın sonuna kadar,
+(Bent 05.12.2017 tarih ve 30261 sayılı Resmi Gazetede yayımlanan 7061 Sayılı Kanunun 83. Maddesi ile Değişmiştir.) Kurum, Hazine payı ödemekle yükümlü işletmecilerin ödediği payın %10'unu, ödendiği ayı izleyen ayın sonuna kadar,
+(Bent 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Kurum, verdiği idari para cezalarının % 20 sini, tahsil edildiği ayı takip eden ayın sonuna kadar,
+(12.07.2006 tarih ve 26226 sayılı Resmi Gazete de yayımlanan 5538 sayılı Kanunun 28 inci maddesiyle değişen şekli.) Kurum, her üç ayda bir giderlerinin karşılanmasından sonra kalan miktarın % 20 sini, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu gereği genel bütçeye yapılacak ödemeden önce takip eden ayın onbeşine kadar,
+Bakanlığa bildirir. Bu meblağ aynı süre içinde Bakanlığın Merkez Saymanlık Müdürlüğü hesabına aktarılır ve bütçeye Evrensel hizmet gelirleri adı altında gelir kaydedilir.
+(Fıkra 05.12.2017 tarih ve 30261 sayılı Resmi Gazetede yayımlanan 7061 Sayılı Kanunun 83. Maddesi ile Değişmiştir.) Bu süre içinde ödenmeyen katkı payları, Kurumun ilgili vergi dairesine yapacağı başvuru üzerine, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre takip ve tahsil edilir. Vergi dairelerince yapılan tahsilatlar ertesi ayın sonuna kadar Kurum hesabına aktarılır. Süresinde ödenmeyen katkı paylarına, vade tarihinden ödendiği tarihe kadar geçen süre için, 6183 sayılı Kanunun 51 inci maddesine göre gecikme zammı uygulanır.
+Cumhurbaşkanı (1), yukarıda belirtilen oranları % 20 sine kadar artırmaya veya indirmeye yetkilidir.
+İşletmecilerin evrensel hizmet sağlama yükümlülükleri nedeniyle ortaya çıkan evrensel hizmetin net maliyetinin karşılanması ve bu Kanun gereğince yapılacak diğer harcamaları karşılamak için Bakanlık bütçesine her yıl evrensel hizmet gelirleri tahmini kadar ödenek öngörülür. Evrensel hizmetler için ödenek ihtiyacı bu hizmet gelirleri tahmininden fazla olması halinde yeterli ödenek Bakanlık bütçesine öngörülür. Bu amaçla konulan ödenek münhasıran, bu Kanun ile Bakanlığa verilen görevlerin yerine getirilmesi için kullanılır. (Cümle 20.03.2021 tarih ve 31429 sayılı Resmi Gazetede yayımlanan 7297 Sayılı Kanunun 4. Maddesi ile Eklenmiştir) Gerektiğinde evrensel hizmete ilişkin ödemelerin yapılabilmesini teminen bu amaçla Bakanlık bütçesinde yer alan ödeneklerin yıl içinde Kurum bütçesine aktarılmasına Ulaştırma ve Altyapı Bakanı yetkilidir. Evrensel hizmet gelirlerinin tahsili ve giderlerin yapılmasına ilişkin usul ve esaslar Bakanlık ile Maliye Bakanlığının müştereken hazırlayacağı yönetmelikle belirlenir.
+(1) Bakanlar Kurulu İbaresi 07.07.2018 Tarih ve 30471 Sayılı Resmi Gazetede Yayımlanan 0700 Sayılı KHK ın 169. Maddesi ile Cumhurbaşkanı şeklinde değişmiştir.
+ÜÇÜNCÜ BÖLÜM
+Evrensel Hizmetin Gelirleri ve Net Maliyet
+Madde 0007: Evrensel hizmetin net maliyeti
+Evrensel hizmetin net maliyeti; yükümlü işletmecinin, hizmetleri evrensel hizmet kapsamında karşılamadığı zaman ile evrensel hizmet yükümlüsü olarak karşıladığı zamanki net maliyetleri arasındaki fark esas alınarak hesaplanır. (Cümle 20.03.2021 tarih ve 31429 sayılı Resmi Gazetede yayımlanan 7297 Sayılı Kanunun 5. Maddesi ile Eklenmiştir) Evrensel hizmet yükümlüsünün bu maddenin beşinci fıkrasındaki yöntemlerle belirlendiği haller de dahil olmak üzere net maliyet hesaplamasında finansman maliyeti de dikkate alınır.  (Cümle 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Ancak, evrensel hizmet net maliyetinin hesaplanmasında, işletmecilerin evrensel hizmet yükümlüsü olması dolayısıyla elde edeceği diğer gelirler de göz önüne alınarak değerlendirme yapılır.Evrensel hizmet yükümlülüğünün getirdiği ilave maliyet yükünü ortaya çıkaracak bu hesaplama net maliyetler üzerinden yapılır.
+(Fıkra 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) Bilgisayar okuryazarlığı da dahil olmak üzere bilgi toplumunun geliştirilmesine katkı sağlamak amacıyla bilgi teknolojilerinin yaygınlaştırılmasına yönelik alt yapı hizmetleri, farklı yayın ortamları ve teknolojisi kullanılarak yapılan sayısal yayıncılığın karasal sayısal vericiler üzerinden ülkemizdeki yerleşim alanlarının tamamını kapsayacak şekilde sunulmasına yönelik alt yapı hizmetleri ile münhasıran alt yapı kurulumu gerektiren benzeri mal alımlarında bu Kanunda öngörülen evrensel hizmet yükümlüsü olma ve net maliyet şartları aranmaz.
+(Fıkra 20.03.2021 tarih ve 31429 sayılı Resmi Gazetede yayımlanan 7297 Sayılı Kanunun 5. Maddesi ile Eklenmiştir) Bakanlıkça uygun görülmesi halinde, zorunlu hallerde münhasıran alt yapı kurulumuna ilişkin mal ve hizmet alımları ile yapım işlerinde, net maliyet ve ödemeler açısından birinci ve altıncı fıkradaki esaslar uygulanarak bu Kanunda öngörülen evrensel hizmet yükümlüsü olma şartı aranmayabilir.
+(Fıkra 20.03.2021 tarih ve 31429 sayılı Resmi Gazetede yayımlanan 7297 Sayılı Kanunun 5. Maddesi ile Eklenmiştir) Bakanlığın talebi üzerine Kurum evrensel hizmet yükümlüsünü ve yükümlülüklerini işin gerekliliklerine göre doğrudan veya bu maddenin beşinci fıkrasında sayılan yöntemlere göre belirlemeye, evrensel hizmetin net maliyetini hesaplamaya, evrensel hizmet yükümlülerine yapılacak her türlü ödemeyi yapmaya, gerektiğinde Kurum bütçesinden ödemeye ve bunları denetlemeye yetkilidir.
+(Fıkra 20.03.2021 tarih ve 31429 sayılı Resmi Gazetede yayımlanan 7297 Sayılı Kanunun 5. Maddesi ile Eklenmiştir) Evrensel hizmet yükümlüsünün birden fazla işletmeci arasından; bu Kanun kapsamındaki evrensel hizmetlerin en düşük bedelle sunulması veya belirli bir bedel karşılığında bu Kanun kapsamındaki evrensel hizmetlerin azami ölçekte sunulması esasına göre belirlendiği yöntemlerin kullanılması halinde ortaya çıkan bedeller birinci fıkrada yer alan net maliyet hesaplamasına esas teşkil eder. Finansman maliyeti dışında ayrıca net maliyet hesabı yapılmaz.
+(Fıkra 20.03.2021 tarih ve 31429 sayılı Resmi Gazetede yayımlanan 7297 Sayılı Kanunun 5. Maddesi ile Eklenmiştir) Kurulum, işletme, bakım/onarım işlerini içeren evrensel hizmet yükümlülüklerinde evrensel hizmet işine ilişkin bedelin %30 una kadar avans ödenebilir, bakiye kısma ilişkin ödemeler ise dönemsellik zorunluluğu olmaksızın maliyetleri tevsik eden belgeler esas alınarak harcamanın yapıldığına ilişkin bilgi ve belgelerin sunulduğu ayı takip eden ayın sonuna kadar yapılır.
+(Fıkra 20.03.2021 tarih ve 31429 sayılı Resmi Gazetede yayımlanan 7297 Sayılı Kanunun 5. Maddesi ile Eklenmiştir) Bu maddenin uygulanmasına ilişkin usul ve esaslar Hazine ve Maliye Bakanlığı ile Ulaştırma ve Altyapı Bakanlığı tarafından müştereken belirlenir.
+DÖRDÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Madde 0008:
+09.04.1987 tarihli ve 3348 sayılı Ulaştırma Bakanlığının Teşkilat ve Görevleri Hakkında Kanunun 2 nci maddesine aşağıdaki (l) bendi eklenmiştir.
+l) Evrensel hizmet politikalarını ilgili kanunların hükümleri dahilinde ülkenin sosyal, kültürel, ekonomik ve teknolojik şartlarına göre belirlemek, Hükümetin genel politikasını uygulamaya yönelik tedbirleri almak, evrensel hizmetin yürütülmesini sağlayacak esasları tespit etmek, uygulanmasını takip etmek ve net maliyetiyle ilgili hesapları onaylamak.
+DÖRDÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Madde 0009:
+3348 sayılı Kanunun 13 üncü maddesinin (g) bendinden sonra gelmek üzere aşağıdaki bentler eklenmiş, mevcut (h) bendi (o) bendi olarak teselsül ettirilmiştir.
+h) Evrensel hizmetin sağlanması ile ilgili mevzuat hükümleri dahilinde evrensel hizmetin yürütülmesini sağlayacak esasları tespit etmek, uygulanmasını takip etmek ve işletmecilerin net maliyetlerinin karşılanmasını sağlamak,
+i) Evrensel hizmet kapsamındaki hizmetleri karşılama talebinde bulunan işletmeciler arasından, bölgesel ve ulusal çapta evrensel hizmet yükümlüsünü hizmet satın alma yoluyla belirlemek,
+j) Evrensel hizmet yükümlülerine ödeme yapmak,
+k) Evrensel hizmetin net maliyetinin hesaplanmasına, belirlenen usul ve esaslar dahilinde gerçekleşip gerçekleşmediğine dair yükümlü işletmeciyi izlemek, denetlemek veya masrafları evrensel hizmet gelirlerinden karşılanmak üzere bağımsız denetçiler tarafından denetlenmesini sağlamak,
+l) Düşük gelirliler ve engelliler gibi sosyal açıdan korunması gereken kesimlerin evrensel hizmetten eşitlik, taraf gözetmeme ilkeleri temelinde ve karşılayabilecekleri fiyat seviyesinde yararlanabilmelerine ilişkin usul ve esasları belirlemek,
+m) Belirlenecek esaslar dahilinde merkeze uzak ve kırsal bölgelerden oluşan yüksek maliyet alanlarına hizmetlerin götürülebilmesi için, gerektiğinde geçici evrensel hizmet yükümlüsünü belirlemek,
+n) Evrensel hizmet yükümlüsü işletmecilerin net maliyetlerinin hesaplanma yöntemi ile uygulamaya ilişkin usul ve esasları belirlemek,
+DÖRDÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Madde 0010:
+05.04.1983 tarihli ve 2813 sayılı Telsiz Kanununun 7 nci maddesinin (m) bendinden sonra gelmek üzere aşağıdaki (n) bendi eklenmiş, mevcut (n) bendi (o) bendi olarak teselsül ettirilmiştir.
+n) İlgili kanun hükümleri dahilinde, evrensel hizmet kalitesini ve standartlarını denetlemek ve buna ilişkin usul ve esasları yönetmelikle belirlemek, bu hususta gerekli tedbirleri almak,
+DÖRDÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Madde 0011:
+04.02.1924 tarihli ve 406 sayılı Telgraf ve Telefon Kanununun 1 inci maddesinin sekizinci fıkrasının Türk Telekom, görev sözleşmelerinde belirlenen asgari hizmetleri sunmakla yükümlüdür şeklindeki son cümlesi ile aynı maddede yer alan Asgari hizmet tanımı madde metninden çıkarılmış; 4 üncü maddesinin birinci fıkrasının (d) bendinde yer alan Asgari ibaresi evrensel olarak değiştirilmiş ve 29 uncu maddesinin birinci fıkrasının (a) bendi Türk Telekom veya başka bir işletmecinin, vermekle yükümlü olduğu evrensel hizmet dahil, bazı hizmetlerin maliyetini başka hizmetlerin ücretlerinden karşılamak zorunda olduğu haller, şeklinde değiştirilmiş ve bu Kanuna aşağıdaki geçici madde eklenmiştir.
+Geçici Madde 11.- Türk Telekomünikasyon Anonim Şirketine ait hazır değerlerden (menkul kıymetler dahil), Şirkette, NATO ve TAFICS proje avansları hariç olmak üzere, nakit değer olarak bırakılacak 350 milyon YTL ile 2005 yılına ilişkin olağan Genel Kurul toplantısında kar dağıtım kararının alınmasını müteakip dağıtılabilir kardan mahsup edilmek üzere temettü avansı olarak 16.01.2006 tarihine kadar Hazine Müsteşarlığı İç Ödemeler Saymanlığına yatırılacak olan 600 milyon YTL dışında ve azami 2.5 milyar YTL'ye kadar olan meblağ 16.01.2006 tarihinde Hazine Müsteşarlığı İç Ödemeler Saymanlığı hesabına aktarılır ve bütçenin (B) işaretli cetveline gelir kaydedilir. Bütçeye gelir kaydedilecek olan bu tutardan, 2006 yılında TCDD Genel Müdürlüğünün yeni demiryolu yapımı, muhtelif demiryolu hatlarının bakımı, onarımı veya iyileştirilmesi ve çeken-çekilen demiryolu araçlarının temini ile köy içme suyu ve köy yollarıyla ilgili yatırım projeleri ve faaliyetlerinde kullanılmak üzere, Yatırım Programı ile KİT Yatırım ve Finansman Programında öngörülecek kısım Yüksek Planlama Kurulu kararıyla belirlenir.
+Ancak, Türk Telekomünikasyon A.Ş.'nin 16.01.2006 tarihinden önce % 51'den fazla hissesinin özelleştirme suretiyle devri işlemlerinin gerçekleşmesi halinde, birinci fıkrada belirtilen aktarma ve gelir kaydına ilişkin hükümler uygulanmaksızın hisse devir tarihi itibariyle Şirkette, NATO ve TAFICS proje avansları, nakit değer olarak bırakılacak 350 milyon YTL ve devir tarihinde şirket tarafından temettü avansı olarak 16.01.2006 tarihine kadar Hazineye aktarılması öngörülen 600 milyon YTL'nin aktarılmamış olması halinde bu tutar dışındaki hazır değerler hisse devir tarihi öncesi Şirketin açacağı ayrı bir hesaba hisse devir tarihinde aktarılır. Bu hesapta izlenen tutar ve her türlü neması (bu nemaya ilişkin olarak ödenecek vergiler düşüldükten sonra) 16.01.2006 tarihinde Hazine Müsteşarlığı İç Ödemeler Saymanlığına aktarılır ve bütçenin (B) işaretli cetveline gelir kaydedilir. Bütçeye gelir kaydedilecek olan bu tutardan, birinci fıkrada belirtilen yatırım projeleri ve faaliyetlerinde kullanılmak üzere, Yatırım Programı ile KİT Yatırım ve Finansman Programında öngörülecek kısım Yüksek Planlama Kurulu kararıyla belirlenir.
+Türk Telekomünikasyon A.Ş.'nin % 51'den fazla hissesinin özelleştirme suretiyle devri işlemlerinin 16.01.2006 tarihinden sonra gerçekleşmesi halinde ise, hisse devir tarihi itibariyle, Şirkette 350 milyon YTL nakit değer ve NATO ve TAFICS proje avansları dışındaki hazır değerler, hisse devir tarihinde Hazine Müsteşarlığı İç Ödemeler Saymanlığına aktarılır ve bütçenin (B) işaretli cetveline gelir kaydedilir. Aktarılacak bu tutar, hiçbir surette yukarıda belirtilen yatırım projeleri ve faaliyetlerinde kullanılmaz.
+Ayrıca, bu maddenin yürürlüğe girdiği tarihten itibaren bir ay içerisinde 21.04.2005 tarihli ve 5335 sayılı Kanunun 1 inci maddesi çerçevesinde devredilen Kablo TV hizmetlerinden doğan sermaye ihtiyacına binaen, Türk Telekomünikasyon A.Ş.'den Türksat A.Ş.'ye Hazinenin sermaye payı olarak 100 milyon YTL aktarılır.
+Bu madde gereğince aktarılacak tutarlar (temettü avansı hariç), öncelikle Türk Telekomünikasyon A.Ş.'nin geçmiş yıllar karları üzerinden ayrılan yasal yedek akçelerinden ve daha sonra ise enflasyon düzeltme karlarından mahsup edilir. Yapılacak aktarma işlemleri Kurumlar Vergisi Kanunu ve Gelir Vergisi Kanunu uygulamaları yönünden kar dağıtımı veya işletmeden çekiş olarak değerlendirilmez. Bu madde çerçevesinde yapılacak aktarmalar, gerek aktarma işleminin yapıldığı gerekse izleyen vergilendirme dönemlerinde herhangi bir şekilde Kurumlar Vergisi matrahının ve dağıtılabilir ticari karın tesbitinde indirim konusu yapılmaz. Türk Telekomünikasyon A. Ş.'nin bilançosunun aktifinde mali duran varlıklar içerisinde yer alan iştiraklerin değerinde oluşabilecek iştirak değer düşüklüğü karşılıkları, mali ve ticari karın hesabında gider addolunmaz. Bu tutarlar, herhangi bir faaliyet yılıyla sınırlı olmaksızın, öncelikle enflasyon düzeltme karlarından, bunun yeterli olmaması halinde ise sermaye yedeklerinden, bu yedekler oluştukça mahsup edilmek suretiyle ya da Türk Ticaret Kanunu hükümleri uygulanmaksızın Şirketin sermayesinin azaltılması yoluyla değerlendirilir.
+Bu madde gereğince yapılacak aktarma işlemlerinin gerçekleşmesinden sonra, bu işlemlerle ilgili olarak Şirkete herhangi bir mali yükümlülük getirilemez.
+Bu madde kapsamında aktarılan nakit tutarlar ve bunlarla ilgili işlemler nedeniyle düzenlenecek kağıtlar her türlü vergi, resim ve harçtan muaf ve müstesnadır.
+Bu maddenin uygulanmasıyla ilgili usûl ve esaslar Hazine Müsteşarlığının bağlı olduğu Devlet Bakanlığı ile Maliye Bakanlığınca müştereken belirlenir.
+DÖRDÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Madde 0012:
+Ekli (1) sayılı listede belirtilen kadrolar ihdas edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnameye ekli (I) sayılı cetvelin Ulaştırma Bakanlığına ilişkin bölümüne eklenmiştir.
+(1) SAYILI LİSTE İHDAS EDİLEN KADROLARIN
+Sınıfı	Unvanı	Derecesi	Serbest Kadro Adedi	Tutulu Kadro Adedi	Toplam
+GİH	Daire Başkanı	1	1		1
+GİH	Şube Müdürü	1	3	3
+TH	İstatistikçi	1	2	2
+GİH	Uzman	1	2	2
+GİH	2	3	3
+GİH	3	4	4
+TH	1	2	2
+TH	2	3	3
+TH	3	4	4
+GİH	Veri Hazırlama ve Kontrol İşletmeni	3	2	2
+GİH	4	2	2
+GİH	5	2	2
+GİH	6	2	2
+TH	Tekniker	3	1	1
+TH	4	1	1
+TH	5	1	1
+TH	Teknisyen	4	1	1
+TH	5	1	1
+TH	6	1	1
+TOPLAM	38	38
+DÖRDÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Geçici Madde 0001:
+Bu Kanunda belirlenen evrensel hizmeti sağlamakla yükümlü işletmecilerin mevcut imtiyaz ve görev sözleşmeleri ile ruhsat ve genel izinlerinde yer alan 3 üncü maddede belirtilen ilkelere aykırı düzenlemeler en geç bir yıl içerisinde bu Kanuna uygun hale getirilir. Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurum tarafından belirlenir.
+DÖRDÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Geçici Madde 0002:
+(Madde 10.11.2008 tarih ve 27050 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.)
+(1) Telekomünikasyon İletişim Başkanlığı kadrolarında bulunan personelden ek 1 inci maddede belirtilen öğrenim şartlarını haiz olanlar; kamuda üç yıllık hizmet süresini tamamlamaları, KPDS'den en az 60 veya uluslararası geçerliliği olan sınavlardan muadili puan almaları ve hazırlayacakları tezin kabul edilmesi halinde bu Kanunun yayımı tarihinden itibaren beş yıl içerisinde iletişim uzmanı kadrosuna atanabilirler. Bu personelden; diğer kamu kurum ve kuruluşlarında özel mevzuatları uyarınca yarışma sınavına tabi tutularak mesleğe alınan ve yeterlik sınavını vererek veya tezi başarılı bulunarak kariyer meslek kadrolarına atanmış olanlar yabancı dil şartını karşıladıklarında; yüksek lisans veya doktora öğrenimini tamamlamış olanlardan, hazırladıkları yüksek lisans veya doktora tezlerinin konularının Kurumun veya Başkanlığın görev alanı ile ilgili olduğunun yapılacak inceleme sonucu belirlenenlerden doktora öğrenimini tamamlamış olanlar doğrudan, yüksek lisans öğrenimini tamamlamış olanlar yabancı dil şartını karşıladıklarında, iletişim uzmanı olarak atanabilirler.
+(2) Telekomünikasyon İletişim Başkanlığı personelinden dört yıllık fakülte mezunu olanlar, kamuda üç yıllık hizmet süresini tamamlamaları, çıkarılacak yönetmelikte öngörülen şartları taşımaları ve buna ilave olarak hazırlayacakları tezin kabul edilmesi veya tezli yüksek lisans veya doktora yapmaları halinde, bu Kanunun yayımı tarihinden beş yıl içinde öğrenim alanına göre teknik uzman veya idarî uzman kadrosuna atanabilirler.
+DÖRDÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Ek Madde 0001:
+Evrensel hizmet gelirlerine ilişkin bu Kanunun 6 ncı maddesinin birinci fıkrasının (b) bendinin uygulanmasında, işletmecilerin yıllık net satış hasılatının belirlenmesinde yetkilendirmenin başlangıç ve sona erme tarihleri itibariyle kıst esası uygulanır. Bu hükmün ve bu Kanunun 7 nci maddesinin ikinci fıkrasında düzenlenen istisna hükmünün uygulanmasında 25/6/2005 tarihi esas alınır. (7) 5651 sayılı Kanunun 8 inci maddesine onüçüncü fıkra olarak İşlemlerin yürütülmesi için Başkanlığa gönderilen hakim ve mahkeme kararlarına 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu hükümlerine göre Başkanlıkça itiraz edilebilir. şeklinde fıkra eklenmiş ve anılan Kanuna; a) Aşağıdaki ek madde eklenmiştir. EK MADDE 1 - (1) Telekomünikasyon İletişim Başkanlığına verilen görevlerin gerektirdiği asli ve sürekli görev ve hizmetler, iletişim başuzmanı, iletişim uzmanı, teknik uzman ve idarî uzman ile iletişim, teknik ve idarî uzman yardımcılarından oluşan meslek personeli ve diğer personel eliyle yürütülür. Başkanlıkta; başkan, daire başkanı, müşavir ve meslek personeli kadrolarında çalışanların; mühendislik alanında elektronik, elektrik-elektronik, elektronik ve haberleşme, endüstri, fizik, matematik, bilgisayar, telekomünikasyon ve işletme mühendisliği fakültelerinden veya bölümlerinden, sosyal bilimler alanında siyasal bilgiler (bilimler), iktisadi ve idarî bilimler, iktisat, hukuk, işletme, iletişim fakülteleri veya bölümlerinden veya bu fakülte ve bölümlere denkliği yetkili makamlarca kabul edilmiş yurt dışındaki yüksek öğretim kurumlarından mezun olmaları ya da belirtilen bölümlerden mezun olmamakla birlikte sayılan fakülte ve bölümlerde yüksek lisans veya doktora yapmış olmaları, uzman unvanlı kadrolarda çalışanların en az dört yıllık fakültelerden mezun, diğer personelin ise en az lise ve dengi okul mezunu olmaları gerekir. Daire başkanı kadrolarına Güvenlik Bilimleri Fakültesinden mezun olanlar da atanabilir. Başkanlık personelinden; daire başkanları Telekomünikasyon İletişim Başkanının teklifi ve Kurul Başkanının uygun görüşü üzerine Kurul, diğer personel Telekomünikasyon İletişim Başkanının önerisi üzerine Kurul Başkanı tarafından atanır.
+(2) Uzman yardımcılığına atanabilmek için; yukarıdaki fıkrada sayılan fakülte veya bölümlerden mezun olmak, merkezî yarışma sınavına katılmak, belirlenecek yabancı dillerden en az birini istenen seviyede bilmek, Kurum alan sınavının yapıldığı yılın Ocak ayının ilk gününde otuz yaşını doldurmamış olmak ve bu sınavda başarılı olmak gerekir.
+(3) Uzman yardımcılığına atananlar; en az üç yıl çalışmak ve olumlu sicil almak kaydıyla hazırlayacakları tezin kabul edilmesi ve yeterlik sınavında başarılı olması halinde ilgisine göre iletişim uzmanı, teknik uzman veya idari uzman olarak atanırlar. Bunlara bir defaya mahsus olmak üzere bir derece yükseltilmesi uygulanır. Tez savunmasında ve yeterlik sınavında iki defa başarılı olamayanlar uzman yardımcılığı unvanını kaybederler ve mükteseplerine uygun kadrolara atanırlar.
+(4) Uzman ve uzman yardımcılarının giriş ve yeterlik sınavları, çalışma usul ve esasları ile ilgili diğer hususlar Kurum tarafından çıkarılacak yönetmelikle düzenlenir.
+(5) Bu Kanunla ekli (V) sayılı cetveldeki kadrolar ihdas edilerek Telekomünikasyon İletişim Başkanlığı hizmetlerinde kullanılmak üzere 5651 sayılı Kanuna ekli (I) sayılı listeye eklenmiştir.
+DÖRDÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Madde 0013: Yürürlük
+Bu Kanun yayımı tarihinde yürürlüğe girer.
+DÖRDÜNCÜ BÖLÜM
+Geçici ve Son Hükümler
+Madde 0014: Yürütme
+Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Yükleyen: yasinuzunoglu

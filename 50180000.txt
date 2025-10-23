@@ -1,0 +1,1307 @@
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu
+Yayımlandığı Resmî Gazete Tarihi: 24.12.2003
+Yayımlandığı Resmî Gazete Sayısı: 25326
+Kabul Tarihi	10.12.2003
+BİRİNCİ KISIM
+Genel Hükümler
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Genel Gerekçe İçin Tıklayın
+Madde 0001: Amaç
+Bu Kanunun amacı, kalkınma planları ve programlarda yer alan politika ve hedefler doğrultusunda kamu kaynaklarının etkili, ekonomik ve verimli bir şekilde elde edilmesi ve kullanılmasını, hesap verebilirliği ve mali saydamlığı sağlamak üzere, kamu mali yönetiminin yapısını ve işleyişini, kamu bütçelerinin hazırlanmasını, uygulanmasını, tüm mali işlemlerin muhasebeleştirilmesini, raporlanmasını ve mali kontrolü düzenlemektir.
+BİRİNCİ KISIM
+Genel Hükümler
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Madde 0002: Kapsam
+Bu Kanun, merkezi yönetim kapsamındaki kamu idareleri, sosyal güvenlik kurumları ve mahalli idarelerden oluşan genel yönetim kapsamındaki kamu idarelerinin mali yönetim ve kontrolünü kapsar.
+Avrupa Birliği fonları ile yurt içi ve yurt dışından kamu idarelerine sağlanan kaynakların kullanımı ve kontrolü de uluslararası anlaşmaların hükümleri saklı kalmak kaydıyla, bu Kanun hükümlerine tabidir.
+Düzenleyici ve denetleyici kurumlar, bu Kanunun sadece 3, 7, 8, 12, 15, 17, 18, 19, 25, (24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-1 maddesiyle eklenen ibare. Yürürlük: 01.01.2006) 42, 43, (24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-1 maddesiyle eklenen ibare. Yürürlük: 01.01.2006) 44, 47, 48, 49, 50, 51, 52, 53, 54, 68, 76 ve (24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-1 maddesiyle eklenen ibare. Yürürlük: 01.01.2006) 78 inci maddelerine tabidir.
+BİRİNCİ KISIM
+Genel Hükümler
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Madde 0003: Tanımlar
+Münhasıran bu Kanunun uygulanmasında;
+Genel yönetim kapsamındaki kamu idareleri: Uluslararası sınıflandırmalara göre belirlenmiş olan, merkezi yönetim kapsamındaki kamu idareleri, sosyal güvenlik kurumları ve mahalli idareleri,
+Merkezi yönetim kapsamındaki kamu idareleri: Bu Kanuna ekli (I), (II) ve (III) sayılı cetvellerde yer alan kamu idarelerini,
+Düzenleyici ve denetleyici kurumlar: Bu Kanuna ekli (III) sayılı cetvelde yer alan kurumları,
+Sosyal güvenlik kurumları: Bu Kanuna ekli (IV) sayılı cetvelde yer alan kamu kurumlarını,
+Mahalli idare: Yetkileri belirli bir coğrafi alan ve hizmetlerle sınırlı olarak kamusal faaliyet gösteren belediye, il özel idaresi ile bunlara bağlı veya bunların kurdukları veya üye oldukları birlik ve idareleri, (1)
+Bütçe: Belirli bir dönemdeki gelir ve gider tahminleri ile bunların uygulanmasına ilişkin hususları gösteren ve usulüne uygun olarak yürürlüğe konulan belgeyi,
+Kamu kaynakları: Borçlanma suretiyle elde edilen imkanlar dahil kamuya ait gelirler, taşınır ve taşınmazlar, hesaplarda bulunan para, alacak ve haklar ile her türlü değerleri,
+Kamu gideri: Kanunlarına veya Cumhurbaşkanlığı kararnamelerine (2) dayanılarak yaptırılan iş, alınan mal ve hizmet bedelleri, sosyal güvenlik katkı payları, iç ve dış borç faizleri, borçlanma genel giderleri, borçlanma araçlarının iskontolu satışından doğan farklar, ekonomik, mali ve sosyal transferler, verilen bağış ve yardımlar ile diğer giderleri,
+Kamu geliri: Kanunlarına dayanılarak toplanan vergi, resim, harç, fon kesintisi, pay veya benzeri gelirler, faiz, zam ve ceza gelirleri, taşınır ve taşınmazlardan elde edilen her türlü gelirler ile hizmet karşılığı elde edilen gelirler, borçlanma araçlarının primli satışı suretiyle elde edilen gelirler, sosyal güvenlik primi kesintileri, alınan bağış ve yardımlar ile diğer gelirleri,
+Özel gelir: Genel bütçe kapsamındaki idarelerin kamu görevi ve hizmeti dışında ilgili kanunlarında veya Cumhurbaşkanlığı kararnamelerine (2) belirtilen faaliyetlerinden ve fiyatlandırılabilir nitelikteki mal ve hizmet teslimlerinden sağlanan ve genel bütçede gösterilen gelirleri,
+Harcama birimi: Kamu idaresi bütçesinde ödenek tahsis edilen ve harcama yetkisi bulunan birimi,
+Kamu mali yönetimi: Kamu kaynaklarının tanımlanmış standartlara uygun olarak etkili, ekonomik ve verimli kullanılmasını sağlayacak yasal ve yönetsel sistem ve süreçleri,
+Mali kontrol: Kamu kaynaklarının belirlenmiş amaçlar doğrultusunda, ilgili mevzuatla belirlenen kurallara uygun, etkili, ekonomik ve verimli bir şekilde kullanılmasını sağlamak için oluşturulan kontrol sistemi ile kurumsal yapı, yöntem ve süreçleri,
+Stratejik plan: Kamu idarelerinin orta ve uzun vadeli amaçlarını, temel ilke ve politikalarını, hedef ve önceliklerini, performans ölçütlerini, bunlara ulaşmak için izlenecek yöntemler ile kaynak dağılımlarını içeren planı,
+Mali yıl: Takvim yılını,
+İfade eder.
+(1) Bu kısımda yer alan ve bunların kurdukları birlik ve idareyi ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-1 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.
+(2) Altı Çizili İbareler 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile eklenmiştir.
+BİRİNCİ KISIM
+Genel Hükümler
+İKİNCİ BÖLÜM
+Kamu Maliyesi
+Madde 0004: Kamu maliyesi
+Kamu maliyesi; gelirlerin toplanması, harcamaların yapılması, açıkların finansmanı, kamunun varlık ve borçları ile diğer yükümlülüklerinin yönetimini kapsar.
+Kamu maliyesi, merkezden ve yerinden yönetim esaslarına göre yürütülür. Kamu idarelerinin görevleri, ilgili kanunlarında açık olarak belirlenir ve kaynakların dağıtımında esas alınır.
+BİRİNCİ KISIM
+Genel Hükümler
+İKİNCİ BÖLÜM
+Kamu Maliyesi
+Madde 0005: Kamu maliyesinin temel ilkeleri
+Kamu maliyesinin temel ilkeleri şunlardır:
+Kamu mali yönetimi uyumlu bir bütün olarak oluşturulur ve yürütülür.
+Kamu maliyesi, kamu görevlilerinin hesap verebilmelerini sağlayacak şekilde uygulanır.
+Maliye politikası, makroekonomik ve sosyal hedefler ile uyumlu bir şekilde oluşturulur ve yürütülür.
+Kamu mali yönetimi Türkiye Büyük Millet Meclisinin bütçe hakkına uygun şekilde yürütülür.
+Kamu mali yönetimi mali disiplini sağlar.
+Kamu mali yönetimi ekonomik, mali ve sosyal etkinliği birlikte sağlayacak şekilde kamusal tercihlerin oluşması için gerekli ortamı yaratır.
+Kamu idarelerinin mal ve hizmet üretimi ile ihtiyaçlarının karşılanmasında, ekonomik veya sosyal verimlilik ilkelerine uygun olarak maliyet-fayda veya maliyet-etkinlik ile gerekli görülen diğer ekonomik ve sosyal analizlerin yapılması esastır.
+İlgili kanunlardaki hükümler saklı kalmak kaydıyla, kamu maliyesi ilkelerinin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir ve izlenir.
+BİRİNCİ KISIM
+Genel Hükümler
+İKİNCİ BÖLÜM
+Kamu Maliyesi
+Madde 0006: Hazine birliği
+Merkezi yönetim kapsamındaki kamu idarelerinin gelir, gider, tahsilat, ödeme, nakit planlaması ve borç yönetimi Hazine birliğini sağlayacak şekilde yürütülür.
+Bu Kanuna ekli (I) sayılı cetvelde yer alan kamu idarelerinin tüm gelirleri Hazine veznelerine girer, giderleri bu veznelerden ödenir. Bu idareler özel vezne açamaz.
+Her türlü iç ve dış borçlanma, yurt dışından hibe alınması, borç ve hibe verilmesi ve bunlara ilişkin geri ödemeler, Hazine garantileri, Hazine alacakları, nakit yönetimi ve bunlarla ilgili diğer hususlarda 09.12.1994 tarihli ve 4059 sayılı, 28.3.2002 tarihli ve 4749 sayılı Kanun hükümleri uygulanır.
+BİRİNCİ KISIM
+Genel Hükümler
+ÜÇÜNCÜ BÖLÜM
+Kamu Kaynağının Kullanılmasının Genel Esasları
+Madde 0007: Mali saydamlık
+Her türlü kamu kaynağının elde edilmesi ve kullanılmasında denetimin sağlanması amacıyla kamuoyu zamanında bilgilendirilir. Bu amaçla;
+Görev, yetki ve sorumlulukların açık olarak tanımlanması,
+Hükümet politikaları, kalkınma planları, yıllık programlar, stratejik planlar ile bütçelerin hazırlanması, yetkili organlarda görüşülmesi, uygulanması ve uygulama sonuçları ile raporların kamuoyuna açık ve ulaşılabilir olması,
+Genel yönetim kapsamındaki kamu idareleri tarafından sağlanan teşvik ve desteklemelerin bir yılı geçmemek üzere belirli dönemler itibarıyla kamuoyuna açıklanması,
+Kamu hesaplarının standart bir muhasebe sistemi ve genel kabul görmüş muhasebe prensiplerine uygun bir muhasebe düzenine göre oluşturulması,
+Zorunludur.
+Mali saydamlığın sağlanması için gerekli düzenlemelerin yapılması ve önlemlerin alınmasından kamu idareleri sorumlu olup, bu hususlar Maliye Bakanlığınca izlenir.
+BİRİNCİ KISIM
+Genel Hükümler
+ÜÇÜNCÜ BÖLÜM
+Kamu Kaynağının Kullanılmasının Genel Esasları
+Madde 0008: Hesap verme sorumluluğu
+Her türlü kamu kaynağının elde edilmesi ve kullanılmasında görevli ve yetkili olanlar, kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden, raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından sorumludur ve yetkili kılınmış mercilere hesap vermek zorundadır.
+BİRİNCİ KISIM
+Genel Hükümler
+ÜÇÜNCÜ BÖLÜM
+Kamu Kaynağının Kullanılmasının Genel Esasları
+Madde 0009: Stratejik planlama ve performans esaslı bütçeleme (*)
+Kamu idareleri; kalkınma planları, Cumhurbaşkanı tarafından belirlenen politikalar, ibaresi ve üçüncü fıkrasında yer alan stratejik planların ibaresinden sonra gelmek üzere politikalar, (1) programlar, ilgili mevzuat ve benimsedikleri temel ilkeler çerçevesinde geleceğe ilişkin misyon ve vizyonlarını oluşturmak, stratejik amaçlar ve ölçülebilir hedefler saptamak, performanslarını önceden belirlenmiş olan göstergeler doğrultusunda ölçmek ve bu sürecin izleme ve değerlendirmesini yapmak amacıyla katılımcı yöntemlerle stratejik plan hazırlarlar.
+Kamu idareleri, kamu hizmetlerinin istenilen düzeyde ve kalitede sunulabilmesi için bütçeleri ile program ve proje bazında kaynak tahsislerini; stratejik planlarına, yıllık amaç ve hedefleri ile performans göstergelerine dayandırmak zorundadırlar.
+Stratejik plan hazırlamakla yükümlü olacak kamu idarelerinin ve stratejik planlama sürecine ilişkin takvimin tespitine, stratejik planların politikalar, (1) kalkınma planı ve programlarla ilişkilendirilmesine yönelik usul ve esaslar Cumhurbaşkanı tarafından belirlenir (1).
+(4. Fıkra 16.10.2020 tarih ve 31276 sayılı Resmi Gazetede yayımlanan 7254 Sayılı Kanunun 1. Maddesi ile Değişmiştir.) Kamu idareleri, program bütçeye uygun olarak yürütecekleri faaliyetler ile bunların kaynak ihtiyacını, amaç, hedef ve performans göstergelerini içeren performans programı hazırlar.
+(1. Cümle 16.10.2020 tarih ve 31276 sayılı Resmi Gazetede yayımlanan 7254 Sayılı Kanunun 1. Maddesi ile Değişmiştir.) Kamu idareleri bütçelerini, kalkınma planı, Cumhurbaşkanlığı programı, orta vadeli program, orta vadeli mali plan, (2) Cumhurbaşkanlığı yıllık programı, stratejik planları ile program yapısına uyumlu şekilde ve performans esasına dayalı olarak hazırlar. Kamu idarelerinin bütçelerinin stratejik planlarda belirlenen performans göstergelerine uygunluğu ve idarelerin bu çerçevede yürütecekleri faaliyetler ile performans esaslı bütçelemeye ilişkin diğer hususlar Cumhurbaşkanı tarafından belirlenir (1).
+(Fıkra 16.10.2020 tarih ve 31276 sayılı Resmi Gazetede yayımlanan 7254 Sayılı Kanunun 1. Maddesi ile son fıkrasından önce gelmek üzere eklenmiştir) Kamu idareleri, bütçeleri ile stratejik plan ve performans programlarını izlemek ve değerlendirmek amacıyla nesnel, sistematik ve düzenli olarak veri toplar ve analiz eder. İzleme ve değerlendirme sonuçları idare faaliyet raporlarında gösterilir.
+Cumhurbaşkanı tarafından ilgili kamu idaresi için uygun görülen (1) olan performans göstergeleri, kuruluşların bütçelerinde yer alır. Performans denetimleri bu göstergeler çerçevesinde gerçekleştirilir.
+(*) (Madde Başlığı 16.10.2020 Tarih ve 31276 Sayılı Resmi Gazetede Yayımlanan 7254 Sayılı Kanunun 1. Maddesi ile Stratejik planlama ve performans esaslı bütçeleme iken metinde görüldüğü gibi değiştirilmiştir)
+(1) Altı Çizili İbareler 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile eklenmiş ve esasların belirlenmesine Devlet Planlama Teşkilatı Müsteşarlığı yetkilidir İbaresi esaslar Cumhurbaşkanı tarafından belirlenir şeklinde ve Maliye Bakanlığı, Devlet Planlama Teşkilatı Müsteşarlığı ve ilgili kamu idaresi tarafından birlikte tespit edilecek olan İbaresi Cumhurbaşkanı tarafından ilgili kamu idaresi için uygun görülen şeklinde değişmiştir.
+(2) Üstü Çizili İbare 25.05.2021 tarih ve 31491 sayılı Resmi Gazetede yayımlanan 7319 Sayılı Kanunun 8. Maddesi ile madde metninden çıkarılmıştır.
+BİRİNCİ KISIM
+Genel Hükümler
+DÖRDÜNCÜ BÖLÜM
+Bakanların ve Üst Yöneticilerin Hesap Verme Sorumluluğu
+Madde 0010: Bakanlar
+Bakanlar, Cumhurbaşkanı tarafından belirlenen politikaların uygulanması ile bakanlıkların ve bakanlıklara (2) bağlı, ilgili ve ilişkili kuruluşların stratejik planları ile bütçelerinin kalkınma planlarına, yıllık programlara uygun olarak hazırlanması ve uygulanmasından, bu çerçevede diğer bakanlıklarla koordinasyon ve işbirliğini sağlamaktan sorumludur. Bu sorumluluk, Yükseköğretim Kurulu, üniversiteler ve yüksek teknoloji enstitüleri için Milli Eğitim Bakanına, mahalli idareler için Çevre ve Şehircilik (3) Bakanına aittir.
+(Fıkra 06.08.2008 tarih ve 26959 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Bakanlar, kamu kaynaklarının etkili, ekonomik ve verimli kullanılması ile hukuki ve mali konularda Cumhurbaşkanına (2) karşı sorumludurlar.
+Bakanlar; idarelerinin amaçları, hedefleri, stratejileri, varlıkları, yükümlülükleri ve yıllık performans programları (1) konusunda her mali yılın ilk ayı içinde kamuoyunu bilgilendirirler.
+(1) Bu kısımda yer alan planları ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-2 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.
+(2) politikasının uygulanması ile bakanlıklarının ve bakanlıklarına İbaresi 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Cumhurbaşkanı tarafından belirlenen politikaların uygulanması ile bakanlıkların ve bakanlıklara şeklinde ve Başbakana ve Türkiye Büyük Millet Meclisine İbaresi Cumhurbaşkanına şeklinde değişmiştir.
+(3) İçişleri İbaresi 10.12.2018 Tarih ve 30621 Sayılı Resmi Gazetede Yayımlanan 7153 Sayılı Kanunun 28. Maddesi ile Çevre ve Şehircilik şeklinde değişmiştir.
+BİRİNCİ KISIM
+Genel Hükümler
+DÖRDÜNCÜ BÖLÜM
+Bakanların ve Üst Yöneticilerin Hesap Verme Sorumluluğu
+Madde 0011: Üst yöneticiler
+Bakanlıklarda müsteşar, diğer kamu idarelerinde en üst yönetici, il özel idarelerinde vali ve belediyelerde belediye başkanı üst yöneticidir.  (2.Cümle 29.10.2016 tarih ve 29872 sayılı Resmi Gazetede yayımlanan 676 Sayılı Khk ile [7070/55 md. ile Aynen Kabul] Yürürlükten Kaldırılmıştır.)
+Üst yöneticiler, idarelerinin stratejik planlarının ve bütçelerinin kalkınma planına, yıllık programlara, kurumun stratejik plan ve performans hedefleri ile hizmet gereklerine uygun olarak hazırlanması ve uygulanmasından, sorumlulukları altındaki kaynakların etkili, ekonomik ve verimli şekilde elde edilmesi ve kullanımını sağlamaktan, kayıp ve kötüye kullanımının önlenmesinden, mali yönetim ve kontrol sisteminin işleyişinin gözetilmesi, izlenmesi ve bu Kanunda belirtilen görev ve sorumlulukların yerine getirilmesinden Bakana; mahalli idarelerde ise meclislerine karşı sorumludurlar.
+Üst yöneticiler, bu sorumluluğun gereklerini harcama yetkilileri, mali hizmetler birimi (...) (1) ve iç denetçiler (...) (2) aracılığıyla yerine getirirler.
+(1) (Bu kısımda yer alan , mali kontrol yetkilisi ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-1 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+(2) (Bu kısımda yer alan ile muhasebe yetkilisi ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-1 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+BİRİNCİ BÖLÜM
+Genel Hükümler
+Madde 0012: Bütçe türleri ve kapsamı
+Genel yönetim kapsamındaki idarelerin bütçeleri; merkezi yönetim bütçesi, sosyal güvenlik kurumları bütçeleri ve mahalli idareler bütçeleri olarak hazırlanır ve uygulanır. Kamu idarelerince bunlar dışında herhangi bir ad altında bütçe oluşturulamaz.
+Merkezi yönetim bütçesi, bu Kanuna ekli (I), (II) ve (III) sayılı cetvellerde yer alan kamu idarelerinin bütçelerinden oluşur.
+Genel bütçe, Devlet tüzel kişiliğine dahil olan ve bu Kanuna ekli (I) sayılı cetvelde yer alan kamu idarelerinin bütçesidir.
+Özel bütçe, bir bakanlığa bağlı veya ilgili olarak belirli bir kamu hizmetini yürütmek üzere kurulan, gelir tahsis edilen, bu gelirlerden harcama yapma yetkisi verilen, kuruluş ve çalışma esasları özel kanunla düzenlenen ve bu Kanuna ekli (II) sayılı cetvelde yer alan her bir kamu idaresinin bütçesidir.
+Düzenleyici ve denetleyici kurum bütçesi, özel kanunlarla kurul, kurum veya üst kurul şeklinde teşkilatlanan ve bu Kanuna ekli (III) sayılı cetvelde yer alan her bir düzenleyici ve denetleyici kurumun bütçesidir.
+Sosyal güvenlik kurumu bütçesi, sosyal güvenlik hizmeti sunmak üzere, kanunla kurulan ve bu Kanuna ekli (IV) sayılı cetvelde yer alan her bir kamu idaresinin bütçesidir.
+Mahalli idare bütçesi, mahalli idare kapsamındaki kamu idarelerinin bütçesidir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+BİRİNCİ BÖLÜM
+Genel Hükümler
+Madde 0013: Bütçe ilkeleri
+Bütçelerin hazırlanması, uygulanması ve kontrolünde aşağıdaki ilkelere uyulur:
+Bütçelerin hazırlanması ve uygulanmasında, makroekonomik istikrarla birlikte sürdürülebilir kalkınmayı sağlamak esastır.
+Kamu idarelerine bütçeyle verilen harcama yetkisi, kanunlarla veya Cumhurbaşkanlığı kararnameleriyle ibaresi eklenmiş (2) düzenlenen görev ve hizmetlerin yerine getirilmesi amacıyla kullanılır.
+Bütçeler kalkınma planı ve programlarda yer alan politika, hedef ve önceliklere uygun şekilde, idarelerin stratejik planları ile performans ölçütlerine ve fayda-maliyet analizine göre hazırlanır, uygulanır ve kontrol edilir.
+Bütçeler, stratejik planlar dikkate alınarak izleyen iki yılın bütçe tahminleriyle birlikte görüşülür ve değerlendirilir.
+Bütçe, kamu mali işlemlerinin kapsamlı ve saydam bir şekilde görünmesini sağlar. (1)
+Tüm gelir ve giderler gayri safi olarak bütçelerde gösterilir.
+Belirli gelirlerin belirli giderlere tahsis edilmemesi esastır.
+Bütçelerde gelir ve gider denkliğinin sağlanması esastır.
+Bütçeler, ait olduğu yıl başlamadan önce Türkiye Büyük Millet Meclisi veya yetkili organlarca kabul edilmedikçe veya onaylanmadıkça uygulanamaz.
+Bütçelerde, bütçeyi ilgilendirmeyen hususlara yer verilmez.
+(Bent 16.10.2020 tarih ve 31276 sayılı Resmi Gazetede yayımlanan 7254 Sayılı Kanunun 2. Maddesi ile Değişmiştir.) Bütçeler, program yapısı esas alınarak kurumsal ve ekonomik sonuçların görülmesini sağlayacak şekilde Cumhurbaşkanlığınca uluslararası standartlara uygun olarak belirlenen bir sınıflandırmaya tabi tutularak hazırlanır ve uygulanır.
+Bütçe gelir ve gider tahminleri ile uygulama sonuçlarının raporlanmasında açıklık, doğruluk ve mali saydamlık esas alınır.
+Kamu idarelerinin tüm gelir ve giderleri bütçelerinde gösterilir.
+Kamu hizmetleri, bütçelere konulacak ödeneklerle, mevzuatla belirlenmiş yöntem, ilke ve amaçlara uygun olarak gerçekleştirilir.
+Bütçelerde, ödenekler belirli amaçları gerçekleştirmek üzere tahsis edilir.
+(1) Bu kısımda yer alan Bütçe, hükümetin mali işlemlerinin kapsamlı ve saydam bir şekilde görünmesini sağlar. ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-3 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.
+(2) Altı Çizili İbare 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile eklenmiş ve Maliye Bakanlığınca İbaresi Cumhurbaşkanlığınca şeklinde değişmiştir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+BİRİNCİ BÖLÜM
+Genel Hükümler
+Madde 0014: Gelir ve giderleri etkileyecek kanun teklifleri
+(Madde Başlığı ve Madde 09.07.2018 tarih ve 30473 sayılı Resmi Gazetede yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Değişmiştir.)
+Kamu gelirlerinin azalmasına veya kamu giderlerinin artmasına neden olacak ve kamu idarelerini yükümlülük altına sokacak kanun tekliflerinin getireceği malî yük, orta vadeli program ve malî plan (1) çerçevesinde, en az üç yıllık dönem için hesaplanır ve tekliflere eklenir. Sosyal güvenliğe yönelik kanun tekliflerinde ise en az yirmi yıllık aktüeryal hesaplara yer verilir.
+(1) Üstü Çizili İbare 25.05.2021 tarih ve 31491 sayılı Resmi Gazetede yayımlanan 7319 Sayılı Kanunun 8. Maddesi ile madde metninden çıkarılmıştır.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+İKİNCİ BÖLÜM
+Merkezi Yönetim Bütçe Kanunu
+Madde 0015: Merkezî yönetim bütçe kanununun kapsamı ve düzeni (3)
+Merkezi yönetim bütçe kanunu, merkezi yönetim kapsamındaki kamu idarelerinin gelir ve gider tahminlerini gösteren, bunların uygulanmasına ve yürütülmesine yetki ve izin veren kanundur.
+Merkezi yönetim bütçe kanununda; yılı ve izleyen iki yılın gelir ve gider tahminleri, varsa bütçe açığının veya fazlasının tutarı, açığın nasıl kapatılacağı veya fazlanın nasıl kullanılacağı, vergi muafiyeti, istisnası ve indirimleri ile benzeri uygulamalar nedeniyle vazgeçilen vergi gelirleri, borçlanma ve garanti sınırları, bütçelerin uygulanmasında tanınacak yetkiler, bağlı cetveller, mali yıl içinde gelir ve giderlere yönelik olarak uygulanacak (1)(2) hükümler yer alır. Merkezi yönetim kapsamındaki kamu idarelerinin her birinin gelir-gider tahminleri, merkezi yönetim bütçe kanununda ayrı bölüm veya cetvellerde gösterilebilir.
+(3. Fıkra 16.10.2020 tarih ve 31276 sayılı Resmi Gazetede yayımlanan 7254 Sayılı Kanunun 3. Maddesi ile DDeğişmiştir.) Merkezî yönetim bütçe kanununun gider cetvelinin bölümleri, analitik bütçe sınıflandırması esas alınarak programlar itibarıyla düzenlenir.
+(4. Fıkra 16.10.2020 tarih ve 31276 sayılı Resmi Gazetede yayımlanan 7254 Sayılı Kanunun 3. Maddesi ile DDeğişmiştir.) İlgili mevzuatta giderlere ilişkin olarak yer alan Tertip deyimi program sınıflandırmasının ilk düzeyini, kurumsal ve finansman tipi sınıflandırmanın bütün düzeyleri ile ekonomik sınıflandırmanın ilk iki düzeyini, borç ödemeleri yönünden ilgili hizmet tertibi deyimi borç konusu hizmetlerin yürütüldüğü ilgili tertipleri ifade eder.
+(1) 03.02.2012 Tarih ve 28193 Sayılı Resmi Gazetede yayımlanan E: 2004/10, K: 2009/68 Sayılı Anayasa Mahkemesi Kararı ile ikinci fıkrasında yer alan ... kısmen veya tamamen uygulanmayacak ... ibaresi yürürlülükten kaldırılmasına karar verilmiştir.
+(2) 03.02.2012 Tarih ve 28193 Sayılı Resmi Gazetede yayımlanan E: 2004/10, K: 2009/68 Sayılı Anayasa Mahkemesi Kararı ile ikinci fıkrasında yer alan ... kısmen veya tamamen uygulanmayacak ... ibaresinin iptali nedeniyle uygulanma olanağı kalmayan bu tümcedeki ibareden önce yer alan ... ve ... sözcüğünün de yürürlülükten kaldırılmasına karar verilmiştir.
+(3) 11.07.2012 Tarih ve 28350 Sayılı Resmi Gazetede Yayınlanan 6338 sayılı Kanun ile maddesinin başlığı Merkezî yönetim bütçe kanununun kapsamı ve düzeni şeklinde değiştirilmiştir. (Yürürlük : 01.01.2013)
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+İKİNCİ BÖLÜM
+Merkezi Yönetim Bütçe Kanunu
+Madde 0016: Orta vadeli program, malî plan (1) ve bütçe hazırlama rehberi
+(1. Fıkra 09.07.2018 tarih ve 30473 sayılı Resmi Gazetede yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Değişmiştir.) Cumhurbaşkanlığı merkezî yönetim bütçe kanunu teklifini hazırlar ve bu amaçla ilgili kamu idareleri arasında koordinasyonu sağlar.
+(2. Fıkra 09.07.2018 tarih ve 30473 sayılı Resmi Gazetede yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Değişmiştir.) Merkezî yönetim bütçesinin hazırlanma süreci, Cumhurbaşkanı tarafından en geç Eylül ayının ilk haftası sonuna kadar kalkınma planları, stratejik planlar ve genel ekonomik koşulların gerekleri doğrultusunda makro politikaları, ilkeleri, hedef ve gösterge niteliğindeki temel ekonomik büyüklükleri , gelecek üç yıla ilişkin toplam gelir ve gider tahminlerini, bütçe dengesi ve borçlanma durumu ile kamu idarelerinin ödenek teklif tavanlarını içeren (1) orta vadeli programın Resmî Gazete de yayımlanması ile başlar.
+(3. Fıkra 25.05.2021 tarih ve 31491 sayılı Resmi Gazetede yayımlanan 7319 Sayılı Kanunun 8. Maddesi ile Yürürlükten Kaldırılmıştır.)
+(4. Fıkra 09.07.2018 tarih ve 30473 sayılı Resmi Gazetede yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Değişmiştir.) Bu doğrultuda, kamu idarelerinin bütçe tekliflerini ve yatırım programını hazırlama sürecini yönlendirmek üzere; Bütçe Çağrısı ve eki Bütçe Hazırlama Rehberi ile Yatırım Genelgesi ve eki Yatırım Programı Hazırlama Rehberi Cumhurbaşkanlığı tarafından hazırlanarak en geç Eylül ayının onbeşine kadar Resmî Gazete de yayımlanır.
+Bütçe Hazırlama Rehberi ile Yatırım Programı Hazırlama Rehberi, bütçe tekliflerinin hazırlanmasına esas olmak üzere, kamu idarelerince uyulması gereken genel ilkeleri, nesnel ve ölçülebilir standartları, hesaplama yöntemlerini, bunlara ilişkin olarak kullanılacak cetvel ve tablo örneklerini ve diğer bilgileri içerir.
+(1) Üstü Çizili İbare 25.05.2021 tarih ve 31491 sayılı Resmi Gazetede yayımlanan 7319 Sayılı Kanunun 8. Maddesi ile madde metninden çıkarılmış ve de kapsayacak şekilde onaylanan ibaresi İbaresi , gelecek üç yıla ilişkin toplam gelir ve gider tahminlerini, bütçe dengesi ve borçlanma durumu ile kamu idarelerinin ödenek teklif tavanlarını içeren şeklinde değişmiştir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+İKİNCİ BÖLÜM
+Merkezi Yönetim Bütçe Kanunu
+Madde 0017: Merkezi yönetim bütçesinin hazırlanması
+Gelir ve gider tekliflerinin hazırlanmasında;
+Orta vadeli programda (3) belirlenen temel büyüklükler ile ilke ve esaslar,
+Kalkınma planı ve yıllık program öncelikleri ile kurumun stratejik planları çerçevesinde belirlenmiş ödenek tavanları,
+Kamu idarelerinin stratejik planları ile uyumlu çok yıllı bütçeleme anlayışı,
+İdarenin performans hedefleri,
+Dikkate alınır.
+Kamu idareleri, merkez ve merkez dışı birimlerinin ödenek taleplerini dikkate alarak gider tekliflerini hazırlar. Genel bütçe gelir teklifi Cumhurbaşkanlığı tarafından (2), diğer bütçelerin gelir teklifleri ilgili idarelerce hazırlanır.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-4 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Gider ve gelir teklifleri, ekonomik ve mali analiz yapılmasına imkan verecek, hesap verilebilirliği ve saydamlığı sağlayacak şekilde, Cumhurbaşkanlığı tarafından (2) uluslararası standartlara uyumlu olarak belirlenen sınıflandırma sistemine göre hazırlanır.
+Kamu idareleri, stratejik planları ile Bütçe Hazırlama Rehberinde yer alan esaslar çerçevesinde, bütçe gelir ve gider tekliflerini gerekçeli olarak hazırlar ve yetkilileri tarafından imzalanmış olarak en geç Eylül (1) ayı sonuna kadar Cumhurbaşkanlığına (2) gönderir.  (2. Cümle 09.07.2018 tarih ve 30473 sayılı Resmi Gazetede yayımlanan 0703 Sayılı Khk ile Yürürlükten Kaldırılmıştır.)
+Bütçe teklifleri Cumhurbaşkanlığına (2) verildikten sonra, kamu idarelerinin yetkilileriyle gider ve gelir teklifleri hakkında görüşmeler yapılabilir.
+(Fıkra 16.10.2020 tarih ve 31276 sayılı Resmi Gazetede yayımlanan 7254 Sayılı Kanunun 4. Maddesi ile Değişmiştir.) Düzenleyici ve denetleyici kurumlar, bütçelerini üç yıllık bütçeleme anlayışı, stratejik planları ve performans programları ile program yapısını esas alarak bu Kanunda tanımlanan tertip düzeylerini içerecek şekilde hazırlar.
+(1) 02.11.2011 Tarih ve 28103 Sayılı Resmi Gazetede yayınlanan 659 Sayılı Khk ile dördüncü fıkrasında yer alan Temmuz ibaresi en geç Eylül şeklinde değiştirilmiştir
+(2) Maliye Bakanlığınca İbareleri 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Cumhurbaşkanlığı tarafından şeklinde ve Maliye Bakanlığına İbareleri Cumhurbaşkanlığına şeklinde değişmiştir.
+(3) program ve malî planda İbaresi 25.05.2021 tarih ve 31491 sayılı Resmi Gazetede yayımlanan 7319 Sayılı Kanunun 8. Maddesi ile programda şeklinde değişmiştir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+İKİNCİ BÖLÜM
+Merkezi Yönetim Bütçe Kanunu
+Madde 0018: Merkezi yönetim bütçe kanun teklifinin (1) sunulması
+(Fıkra 09.07.2018 tarih ve 30473 sayılı Resmi Gazetede yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Değişmiştir.) Merkezî yönetim bütçe kanun teklifi malî yılbaşından en az yetmiş beş gün önce Cumhurbaşkanı tarafından Türkiye Büyük Millet Meclisine sunulur.
+Merkezi yönetim bütçe kanun teklifine (1), Türkiye Büyük Millet Meclisinde görüşülmesi sırasında dikkate alınmak üzere Cumhurbaşkanlığı tarafından (1);
+Orta vadeli programı (2) da içeren bütçe gerekçesi,
+Yıllık ekonomik rapor,
+Vergi muafiyeti, istisnası ve indirimleri ile benzeri uygulamalar nedeniyle vazgeçilen kamu gelirleri cetveli,
+Kamu borç yönetimi raporu,
+Genel yönetim kapsamındaki kamu idarelerinin son iki yıla ait bütçe gerçekleşmeleri ile izleyen iki yıla ait gelir ve gider tahminleri,
+Mahalli idareler ve sosyal güvenlik kurumlarının bütçe tahminleri,
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-3 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+Merkezi yönetim kapsamında olmayıp, merkezi yönetim bütçesinden yardım alan kamu idareleri ile diğer kurum ve kuruluşların listesi,
+Eklenir.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-2 maddesiyle eklenen ibare. Yürürlük: 01.01.2006) Türkiye Büyük Millet Meclisi ve Sayıştay ile Düzenleyici ve denetleyici kurumlar, bütçelerini Eylül ayı sonuna kadar doğrudan Türkiye Büyük Millet Meclisine, bir örneğini de Cumhurbaşkanlığına (1) gönderirler.
+(1) tasarısının İbaresi 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile teklifinin şeklinde ve tasarısına İbaresi teklifine şeklinde değişmiş ve Altı Çizili İbareler eklenmiştir.
+(2) Orta vadeli malî planı İbaresi 25.05.2021 tarih ve 31491 sayılı Resmi Gazetede yayımlanan 7319 Sayılı Kanunun 8. Maddesi ile Orta vadeli programı şeklinde değişmiştir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+İKİNCİ BÖLÜM
+Merkezi Yönetim Bütçe Kanunu
+Madde 0019: Merkezi yönetim bütçe kanun tasarısının görüşülmesi
+Türkiye Büyük Millet Meclisi, merkezi yönetim bütçe kanun tasarısının metnini maddeler, gider ve gelir cetvellerini kamu idareleri itibarıyla görüşür ve bölümler halinde oylar. Merkezi yönetim bütçe kanunu mali yıl başından önce Resmi Gazetede yayımlanır.
+Kamu yatırım programı, merkezi yönetim bütçe kanununa uygun olarak Devlet Planlama Teşkilatı Müsteşarlığı tarafından hazırlanır ve anılan Kanunun yürürlüğe girdiği tarihten itibaren on beş gün içinde Bakanlar Kurulu kararıyla Resmi Gazetede yayımlanır.
+Zorunlu nedenlerle merkezi yönetim bütçe kanununun süresinde yürürlüğe konulamaması halinde, geçici bütçe kanunu çıkarılır. Geçici bütçe ödenekleri, bir önceki yıl bütçe başlangıç ödeneklerinin belirli bir oranı esas alınarak belirlenir. Geçici bütçe uygulaması altı ayı geçemez. Cari yıl bütçesinin yürürlüğe girmesiyle geçici bütçe uygulaması sona erer ve o tarihe kadar yapılan harcamalar ve girişilen yüklenmeler ile tahsil olunan gelirler cari yıl bütçesine dahil edilir.
+Merkezi yönetim kapsamındaki kamu idarelerinin bütçelerindeki ödeneklerin yetersiz kalması halinde veya öngörülmeyen hizmetlerin yerine getirilmesi amacıyla, karşılığı gelir gösterilmek kaydıyla, kanunla ek bütçe yapılabilir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Madde 0020: Ödeneklerin kullanılması
+Bütçe ödeneklerinin kullanılmasında aşağıda belirtilen esaslara uyulur:
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-5 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Genel bütçe kapsamındaki kamu idareleri, ayrıntılı harcama programlarını hazırlar ve vize edilmek üzere Maliye Bakanlığına gönderir. Bütçe ödenekleri, Maliye Bakanlığınca belirlenecek esaslar çerçevesinde, nakit planlaması da dikkate alınarak vize edilen ayrıntılı harcama programları ve serbest bırakma oranlarına göre kullanılır.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-5 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Özel bütçeli idareler ve sosyal güvenlik kurumları ayrıntılı finansman programlarını hazırlar ve harcamalarını bu programa uygun olarak yaparlar.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-5 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Ayrıntılı harcama ve finansman programlarının hazırlanmasına, vize edilmesine, uygulanmasına ve uygulamanın izlenmesine dair usul ve esaslar Maliye Bakanlığınca belirlenir.
+Kamu idareleri, bütçelerinde yer alan ödeneklerin üzerinde harcama yapamaz. Bütçeyle verilen ödenekler, tahsis edildikleri amaçlar doğrultusunda yılı içinde yaptırılan iş, satın alınan mal ve hizmetler ile diğer giderlerin karşılanmasında kullanılır. Ancak, ait olduğu mali yılda ödenemeyen ve emanet hesabına alınamayan zamanaşımına uğramamış geçen yıllar borçları ile ilama bağlı borçlar, ilgili kamu idaresinin cari yıl bütçesinden ödenir.
+(Bent 11.07.2012 tarih ve 28350 sayılı Resmi Gazetede yayımlanan 6338 Sayılı Kanun ile Eklenmiştir) (Yürürlük : 01.01.2013) İlgili mevzuatına göre, yılı içinde hizmetin gerektirdiği hâllerde Maliye Bakanlığınca belirlenen usûl ve esaslar çerçevesinde merkezî yönetim kapsamındaki kamu idarelerinin bütçelerinde yeni tertipler, gelir kodları ve finansman kodları açılabilir.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-5 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Cari yılda kullanılmayan ödenekler yıl sonunda iptal edilir.
+Genel veya kısmi seferberlik, savaş ilanı veya Bakanlar Kurulu kararıyla zorunlu askeri hazırlıkların yapıldığı olağanüstü hallerde Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı bütçelerindeki mevcut ödenekler, bu idarelerin ödenek toplamları aşılmamak şartıyla, birleştirilerek kullanılabilir. Bu durumda da mevcut ödeneklerin yeterli olmaması halinde toplam ödenek tutarının yüzde on beşine kadar ek harcama yapılabilir. Yukarıda sayılan hallerde sevk ve intikalle ilgili giderler için, harcama yetkililerinin onayıyla görevlendirilecek mutemetlere gereken miktarda avans verilebilir ve gönderilecek ödeneğe istinaden bir ay içinde mahsup edilir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Madde 0021: Ödenek aktarmaları
+(Madde 24.11.2016 tarih ve 29898 sayılı Resmi Gazetede yayımlanan 6761 Sayılı Kanun ile Değişmiştir.)
+Merkezî yönetim kapsamındaki kamu idarelerinin bütçeleri arasındaki ödenek aktarmaları kanunla yapılır. Ancak, harcamalarda tasarrufu sağlamak, dengeli ve etkili bir bütçe politikasını gerçekleştirmek üzere genel bütçe ödeneklerinin yüzde onunu geçmemek kaydıyla, merkezî yönetim kapsamındaki kamu idarelerinin bütçeleri arasındaki ödenek aktarmalarına ilişkin yetki ve işlemler ile usul ve esaslar merkezî yönetim bütçe kanununda belirlenir.
+Merkezî yönetim kapsamındaki kamu idareleri, aktarma yapılacak tertipteki ödeneğin yüzde yirmisine kadar kendi bütçeleri içinde ödenek aktarması yapabilirler. Ancak, ihtiyaç halinde yüzde yirmiyi aşan ödenek aktarma işlemlerini kurum bütçesinin başlangıç ödenekleri toplamının yüzde yirmisini geçmemek üzere yapmaya Maliye Bakanlığı, yılı yatırım programına ek yatırım cetvellerinde yer alan projelerde değişiklik yapılması halinde değişikliğin gerektirdiği tertipler arası ödenek aktarması işlemlerinin tamamını yapmaya ise ilgili idareler yetkilidir.
+Kamu idarelerinin bütçeleri içinde; personel giderleri tertiplerinden, aktarma yapılmış tertiplerden ve yedek ödenekten aktarma yapılmış tertiplerden diğer tertiplere ödenek aktarılamaz. Ancak, yılı yatırım programına ek yatırım cetvellerinde yer alan projelerde değişiklik yapılması halinde, aktarma yapılan tertiplerden diğer tertiplere ödenek aktarılabilir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Madde 0022: Merkez dışı birimlere ödenek gönderme
+Kamu idarelerinin merkez teşkilatı harcama yetkilileri, merkez dışı birimlere, ihtiyaçlarında kullanılmak üzere Ödenek Gönderme Belgesi düzenlemek suretiyle ödenek gönderirler.
+Merkezi yönetim kapsamındaki kamu idarelerinde ödenek gönderilmesine ilişkin usul ve esasları belirlemeye Maliye Bakanı yetkilidir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Madde 0023: Yedek ödenek
+Merkezi yönetim bütçe kanununda belirtilen hizmet ve amaçları gerçekleştirmek, ödenek yetersizliğini gidermek veya bütçelerde öngörülmeyen hizmetler için, bu Kanuna ekli (I) sayılı cetvelde yer alan idareler ile (II) sayılı cetvelde yer alan idarelerden merkezi yönetim bütçe kanununda gösterilecek olanların (1) bütçelerine aktarılmak üzere, genel bütçe ödeneklerinin yüzde ikisine kadar Maliye Bakanlığı bütçesine yedek ödenek konulabilir. Bu ödenekten aktarma yapmaya Maliye Bakanı yetkilidir.
+Mali yıl içinde yedek ödenekten yapılan aktarmaların tür, tutar ve idareler itibarıyla dağılımı, yılın bitimini takip eden on beş gün içinde Maliye Bakanlığınca ilan edilir.
+(1) (Bu kısımda yer alan (I) sayılı cetvelde yer alan idarelerin ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-6 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.)
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Madde 0024: Örtülü ödenek
+Örtülü ödenek; kapalı istihbarat ve kapalı savunma hizmetleri, Devletin milli güvenliği ve yüksek menfaatleri ile Devlet itibarının gerekleri, siyasi, sosyal ve kültürel amaçlar ve olağanüstü hizmetlerle ilgili Devlet ve Hükümet icapları (1) için kullanılmak üzere Cumhurbaşkanlığı ve Başbakanlık bütçelerine (1) konulan ödenektir. Kanunlarla verilen görevlerin gerektirdiği istihbarat hizmetlerini yürüten diğer kamu idarelerinin bütçelerine de örtülü ödenek konulabilir. Örtülü ödenek, bu amaçlar dışında ve Cumhurbaşkanının, Başbakanın ve ailelerinin (1) kişisel harcamaları ile siyasi partilerin idare, propaganda ve seçim ihtiyaçlarında kullanılamaz. İlgili yılda bu amaçla tahsis edilen ödenekler toplamı, genel bütçe başlangıç ödenekleri toplamının binde beşini geçemez.
+Başbakanlık ve diğer ilgili idare bütçelerinde yer alan örtülü ödeneklerin kullanılma yeri, giderin kimin tarafından yapılacağı, hesapların tutulma ve kapatılma yöntemi, gideri yapanın değişmesi halinde yeni yetkiliye hangi belgelerin aktarılacağı Başbakan tarafından belirlenir.
+Örtülü ödeneklere ilişkin giderler Başbakan, Maliye Bakanı ve ilgili Bakan tarafından imzalanan kararname esaslarına göre gerçekleştirilir ve ödenir.
+(Fıkra 15.04.2015 tarih ve 29327 sayılı Resmi Gazetede yayımlanan 6639 Sayılı Kanun ile Eklenmiştir) Cumhurbaşkanlığı ile Milli İstihbarat Teşkilatı Müsteşarlığı (2) bütçesindeki ödenekler bakımından ikinci ve üçüncü fıkralar kapsamında yer alan hususlar Cumhurbaşkanlığı kararnamesi ile belirlenir ve uygulanır.
+(1) 15.04.2015 Tarih ve 29327 Sayılı Resmi Gazetede Yayımlanan 6639 sayılı Kanun İle birinci fıkrada yer alan Hükümet icapları ibaresi Devlet ve Hükümet icapları şeklinde, Başbakanlık bütçesine ibaresi Cumhurbaşkanlığı ve Başbakanlık bütçelerine şeklinde ve Başbakanın ve ailesinin ibaresi Cumhurbaşkanının, Başbakanın ve ailelerinin şeklinde değiştirilmiştir.
+(2) Altı Çizili İbare 25.08.2017 Tarih ve 30165 Sayılı Resmi Gazetede Yayımlanan 694 Sayılı Khk ile [7078/127 md. ile Aynen Kabul] eklenmiştir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Madde 0025: Kamu yatırım projeleri
+Kamu yatırım projeleri 19.06.1994 tarihli ve 540 sayılı Kanun Hükmünde Kararname, Yatırım Programı Hazırlama Rehberi ve ilgili diğer mevzuat hükümleri çerçevesinde hazırlanır, uygulanır ve izlenir.
+Devlet Planlama Teşkilatı Müsteşarlığı, merkezi yönetim kapsamındaki kamu idarelerinin yatırım programında yer alan proje ödeneklerinin belirlenmesi sürecinde, bütçe bütünlüğünün sağlanması açısından Maliye Bakanlığı ile işbirliği yapar.
+(Fıkra 11.07.2012 tarih ve 28350 sayılı Resmi Gazetede yayımlanan 6338 Sayılı Kanun ile Eklenmiştir) (Yürürlük : 01.01.2013) Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı bütçelerinin mal ve hizmet alım giderlerine ilişkin tertiplerinde yer alan savunma sektörü, altyapı, inşa, iskân ve tesisleriyle NATO altyapı yatırımlarının gerektirdiği inşa ve tesisler ve bunlara ilişkin kamulaştırmalar ile stratejik hedef planı içinde yer alan alım ve hizmetler, Kalkınma Bakanlığının vizesine bağlı olmayıp yılı yatırım programına ek yatırım cetvellerinde yer almaz.
+Bu Kanuna ekli (III) sayılı cetvelde yer alan idarelerin yatırım nitelikli projelerine, bilgi için yılı yatırım programında yer verilir. Ayrıca, sosyal güvenlik kurumları ve mahalli idarelerin yatırımlarının uygulanması ve izlenmesine ilişkin usul ve esaslar Devlet Planlama Teşkilatı Müsteşarlığınca belirlenir.
+Kamu yatırım projelerinin gerçekleşme ve uygulama sonuçları, ilgili kamu idaresi tarafından izleyen yılın Mart ayı sonuna kadar bir rapor halinde Sayıştay Başkanlığına, Maliye Bakanlığına ve Devlet Planlama Teşkilatı Müsteşarlığına gönderilir.
+Proje maliyeti, Yılı Programının Uygulanması, Koordinasyonu ve İzlenmesine Dair Bakanlar Kurulu Kararında belirlenecek sınırın üzerinde bulunan afetlerle ilgili olanlar hariç yeni kamu yatırım projesi tekliflerinden; fayda-maliyet veya maliyet-etkinlik analizleri ile çevresel analizleri içerecek şekilde yapılabilirlik etüdü bulunmayan ve Devlet Planlama Teşkilatı Müsteşarlığı tarafından incelenerek yapılabilirliği onaylanmamış projeler yatırım programına alınamaz.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Madde 0026: Yüklenmeye girişilmesi
+Yüklenme, usulüne uygun olarak düzenlenmiş sözleşme esaslarına veya kanun hükmüne dayanılarak iş yaptırılması, mal veya hizmet alınması karşılığında geleceğe yönelik bir ödeme yükümlülüğüne girilmesidir. Bütçede yeterli ödeneği bulunmayan işler için yüklenmeye girişilemez. Yüklenme süresi mali yılla sınırlıdır. Harcama yetkilileri, tahsis edilen ödenekler dahilinde yüklenmeye girebilirler. Yüklenmeye girişilen tutara ait ödenekler saklı tutulur; başka iş yaptırılması, mal veya hizmet alınması için kullanılamaz.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Madde 0027: Ertesi yıla geçen yüklenme
+Niteliğinden dolayı mali yılla sınırlı tutulamayan ve sürekliliği bulunan aşağıdaki iş ve hizmetler için; her iş itibarıyla, bütçelerinde öngörülen ödeneklerin yüzde ellisini, izleyen yılın Haziran ayını geçmemek ve yüklenme süresi on iki ayı aşmamak üzere, ilgili üst yöneticinin onayıyla ertesi yıla geçen yüklenmelere girişilebilir:
+Türk Silahlı Kuvvetlerinin yapım, onarım, etüt ve proje işleri, araştırma-geliştirme projeleri, giyecek ve yiyecek alımları, makine-teçhizat, silah-mühimmat-teçhizat alımlarıyla bunların bakım, onarım ve imalat işleri.
+Yiyecek, yakacak, akaryakıt ve madeni yağ ihtiyaçları.
+Temini ve korunması güç olan ilaç, aşı, serum ve tıbbi sarf malzemeleri.
+Süreli yayın alımı, taşıma, (24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-3 maddesiyle eklenen ibare. Yürürlük: 01.01.2006) koruma ve güvenlik, temizlik ve yemek hizmetleri.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-7 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Taşıtların mali sorumluluk sigortası ile yurt dışından tedariki yapılan silah, silah-teçhizat ve mühimmat sevkinin her türlü riske karşı sigortalanması amacıyla yaptırılan nakliyat sigortası.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-7 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Makine-teçhizat, yol ve otoyol, bilgisayar ve haberleşme sistemlerinin bakım işleri; her türlü onarım işleri ile elektronik bilgi erişim hizmetleri.
+(Bent 29.10.2016 tarih ve 29872 sayılı Resmi Gazetede yayımlanan 676 Sayılı Khk ile [7070/27 md. ile Aynen Kabul] Değişmiştir.) Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının yapım, onarım, etüt ve proje işleri, araştırma-geliştirme projeleri, yiyecek ve giyecek alımları makine-teçhizat ile silah, mühimmat ve teçhizat alımlarıyla bunların bakım, onarım ve imalat işleri.
+(Bent 06.08.2008 tarih ve 26959 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) Milli İstihbarat Teşkilatı Müsteşarlığının etüt ve proje işleri, araştırma-geliştirme projeleri, makine, silah-mühimmat, teçhizat ve sistem alımlarıyla bunların bakım, onarım ve imalat işleri.
+ı. (Bent 23.04.2015 tarih ve 29335 sayılı Resmi Gazetede yayımlanan 6645 Sayılı Kanun ile Eklenmiştir) Türkiye İş Kurumu tarafından yürütülen aktif işgücü hizmetleri kapsamında kurs ve programlar,
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-3 maddesiyle eklenen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.)Ancak (d) bendinde sayılan işler için bütçelerinde ödeneklerin yüzde ellisinin aşılmayacağı hükmü Milli Eğitim Bakanlığı için aranmaz.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Madde 0028: Gelecek yıllara yaygın yüklenmeler
+Merkezi yönetim kapsamındaki kamu idareleri, bir mali yıl içinde tamamlanması mümkün olmayan yatırım projeleri için (...) (1), gelecek yıllara yaygın yüklenmeye girişebilir.
+Türk Silahlı Kuvvetleri Stratejik Hedef Planında yer alan projeler için 02.07.1992 tarihli ve 3833 sayılı Kanun çerçevesinde gelecek yıllara yaygın yüklenmelere girişmeye, ilgisine göre (5) Milli Savunma Bakanlığı veya İçişleri Bakanlığı (5) yetkilidir.
+(Fıkra 29.10.2016 tarih ve 29872 sayılı Resmi Gazetede yayımlanan 676 Sayılı Khk ile [7070/28 md. ile Aynen Kabul] Eklenmiştir) Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının bir mali yıl içinde tamamlanması mümkün olmayan asayiş ve güvenlik hizmetlerine yönelik alımları için gelecek yıllara yaygın yüklenmelere girişmeye İçişleri Bakanlığı yetkilidir.
+Dışişleri Bakanlığı, Maliye Bakanlığının uygun görüşünü almak kaydıyla, yabancı ülkelerde dış temsilcilik binası veya arsa satın alınması, bina yaptırılması veya kiralanması için gelecek yıllara yaygın yüklenmelere girişebilir.
+(Fıkra 04.05.2007 tarih ve 26512 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Yılı bütçesinde ödeneği bulunması ve merkezî yönetim kapsamındaki idareler için Maliye Bakanlığının uygun görüşünün alınması kaydıyla; satın alma suretiyle edinilmesi ekonomik olmayan her türlü makine-teçhizat, cihazlar ve taşıtlar ile hava ambulansı ve yangınla mücadele amacıyla hava ve deniz araçlarının kiralanması veya finansal kiralama suretiyle temini; afet ve acil durumlar için kurulan lojistik depoların işletilmesiyle ilgili hizmetleri, (3) yemek (beşinci fıkra kapsamındaki yemek hizmetleri hariç) ve (3) personel taşıma hizmetleri, 16/6/2005 tarihli ve 5369 sayılı Kanuna göre sağlanan sabit ve ankesörlü telefon hizmetleri ile acil yardım çağrıları hizmetler, internet erişim hizmetleri, deniz haberleşmesi ve seyir güvenliği haberleşme hizmetleri, 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanunu kapsamındaki elektronik haberleşme hizmetleri, elektrik ve doğalgaz alımları, harita, plan, proje, etüt ve müşavirlik hizmetleri, 17/2/2011 tarihli ve 6114 sayılı Kanuna göre yapılan sınav işlemleri ile sınırlı olmak üzere basım, dağıtım, nakil, kamera kaydı ve izlenmesi ile sınav güvenliği ve gizliliği kapsamındaki alımlar, (4) (İbare 06.08.2008 tarih ve 26959 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) ulusal araştırma geliştirme kurumlarının süreli ve süresiz yayın alımları orman ağaçlandırma ve amenajman işleri, kit karşılığı cihaz, ilaç, tıbbi cihaz, (2)aşı ve anti-serum alımı için; süresi üç yılı geçmemek, finansal kiralama suretiyle temin edileceklerde ise dört yıl olmak üzere üst yöneticinin onayıyla gelecek yıllara yaygın yüklenmeye girişilebilir. (Cümle 07.09.2016 tarih ve 29824 sayılı Resmi Gazetede yayımlanan 6745 Sayılı Kanun ile Eklenmiştir) Bu fıkrada sayılanlar dışında, birden fazla yıla yaygın olması zorunluluğu bulunan veya ekonomik olan diğer mal ve hizmet alımlarını, yüklenme süresi 3 yılı geçmemek üzere belirlemeye ve bu fıkrada belirlenen süreleri beş katına kadar artırmaya Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu yetkilidir.
+(Fıkra 11.09.2014 tarih ve 29116 sayılı Resmi Gazetede yayımlanan 6552 Sayılı Kanun ile Eklenmiştir) Genel yönetim kapsamındaki kamu idarelerinin, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 62 nci maddesinin birinci fıkrasının (e) bendi kapsamında olan işlerden sürekli nitelikte olanlara ilişkin hizmet alımlarında, yüklenme süresi üç yıl olup, işin niteliğinden veya süresinden kaynaklanan zorunlu hâllerde bu süre gerekçesi gösterilmek şartıyla üst yöneticinin onayıyla kısaltılabilir.
+(1) (Bu kısımda yer alan Maliye Bakanlığı ve Devlet Planlama Teşkilatı Müsteşarlığının görüşü üzerine ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-5 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+(2) Altı Çizili İbare 18.01.2014 Tarih ve 28886 Sayılı Resmi Gazetede Yayımlanan 6514 Sayılı Kanun İle eklenmiştir.
+(3) 11.09.2014 tarih ve 29116 Sayılı Resmi Gazetede Yayımlanan 6552 Sayılı Kanun ile dördüncü fıkrada yer alan finansal kiralama suretiyle temini; ibaresinden sonra gelmek üzere afet ve acil durumlar için kurulan lojistik depoların işletilmesiyle ilgili hizmetleri, ibaresi eklenmiş; temizlik, yemek, koruma ve güvenlik ile ibaresi yemek (beşinci fıkra kapsamındaki yemek hizmetleri hariç) ve şeklinde değiştirilmiştir.
+(4) (07.09.2016 Tarih ve 29824 Sayılı Resmi Gazetede Yayımlanan 6745 sayılı Kanun İle ve okullara sağlanan internet erişim hizmetleri, harita, plan, proje, etüt ve müşavirlik hizmetleri, ibaresi , internet erişim hizmetleri, deniz haberleşmesi ve seyir güvenliği haberleşme hizmetleri, 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanunu kapsamındaki elektronik haberleşme hizmetleri, elektrik ve doğalgaz alımları, harita, plan, proje, etüt ve müşavirlik hizmetleri, 17/2/2011 tarihli ve 6114 sayılı Kanuna göre yapılan sınav işlemleri ile sınırlı olmak üzere basım, dağıtım, nakil, kamera kaydı ve izlenmesi ile sınav güvenliği ve gizliliği kapsamındaki alımlar, şeklinde değiştirilmiştir.)
+(5) (Üstü Çizili İbare 29.10.2016 Tarih ve 29872 Sayılı Resmi Gazetede Yayımlanan 676 Sayılı Khk ile [7070/28 md. ile Aynen Kabul] Yürürlükten Kaldırımıştır.)
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Madde 0029: Bütçelerden yardım yapılması
+Gerçek veya tüzel kişilere kanuni dayanağı olmadan kamu kaynağı kullandırılamaz, yardımda bulunulamaz veya menfaat sağlanamaz. Ancak, genel yönetim kapsamındaki kamu idarelerinin bütçelerinde öngörülmüş olmak kaydıyla; kamu yararı gözetilerek dernek, vakıf, birlik, kurum, kuruluş, sandık ve benzeri teşekküllere yardım yapılabilir.
+Bu yardımların yapılması, kullanılması, izlenmesi, denetlenmesi ve kamuoyuna açıklanmasına ilişkin esas ve usuller Maliye Bakanlığınca hazırlanarak Bakanlar Kurulunca çıkarılacak yönetmelikle belirlenir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ BÖLÜM
+Bütçelerin Uygulama Esasları
+Madde 0030: Bütçe politikası, gelir ve giderlerin izlenmesi
+Maliye Bakanı, merkezi yönetim bütçe kanununun uygulamasına ilişkin olarak; harcamalarda tasarrufu sağlamak, tutarlı, dengeli ve etkili bir bütçe politikası yürütmek için gelir ve giderlere ilişkin kanun, tüzük, yönetmelik ve kararnamelerle belirlenmiş konularda uygulamaları düzenlemek üzere gerekli önlemleri almaya, standartları belirlemeye, sınırlamalar koymaya, kamu istihdam politikasının belirlenmesine ve uygulanmasına yön vermeye, bütçe harcama ve gerçekleşmelerini izlemeye, ödeneklerin dağıtım ve kullanımını belirli esaslara bağlamaya ve bu hususlarda kamu idareleri için uyulması zorunlu düzenlemeleri yapmaya yetkilidir.
+Genel yönetimin tüm gelir ve giderleri ile borç ve mali imkanlarının tespitinin ve takibinin yapılabilmesi amacıyla, genel yönetim kapsamındaki kamu idareleri ve merkezi yönetim bütçesinden yardım alan kurum, kuruluş, vakıf ve dernekler ile benzeri teşekküller; gelir ve gider tahminlerini, mali tablolarını, birbirleriyle olan borç ve alacak durumlarını, personel giderlerine ilişkin her türlü bilgi ve belgeleri, istenilmesi halinde Maliye Bakanlığına vermek zorundadırlar. Bilgi, belge ve hesap durumlarını ibraz etmeyen veya uygun harcama yapmayan kamu idareleri ve diğer kuruluşlarla ilgili olarak gerekli önlemleri almaya Maliye Bakanı yetkilidir.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-8 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Genel yönetim kapsamındaki idareler bütçelerinin ilk altı aylık uygulama sonuçları, ikinci altı aya ilişkin beklentiler ve hedefler ile faaliyetlerini; Maliye Bakanlığı ise merkezi yönetim bütçe kanununun ilk altı aylık uygulama sonuçları, finansman durumu, ikinci altı aya ilişkin beklentiler ve hedefler ile faaliyetleri kapsayan mali durumu temmuz ayı içinde kamuoyuna açıklar.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+DÖRDÜNCÜ BÖLÜM
+Harcama Yapılması
+Madde 0031: Harcama yetkisi ve yetkilisi
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 1 inci maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.)
+Bütçeyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisi harcama yetkilisidir.
+Ancak, teşkilat yapısı ve personel durumu gibi nedenlerle harcama yetkililerinin belirlenmesinde güçlük bulunan idareler ile bütçelerinde harcama birimleri sınıflandırılmayan idarelerde harcama yetkisi, üst yönetici veya üst yöneticinin belirleyeceği kişiler tarafından; mahalli idarelerde İçişleri veya Çevre ve Şehircilik (2) Bakanlığının, diğer idarelerde ise Hazine ve Maliye Bakanlığının (1) uygun görüşü üzerine yürütülebilir.
+Kanunların veya Cumhurbaşkanlığı kararnamelerinin (1) verdiği yetkiye istinaden yönetim kurulu, icra komitesi, komisyon ve benzeri kurul veya komite kararıyla yapılan harcamalarda, harcama yetkisinden doğan sorumluluk kurul, komite veya komisyona ait olur.
+(Fıkra 11.07.2012 tarih ve 28350 sayılı Resmi Gazetede yayımlanan 6338 Sayılı Kanun ile Eklenmiştir) (Yürürlük : 01.01.2013) Yükseköğretim Kurulu ile üniversiteler ve yüksek teknoloji enstitülerinde, harcama yetkilileri ödenek gönderme belgesiyle belirlenir. Bu idarelerde ödenek gönderme belgesi ile ödenek gönderilen birimler harcama birimi, kendisine ödenek gönderilen birimin en üst yöneticisi ise harcama yetkilisidir.  (Son Cümle 09.07.2018 tarih ve 30473 sayılı Resmi Gazetede yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Değişmiştir.) Bütçe ödeneklerinin ilgili birimlere dağılımının planlanması ve kullanılmasına ilişkin usûl ve esaslar Cumhurbaşkanlığı, ödenek gönderme belgesine bağlanmasına ilişkin usul ve esaslar ise Hazine ve Maliye Bakanlığı tarafından belirlenir.
+Genel yönetim kapsamındaki kamu idarelerinde; idareler, merkez ve merkez dışı birimler ve görev unvanları itibarıyla harcama yetkililerinin belirlenmesine, harcama yetkisinin bir üst yönetim kademesinde birleştirilmesine ve devredilmesine ilişkin usul ve esaslar Hazine ve Maliye Bakanlığınca (1) belirlenir. Harcama yetkisinin devredilmesi, yetkiyi devredenin idari sorumluluğunu ortadan kaldırmaz.
+Harcama yetkilileri bütçede öngörülen ödenekleri kadar, ödenek gönderme belgesiyle kendisine ödenek verilen harcama yetkilileri ise tahsis edilen ödenek tutarında harcama yapabilir.
+(1) Maliye Bakanlığının İbaresi 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Hazine ve Maliye Bakanlığının şeklinde değişmiş ve Altı Çizili İbareler eklenmiş ve Maliye Bakanlığınca İbaresi Hazine ve Maliye Bakanlığınca şeklinde değişmiştir.
+(2) Altı Çizili İbare 10.12.2018 Tarih ve 30621 Sayılı Resmi Gazetede Yayımlanan 7153 Sayılı Kanunun 28. Maddesi ile eklenmiştir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+DÖRDÜNCÜ BÖLÜM
+Harcama Yapılması
+Madde 0032: Harcama talimatı ve sorumluluk
+Bütçelerden harcama yapılabilmesi, harcama yetkilisinin harcama talimatı vermesiyle mümkündür. Harcama talimatlarında hizmet gerekçesi, yapılacak işin konusu ve tutarı, süresi, kullanılabilir ödeneği, gerçekleştirme usulü ile gerçekleştirmeyle görevli olanlara ilişkin bilgiler yer alır.
+Harcama yetkilileri, harcama talimatlarının bütçe ilke ve esaslarına, kanun, tüzük ve yönetmelikler ile diğer mevzuata uygun olmasından, ödeneklerin etkili, ekonomik ve verimli kullanılmasından ve bu Kanun çerçevesinde yapmaları gereken diğer işlemlerden sorumludur.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+DÖRDÜNCÜ BÖLÜM
+Harcama Yapılması
+Madde 0033: Giderin gerçekleştirilmesi
+Bütçelerden bir giderin yapılabilmesi için iş, mal veya hizmetin belirlenmiş usul ve esaslara uygun olarak alındığının veya gerçekleştirildiğinin, görevlendirilmiş kişi veya komisyonlarca onaylanması ve gerçekleştirme belgelerinin düzenlenmiş olması gerekir. Giderlerin gerçekleştirilmesi; harcama yetkililerince belirlenen görevli tarafından düzenlenen ödeme emri belgesinin harcama yetkilisince imzalanması ve tutarın hak sahibine ödenmesiyle tamamlanır. (1)
+Gerçekleştirme görevlileri, harcama talimatı üzerine; işin yaptırılması, mal veya hizmetin alınması, teslim almaya ilişkin işlemlerin yapılması, belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanması görevlerini yürütürler.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-5 maddesiyle eklenen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Elektronik ortamda oluşturulan ortak bir veri tabanından yararlanmak suretiyle yapılacak harcamalarda, veri giriş işlemleri gerçekleştirme görevi sayılır. Bu fıkranın uygulanmasına ilişkin esas ve usuller Hazine ve Maliye Bakanlığınca (2) belirlenir.
+Gerçekleştirme görevlileri, bu Kanun çerçevesinde yapmaları gereken iş ve işlemlerden sorumludurlar.
+(Fıkra 09.07.2018 tarih ve 30473 sayılı Resmi Gazetede yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Değişmiştir.) Kamu borç yönetimine ilişkin olanlar da dahil giderin çeşidine göre aranacak gerçekleştirme belgelerinin şekil ve türleri merkezî yönetim kapsamındaki kamu idareleri için Hazine ve Maliye Bakanlığınca, mahallî idareler için İçişleri veya Çevre ve Şehircilik (3) Bakanlığınca, sosyal güvenlik kurumları için de bağlı veya ilgili oldukları bakanlıklar tarafından, Hazine ve Maliye Bakanlığının uygun görüşü alınmak suretiyle çıkarılacak yönetmeliklerle belirlenir.
+(1) Bu kısımda yer alan Giderlerin gerçekleştirilmesi harcama yetkilisinin ödeme emri belgesini imzalaması ve tutarın hak sahibine ödenmesiyle tamamlanır. şeklindeki cümle; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-9 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.
+(2) Maliye Bakanlığınca İbaresi 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Hazine ve Maliye Bakanlığınca şeklinde değişmiştir.
+(3) Altı Çizili İbare 10.12.2018 Tarih ve 30621 Sayılı Resmi Gazetede Yayımlanan 7153 Sayılı Kanunun 28. Maddesi ile eklenmiştir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+DÖRDÜNCÜ BÖLÜM
+Harcama Yapılması
+Madde 0034: Ödenemeyen giderler ve bütçeleştirilmiş borçlar
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 2 nci maddesiyle başlığı ile birlikte değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Ödeme emri belgesine bağlandığı halde ödenemeyen tutarlar, bütçeye gider yazılarak emanet hesaplarına alınır ve buradan ödenir. Ancak, malın alındığı veya hizmetin yapıldığı mali yılı izleyen beşinci yılın sonuna kadar talep edilmeyen emanet hesaplarındaki tutarlar bütçeye gelir kaydedilir. Gelir kaydedilen tutarlar, mahkeme kararı üzerine ödenir.
+Kamu idarelerinin nakit mevcudunun tüm ödemeleri karşılayamaması halinde giderler, muhasebe kayıtlarına alınma sırasına göre ödenir. Ancak, sırasıyla kanunları gereğince diğer kamu idarelerine ödenmesi gereken vergi, resim, harç, prim, fon kesintisi, pay ve benzeri tutarlara, tarifeye bağlı ödemelere, ilama bağlı borçlara, ödenmemesi halinde gecikme cezası veya faiz gibi ek yük getirecek borçlara ve ödenmesi talep edilen emanet hesaplarındaki tutarlara öncelik verilir.
+İlgili olduğu mali yılın sonundan başlayarak beş yıl içinde alacaklıları tarafından geçerli bir mazerete dayanmaksızın, yazılı talep edilmediğinden veya belgeleri verilmediğinden dolayı ödenemeyen borçlar zamanaşımına uğrayarak kamu idareleri lehine düşer.
+Genel bütçe kapsamındaki kamu idarelerinde, bir taahhüde ve harcama talimatına dayanmayan giderlere ilişkin olup, Maliye Bakanlığınca belirlenecek ekonomik kodlardan yapılan ve bütçede ödeneği öngörülmüş olmakla birlikte, oluştuğu yer ve zamanda ödeneği bulunmayan giderler; dayanağını oluşturan harcama belgeleri de eklenmek suretiyle usulüne göre gerçekleştirilerek ilgili hesaplara alınır ve ödeneğinin gelmesini müteakip ödenir. Bu tutarlara ilişkin ödenek gönderme belgeleri, en geç mali yılın sonuna kadar muhasebe birimine gönderilerek muhasebeleştirme işlemleri tamamlanır. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+DÖRDÜNCÜ BÖLÜM
+Harcama Yapılması
+Madde 0035: Ön ödeme
+(1. Fıkranın: 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-10 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Harcama yetkilisinin uygun görmesi ve karşılığı ödeneğin saklı tutulması kaydıyla, ilgili kanunlarda öngörülen haller ile gerçekleştirme işlemlerinin tamamlanması beklenilemeyecek ivedi veya zorunlu giderler için avans vermek veya kredi açmak suretiyle ön ödeme yapılabilir. Verilecek avansın üst sınırları merkezi yönetim bütçe kanununda gösterilir.
+Sözleşmesinde belirtilmek ve yüklenme tutarının yüzde otuzunu geçmemek üzere, yüklenicilere, teminat karşılığında bütçe dışı avans ödenebilir. İlgili kanunların bütçe dışı avans ödenmesine ilişkin hükümleri saklıdır.
+Açılmış akreditiflere ilişkin kredi artıkları ertesi yıla devredilmekle birlikte ödenekleri iptal olunur. Devredilen kredi artıklarının karşılığı, genel bütçe kapsamındaki kamu idarelerinde Maliye Bakanı, diğer kamu idarelerinde ise üst yönetici tarafından idare bütçesinin ilgili tertibine (1) ödenek kaydolunur.
+Sözleşmelerin bitim tarihlerinde henüz bir kısım hizmet yerine getirilememiş veya zorunlu nedenlerle sözleşmenin uygulanmasına başlanılamamış ancak, ilgili idarece ek süre verilmiş ve bu süre ertesi mali yıla taşmış ise; yıl sonunda yüklenme artığı devredilir ve bu tutarlara ilişkin ödenekler hakkında akreditiflerle ilgili hükümler uygulanır. Devredilen yüklenme artığı karşılığı hizmet ek süre içinde yerine getirilerek kanıtlayıcı belgeleri verildiğinde, tutarı hizmetin yapıldığı yıl bütçesine gider kaydıyla ödenir.
+Her mutemet ön ödemelerden harcadığı tutara ilişkin kanıtlayıcı belgeleri, ilgili kanunlarında belirtilmemiş olması halinde avanslarda bir ay, kredilerde üç ay içinde muhasebe yetkilisine vermek ve artan tutarı iade etmekle yükümlüdür. Süresi içerisinde mahsup edilmeyen avanslar hakkında 21.07.1953 tarihli ve 6183 sayılı Kanun hükümleri uygulanır.
+Merkezi yönetim kapsamındaki kamu idarelerinde ön ödeme şekilleri, devir ve mahsup işlemleri, yapılacak ön ödemelerin idareler ve gider türleri itibarıyla miktarı ve oranlarının belirlenmesi, (24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-6 maddesiyle eklenen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren ibare.) zorunlu hallerde yapılacak harcamalar için ön ödemenin tutarı ve mahsup süresi, mutemetlerin görevlendirilmesi ve diğer işlemlere ilişkin usul ve esaslar Maliye Bakanlığınca hazırlanacak ve Bakanlar Kurulunca çıkarılacak yönetmelikle düzenlenir. Diğer kamu idarelerinde ön ödemeye ilişkin usul ve esaslar bu madde hükümleri dikkate alınmak suretiyle ilgili mevzuatlarında düzenlenir.
+02.07.1992 tarihli ve 3833 sayılı Kanunun avans ve kredi işlemlerine ilişkin hükümleri saklıdır.
+(Fıkra 29.10.2016 tarih ve 29872 sayılı Resmi Gazetede yayımlanan 676 Sayılı Khk ile [7070/29 md. ile Aynen Kabul] Eklenmiştir) Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının bir mali yıl içinde tamamlanması mümkün olmayan asayiş ve güvenlik hizmetlerine yönelik alımlarının avans ve kredi işlemlerine ilişkin usuller İçişleri Bakanlığınca çıkarılan yönetmelik ile düzenlenir.
+(1) (Bu kısımda yer alan diğer kamu idarelerinde üst yönetici tarafından ilgili idare bütçesinde açılacak özel bir tertibe ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-10 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.)
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+BEŞİNCİ BÖLÜM
+Gelirlerin Toplanması
+Madde 0036: Gelir politikası ve ilkeleri
+Gelirlerin toplanmasında aşağıdaki ilkelere uyulur:
+Maliye Bakanlığı, gelir politikaları ve uygulamaları konusunda ilkelerini, amaçlarını, stratejilerini ve taahhütlerini her mali yıl başında kamuoyuna duyurur.
+Mükellef ve sorumlulara vergi, resim, harç ve benzeri mali yükümlülüklerini kolayca yerine getirebilmeleri için gerekli hizmetler sağlanır.
+Mükellef ve sorumluların vergiye uyumu teşvik edilir.
+Hakların korunması ve yükümlülükler konusunda mükelleflerin bilgilendirilmesi için ilgili idareler tarafından gerekli önlemler alınır.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+BEŞİNCİ BÖLÜM
+Gelirlerin Toplanması
+Madde 0037: Gelirlerin dayanakları
+Vergi, resim, harç ve benzeri mali yükümlülükler kanunla konulur, değiştirilir veya kaldırılır.
+Genel yönetim kapsamındaki kamu idarelerinin gelirlerinin kanuni dayanakları bütçelerinde gösterilir. Bütçelerde yer alan gelirler, ilgili kanunlarında belirtilen usullere göre tarh, tahakkuk ve tahsil edilir. Genel bütçe gelirlerinin tarh, tahakkuk ve tahsili Maliye Bakanlığı (24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-7 maddesiyle eklenen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren ibare.) veya tarh ve tahakkuka ilgili mevzuatına göre yetkili idareler tarafından yapılır.
+Genel yönetim kapsamındaki kamu idarelerinin topladığı vergi, resim, harç ve benzeri gelirlerden diğer idare, kurum ve kuruluşlara verilecek paylar, geliri toplayan kamu idaresi bütçesine bu amaçla konulacak ödeneklerden karşılanır. Mali yıl içinde kullanılabilecek ödenek miktarı, ilgili kanun hükümleri uyarınca tahsil edilen miktar dikkate alınarak hesaplanacak pay miktarını geçemez. Hesaplanan pay tutarının, bu amaçla tahsis edilen ödenek tutarını aşması halinde, aradaki farkı geçmemek kaydıyla ödenek eklemesi yapmaya genel bütçe kapsamındaki idarelerde Maliye Bakanı, diğer idarelerde üst yöneticiler yetkilidir.
+Tahsili zamanaşımına uğrayan gelirlerin silinmesine ilişkin usul ve esaslar, ilgili kanunlardaki hükümler saklı kalmak üzere, Maliye Bakanlığınca belirlenir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+BEŞİNCİ BÖLÜM
+Gelirlerin Toplanması
+Madde 0038: Gelirlerin toplanması sorumluluğu
+Kamu gelirlerinin tarh, tahakkuk, tahsiliyle yetkili ve görevli olanlar, ilgili kanunlarda öngörülen tarh, tahakkuk ve tahsil işlemlerinin zamanında ve eksiksiz olarak yapılmasından sorumludur.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+BEŞİNCİ BÖLÜM
+Gelirlerin Toplanması
+Madde 0039: Özel gelirler
+Özel gelirler karşılığında idarelere tahsis edilen özel ödenek miktarları, ilgili idarelerin bütçelerinde gösterilir. Mali yıl içinde kullanılabilecek özel ödenek miktarı, tahsil edilen özel gelir tutarını geçemez. Tahsil edilen özel gelirlerin ödenek tutarını aşması halinde, ödenek eklenemez.
+Özel gelirlere ilişkin olarak ilgili kanunlarında belirtilen fiyatlandırılabilir mal ve hizmetlerin tarifeleri ile uygulamaya yönelik usul ve esaslar, Maliye Bakanlığının görüşü alınarak ilgili kamu idarelerince belirlenir.
+Özel gelirlerin ödenek kaydına, gelecek yıla devrine, iptaline ilişkin yetki ve işlemler merkezi yönetim bütçe kanununda gösterilir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+BEŞİNCİ BÖLÜM
+Gelirlerin Toplanması
+Madde 0040: Bağış ve yardımlar
+Herhangi bir gerçek veya tüzel kişi tarafından, kamu hizmetinin karşılığı olarak veya kamu hizmetleriyle ilişkilendirilerek bağış veya yardım toplanamaz, benzeri adlar altında tahsilat yapılamaz.
+Kamu idarelerine yapılan her türlü bağış ve yardımlar gelir kaydedilir. Nakdi olmayan bağış ve yardımlar, ilgili mevzuatına göre değerlemeye tabi tutularak kayıtlara alınır.
+Kamu yararına kullanılmak üzere kamu idarelerine yapılan şartlı bağış ve yardımlar, dış finansman kaynağından sağlananlarda 28.03.2002 tarihli ve 4749 sayılı Kanun hükümleri saklı kalmak kaydıyla, hizmeti yapacak idarenin üst yöneticisi tarafından uygun görülmesi halinde, bütçede açılacak bir tertibe gelir ve şart kılındığı amaca harcanmak üzere açılacak bir tertibe ödenek kaydedilir. Bu ödenekten amaç dışında başka bir tertibe aktarma yapılamaz.
+Bu ödeneklerden mali yıl sonuna kadar harcanmamış olan tutarlar, bağış ve yardımın amacı gerçekleşinceye kadar ertesi yıl bütçesine devir olunarak ödenek kaydedilir. Ancak, bu ödeneklerden tahsis amacı gerçekleştirilmiş olanlardan kalan tutarlar, tahsis amacının gerçekleştirilmesi bakımından yetersiz olanlar ile yılı bütçesinde belirlenen tutarı aşmayan ve iki yıl devrettiği halde harcanmayan ödenekleri iptal etmeye genel bütçe kapsamındaki kamu idarelerinde Maliye Bakanı, diğer kamu idarelerinde üst yönetici yetkilidir.
+Bağış ve yardımlar, kullanılmadığı veya amaç dışı kullanıldığı için geri istenildiği takdirde, bütçeye gider kaydıyla ilgilisine geri verilir. Şartlı bağış ve yardımın zamanında kullanılmaması nedeniyle doğacak zararlar ile amaç dışı kullanım nedeniyle yapılan harcamalar sorumluluğu tespit edilenlere ödettirilir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ALTINCI BÖLÜM
+Faaliyet Raporları ve Kesin Hesap
+Madde 0041: Faaliyet raporları
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 3 üncü maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Üst yöneticiler ve bütçeyle ödenek tahsis edilen harcama yetkililerince, hesap verme sorumluluğu çerçevesinde, her yıl faaliyet raporu hazırlanır. Üst yönetici, harcama yetkilileri tarafından hazırlanan birim faaliyet raporlarını esas alarak, idaresinin faaliyet sonuçlarını gösteren idare faaliyet raporunu düzenleyerek kamuoyuna açıklar. Merkezi yönetim kapsamındaki kamu idareleri ve sosyal güvenlik kurumları, idare faaliyet raporlarının birer örneğini Sayıştaya ve Cumhurbaşkanlığına (1) gönderir.
+Mahalli idarelerce hazırlanan idare faaliyet raporlarının birer örneği Sayıştay ve İçişleri Bakanlığına gönderilir. Çevre ve Şehircilik (2) Bakanlığı, bu raporları esas alarak kendi değerlendirmelerini de içeren mahalli idareler genel faaliyet raporunu hazırlar ve kamuoyuna açıklar. Raporun birer örneği Sayıştaya ve Cumhurbaşkanlığına (1) gönderilir.
+Merkezi yönetim kapsamındaki idareler ile sosyal güvenlik kurumlarının bir mali yıldaki faaliyet sonuçları, Cumhurbaşkanlığı tarafından (1) hazırlanacak genel faaliyet raporunda gösterilir. Bu raporda, mahalli idarelerin mali yapılarına ilişkin genel değerlendirmelere de yer verilir. Cumhurbaşkanlığı (1), genel faaliyet raporunu kamuoyuna açıklar ve bir örneğini Sayıştaya gönderir.
+Sayıştay, mahalli idarelerin raporları hariç idare faaliyet raporlarını, mahalli idareler genel faaliyet raporunu ve genel faaliyet raporunu, dış denetim sonuçlarını dikkate alarak görüşlerini de belirtmek suretiyle Türkiye Büyük Millet Meclisine sunar. Türkiye Büyük Millet Meclisi bu raporlar ve değerlendirmeler çerçevesinde, kamu kaynağının elde edilmesi ve kullanılmasına ilişkin olarak kamu idarelerinin yönetim ve hesap verme sorumluluklarını görüşür. Bu görüşmelere üst yönetici veya görevlendireceği yardımcısının ilgili bakanla birlikte katılması zorunludur.
+İdare faaliyet raporu, ilgili idare hakkındaki genel bilgilerle birlikte; kullanılan kaynakları, bütçe hedef ve gerçekleşmeleri ile meydana gelen sapmaların nedenlerini, varlık ve yükümlülükleri ile yardım yapılan birlik, kurum ve kuruluşların faaliyetlerine ilişkin bilgileri de kapsayan mali bilgileri; stratejik plan ve performans programı uyarınca yürütülen faaliyetleri ve performans bilgilerini içerecek şekilde düzenlenir.
+Bu raporlarda yer alacak hususlar, raporların hazırlanması, ilgili idarelere verilmesi, kamuoyuna açıklanması ve bu işlemlere ilişkin süreler ile diğer usul ve esaslar, İçişleri Bakanlığı ve (1) Sayıştayın görüşü alınarak Cumhurbaşkanı (1) tarafından çıkarılacak yönetmelikle belirlenir.
+(1) Maliye Bakanlığına İbareleri 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Cumhurbaşkanlığına şeklinde değişmiş ve Maliye Bakanlığınca İbaresi Cumhurbaşkanlığı tarafından şeklinde değişmiş ve Maliye Bakanlığı İbareleri Cumhurbaşkanlığı şeklinde ve Cumhurbaşkanı şeklinde değişmiş olup Üstü Çizili İbare madde metninden çıkarılmıştır.
+(2) İçişleri İbaresi 10.12.2018 Tarih ve 30621 Sayılı Resmi Gazetede Yayımlanan 7153 Sayılı Kanunun 28. Maddesi ile Çevre ve Şehircilik şeklinde değişmiştir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ALTINCI BÖLÜM
+Faaliyet Raporları ve Kesin Hesap
+Madde 0042: Kesin hesap kanunu
+Türkiye Büyük Millet Meclisi, merkezi yönetim bütçe kanununun uygulama sonuçlarını onama yetkisini kesin hesap kanunuyla kullanır.
+Kesin hesap kanunu tasarısı, muhasebe kayıtları dikkate alınarak, merkezi yönetim bütçe kanununun şekline uygun olarak Maliye Bakanlığınca hazırlanır. Bu tasarı, bir yıllık uygulama sonuçlarını karşılaştırmalı olarak gösteren değerlendirmeleri içeren gerekçesiyle birlikte izleyen mali yılın Haziran ayı sonuna kadar Bakanlar Kurulunca Türkiye Büyük Millet Meclisine sunulur ve bir örneği Sayıştaya gönderilir.
+Kesin hesap kanun tasarısının ekinde;
+Genel mizan,
+Bütçe gelirleri kesin hesap cetveli ve açıklaması,
+Bütçe giderleri kesin hesap cetvelleri ve açıklaması,
+Bütçe gelir ve giderlerinin iller ve idareler itibarıyla dağılımı,
+Devlet borçları ve Hazine garantilerine ilişkin cetveller,
+Yılı içerisinde silinen kamu alacakları cetveli,
+(g Bendi 28.12.2007 tarihli 26740/1. Mükerrer Resmi Gazetede yayımlanan 5724 Sayılı Kanun 28. Madde hükmüyle 2008 yılında uygulanamaz.) (24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-8 maddesiyle eklenmiştir. Yürürlük: 01.01.2006) Mal yönetim hesabı icmal cetvelleri,
+Maliye Bakanlığı tarafından gerekli görülen diğer belgeler,
+Yer alır.
+Merkezi yönetim kapsamındaki kamu idareleri (1) bütçelerinin kesin hesabının düzenlenmesine ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.
+İdarelerin faaliyet raporları, genel faaliyet raporu, dış denetim genel değerlendirme raporu ve kesin hesap kanunu tasarısı ile merkezi yönetim bütçe kanunu tasarısı birlikte görüşülür. Ancak, bu raporlar ile genel uygunluk bildirimi Türkiye Büyük Millet Meclisi komisyonlarında öncelikle görüşülür.
+Mahalli idare bütçeleri ile sosyal güvenlik kurumları bütçelerinin uygulama sonuçlarının kesin hesaba bağlanması, ilgili kanunlarındaki hükümlere göre yapılır.
+(1) (Bu kısımda yer alan Kamu idareleri ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-11 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.)
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ALTINCI BÖLÜM
+Faaliyet Raporları ve Kesin Hesap
+Madde 0043: Genel uygunluk bildirimi
+Sayıştay, merkezi yönetim kapsamındaki kamu idareleri için düzenleyeceği genel uygunluk bildirimini, kesin hesap kanun tasarısının verilmesinden başlayarak en geç yetmiş beş gün içinde Türkiye Büyük Millet Meclisine sunar.
+Genel uygunluk bildirimi; dış denetim raporları, idare faaliyet raporları ve genel faaliyet raporu dikkate alınarak hazırlanır.
+Kesin hesap kanunu tasarısı ve genel uygunluk bildiriminin Türkiye Büyük Millet Meclisine verilmiş olması, ilgili yıla ait Sayıştayca sonuçlandırılmamış denetimleri önlemez ve hesapların kesin hükme bağlandığı anlamına gelmez.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ KISIM
+Taşınır ve Taşınmazlar
+Madde 0044: Taşınır ve taşınmaz işlemleri
+Genel yönetim kapsamındaki kamu idarelerince, taşınır ve taşınmaz edinilmesi, yönetilmesi, trampası, elden çıkarılması, ecrimisilin tahsil ve takibinde izlenecek yöntem, Devletin hüküm ve tasarrufu altındaki yerlerin yönetimi ve korunması, işgalli malların tahliyesi gibi hususlar ilgili kanunlarında düzenlenir. Bu malların kaydı ile taşınırların muhafazası, kullanımı, mal yönetim hesabının verilmesi ve mal yönetim sorumlularıyla bunlar adına görev yapacak olanların belirlenmesine ilişkin usul ve esaslar, Maliye Bakanlığınca hazırlanacak ve Bakanlar Kurulu tarafından çıkarılacak yönetmeliklerle belirlenir. (1)
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-12 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı (2) ile Milli İstihbarat Teşkilatı ve Emniyet Genel Müdürlüğünün taşınırlarının kayda alınması ile bunların yönetim ve iç denetimine ilişkin usul ve esaslar Milli Savunma, İçişleri ve Maliye bakanlıklarınca birlikte hazırlanarak Bakanlar Kurulunca yürürlüğe konulacak yönetmelikle belirlenir.
+(1) (Bu kısımda yer alan Bu malların kaydı ile mal yönetim hesabının verilmesine ilişkin usul ve esaslar Maliye Bakanlığınca hazırlanacak ve Bakanlar Kurulu tarafından çıkarılacak yönetmelikle belirlenir. şeklindeki cümle; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-12 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.)
+(2) Türk Silahlı Kuvvetleri (Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı dahil) İbaresi 22.11.2016 Tarih ve 29896 Sayılı Resmi Gazetede Yayımlanan 678 Sayılı Khk ile [7071/10 md. ile Aynen Kabul] Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı şeklinde değişmiştir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ KISIM
+Taşınır ve Taşınmazlar
+Madde 0045: Taşınır ve taşınmaz edinme
+Genel yönetim kapsamındaki kamu idareleri, kamu hizmetlerinin zorunlu kıldığı durumlarda gereken nicelikte ve nitelikte taşınır ve taşınmazları, yurt içinde veya yurt dışında, bedellerini peşin veya taksitle ödeyerek veya finansal kiralama suretiyle edinebilirler. Kamu idareleri, taşınmaz satın alma veya kamulaştırma işlemlerini yetki devri yoluyla bir başka kamu idaresi eliyle yürütebilir. Genel bütçe kapsamındaki kamu idarelerinin edindiği taşınmazlar Hazine adına, diğer kamu idarelerine ait taşınmazlar ise tüzel kişilikleri adına tapu sicilinde tescil olunur. Hazine adına tescil edilen taşınmazlar Maliye Bakanlığı tarafından yönetilir. Bu tescil işlemleri, adına tescil yapılan idarenin taşınmazın bulunduğu yerdeki ilgili birimine bildirilir.
+Kamu idarelerince üretilen malların kendi tüketimlerinde kullanılması halinde bunların bedelleri, rayiç bedel üzerinden ilgili ödenek tertibine gider ve karşılığı gelir kaydedilir.
+Kamu idareleri, ihtiyaç fazlası taşınırları ile görmekle yükümlü olduğu kamu hizmetlerinde kullanılacağına ve amacına uygun kullanılmaması halinde geri alınacağına dair tapu kütüğüne şerh konulması kaydıyla taşınmazlarını diğer kamu idarelerine bedelsiz olarak devredebilir. Devredilmeyecek taşınır ve taşınmazlar ile devir ve kayıt işlemlerine ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.
+Kamu idareleri arasındaki taşınmazların mülkiyetine ilişkin uyuşmazlıklar, görevli mahkemelerce çözümlenir.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ KISIM
+Taşınır ve Taşınmazlar
+Madde 0046: Taşınır ve taşınmaz satışı
+Genel bütçe kapsamındaki kamu idarelerinin her türlü taşınır ve taşınmazlarının satışına Maliye Bakanlığı yetkilidir. Satış bedelleri genel bütçeye gelir kaydedilir. Diğer kamu idarelerine ait taşınır ve taşınmazların elden çıkarılması özel kanunlarında belirtilen yetkili organlarının kararıyla mümkündür.
+Merkezi yönetim kapsamındaki kamu idarelerinin taşınmazlarından değeri her yıl merkezi yönetim bütçe kanununda belirtilen sınırın üzerinde olanlar, Bakanlar Kurulu kararıyla satılır.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ KISIM
+Taşınır ve Taşınmazlar
+Madde 0047: Taşınmaz tahsisi
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 4 üncü maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Kamu idareleri, kanunlarında belirtilen kamu hizmetlerini yerine getirebilmek için mülkiyetlerindeki taşınmazlarla Devletin hüküm ve tasarrufu altındaki yerleri, birbirlerine ve köy tüzel kişiliklerine bedelsiz olarak tahsis edebilirler. Tahsis edilen taşınmaz, amaç dışı kullanılamaz.
+Hazinenin özel mülkiyetindeki taşınmazlarla Devletin hüküm ve tasarrufu altındaki yerleri tahsis etmeye, kamu ihtiyaçları için gerekli olmayanların tahsisini kaldırmaya Maliye Bakanlığı; diğer taşınmazları tahsis etmeye ve tahsisini kaldırmaya ise maliki kamu idaresi yetkilidir. Bu maddenin uygulanmasına ilişkin esas ve usuller Maliye Bakanlığınca çıkarılacak yönetmelikle belirlenir.
+Kanunlardaki özel hükümler saklıdır.
+İKİNCİ KISIM
+Kamu İdare Bütçeleri
+ÜÇÜNCÜ KISIM
+Taşınır ve Taşınmazlar
+Madde 0048: Mal yönetiminde etkililik ve sorumluluk
+Kamu idareleri, taşınırların yönetimi, kaydı, muhafazası ve kullanımından sorumludurlar. Taşınırların özelliğinden veya olağan kullanımından kaynaklanan yıpranma ile usulüne uygun olarak belirlenen firelerden dolayı sorumluluk aranmaz.
+Kullanılmak üzere taşınır teslim edilen görevliler, taşınırın korunmasından ve taşınıra verilen zararlardan sorumludur. Kamu idareleri, verilen zararların sorumlularına ödettirilmesini sağlamakla yükümlüdür.
+Kamu idarelerine ait malları edinme, kiralama, tahsis, yönetim, kullanma ve elden çıkarma işlemleri, mevzuatında öngörülen kurallar dahilinde hizmetin amacına uygun olarak verimlilik ve tutumluluk ilkesine göre yapılır. Bu ilkeye aykırı eylem ve işlemlerden doğacak zararlardan, malların yönetimi veya kullanılması hususunda yetki verilenler sorumludur.
+DÖRDÜNCÜ KISIM
+Kamu Hesapları ve Mali İstatistikler
+BİRİNCİ BÖLÜM
+Kamu Hesapları
+Madde 0049: Muhasebe sistemi
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 5 inci maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.)
+Muhasebe sistemi; karar, kontrol ve hesap verme süreçlerinin etkili çalışmasını sağlayacak ve mali raporların düzenlenmesi ile kesin hesabın çıkarılmasına temel olacak şekilde kurulur ve yürütülür.
+Kamu hesapları, kamu idarelerinin gelir, gider ve varlıkları ile mali sonuç doğuran ve öz kaynağın artmasına veya azalmasına neden olan her türlü işlemlerle garantilerin ve yükümlülüklerin belirlenmiş bir düzen içinde hesaplara kaydedilerek, yönetim ve denetim yetkilileriyle kamuoyuna gerekli bilgilerin sağlanması amacıyla tutulur.
+Genel yönetim kapsamındaki kamu idarelerinde uygulanacak muhasebe ve raporlama standartları, uluslararası standartlara uygun olarak Hazine ve Maliye Bakanlığı bünyesinde; Sayıştay Başkanlığı, Hazine ve Maliye Bakanlığı (1) ve diğer ilgili kuruluş temsilcilerinin katılımıyla oluşturulacak olan Devlet Muhasebesi Standartları Kurulu tarafından belirlenir. Bu standartlar Resmi Gazetede yayımlanır. Kurulun yapısı, çalışma usul ve esasları ile diğer hususlar Maliye Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+Bu Kurulda görevlendirilenlerin asli görevleri devam eder. Başkan ve üyelere, ayda ikiden fazla olmamak üzere her toplantı günü için (3000) gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutar üzerinden toplantı ücreti ödenir.
+(Yürürlük: 01.01.2007) Genel yönetim kapsamındaki kamu idarelerince uygulanacak çerçeve hesap planı ile düzenlenecek raporların şekil, süre ve türlerine ilişkin hususlar, Kurul tarafından belirlenen muhasebe ve raporlama standartları çerçevesinde, Cumhurbaşkanı tarafından çıkarılan (1) yönetmelikle düzenlenir.
+(Yürürlük: 01.01.2007) Muhasebe işlemlerine, hesap planlarına ve işlemlerin muhasebeleştirilmesinde kullanılacak belgelerin şekil ve türlerine ilişkin düzenleme, beşinci fıkrada belirtilen yönetmeliğe uygun olarak, ilgili idarelerin görüşü alınmak suretiyle merkezi yönetim kapsamındaki kamu idareleri için Hazine ve Maliye Bakanlığınca (1); sosyal güvenlik kurumları için ilgili idarelerce, mahalli idareler için ise İçişleri ile Çevre ve Şehircilik bakanlıklarınca (2) Hazine ve Maliye Bakanlığının (1) uygun görüşü alınmak suretiyle hazırlanır. Genel yönetim kapsamındaki kamu idarelerinin detaylı hesap planlarına ilişkin hususlar Hazine ve Maliye Bakanlığınca (1) belirlenir.
+(1) Maliye Bakanlığı bünyesinde; Sayıştay Başkanlığı, Maliye Bakanlığı, Devlet Planlama Teşkilâtı Müsteşarlığı, Hazine Müsteşarlığı İbaresi 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 213. Maddesi ile Hazine ve Maliye Bakanlığı bünyesinde; Sayıştay Başkanlığı, Hazine ve Maliye Bakanlığı şeklinde değişmiş ve ilgili idarelerin de görüşü alınarak Maliye Bakanlığınca belirlenir ve Bakanlar Kurulu kararıyla yürürlüğe konulacak İbaresi Cumhurbaşkanı tarafından çıkarılan şeklinde ve Maliye Bakanlığınca İbareleri Hazine ve Maliye Bakanlığınca şeklinde ve Maliye Bakanlığının İbaresi Hazine ve Maliye Bakanlığının şeklinde değişmiştir.
+(2) İçişleri Bakanlığınca İbaresi 10.12.2018 Tarih ve 30621 Sayılı Resmi Gazetede Yayımlanan 7153 Sayılı Kanunun 28. Maddesi ile İçişleri ile Çevre ve Şehircilik bakanlıklarınca şeklinde değişmiştir.
+DÖRDÜNCÜ KISIM
+Kamu Hesapları ve Mali İstatistikler
+BİRİNCİ BÖLÜM
+Kamu Hesapları
+Madde 0050: Kayıt zamanı (...) *
+Bir ekonomik değer yaratıldığında, başka bir şekle dönüştürüldüğünde, mübadeleye konu edildiğinde, el değiştirdiğinde veya yok olduğunda muhasebeleştirilir. Bütün mali işlemlerin muhasebeleştirilmesi ve her muhasebe kaydının belgeye dayanması şarttır.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-6 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-6 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+(*) (Bu kısımda yer alan ve kullanılacak belgeler ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-6 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+DÖRDÜNCÜ KISIM
+Kamu Hesapları ve Mali İstatistikler
+BİRİNCİ BÖLÜM
+Kamu Hesapları
+Madde 0051: Kamu gelir ve giderlerinin yılı ve mahsup dönemi
+Kamu gelir ve giderleri tahakkuk ettirildikleri mali yılın hesaplarında gösterilir.
+(Fıkra 11.07.2012 tarih ve 28350 sayılı Resmi Gazetede yayımlanan 6338 Sayılı Kanun ile Eklenmiştir) (Yürürlük : 01.01.2013) Tahakkuk ettirilecek giderler Devlet muhasebesi kayıtlarında ekonomik sınıflandırmanın dördüncü düzeyini de kapsayacak şekilde gösterilir.
+Bütçe gelirleri tahsil edildiği, bütçe giderleri ise ödendiği yılda muhasebeleştirilir.
+Kamu hesapları mali yıl esasına göre tutulur. Mali yılın bitimine kadar fiilen yapılmış olan ödemelerden mahsup edilememiş olanların, ödenekleri saklı tutulmak suretiyle, mahsup işlemleri mali yılın bitimini izleyen bir ay içinde yapılabilir. Zorunlu hallerde bu süre, Maliye Bakanlığı tarafından bütçe giderleri için bir ay, diğer işlemlerde iki ayı geçmemek üzere uzatılabilir.
+DÖRDÜNCÜ KISIM
+Kamu Hesapları ve Mali İstatistikler
+İKİNCİ BÖLÜM
+Mali İstatistikler
+Madde 0052: Kapsam, temel ilkeler ve kurumsal çevre
+Mali istatistikler, genel yönetim kapsamındaki kamu idarelerinin mali işlemlerini kapsar.
+Mali istatistikler, uluslararası standartlara uygun olarak bütünlük, güvenilirlik, kullanışlılık, yöntemsel geçerlilik ve ulaşılabilirlik ilkeleri çerçevesinde; yeterli mesleki eğitimi almış personel tarafından muhasebe kayıtlarındaki verilere dayanılarak ve istatistiksel yöntemler kullanılarak hazırlanır.
+Mali istatistiklerin hazırlanmasında kamu idarelerinin yöneticileri uygun kurumsal çevrenin oluşturulması için gerekli önlemleri alır.
+(Fıkra 06.08.2008 tarih ve 26959 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) Bu Kanunda yer alan genel yönetim kapsamındaki kamu idareleri tanımına bağlı kalmaksızın; mali istatistiklerin derlenmesi amacıyla, uluslararası sınıflandırmalara uygun olarak, Devlet Planlama Teşkilatı Müsteşarlığı, Hazine Müsteşarlığı, Türkiye Cumhuriyet Merkez Bankası ve Türkiye İstatistik Kurumunun da görüşünü almak suretiyle, ayrıca genel yönetim sektörü adıyla bir kapsam belirlemeye ve bu kapsamdaki kamu idarelerinin mali verilerini almaya Maliye Bakanlığı yetkilidir.
+DÖRDÜNCÜ KISIM
+Kamu Hesapları ve Mali İstatistikler
+İKİNCİ BÖLÜM
+Mali İstatistikler
+Madde 0053: Mali istatistiklerin hazırlanması ve açıklanması
+Genel yönetim kapsamındaki kamu idarelerine ait mali istatistikler, Maliye Bakanlığınca derlenir. Merkezi yönetim kapsamı dışındaki kamu idareleri mali istatistiklerini belirlenmiş ilkelere uygun olarak hazırlar ve belirlenen süreler içinde Maliye Bakanlığına gönderir.
+Merkezi yönetim kapsamındaki kamu idarelerine ait mali istatistikler, Maliye Bakanlığınca aylık olarak yayımlanır. Sosyal güvenlik kurumları ve mahalli idarelere ait mali istatistikler ile merkezi yönetim kapsamındaki kamu idarelerine ait mali istatistikler Maliye Bakanlığınca birleştirilerek, genel yönetim kapsamındaki kamu idarelerine ait mali istatistikler elde edilir ve üçer aylık dönemler itibarıyla yayımlanır.
+Mali istatistiklerin anlaşılabilir ve kullanıcılar için kolayca ulaşılabilir olması esastır.
+(Fıkra 06.08.2008 tarih ve 26959 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) 52 nci maddenin son fıkrasına göre belirlenen kamu idarelerinden, mali istatistiklerine esas verilerini süresinde göndermeyenlere Maliye Bakanlığınca bir ay ek süre verilir. Ek süre sonunda da verilerin gönderilmemesi halinde, Maliye Bakanlığının talebi üzerine, ilgili kamu idaresinin üst yöneticileri tarafından mali hizmetler birimi yöneticisi ile muhasebe yetkilisine, her türlü aylık, ödenek, zam ve tazminat dâhil yapılan bir aylık net ödemeler toplamı tutarında idari para cezası verilir. İdari para cezası uygulanmış olması bilgi verme yükümlülüğünü ortadan kaldırmaz. İdari para cezaları, bu Kanunun 73 üncü maddesi hükümlerine göre tahsil edilir.
+DÖRDÜNCÜ KISIM
+Kamu Hesapları ve Mali İstatistikler
+İKİNCİ BÖLÜM
+Mali İstatistikler
+Madde 0054: Mali istatistiklerin değerlendirilmesi
+Bir yıla ait mali istatistikler izleyen yılın Mart ayı içinde; hazırlanma, yayımlanma, doğruluk, güvenilirlik ve önceden belirlenmiş standartlara uygunluk bakımından Sayıştay tarafından değerlendirilir ve bu amaçla düzenlenen değerlendirme raporu Türkiye Büyük Millet Meclisine ve Maliye Bakanlığına gönderilir. Bu raporda yer alan değerlendirmelere ilişkin olarak Maliye Bakanı gerekli önlemleri alır.
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0055: İç kontrolün tanımı
+(1. Fıkranın: 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-13 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) İç kontrol; idarenin amaçlarına, belirlenmiş politikalara ve mevzuata uygun olarak faaliyetlerin etkili, ekonomik ve verimli bir şekilde yürütülmesini, varlık ve kaynakların korunmasını, muhasebe kayıtlarının doğru ve tam olarak tutulmasını, mali bilgi ve yönetim bilgisinin zamanında ve güvenilir olarak üretilmesini sağlamak üzere idare tarafından oluşturulan organizasyon, yöntem ve süreçle iç denetimi kapsayan mali ve diğer kontroller bütünüdür.
+Görev ve yetkileri çerçevesinde, mali yönetim ve iç (1) kontrol süreçlerine ilişkin standartlar ve yöntemler Maliye Bakanlığınca, iç denetime ilişkin standartlar ve yöntemler ise İç Denetim Koordinasyon Kurulu tarafından belirlenir, geliştirilir ve uyumlaştırılır. Bunlar ayrıca, sistemlerin koordinasyonunu sağlar ve kamu idarelerine rehberlik hizmeti verir.
+(1) (Bu kısımda yer alan harcama öncesi ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-13 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.)
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0056: İç kontrolün amacı
+İç kontrolün amacı;
+Kamu gelir, gider, varlık ve yükümlülüklerinin etkili, ekonomik ve verimli bir şekilde yönetilmesini,
+Kamu idarelerinin kanunlara ve diğer düzenlemelere uygun olarak faaliyet göstermesini,
+Her türlü mali karar ve işlemlerde usulsüzlük ve yolsuzluğun önlenmesini,
+Karar oluşturmak ve izlemek için düzenli, zamanında ve güvenilir rapor ve bilgi edinilmesini,
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-14 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Varlıkların kötüye kullanılması ve israfını önlemek ve kayıplara karşı korunmasını,
+Sağlamaktır.
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0057: Kontrolün yapısı ve işleyişi
+(1. Fıkranın: 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-15 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Kamu idarelerinin mali yönetim ve kontrol sistemleri; harcama birimleri, muhasebe ve mali hizmetler ile ön mali kontrol ve iç denetimden oluşur.
+Yeterli ve etkili bir kontrol sisteminin oluşturulabilmesi için; mesleki değerlere ve dürüst yönetim anlayışına sahip olunması, mali yetki ve sorumlulukların bilgili ve yeterli yöneticilerle personele verilmesi, belirlenmiş standartlara uyulmasının sağlanması, mevzuata aykırı faaliyetlerin önlenmesi ve kapsamlı bir yönetim anlayışı ile uygun bir çalışma ortamının ve saydamlığın sağlanması bakımından ilgili idarelerin üst yöneticileri ile diğer yöneticileri tarafından görev, yetki ve sorumluluklar göz önünde bulundurulmak suretiyle gerekli önlemler alınır.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-7 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0058: Ön mali kontrol
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 6 ncı maddesiyle başlığı ile birlikte değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Ön mali kontrol, harcama birimlerinde işlemlerin gerçekleştirilmesi aşamasında yapılan kontroller ile mali hizmetler birimi tarafından yapılan kontrolleri kapsar.
+Ön mali kontrol süreci, mali karar ve işlemlerin hazırlanması, yüklenmeye girişilmesi, iş ve işlemlerin gerçekleştirilmesi ve belgelendirilmesinden oluşur.
+Kamu idarelerinde ön mali kontrol görevi, yönetim sorumluluğu çerçevesinde yürütülür.
+Harcama birimlerinde işlemlerin gerçekleştirilmesi aşamasında yapılacak asgari kontroller, mali hizmetler birimi tarafından ön mali kontrole tabi tutulacak mali karar ve işlemlerin usul ve esasları ile ön mali kontrole ilişkin standart ve yöntemler Maliye Bakanlığınca belirlenir. Kamu idareleri, bu standart ve yöntemlere aykırı olmamak şartıyla bu konuda düzenleme yapabilir.
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0059: Mali kontrol yetkilisinin nitelikleri ve atanması
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-8 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0060: Mali hizmetler birimi
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 7 nci maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Kamu idarelerinde aşağıda sayılan görevler, mali hizmetler birimi tarafından yürütülür:
+İdarenin stratejik plan ve performans programının hazırlanmasını koordine etmek ve sonuçlarının konsolide edilmesi çalışmalarını yürütmek.
+İzleyen iki yılın bütçe tahminlerini de içeren idare bütçesini, stratejik plan ve yıllık performans programına uygun olarak hazırlamak ve idare faaliyetlerinin bunlara uygunluğunu izlemek ve değerlendirmek.
+Mevzuatı uyarınca belirlenecek bütçe ilke ve esasları çerçevesinde, ayrıntılı harcama programı hazırlamak ve hizmet gereksinimleri dikkate alınarak ödeneğin ilgili birimlere gönderilmesini sağlamak.
+Bütçe kayıtlarını tutmak, bütçe uygulama sonuçlarına ilişkin verileri toplamak, değerlendirmek ve bütçe kesin hesabı ile mali istatistikleri hazırlamak.
+İlgili mevzuatı çerçevesinde idare gelirlerini tahakkuk ettirmek, gelir ve alacaklarının takip ve tahsil işlemlerini yürütmek.
+Genel bütçe kapsamı dışında kalan idarelerde muhasebe hizmetlerini yürütmek.
+Harcama birimleri tarafından hazırlanan birim faaliyet raporlarını da esas alarak idarenin faaliyet raporunu hazırlamak.
+İdarenin mülkiyetinde veya kullanımında bulunan taşınır ve taşınmazlara ilişkin icmal cetvellerini düzenlemek.
+İdarenin yatırım programının hazırlanmasını koordine etmek, uygulama sonuçlarını izlemek ve yıllık yatırım değerlendirme raporunu hazırlamak.
+İdarenin, diğer idareler nezdinde takibi gereken mali iş ve işlemlerini yürütmek ve sonuçlandırmak.
+Mali kanunlarla ilgili diğer mevzuatın uygulanması konusunda üst yöneticiye ve harcama yetkililerine gerekli bilgileri sağlamak ve danışmanlık yapmak.
+Ön mali kontrol faaliyetini yürütmek.
+İç kontrol sisteminin kurulması, standartlarının uygulanması ve geliştirilmesi konularında çalışmalar yapmak.
+Mali konularda üst yönetici tarafından verilen diğer görevleri yapmak.
+Alım, satım, yapım, kiralama, kiraya verme, bakım-onarım ve benzeri mali işlemlerden; idarenin tamamını ilgilendirenler destek hizmetlerini yürüten birim, sadece harcama birimlerini ilgilendirenler ise harcama birimleri tarafından gerçekleştirilir. Ancak, harcama yetkililiği görevi uhdesinde kalmak şartıyla, harcama birimlerinin talebi ve üst yöneticinin onayıyla bu işlemler destek hizmetlerini yürüten birim tarafından yapılabilir.
+Mali hizmetler biriminin yapısı teşkilat kanunlarında gösterilir. Mali hizmetler birimlerinin çalışma usul ve esasları; idarelerin teşkilat yapısı dikkate alınmak ve stratejik planlama, bütçe ve performans programı, muhasebe-kesin hesap ve raporlama ile iç kontrol fonksiyonlarının ayrı alt birimler tarafından yürütülebilmesini sağlayacak şekilde Maliye Bakanlığınca hazırlanarak Bakanlar Kurulunca çıkarılacak yönetmelikle belirlenir.
+Harcama yetkilisi ile muhasebe yetkilisi görevi aynı kişide birleşemez. Mali hizmetler biriminde ön mali kontrol görevini yürütenler mali işlem sürecinde görev alamazlar.
+(Fıkra 04.05.2007 tarih ve 26512 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.)
+İdarelerin malî hizmetler birimlerinde malî hizmetler uzman yardımcısı ve malî hizmetler uzmanı çalıştırılabilir. Malî hizmetler uzman yardımcısı kadrolarına veya pozisyonlarına atanabilmek için 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılan genel şartlara ilave olarak; a) En az dört yıllık lisans eğitimi veren hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler fakültelerinden veya bunlara denkliği yetkili makamlarca kabul edilen yurt içi veya yurt dışındaki öğretim kurumlarından mezun olmak, b) Yapılacak özel yarışma sınavında başarılı olmak, c) Sınavın yapıldığı yılın başı itibarıyla 30 yaşını doldurmamış olmak, şartları aranır. Özel yarışma sınavı, Maliye Bakanlığı tarafından Öğrenci Seçme ve Yerleştirme Merkezine yaptırılacak yazılı sınav ve Maliye Bakanlığınca yapılacak sözlü sınavdan oluşur. Özel yarışma sınavında başarılı olanlar, ÖSYM tarafından başarı sırası ve yaptıkları tercihler dikkate alınarak belirlenir ve bunlar idarelerde malî hizmetler uzman yardımcısı kadro veya pozisyonlarına atanırlar. Bu kadro veya pozisyonlara atananlar en az üç yıl çalışmak ve başarılı olmak şartıyla, açılacak yeterlik sınavına girme hakkını kazanırlar. Maliye Bakanlığınca yapılacak yeterlik sınavında başarılı olanlar malî hizmetler uzmanı kadro veya pozisyonlarına atanırlar. Malî hizmetler uzman yardımcılığı döneminde veya yeterlik sınavında başarılı olamayanlar, istihdam şekline göre bulundukları kamu idarelerinde durumlarına uygun kadro veya pozisyonlara atanırlar. Özel yarışma sınavına katılacak adayların belirlenmesi, sınavların yapılması, atama ve yerleştirilmeleri, yetiştirilmeleri, yeterlik sınavları ile çalışma usûl ve esasları Maliye Bakanlığınca çıkarılacak yönetmelikle düzenlenir. Malî hizmetler uzmanı kadrolarına atandıktan sonra en az üç yıl süreyle atandıkları idarelerde söz konusu kadrolarda 657 sayılı Devlet Memurları Kanununa göre görev yapanlar, kendilerinin isteği ve idarelerinin muvafakati ile başka bir kamu idaresinin aynı unvanlı kadrolarına atanabilirler.
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0061: Muhasebe hizmeti ve muhasebe yetkilisinin yetki ve sorumlulukları *
+(1. Fıkranın: 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-16 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Muhasebe hizmeti; gelirlerin ve alacakların tahsili, giderlerin hak sahiplerine ödenmesi, para ve parayla ifade edilebilen değerler ile emanetlerin alınması, saklanması, ilgililere verilmesi, gönderilmesi ve diğer tüm mali işlemlerin kayıtlarının yapılması ve raporlanması işlemleridir. Bu işlemleri yürütenler muhasebe yetkilisidir. Memuriyet kadro ve unvanlarının muhasebe yetkilisi niteliğine etkisi yoktur.
+Muhasebe yetkilisi, bu hizmetlerin yapılmasından ve muhasebe kayıtlarının usulüne uygun, saydam ve erişilebilir şekilde tutulmasından sorumludur. 09.12.1994 tarihli ve 4059 sayılı Kanun hükümleri saklı kalmak kaydıyla, genel bütçe kapsamındaki kamu idarelerinin muhasebe hizmetleri Maliye Bakanlığınca yürütülür. Muhasebe yetkilileri gerekli bilgi ve raporları düzenli olarak kamu idarelerine verirler.
+Muhasebe yetkilileri ödeme aşamasında, ödeme emri belgesi ve eki belgeler üzerinde;
+Yetkililerin imzasını,
+Ödemeye ilişkin ilgili mevzuatında sayılan belgelerin tamam olmasını,
+Maddi hata bulunup bulunmadığını,
+Hak sahibinin kimliğine ilişkin bilgileri,
+Kontrol etmekle yükümlüdür.
+Muhasebe yetkilileri, ilgili mevzuatında düzenlenmiş belgeler dışında belge arayamaz. Yukarıda sayılan konulara ilişkin hata veya eksiklik bulunması halinde ödeme yapamaz. Belgesi eksik veya hatalı (1) olan ödeme emri belgeleri, düzeltilmek veya tamamlanmak üzere en geç bir iş günü içinde gerekçeleriyle birlikte harcama yetkilisine yazılı olarak gönderilir. Hataların düzeltilmesi veya eksikliklerin giderilmesi halinde ödeme işlemi gerçekleştirilir.
+Muhasebe yetkilileri işlemlerine ilişkin defter, kayıt ve belgeleri muhafaza eder ve denetime hazır bulundurur.
+Muhasebe yetkilileri, 34 üncü maddenin ikinci fıkrasındaki ödemeye ilişkin hükümler ile bu maddenin üçüncü fıkrasında belirtilen ödemeye ilişkin kontrol yükümlülüklerinden dolayı sorumludur. Muhasebe yetkililerinin bu Kanuna göre yapacakları kontrollere ilişkin sorumlulukları, görevleri gereği incelemeleri gereken belgelerle sınırlıdır.  (Cümle 06.08.2008 tarih ve 26959 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Muhasebe yetkililerinin görev ve yetkilerinin yardımcılarına devredilmesine, muhasebe yetkililerinin herhangi bir nedenle görevlerinden ayrılmalarında muhasebe hizmetlerinin yürütülmesine ilişkin düzenleme yapmaya ve sertifika sınavlarına girmeye hak kazanılması bakımından muhasebe yetkilisi yardımcısı eşiti görevleri belirlemeye Maliye Bakanlığı yetkilidir.
+Muhasebe yetkilisi adına ve hesabına para ve parayla ifade edilebilen değerleri geçici olarak almaya, vermeye ve göndermeye yetkili olanlar muhasebe yetkilisi mutemedidir. (2) Muhasebe yetkilisi mutemetleri (3) doğrudan muhasebe yetkilisine karşı sorumludur. Muhasebe yetkilisi mutemetlerinin (4) görevlendirilmeleri, yetkileri, denetimi, tutacakları defter ve belgeler ve diğer hususlara ilişkin usul ve esaslar Maliye Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+(*) (Muhasebe hizmetleri olan madde başlığı; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-16 maddesiyle, 01.01.2006 tarihinden geçerli olarak Muhasebe hizmeti ve muhasebe yetkilisinin yetki ve sorumlulukları şekilinde değiştirilmiş ve metne işlenmiştir.)
+(1) (Bu kısımda yer alan Mali kontrol yetkilisine de bildirilmek şartıyla, belgesi eksik veya hatalı ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-16 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.)
+(2) (Bu kısımda yer alan muhasebe mutemedidir. ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-16 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.)
+(3) (Bu kısımda yer alan Muhasebe mutemetleri ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-16 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.)
+(4) (Bu kısımda yer alan Muhasebe mutemetlerinin ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-16 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.)
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0062: Muhasebe yetkilisinin nitelikleri ve atanması
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 8 inci maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Muhasebe yetkilisi görevini yürütmek üzere atanacakların, 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilenler ile aşağıdaki şartları taşıması gerekir:
+En az dört yıllık yüksek öğrenim görmüş olmak.
+Kamu idarelerinin muhasebe hizmetlerinde en az dört yıl çalışmış olmak koşuluyla bu idarelerde muhasebe yetkilisi yardımcısı veya eşiti görevlerde bulunmak.
+Muhasebe yetkilisi sertifikası almış olmak.
+Son üç yıl içerisinde olumsuz sicil almamış olmak.
+Aylıktan kesme ve kademe ilerlemesinin durdurulması cezası almamış olmak.
+Görevin gerektirdiği bilgi ve temsil yeteneğine sahip olmak.
+Ancak, belde ve nüfusu 25.000 in altında olan ilçe belediyeleri ile mahalli idare birliklerinde muhasebe yetkilisi görevini yürütmek üzere atanacakların, yukarıdaki fıkranın (c), (d), (e) ve (f) bentlerinde belirtilen şartları taşımaları kaydıyla, en az lise mezunu olmaları ve kamu idarelerinin muhasebe hizmetlerinde en az dört yıl çalışmış olmaları yeterlidir.
+09.12.1994 tarihli ve 4059 sayılı Kanun hükümleri saklı kalmak kaydıyla genel bütçe kapsamındaki kamu idarelerinde muhasebe yetkilisi Maliye Bakanlığınca, diğer kamu idarelerinde ise üst yöneticiler tarafından atanır.
+Muhasebe yetkilisi olacak görevliler, Maliye Bakanlığınca görevin niteliği dikkate alınarak mesleki konularda eğitime tabi tutulur ve bu eğitimi başarıyla tamamlayanlara sertifika verilir.
+(Fıkra 06.08.2008 tarih ve 26959 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.) Muhasebe yetkilisi sertifika programına başvuru şartları, adayların eğitimi, eğitim süresi, sertifika sınavı, sertifika verilmesi, bu işlemlerin genel yönetim kapsamındaki kamu idareleri itibarıyla ayrı ayrı veya birlikte yapılması ile muhasebe yetkililerinin çalışma usul ve esasları, Maliye Bakanlığınca hazırlanan ve Bakanlar Kurulu tarafından yürürlüğe konulan yönetmelikle düzenlenir.
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0063: İç denetim
+İç denetim, kamu idaresinin çalışmalarına değer katmak ve geliştirmek için kaynakların ekonomiklik, etkililik ve verimlilik esaslarına göre yönetilip yönetilmediğini değerlendirmek ve rehberlik yapmak amacıyla yapılan bağımsız, nesnel güvence sağlama ve danışmanlık faaliyetidir. (1) Bu faaliyetler, idarelerin yönetim ve kontrol yapıları ile mali işlemlerinin risk yönetimi, yönetim ve kontrol süreçlerinin etkinliğini değerlendirmek ve geliştirmek yönünde sistematik, sürekli ve disiplinli bir yaklaşımla ve genel kabul görmüş standartlara uygun olarak gerçekleştirilir. (...) (2)
+İç denetim, iç denetçiler tarafından yapılır. (24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-10 maddesiyle eklenen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren cümle.) Kamu idarelerinin yapısı ve personel sayısı dikkate alınmak suretiyle, İç Denetim Koordinasyon Kurulunun uygun görüşü üzerine, doğrudan üst yöneticiye bağlı iç denetim birimi başkanlıkları kurulabilir.
+(1) (Bu kısımda yer alan ve nesnel güvence sağlayan danışmanlık faaliyetidir. ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-17 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.)
+(2) (Bu kısımda yer alan İç denetim, iç denetçiler tarafından yapılır. şeklindeki cümle; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-10 maddesiyle, 01.01.2006 tarihinden geçerli olarak 2 nci fıkra olarak teselsül ettirilmiştir.)
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0064: İç denetçinin görevleri
+Kamu idarelerinin yıllık iç denetim programı üst yöneticinin önerileri de dikkate alınarak iç denetçiler tarafından hazırlanır ve üst yönetici tarafından onaylanır.
+İç denetçi, aşağıda belirtilen görevleri yerine getirir:
+Nesnel risk analizlerine dayanarak kamu idarelerinin yönetim ve kontrol yapılarını değerlendirmek.
+Kaynakların etkili, ekonomik ve verimli kullanılması bakımından incelemeler yapmak ve önerilerde bulunmak.
+Harcama sonrasında yasal uygunluk denetimi yapmak.
+İdarenin harcamalarının, mali işlemlere ilişkin karar ve tasarruflarının, amaç ve politikalara, kalkınma planına, programlara, stratejik planlara ve performans programlarına uygunluğunu denetlemek (1) ve değerlendirmek.
+Mali yönetim ve kontrol süreçlerinin sistem denetimini yapmak ve bu konularda önerilerde bulunmak.
+Denetim sonuçları çerçevesinde iyileştirmelere yönelik önerilerde bulunmak.
+Denetim sırasında veya denetim sonuçlarına göre soruşturma açılmasını gerektirecek bir duruma rastlandığında, ilgili idarenin en üst amirine bildirmek.
+İç denetçi bu görevlerini, İç Denetim Koordinasyon Kurulu tarafından belirlenen ve uluslararası kabul görmüş kontrol ve denetim standartlarına uygun şekilde yerine getirir.
+İç denetçi, görevinde bağımsızdır ve iç denetçiye asli görevi dışında hiçbir görev verilemez ve yaptırılamaz.
+İç denetçiler, raporlarını doğrudan üst yöneticiye sunar. Bu raporlar üst yönetici tarafından değerlendirmek suretiyle gereği için ilgili birimler ile mali hizmetler birimine verilir. İç denetim raporları ile bunlar üzerine yapılan işlemler, üst yönetici tarafından en geç iki ay içinde İç Denetim Koordinasyon Kuruluna gönderilir.
+(1) (Bu kısımda yer alan izlemek ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-18 maddesiyle, 01.01.2006 tarihinden geçerli olarak metinde görüldüğü şekilde değiştirilmiştir.)
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0065: İç denetçinin nitelikleri ve atanması
+İç denetçi olarak atanacakların, 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilenler ile aşağıdaki şartları taşıması gerekir:
+İlgili kamu idaresinin özelliği de dikkate alınarak İç Denetim Koordinasyon Kurulu tarafından belirlenen alanlarda en az dört yıllık yüksek öğrenim görmüş olmak.
+Kamu idarelerinde denetim elemanı olarak en az beş yıl veya İç Denetim Koordinasyon Kurulunca belirlenen alanlarda en az sekiz yıl çalışmış olmak.
+Mesleğin gerektirdiği bilgi, ehliyet ve temsil yeteneğine sahip olmak.
+İç Denetim Koordinasyon Kurulunca gerekli görülen diğer şartları taşımak.
+Kamu idarelerine iç denetçi olarak atanacaklar, İç Denetim Koordinasyon Kurulu koordinatörlüğünde, Maliye Bakanlığınca iç denetim eğitimine tabi tutulur. Eğitim programı, iç denetçi adaylarına denetim, bütçe, mali kontrol, kamu ihale mevzuatı, muhasebe, personel mevzuatı, Avrupa Birliği mevzuatı ve mesleki diğer konularda yeterli bilgi verilecek şekilde hazırlanır. Bu eğitimi başarıyla tamamlayanlara sertifika verilir. İç denetçi adayları için uygulanacak eğitim programının süresi, konuları ve eğitim sonucunda yapılacak işlemler ile diğer hususlar İç Denetim Koordinasyon Kurulu tarafından hazırlanarak Maliye Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+İç denetçiler, bakanlıklar ve bağlı idarelerde, üst yöneticilerin teklifi üzerine Bakan, diğer idarelerde üst yöneticiler tarafından sertifikalı adaylar arasından atanır ve aynı usulle görevden alınır. (1) İç denetçilerin kamu idareleri itibarıyla sayıları, çalışma usul ve esasları ile diğer hususlar İç Denetim Koordinasyon Kurulunca hazırlanarak, Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca çıkarılacak yönetmelikle belirlenir.
+(1) (Bu kısımda yer alan İç denetçiler, üst yöneticiler tarafından, sertifikalı adaylar arasından atanır. şeklindeki cümle; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-19 maddesiyle metinde görüldüğü şekilde değiştirilmiştir.)
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0066: İç Denetim Koordinasyon Kurulu
+Maliye Bakanlığına bağlı İç Denetim Koordinasyon Kurulu, yedi üyeden oluşur. Üyelerden biri Başbakanın, biri Devlet Planlama Teşkilatı Müsteşarlığının bağlı olduğu Bakanın, biri Hazine Müsteşarlığının bağlı olduğu Bakanın, biri İçişleri Bakanının, başkanı dahil üçü Maliye Bakanının önerisi üzerine beş yıl süre ile Bakanlar Kurulu tarafından atanır. Bunların 67 nci maddede belirtilen görevleri yapabilecek niteliklere sahip olması şarttır. Maliye Bakanı tarafından önerilecek adaylardan birinin ekonomi, maliye, muhasebe, işletme alanlarından birinde doktora derecesine sahip öğretim üyeleri arasından olması şartı aranır. Üyeler, bu sürenin sonunda yeniden atanabilirler.
+Gerekli görülen hallerde İç Denetim Koordinasyon Kurulu, oy hakkı olmamak kaydıyla teknik yardım almak ve danışmak amacıyla uzman kişileri de toplantılara davet edebilir. Kurulun çalışma usul ve esasları ile diğer hususlar İç Denetim Koordinasyon Kurulunun önerisi üzerine Maliye Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+İç Denetim Koordinasyon Kurulunda görevlendirilenlerin asli görevleri devam eder. Başkan ve üyelerine, ayda dörtten fazla olmamak üzere her toplantı günü için (3000) gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutar üzerinden toplantı ücreti ödenir.
+BEŞİNCİ KISIM
+İç Kontrol Sistemi
+Madde 0067: İç Denetim Koordinasyon Kurulunun görevleri
+İç Denetim Koordinasyon Kurulu, kamu idarelerinin iç denetim sistemlerini izlemek, bağımsız ve tarafsız bir organ olarak hizmet vermek üzere aşağıdaki görevleri yürütür:
+İç denetime ilişkin denetim ve raporlama standartlarını belirlemek, denetim rehberlerini hazırlamak ve geliştirmek.
+Uluslararası uygulamalar ve denetim standartlarıyla uyumlu risk değerlendirme yöntemlerini geliştirmek.
+Kamu idarelerinin denetim birimleri ile işbirliğini sağlamak.
+Yolsuzluk veya usulsüzlüklerin ortadan kaldırılması için gerekli önlemlerin alınması konusunda önerilerde bulunmak.
+Risk içeren alanlarda iç denetçilere program dışı özel denetim yaptırılması için kamu idarelerine önerilerde bulunmak.
+İç denetçilerin eğitim programlarını düzenlemek.
+İç denetçiler ile üst yöneticiler arasında görüş ayrılığı bulunması halinde anlaşmazlığın giderilmesine yardımcı olmak.
+İdarelerin iç denetim raporlarını değerlendirerek sonuçlarını konsolide etmek suretiyle yıllık rapor halinde Maliye Bakanına sunmak ve kamuoyuna açıklamak.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-20 maddesiyle değişen şekli.) İşlem hacimleri ve personel sayıları dikkate alınmak suretiyle idareler ile ilçe ve belde belediyeleri için iç denetçi atanıp atanmayacağına karar vermek.
+İç denetçilerin atanmasına ilişkin diğer usulleri belirlemek.
+İç denetçilerin uyacakları etik kuralları belirlemek.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-11 maddesiyle eklenmiştir. Yürürlük: 01.01.2006) Kalite güvence ve geliştirme programını düzenlemek ve iç denetim birimlerini bu kapsamda değerlendirmek.
+ALTINCI KISIM
+Dış Denetim
+Madde 0068: Dış denetim
+Sayıştay tarafından yapılacak harcama sonrası dış denetimin amacı, genel yönetim kapsamındaki kamu idarelerinin hesap verme sorumluluğu çerçevesinde, yönetimin mali faaliyet, karar ve işlemlerinin; kanunlara, kurumsal amaç, hedef ve planlara uygunluk yönünden incelenmesi ve sonuçlarının Türkiye Büyük Millet Meclisine raporlanmasıdır.
+Dış denetim, genel kabul görmüş uluslararası denetim standartları dikkate alınarak;
+Kamu idaresi hesapları ve bunlara ilişkin belgeler esas alınarak, mali tabloların güvenilirliği ve doğruluğuna ilişkin mali denetimi ile kamu idarelerinin gelir, gider ve mallarına ilişkin mali işlemlerinin kanunlara ve diğer hukuki düzenlemelere uygun olup olmadığının tespiti,
+Kamu kaynaklarının etkili, ekonomik ve verimli olarak kullanılıp kullanılmadığının belirlenmesi, faaliyet sonuçlarının ölçülmesi ve performans bakımından değerlendirilmesi,
+Suretiyle gerçekleştirilir.
+Dış denetim sırasında, kamu idarelerinin iç denetçileri tarafından düzenlenen raporlar, talep edilmesi halinde Sayıştay denetçilerinin bilgisine sunulur.
+Denetimler sonucunda; ikinci fıkranın (a) ve (b) bentlerinde belirtilen hususlarda düzenlenen raporlar, idareler itibarıyla konsolide edilir ve bir örneği ilgili kamu idaresine verilerek üst yönetici tarafından cevaplandırılır. Sayıştay, denetim raporları ve bunlara verilen cevapları dikkate alarak düzenleyeceği dış denetim genel değerlendirme raporunu Türkiye Büyük Millet Meclisine sunar.
+Sayıştay tarafından hesapların hükme bağlanması; genel yönetim kapsamındaki kamu idarelerinin gelir, gider ve mal hesapları ile bu hesaplarla ilgili işlemlerinin yasal düzenlemelere uygun olup olmadığına karar verilmesidir.
+Dış denetim ve hesapların hükme bağlanmasına ilişkin diğer hususlar ilgili kanununda düzenlenir.
+ALTINCI KISIM
+Dış Denetim
+Madde 0069: Sayıştayın denetlenmesi *
+Türkiye Büyük Millet Meclisi ve* Sayıştayın denetlenmesi, her yıl Türkiye Büyük Millet Meclisi adına Türkiye Büyük Millet Meclisi Başkanlık Divanı tarafından görevlendirilen ve gerekli mesleki niteliklere sahip denetim elemanlarından oluşan bir komisyon tarafından, hesaplar ve bunlara ilişkin belgeler esas alınarak yapılır.
+(*) (Türkiye Büyük Millet Meclisi ve İbaresi 01.08.2010 Tarih ve 27659 Sayılı Resmi Gazetede Yayınlanan 6009 Sayılı Kanun ile Madde Başlığından ve madde metninden Çıkarılmıştır.)
+YEDİNCİ KISIM
+Yaptırımlar ve Yetkili Merciler
+Madde 0070: Ödenek üstü harcama
+Kamu zararı oluşturmamakla birlikte bütçelere, ayrıntılı harcama programlarına, serbest bırakma oranlarına aykırı olarak veya ödenek gönderme belgelerindeki ödenek miktarını aşan harcama talimatı veren harcama yetkililerine, her türlü aylık, ödenek, zam ve tazminat dahil yapılan bir aylık net ödemeler toplamının iki katı tutarına kadar para cezası verilir.
+YEDİNCİ KISIM
+Yaptırımlar ve Yetkili Merciler
+Madde 0071: Kamu zararı
+(Fıkra 04.05.2007 tarih ve 26512 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.)
+Kamu zararı; kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasıdır.
+Kamu zararının belirlenmesinde;
+İş, mal veya hizmet karşılığı olarak belirlenen tutardan fazla ödeme yapılması,
+Mal alınmadan, iş veya hizmet yaptırılmadan ödeme yapılması,
+Transfer niteliğindeki giderlerde, fazla veya yersiz ödemede bulunulması,
+İş, mal veya hizmetin rayiç bedelinden daha yüksek fiyatla alınması veya yaptırılması,
+İdare gelirlerinin tarh, tahakkuk veya tahsil işlemlerinin mevzuata uygun bir şekilde yapılmaması,
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-9 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+Mevzuatında öngörülmediği halde ödeme yapılması,
+Esas alınır.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-21 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Kontrol, denetim, inceleme, kesin hükme bağlama veya yargılama sonucunda tespit edilen kamu zararı, zararın oluştuğu tarihten itibaren ilgili mevzuatına göre hesaplanacak faiziyle birlikte ilgililerden tahsil edilir.
+Alınmamış para, mal ve değerleri alınmış; sağlanmamış hizmetleri sağlanmış; yapılmamış inşaat, onarım ve üretimi yapılmış veya bitmiş gibi gösteren gerçek dışı belge düzenlemek suretiyle kamu kaynağında bir artışa engel veya bir eksilmeye neden olanlar ile bu gibi kanıtlayıcı belgeleri bilerek düzenlemiş, imzalamış veya onaylamış bulunanlar hakkında Türk Ceza Kanunu veya diğer kanunların bu fiillere ilişkin hükümleri uygulanır. Ayrıca, bu fiilleri işleyenlere her türlü aylık, ödenek, zam, tazminat dahil yapılan bir aylık net ödemelerin iki katı tutarına kadar para cezası verilir.
+(Fıkra 04.05.2007 tarih ve 26512 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.)
+Kamu zararının, bu zarara neden olan kamu görevlisinden veya diğer gerçek ve tüzel kişilerden tahsiline ilişkin usûl ve esaslar, Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu tarafından çıkarılacak yönetmelikle düzenlenir.
+YEDİNCİ KISIM
+Yaptırımlar ve Yetkili Merciler
+Madde 0072: Yetkisiz tahsil ve ödeme
+Kanunların öngördüğü şekilde yetkili kılınmamış hiçbir gerçek veya tüzel kişi, kamu adına tahsilat veya ödeme yapamaz.
+Yetkisiz tahsilat veya ödeme yapılması, kamu hizmeti karşılığında veya kamu hizmetleriyle ilişkilendirilerek bağış veya yardım toplanması veya başka adlarla tahsilat veya ödeme yapılması hallerinde; söz konusu tutarlar, yetkisiz tahsilat veya ödeme yapılanlardan alınarak, ilgisine göre bütçeye gelir kaydedilir veya ilgililerine iade edilmek üzere emanet hesaplarına kaydedilir. Ayrıca, bunlar hakkında ilgili kanunları uyarınca adli ve idari yönden gerekli işlemler yapılır.
+YEDİNCİ KISIM
+Yaptırımlar ve Yetkili Merciler
+Madde 0073: Para cezaları ve yetkili merciler
+Bu Kanunda belirtilen para cezaları, ilgili kamu idaresinin üst yöneticisi tarafından verilir. Para cezaları, karar verilmesini izleyen ay başından başlamak üzere ve herhangi bir hüküm almaya gerek kalmaksızın; ilgililerine yapılan her türlü aylık, ödenek, zam, tazminat dahil bir aylık net ödemelerin dörtte biri oranında kesilerek tahsil olunur.
+YEDİNCİ KISIM
+Yaptırımlar ve Yetkili Merciler
+Madde 0074: Zamanaşımı
+Kamu zararının meydana geldiği ve bu Kanunda belirtilen para cezalarının verilmesini gerektiren fiilin işlendiği yılı izleyen mali yılın başından başlamak üzere (24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/b-13 maddesiyle eklenen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren ibare.) zamanaşımını kesen ve durduran genel hükümler saklı kalmak kaydıyla onuncu yılın sonuna kadar tespit ve tahsil edilemeyen kamu zararları ile para cezaları zamanaşımına uğrar.
+SEKİZİNCİ KISIM
+Diğer Hükümler
+Madde 0075: Maliye Bakanlığınca yürütülecek hizmetler
+(1. Fıkra: 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-10 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+Mali yönetim ve kontrol sisteminin tümüyle zaafa uğradığı, belirgin yolsuzluk veya kamu zararına yönelik emarelerin ortaya çıktığı durumlarda; ilgili bakanın talep etmesi veya doğrudan Başbakanın onayı üzerine Maliye Bakanı, yetkili denetim elemanlarına, kamu idarelerinin tüm mali yönetim ve kontrol sistemlerini, mali karar ve işlemlerini mevzuata uygunluk yönünden teftiş ettirir. Bu teftişler sonucunda düzenlenecek raporların bir örneği İç Denetim Koordinasyon Kuruluna, bir örneği de gerekli işlemlerin yapılması için ilgili bakana gönderilir.
+SEKİZİNCİ KISIM
+Diğer Hükümler
+Madde 0076: Kamu idarelerinin sorumluluğu
+Mali karar ve işlemlere ilişkin her türlü kayıt, bilgi ve belgeler, kamu idareleri tarafından düzenli olarak muhafaza edilir.
+Kamu idareleri ve görevlileri; mali yönetim ve kontrol sistemleri ile bütçenin hazırlanması, uygulanması, sonuçlandırılması, muhasebeleştirilmesi, raporlanması işlemlerine ait bilgi ve belgeleri denetimle görevlendirilmiş olanlara ibraz etmek, görevin sağlıklı yapılmasını sağlayacak önlemleri almak ve her türlü yardım ve kolaylığı göstermek zorundadır.
+SEKİZİNCİ KISIM
+Diğer Hükümler
+Madde 0077: Sosyal güvenlik kurumları ve mahalli idareler
+Sosyal güvenlik kurumları ve mahalli idare bütçelerinin hazırlanması ve uygulanması ile diğer mali işlemleri, bu Kanun hükümleri saklı kalmak kaydıyla, ilgili kanunlarındaki hükümlere tabidir. Ancak, sosyal güvenlik kurumları ve mahalli idarelerin ayrıntılı harcama programları ile finansman programları bütçeleriyle birlikte hazırlanır, görüşülür ve onaylanır. Ödenekler de bu usul ve esaslara göre kullanılır.
+Mali yönetim ve kontrol sisteminin tümüyle zaafa uğradığı, belirgin yolsuzluk veya kamu zararına yönelik emarelerin ortaya çıktığı durumlarda; il özel idareleri için ilgili vali, belediyeler için ilgili belediye başkanının talep etmesi veya doğrudan Başbakanın onayı üzerine İçişleri Bakanı, yetkili denetim elemanlarına, ilgili mahalli idarelerin tüm mali yönetim ve kontrol sistemlerini, mali karar ve işlemlerini mevzuata uygunluk yönünden teftiş ettirir. Bu teftişler sonucunda düzenlenecek raporların bir örneği İç Denetim Koordinasyon Kuruluna, bir örneği de gerekli işlemlerin yapılması için ilgili vali veya belediye başkanına gönderilir.
+SEKİZİNCİ KISIM
+Diğer Hükümler
+Madde 0078: Kurumlardan alınacak hasılat payı
+Kamu iktisadi teşebbüsleri ve kamu şirketlerinin gayrisafi hasılatının yüzde onbeşine kadar tutarda bir bedel tahsil edilerek genel bütçeye gelir kaydedilir. Bu kapsamda bedel tahsil edilecek kurum ve kuruluşlar ile hasılat payı oranları, ödeme yeri ve zamanı Bakanlar Kurulunca belirlenir. (1) Zamanında ödenmeyen hasılat payları, Bakanlar Kurulunca belirlenen (2) oranda zam uygulanmak suretiyle 21.07.1953 tarihli ve 6183 sayılı Kanuna göre tahsil edilir. Hesaplanan zam, kurum ve kuruluşun bu payları ödeme yetkisi verilmiş görevlilerinden alınır. Ancak, Maliye Bakanlığınca verilmiş ek süreler için zam uygulanmaz.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-22 maddesiyle değişen ve 01.01.2006 tarihinden geçerli olarak yürürlüğe giren şekli.) Düzenleyici ve denetleyici kurumların üçer aylık dönemler itibarıyla oluşacak gelir fazlaları, her üç ayda bir izleyen ayın onbeşine kadar genel bütçeye aktarılır. Bu fıkra hükmü İstanbul Menkul Kıymetler Borsası hakkında da uygulanır. Söz konusu tutarların süresi içinde ödenmemesi halinde, ödenmeyen tutarlar 6183 sayılı Kanuna göre gecikme zammı da uygulanmak suretiyle takip ve tahsil edilir.
+(1) (Bu kısımda yer alan merkezi yönetim bütçe kanununda gösterilir. ibaresi; 27.04.2005 tarih ve 25798 sayılı Resmi Gazete de yayımlanan 5335 sayılı Kanunun 28/l maddesiyle metinde görüldüğü şekilde değiştirilmiştir)
+(2) (Bu kısımda yer alan merkezi yönetim bütçe kanununda belirtilen ibaresi; 27.04.2005 tarih ve 25798 sayılı Resmi Gazete de yayımlanan 5335 sayılı Kanunun 28/l maddesiyle metinde görüldüğü şekilde değiştirilmiştir)
+SEKİZİNCİ KISIM
+Diğer Hükümler
+Madde 0079: Kamu alacaklarının silinmesi
+(Madde 11.07.2012 tarih ve 28350 sayılı Resmi Gazetede yayımlanan 6338 Sayılı Kanun ile Değişmiştir.) (Yürürlük : 01.01.2013)
+Özel mevzuatındaki hükümler saklı kalmak üzere, idare hesaplarında kayıtlı olup 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun kapsamında izlenen kamu alacakları dışında kalan;
+a) Zarurî veya mücbir sebeplerle takip ve tahsil imkânı kalmayan,
+b) Tahsili için yapılacak takibat giderlerinin asıl alacak tutarından fazla olacağı anlaşılan,
+kamu alacaklarından merkezî yönetim bütçe kanununda gösterilen tutarlara kadar olanların kayıtlardan çıkarılmasına üst yöneticiler yetkilidir. (a) bendine göre belirlenen tutarı aşan kamu alacaklarından silinmesi öngörülenler merkezî yönetim bütçe kanununda ayrıca gösterilir.
+SEKİZİNCİ KISIM
+Diğer Hükümler
+Madde 0080: Yetki
+Bu Kanun hükümlerinin uygulanmasına ilişkin gerekli düzenlemeleri yapmaya Maliye Bakanlığı yetkilidir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Madde 0081: Yürürlükten kaldırılan hükümler
+Bu Kanunun geçici maddelerindeki hükümler saklı kalmak kaydıyla;
+1050 sayılı Muhasebei Umumiye Kanunu ile ek ve değişiklikleri,
+832 sayılı Sayıştay Kanununun 30, 32, 33, 36, 37 nci maddeleri ile diğer maddelerinin bu Kanuna aykırı hükümleri,
+Bu Kanun kapsamındaki kamu idarelerine ilişkin olarak, 04.01.1961 tarihli ve 211 sayılı Kanunun 98 - 106 ncı maddeleri hariç olmak üzere, diğer kanunlarla 1050 sayılı Muhasebei Umumiye Kanunu, 6245 sayılı Harcırah Kanunu ve 832 sayılı Sayıştay Kanununa tabi olunmadığına dair istisna veya muafiyet getiren hükümleri,
+28.03.2002 tarihli ve 4749 sayılı Kanunun 14 üncü maddesinin üçüncü fıkrası,
+26.11.1999 tarihli ve 4481 sayılı Kanunun 15 inci maddesi,
+Diğer kanunların bu Kanuna aykırı hükümleri,
+Yürürlükten kaldırılmıştır.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Ek Madde 0001:
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 11 inci maddesiyle eklenmiştir. Yürürlük: 01.01.2006) Türkiye Büyük Millet Meclisi ve Sayıştayın muhasebe hizmetleri Türkiye Büyük Millet Meclisi Başkanı, Cumhurbaşkanlığı muhasebe hizmetleri ise Cumhurbaşkanlığı Genel Sekreteri tarafından atanan muhasebe yetkilileri tarafından yerine getirilir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Ek Madde 0002: Müşterek fon hesabı
+(12.07.2006 tarih ve 26226 sayılı Resmi Gazete de yayımlanan 5538 sayılı Kanunun 20 nci maddesiyle eklenmiştir.) Çeşitli mevzuatla kurulmuş fonların her türlü geliri Türkiye Cumhuriyet Merkez Bankası nezdinde Hazine Müsteşarlığı adına açılan müşterek fon hesabına yatırılır. Bu hesaba yatırılan gelirlerden ilgili mevzuatında öngörülen fonlar arası pay ve kesintiler Türkiye Cumhuriyet Merkez Bankası tarafından yapılır.
+Destekleme ve Fiyat İstikrar Fonunun gelirleri, yapılan kesintilerden sonra kalan tutarlar üzerinden genel bütçenin (B) işaretli cetveline gelir kaydedilir. Bu Fon, hizmetlerini bütçenin (A) işaretli cetveline konulan ödeneklerle yerine getirir. Ancak, bu Fon gelirlerinden kredi ana para geri dönüşleri, kredi faizleri, borçlanma ve satış hasılatı, genel bütçenin (B) işaretli cetveline gelir kaydedilmeksizin doğrudan müşterek fon hesabından ilgili Fonun gider hesabına aktarılır.
+Kapsam dışında bırakılan fonların gelirleri ve harcamaları bütçe ile ilişkilendirilmez. Ancak, bunların müşterek fon hesabında toplanan gelirlerinden Maliye Bakanı ve Hazine Müsteşarlığının bağlı olduğu Bakanın birlikte teklifi üzerine Başbakanın onayı ile belirlenecek oran ve tutarlarda kesinti yapılarak genel bütçeye gelir kaydedilebilir.
+Fonlar, hizmet ve harcamalarını kendi mevzuatında yer alan esas ve usüllere göre yürütürler. Fon gelirlerinin tahsili, takibi, gelir kaydı, muhasebeleştirilmesi ve denetimine ilişkin süre, esas ve usüller Maliye Bakanlığı ile Hazine Müsteşarlığınca müştereken tespit edilir.
+Kanun ve kanun hükmünde kararname ile kurulanlar hariç olmak üzere, hizmet alanı kalmayan fonlar Maliye Bakanı ve Hazine Müsteşarlığının bağlı olduğu Bakanın birlikte teklifi üzerine Başbakanın onayı ile tasfiye edilebilir. Bunların tasfiyesine ilişkin her türlü düzenlemeyi yapmaya Maliye Bakanı ile Hazine Müsteşarlığının bağlı olduğu Bakan yetkilidir.
+Maliye Bakanı ile Hazine Müsteşarlığının bağlı olduğu Bakanın birlikte teklifi üzerine Başbakanın onayı ile fonların gider hesapları üzerinden aktarma yapılabilir. Aktarılan tutar, kendisine aktarma yapılan fonun gelir hesabı üzerinden müşterek fon hesabına, buradan da tamamı gider hesabına aktarılır.
+Bütçe kapsamı dışındaki fonlardan kendi mevzuatına göre yapılan kesinti ile fonlar arası aktarmalardan sonra kalan tutar, Türkiye Cumhuriyet Merkez Bankası tarafından ilgili fonun gider hesabına aktarılır.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Ek Madde 0003: FATİH Projesi kapsamında mal ve hizmet alımları ile yapım işleri
+(Madde 09.12.2016 Tarih ve 29913 Sayılı Resmi Gazetede Yayımlanan 6764 Sayılı Kanun İle Eklenmiştir)
+Eğitimde Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi (FATİH) Projesi kapsamında Millî Eğitim Bakanlığınca yapılacak yazılım, donanım, dijital içerik alımı, internet erişim hizmetleri sağlanması, ağ altyapısı, AR-GE merkezi, veri merkezi kurulumu ve bunlara ilişkin her türlü bakım, onarım ve işletme işlerinde üst yöneticinin onayıyla 15 yıla kadar gelecek yıllara yaygın yüklenmelere girişilebilir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Ek Madde 0004:
+(Madde 05.12.2017 Tarih ve 30261 Sayılı Resmi Gazetede Yayımlanan 7061 Sayılı Kanunun 78. Maddesi İle Eklenmiştir)
+Bu Kanun kapsamında yer alan tüm iş ve işlemler elektronik ortamda gerçekleştirilebilir.
+Bu maddenin uygulanması ile ilgili olarak Maliye Bakanlığı;
+a) Defter, kayıt, belge ve benzeri içeriklerin elektronik ortamda oluşturulması, kaydedilmesi, iletilmesi, muhafaza ve ibrazına ilişkin usul ve esasları belirlemeye,
+b) Elektronik ortamda gerçekleştirilen işlemlerin kaynağı, bütünlüğü, gizliliği ve güvenliğinin sağlanmasına yönelik sertifika altyapısı oluşturmaya veya mevcut olan altyapıları kullanmaya,
+c) İlgili bilişim sistemlerine yönelik her türlü birlikte işlerlik standartlarına ilişkin usul ve esasları belirlemeye,
+yetkilidir.
+Maliye Bakanlığı, bu madde kapsamında yapacağı belirlemelerde Sayıştayın uygun görüşünü alır.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Ek Madde 0005:
+(Madde 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 0213. Maddesi ile Eklenmiştir)
+Cumhurbaşkanlığı kararnameleriyle kurulan idarelerin bu Kanuna ekli cetvellerden hangisinde yer alacağı ilgili Cumhurbaşkanlığı kararnamesinde belirtilir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Ek Madde 0006:
+(Madde 09.07.2018 Tarih ve 30473 Sayılı Resmi Gazetede Yayımlanan 0703 Sayılı KHK ın 0213. Maddesi ile Eklenmiştir)
+Kanunla veya Cumhurbaşkanlığı kararnamesiyle merkezi yönetim kapsamındaki kamu idarelerinin yeniden teşkilatlanması çerçevesinde yapılan ödenek aktarma işlemleri, personel giderleri tertiplerinden diğer tertiplere yapılan aktarmalar hariç olmak üzere, bu Kanunun 21 inci maddesi ve yılı merkezi yönetim bütçe kanununda düzenlenen ödenek aktarmalarına ilişkin sınırlamalara tabi değildir.
+Kamu idarelerinin yeniden teşkilatlanmasının gerektirdiği bütçe işlemlerini yapmaya, bütçenin uygulaması ile kesin hesapların hazırlanmasına ilişkin olarak gerekli her türlü düzenlemeyi yapmaya Cumhurbaşkanı yetkilidir.
+Kamu idarelerinin yeniden teşkilatlanmasına ilişkin süreç tamamlanıncaya kadar yapılması gereken zorunlu harcamalar kapatılan idare veya ilgili idare bütçesinden gerçekleştirilir.
+Kapatılan harcama birimi ve idareler için faaliyet raporu düzenlenmez. Bu birim ve idarelerin yılı faaliyet sonuçları görev, yetki ve sorumluluklarının devredildiği idarelerin faaliyet raporlarında gösterilir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Ek Madde 0007: Mücbir sebep
+(Madde 17.04.2020 Tarih ve 31102 Sayılı Resmi Gazetede Yayımlanan 7244 Sayılı Kanunun 10. Maddesi ile Eklenmiştir)
+Deprem, yangın, sel gibi doğal afetler ile salgın hastalık veya Hazine ve Maliye Bakanlığı bilişim sistemlerinin herhangi bir nedenle çalışmaması gibi mücbir sebep hallerinde; veri, bilgi ve belgelerin oluşturulması, kaydedilmesi, iletilmesi, muhafazası ve ibrazına ilişkin yöntemler Hazine ve Maliye Bakanlığınca belirlenir.
+Mücbir sebep hallerinde, Hazine ve Maliye Bakanlığı bilişim sistemleri üzerinden yürütülen işlemlerde yaşanabilecek gecikme nedeniyle ilgililere, gecikme faizi, gecikme zammı ve ceza gibi yaptırımlar uygulanmaz.
+Ek Madde 0008:
+(Madde 25.05.2021 tarih ve 31491 sayılı Resmi Gazetede yayımlanan 7319 Sayılı Kanunun 9. Maddesi ile Eklenmiştir.)
+Mevzuatta orta vadeli mali plana yapılan atıflar orta vadeli programa yapılmış sayılır.
+Ek Madde 0009:
+(Madde 26.07.2024 tarih ve 32613 sayılı Resmi Gazetede yayımlanan 7521 Sayılı Kanunun 13. Maddesi ile Eklenmiştir)
+Kamu kurum ve kuruluşlarının harcama ve uygulamalarının tasarruf tedbirlerine uygunluğunun idarelerince ve/veya Hazine ve Maliye Bakanlığınca izlenmesi ve denetlenmesi sonucunda, alınan tedbirlere aykırı iş ve işlemleri tespit edilenler hakkında tabi oldukları mevzuat uyarınca disiplin hükümleri uygulanır ve sonuçları idarelerince Cumhurbaşkanlığına bildirilir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0001:
+Bu maddenin yürürlüğe girmesinden önce mali işlemleri Maliye Bakanlığı tarafından yürütülmekte olan kamu idarelerinde, mali yönetim ve kontrol sistemi kuruluncaya kadar, bu Kanun uyarınca yapılması gereken görevler, Maliye Bakanlığının birimleri tarafından yürütülür. Maliye Bakanlığınca belirlenecek kriterlerin yerine getirilmesi durumunda, bu kamu idarelerine yetki devri, Maliye Bakanlığının önerisi üzerine idareler itibarıyla gerçekleştirilir.
+Diğer kamu idarelerinde, bu Kanunun öngördüğü mali yönetim ve kontrol sürecine ilişkin görevler, mali yönetim ve kontrol sistemi kuruluncaya kadar, görev ve yetki bakımından benzeri birim ve görevliler tarafından yürütülür. Bu kamu idarelerinde görev ve yetki bakımından benzeri birim ve görevliler, Maliye Bakanlığının uygun görüşü üzerine ilgili üst yönetici tarafından belirlenir.
+Maliye Bakanlığı, rehberlik ve koordinasyon görevleri çerçevesinde, kamu idarelerinde mali yönetim ve kontrol sistemlerinin oluşturulmasına yardımcı olur.
+Geçiş dönemi 31.12.2007 tarihini geçemez.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0002:
+Bu Kanunda öngörülen tüzük, yönetmelik ve diğer düzenlemeler en geç 31.12.2004 tarihine kadar yayımlanır.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0003:
+Bu Kanunun 49 uncu maddesindeki Kurul tarafından belirleme yapılıncaya kadar, genel yönetim kapsamındaki kamu idarelerinde uygulanacak muhasebe standartları Maliye Bakanlığınca belirlenir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0004:
+Bu Kanunda öngörülen mali yönetim ve kontrol sistemine uyum sağlanması amacıyla, Kanun kapsamındaki idarelerle ilgili mevzuatta ve Türkiye Büyük Millet Meclisi İçtüzüğünde gerekli değişiklikler, en geç 31.12.2007 (1) tarihine kadar yapılır.
+Genel bütçe kapsamındaki idarelerin, kamu görevi ve hizmeti dışında kalan ve ilgili kanunlarında belirtilen faaliyetleri ile mal ve hizmet teslimlerinden fiyatlandırılabilir nitelikte bulunanlardan sağlayacakları gelirleri düzenleyen kanun, 31.12.2007 (1) tarihine kadar yürürlüğe konulur.
+(1) (Bu kısımlarda yer alan 31.12.2004 ibaresi; 24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-23 maddesiyle metinde görüldüğü şekilde değiştirilmiştir.)
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0005:
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 9 uncu maddesiyle değişen şekli.) 31.12.2005 tarihi itibarıyla;
+Maliye Bakanlığı kadrolarında Bütçe Dairesi Başkanı, Muhasebe Müdürü, Gelir Saymanlık Müdürü, Malmüdürü, Saymanlık Müdürü, Vergi Dairesi Müdürü, Vergi Müdürü, Askeri Defterdar, Devlet Muhasebe Uzmanı ve Muhasebe Denetmeni olarak görev yapanlar ile daha önce en az beş yıl bu görevlerde bulunanlar, kamu idarelerinde Muhasebe Yetkilisi; (Devlet Muhasebe Uzman Yardımcıları ile Muhasebe Denetmen Yardımcıları hariç) bunların yardımcıları ile kadro unvanı sayman olanlar ise Muhasebe Yetkilisi Yardımcısı,
+Özel bütçeli idareler, mahalli idareler ve sosyal güvenlik kurumlarının muhasebe birimlerinde, birinci derecede sorumlu olarak çalışanlar ile daha önce bu görevi en az beş yıl yapmış olanlarla bu idarelerde bütçe dairesi başkanı, gelir ve gider dairesi başkanı, muhasebe daire başkanı, gelir müdürü, bütçe müdürü ve muhasebe müdürü olanlar anılan idarelerde Muhasebe Yetkilisi,
+Sayıştay Denetçisi, Başbakanlık Müfettişi, Yüksek Denetleme Kurulu Denetçisi, Maliye Müfettişi, Hesap Uzmanı, Bütçe Kontrolörü, Muhasebat Kontrolörü, Gelirler Kontrolörü, Milli Emlak Kontrolörü, Tasfiye İşleri ve Döner Sermaye İşletmeleri Kontrolörü, Hazine Kontrolörü kadrolarında çalışmakta olanlar ile daha önce en az beş yıl bu görevlerde bulunanlar, kamu idarelerinde İç Denetçi,
+Bakanlık, Müsteşarlık, Başkanlık ve Genel Müdürlüklerde Müfettiş veya Kontrolör olanlar ile daha önce en az beş yıl bu görevlerde bulunanlar, kendi idarelerinde, özel bütçeli idarelerde, mahalli idarelerde ve sosyal güvenlik kurumlarında İç Denetçi,
+Muhasebe, Milli Emlak ve Vergi Denetmenleri ile bu görevlerde daha önce en az beş yıl bulunanlar, özel bütçeli idareler ile mahalli idarelerde; Belediye Müfettişi ve Hesap İşleri Murakıbı olanlar ile bu görevlerde daha önce en az beş yıl bulunanlar, mahalli idarelerde İç Denetçi,
+Olarak 31.12.2007 tarihine kadar atanabilirler.
+31.12.2005 tarihi itibarıyla kamu idarelerinin muhasebe hizmetlerini birinci derece sorumlu olarak yürütmekte olanlar, bulundukları kamu idarelerinin muhasebe yetkililiği görevini 01.01.2006 tarihinden itibaren sertifikalı muhasebe yetkilisi atanıncaya kadar yürütürler. Bu kişiler, sertifika alamamaları halinde kadrolarına uygun bir göreve atanırlar. Ancak, bu maddenin yürürlüğe girdiği tarihten önce saymanlık hizmetleri Maliye Bakanlığı tarafından yürütülen idarelerde muhasebe yetkilisi atanıncaya kadar muhasebe hizmetleri Maliye Bakanlığının belirleyeceği kişilerce yürütülür.
+(a) ve (b) bentlerinde belirtilen muhasebe yetkilisi görevini yürütmek üzere atanacak olanların Maliye Bakanlığınca verilecek mesleki eğitimden geçmeleri ve yapılacak sınavda başarı göstererek sertifika almaları şarttır. Ancak, (a) ve (b) bentlerinde sayılanlardan sınavla bu kadrolara atanmış olanların muhasebe yetkilisi olarak atanmalarında sınav şartı aranmaz.
+(c), (d) ve (e) bentlerinde belirtilen görevlere atananlar bu Kanunun öngördüğü sistemin uygulanmasına yönelik eğitime tabi tutulurlar. Atamalarda ilgilinin ve idaresinin muvafakati alınır.
+(Fıkra 06.08.2008 tarih ve 26959 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir) Kamu idarelerinde muhasebe yetkilisi görevini yürütmek üzere üçüncü fıkraya göre sertifika almış olanlar arasından muhasebe yetkilisi atanması esastır. Bu şekilde sertifika almış olanlardan atama yapılamaması halinde, Maliye Bakanlığınca sertifika almış muhasebe yetkilisi atama zorunluluğu getirilinceye kadar, Maliye Bakanlığınca belirlenen usul ve esaslara göre genel bütçe kapsamındaki kamu idarelerinde Maliye Bakanlığı, diğer kamu idarelerinde üst yöneticiler tarafından belirlenen kişiler muhasebe hizmetlerini yapmak üzere görevlendirilir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0006:
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-11 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0007:
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-11 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0008:
+İç Denetim Koordinasyon Kurulu başkan ve üyeleri, bu Kanunun yayımını izleyen iki ay içerisinde atanırlar.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0009:
+Diğer kanunlarla 1050 sayılı Muhasebei Umumiye Kanununa yapılan atıflar, bu Kanuna yapılmış sayılır.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0010:
+İlk kez bu Kanunla Sayıştay denetimine tabi tutulan düzenleyici ve denetleyici kurumlar ile özel bütçeli idarelerin 31.12.2005 tarihine kadar olan işlemlerinin dış denetimi ilgili kanunlarındaki hükümlere göre yapılmaya devam edilir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0011:
+(Fıkra 06.08.2008 tarih ve 26959 sayılı Resmi Gazetede yayımlanan Kanun ile Yürürlükten Kaldırılmıştır.)
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-24 maddesiyle değişen şekli.) Bu Kanun kapsamında kamu idarelerinde kurulmuş döner sermaye işletmeleri 31.12.2010 tarihine kadar yeniden yapılandırılır.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/a-24 maddesiyle değişen şekli.) Döner sermaye işletmeleri yeniden yapılandırılıncaya kadar bunların bütçelerinin hazırlanması, uygulanması, sonuçlandırılması ve muhasebesi ile kontrol ve denetimi Maliye Bakanlığınca yürürlüğe konulacak yönetmelikle belirlenir. Fonların muhasebesi de bu Kanunun öngördüğü muhasebe sistemine göre yürütülür.
+(24.12.2005 tarih ve 26033 sayılı Resmi Gazete de yayımlanan 5436 sayılı Kanunun 10/c-12 maddesiyle, 01.01.2006 tarihinden geçerli olarak yürürlükten kaldırılmıştır.)
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0012:
+45 inci maddenin birinci fıkrası uyarınca Hazine adına tescil edilmesi gereken taşınmazlardan, ilgili kamu idarelerinin mülkiyetinde bulunanlar, bu idarelerin tüzel kişiliğinin sona erdiği tarihi izleyen altı ay içinde herhangi bir işleme gerek olmaksızın tapuda resen Hazine adına tescil edilir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0013:
+Bu Kanunun yayımı tarihinden sonra kurulacak kamu idarelerinin kuruluş kanunlarında belirlenmemesi durumunda kuruluş bütçesinin ekli cetvellerden hangisine dahil olacağı Maliye Bakanlığınca belirlenir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0014:
+Bu Kanunla verilmiş olan görevlerin gerektirdiği hizmetlerin etkili ve verimli bir şekilde yerine getirilmesi amacıyla Araştırma Planlama ve Koordinasyon Kurulu, Bütçe ve Mali Kontrol Genel Müdürlüğü ve Maliye Yüksek Eğitim Merkezi Başkanlığında kullanılmak üzere, ekli (I) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnameye ekli (I) sayılı cetvelin Maliye Bakanlığına ait ilgili bölümlerine eklenmiş, ekli (II) sayılı listede yer alan kadrolar ise iptal edilerek anılan Kararnameye ekli (I) sayılı cetvelin Maliye Bakanlığına ait ilgili bölümünden çıkarılmıştır. Araştırma, Planlama ve Koordinasyon Kurulunda görevlendirilecek başkan yardımcısı Bakan onayı ile atanır ve bakanlıktaki genel müdür yardımcıları için ilgili mevzuatında öngörülen tüm haklardan aynen yararlanır.
+(I) SAYILI LİSTE
+İHDAS EDİLEN KADROLAR
+SINIFI	UNVANI	KADRO
+DERECESİ	SERBEST
+KADRO
+ADEDİ	TUTULU
+KADRO
+ADEDİ	TOPLAM
+GİH	Genel Müdür Yardımcısı	1	1	-	1
+Başkan Yardımcısı	1	1	1
+Daire Başkanı	1	3	3
+Eğitim Merkezi Müdürü	1	1	1
+Bilgi İşlem Merkezi Müdürü	1	1	1
+TOPLAM		7	7
+(II) SAYILI LİSTE
+İPTAL EDİLEN KADROLAR
+SINIFI	UNVANI	KADRO
+DERECESİ	SERBEST
+KADRO
+ADEDİ	TUTULU
+KADRO
+ADEDİ	TOPLAM
+GİH	Memur	8	7	-	7
+TOPLAM		7	7
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0015: Gelir ve ödenek kaydetme yetkisi
+(12.07.2006 tarih ve 26226 sayılı Resmi Gazete de yayımlanan 5538 sayılı Kanunun 21 inci maddesiyle eklenmiştir.) 2006 yılında, ilgili mevzuatı gereğince özel gelir kaydedilmek üzere tahsil edilen tutarlar ile 40 ıncı maddeye göre tahsil edilen bağış ve yardımları, idare bütçelerinde söz konusu mevzuatta belirtilen amaçlar için tertiplenen ödenekten kullandırmak üzere genel bütçenin (B) işaretli cetveline gelir kaydetmeye ve bütçelenen ödenekten gelir gerçekleşmesine göre ilgili tertiplere aktarma yapmaya, yılı içinde harcanmayan ödenekleri (2005 yılından devredenler de dahil) ertesi yıl bütçesine devren gelir ve ödenek kaydetmeye, bu hükümler çerçevesinde yapılacak işlemlere ilişkin esas ve usülleri belirlemeye Maliye Bakanı yetkilidir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0016:
+Geçici 5 inci maddenin birinci fıkrasının (c), (d) ve (e) bentlerinde belirtilen kadrolarda 31/12/2006 tarihi itibarıyla çalışmakta olanlar ile daha önce en az beş yıl bu görevde bulunanlar da anılan madde hükümlerine göre iç denetçi kadrolarına atanabilirler.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0017:
+22/12/2005 tarihli ve 5436 sayılı Kanunun 16 ncı maddesinin altıncı fıkrasına göre ihdas edilerek kamu idarelerine tahsis edilen malî hizmetler uzmanı unvanlı boş bulunan kadrolara, ilgili kamu idarelerince talep edilecek sayıyı aşmamak üzere, aşağıda belirtilen şartları taşıyan adaylar arasından 31/10/2007 tarihine kadar bir defaya mahsus olmak üzere Maliye Bakanlığınca, Öğrenci Seçme ve Yerleştirme Merkezine veya Millî Eğitim Bakanlığı Ölçme ve Değerlendirme Merkezine yaptırılacak yazılı sınav ve yerleştirme sonucuna göre atama yapılır.
+Yapılacak sınava girebilmek ve malî hizmetler uzmanı kadrolarına atanabilmek için;
+a) 5436 sayılı Kanunun 16 ncı maddesinin altıncı fıkrasına göre ihdas edilerek malî hizmetler uzmanı kadrosunun tahsis edildiği kamu idarelerinin;
+1) Strateji Geliştirme Başkanlığı, Strateji Geliştirme Daire Başkanlığı, strateji geliştirme ve malî hizmetlere ilişkin hizmetlerin yerine getirildiği müdürlükler, İdarî ve Malî İşler Dairesi Başkanlıkları, İdarî ve Malî İşler Müdürlükleri ile döner sermayeli işletmeler hariç olmak üzere idarelerin muhasebe ve malî hizmetlerinin yerine getirildiği daire başkanlıkları veya müdürlüklerinde,
+2) Mülga Araştırma Planlama ve Koordinasyon Kurulu Başkanlıkları, Araştırma Planlama ve Koordinasyon Dairesi Başkanlıkları ile Araştırma Planlama ve Koordinasyon Müdürlüklerinde,
+b) Maliye Bakanlığı Bütçe ve Mali Kontrol Genel Müdürlüğü ile Muhasebat Genel Müdürlüğünde, kadroları Maliye Bakanlığına ait olmak kaydıyla döner sermayeli işletmeler dahil olmak üzere muhasebe hizmetleri Maliye Bakanlığı Muhasebat Genel Müdürlüğünce yürütülen kamu idarelerinin muhasebe birimlerinde, malmüdürlüklerinin ise vezne ve muhasebe servislerinde,
+genel idare hizmetleri sınıfına dahil kadrolarda sınav tarihi itibarıyla toplam en az üç yıl hizmeti bulunmak ve malî hizmetler uzman yardımcılığı giriş sınavına katılabilmek için gerekli öğrenim şartını taşımak gerekir. Hizmet süresinin hesabında sayılan birimler adına tahsis edilmiş kadrolarda fiilen görev yapılan süreler dikkate alınır.
+Sınav komisyonunun oluşturulması, sınava katılabilecekler, sınav konuları, sınav ve yerleştirme ile söz konusu kadrolara atama ve atananların eğitimine ilişkin esas ve usûller Maliye Bakanlığınca belirlenir.
+5436 sayılı Kanunun geçici 2 nci maddesi ve bu madde gereğince malî hizmetler uzmanı kadrolarına atandıktan sonra en az üç yıl süreyle atandıkları idarelerde söz konusu kadrolarda görev yapanlar, kendilerinin isteği ve idarelerinin muvafakati ile başka bir kamu idaresinin aynı unvanlı kadrolarına atanabilirler.
+Bu maddenin uygulanmasına ilişkin olarak ortaya çıkabilecek tereddütleri gidermeye Maliye Bakanlığı yetkilidir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0018:
+31/12/2012 tarihine kadar genel yönetim kapsamındaki kamu idarelerinin mali tabloları, muhasebe ve raporlama standartları ile muhasebe tekniğine uygunluk açısından Maliye Bakanlığınca denetlenebilir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0019:
+(Madde 26.04.2011 tarih ve 27916 sayılı Resmi Gazetede yayımlanan Kanun ile Değişmiştir.)
+2023 yılına kadar (1), orman yangınları ile havadan mücadele hizmetlerinde kullanılmak maksadıyla Çevre ve Orman Bakanlığı tarafından gerçek ve tüzel kişilerden her nevi hava aracı kiralanmasında, sağlık hizmetlerinde kullanılmak maksadıyla Sağlık Bakanlığı tarafından gerçek ve tüzel kişilerden her nevi hava ve deniz aracı kiralanmasında, ülkemizde aşı ve biyolojik ürün üretimini sağlayacak ileri teknoloji transferine yönelik aşı ve biyolojik ürün temininde ve ileri teknoloji ürünü yüksek maliyetli tıbbi cihaz temininde bu Kanunun 28 inci maddesinde yer alan üç yıllık süre yedi yıla kadar , gemi hastane kiralanmasında ise on beş yıla kadar (2)uygulanır.
+(1) 2008-2015 yılları arasında İbaresi 18.01.2014 Tarih ve 28886 Sayılı Resmi Gazetede Yayımlanan 6514 Sayılı Kanun İle 2023 yılına kadar olarak değişmiştir.
+(2) Altı Çizili İbare 18.01.2014 Tarih ve 28886 Sayılı Resmi Gazetede Yayımlanan 6514 Sayılı Kanun İle eklenmiştir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0020:
+(Madde 11.04.2012 tarih ve 28261 sayılı Resmi Gazetede yayımlanan Kanun ile Eklenmiştir.)
+Eğitimde Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi (FATİH) Projesi kapsamında Millî Eğitim Bakanlığına bağlı okullara internet erişim hizmetleri ve ağ altyapısının sağlanması için Millî Eğitim Bakanlığı ve Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca 2015 yılı sonuna kadar yapılacak mal ve hizmet alımları ile yapım işlerinde üst yöneticinin onayıyla 15 yıla kadar gelecek yıllara yaygın yüklenmelere girişilebilir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0021: İç denetçi kadrolarına atanma
+(Madde 18.04.2013 Tarih ve 28622 sayılı Resmi Gazetede yayımlanan 6456 Sayılı Kanun ile Eklenmiştir)
+Merkezî yönetim kapsamındaki idarelerde ve sosyal güvenlik kurumlarında mesleğe özel yarışma sınavıyla girip yeterlik sınavında başarılı olan ve başvuru tarihi itibarıyla yardımcılıkta geçen süre dâhil, denetçi, müfettiş, kontrolör, sigorta denetleme uzmanı, sigorta denetleme aktüeri, yasama uzmanı, düzenleyici ve denetleyici kurumlarda murakıp ve uzman ve 657 sayılı Devlet Memurları Kanununun 152 nci maddesinin II-Tazminatlar kısmının A- Özel Hizmet Tazminatı bölümünün (ğ) bendinde yer alanlardan merkez teşkilatına ait uzman unvanlı kadrolarda en az beş yıl çalışmış olanlar, iç denetçi aday belirleme sınavına katılabilmek için aranan yabancı dillerin birinde Yabancı Dil Bilgisi Seviye Tespit Sınavından en az elli puan almış ve bu maddenin yürürlüğe girdiği tarih itibarıyla kırk yaşını doldurmamış olmak şartıyla, kamu idarelerinin iç denetçi kadrolarına 31/12/2014 tarihine kadar atanabilirler.
+Bu Kanun kapsamındaki idarelerde mesleğe özel yarışma sınavıyla girip yeterlik sınavında başarılı olan ve başvuru tarihi itibarıyla yardımcılıkta geçen süre dâhil mali hizmetler uzmanı olarak en az beş yıl çalışmış olanlar, iç denetçi aday belirleme sınavına katılabilmek için aranan yabancı dillerin birinde Yabancı Dil Bilgisi Seviye Tespit Sınavından en az elli puan almış ve bu maddenin yürürlüğe girdiği tarih itibarıyla kırk yaşını doldurmamış olmak şartıyla, kendi idareleri, yükseköğretim kurumları ve mahalli idarelerin iç denetçi kadrolarına 31/12/2014 tarihine kadar atanabilirler.
+Mesleğe özel yarışma sınavıyla girip yeterlik sınavında başarılı olan ve başvuru tarihi itibarıyla yardımcılıkta geçen süre dâhil il eğitim denetmeni, muhasebe denetmeni, millî emlak denetmeni, sosyal güvenlik denetmeni veya mahalli idarelerde müfettiş olarak en az beş yıl çalışmış olanlar, iç denetçi aday belirleme sınavına katılabilmek için aranan yabancı dillerin birinde Yabancı Dil Bilgisi Seviye Tespit Sınavından en az elli puan almış ve bu maddenin yürürlüğe girdiği tarih itibarıyla kırk yaşını doldurmamış olmak şartıyla, yükseköğretim kurumları ve mahalli idarelerin iç denetçi kadrolarına 31/12/2014 tarihine kadar atanabilirler.
+Geçici 5 inci ve geçici 16 ncı maddelere göre atanan iç denetçiler, iç denetçi aday belirleme sınavına katılabilmek için aranan yabancı dillerin birinde Yabancı Dil Bilgisi Seviye Tespit Sınavından en az elli puan almış ve bu maddenin yürürlüğe girdiği tarih itibarıyla kırk yaşını doldurmamış olmak şartıyla, diğer idarelerin iç denetçi kadrolarına 31/12/2014 tarihine kadar naklen atanabilirler. Bunlar, daha önce kendilerine verilen Kamu İç Denetçi Sertifikalarını kullanmaya devam ederler.
+Bu Kanun kapsamındaki idarelerde başvuru tarihi itibarıyla öğretim üyesi, tabip, diş tabibi, eczacı, veteriner, biyolog, hukuk müşaviri, Hazine avukatı, avukat, mühendis unvanlı kadrolarda en az beş yıl çalışmış olanlardan, iç denetçi aday belirleme sınavına katılabilmek için aranan yabancı dillerin birinde Yabancı Dil Bilgisi Seviye Tespit Sınavından en az elli puan almış ve bu maddenin yürürlüğe girdiği tarih itibarıyla kırk yaşını doldurmamış olanlar, belirli dönemlerde yapılacak sertifika eğitimlerine 31/12/2015 tarihine kadar doğrudan katılabilirler. Bu eğitimler sonucunda yapılacak sınavlarda başarılı olanlar kamu idarelerinin iç denetçi kadrolarına atanabilirler ve bunlara atandıkları idarede geçerli Kamu İç Denetçi Sertifikası verilir. İdarelerin ihtiyaçlarını göz önünde bulundurarak bu fıkrada sayılan unvanlar dışında ilave unvanlar belirlemeye, mühendislere ilişkin olarak lisans mezuniyetine göre bölüm şartı getirmeye, bu fıkra kapsamındaki sertifika eğitimleri ve sınavlarına ilişkin usul ve esasları belirlemeye ve idarelerin özelliklerini göz önünde bulundurarak bu fıkraya göre atananların bir başka idareye naklen atanmalarına ilişkin usul ve esasları belirlemeye İç Denetim Koordinasyon Kurulu yetkilidir.
+Birinci, ikinci ve üçüncü fıkralara göre atananlar İç Denetim Koordinasyon Kurulu koordinatörlüğünde Maliye Bakanlığı tarafından en az iki aylık sertifika eğitimine tabi tutulur ve eğitim tamamlandıktan sonra bunlara atandıkları idarede geçerli Kamu İç Denetçi Sertifikası verilir. Fiilen en az üç yıl iç denetçilik yaptıktan sonra İç Denetim Koordinasyon Kurulu tarafından belli dönemlerde yapılacak sertifika sınavına girerek başarılı olanlara, bu Kanun kapsamındaki bütün idarelerin iç denetçi kadrolarına naklen atanmalarına imkân verecek nitelikte Kamu İç Denetçi Sertifikası verilir. Bu maddeye aykırı bir şekilde iç denetçi kadrolarına atananların atamaları ile verilmiş ise Kamu İç Denetçi Sertifikası iptal edilir. Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye ve tereddütleri gidermeye İç Denetim Koordinasyon Kurulu yetkilidir.
+Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavından veya Üniversitelerarası Kurul Yabancı Dil Sınavından en az elli puan almış olanlar da bu maddede aranan yabancı dil şartını yerine getirmiş sayılır.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0022:
+(Madde 09.07.2018 Tarih ve 30471 sayılı Resmi Gazetede yayımlanan 0703 Sayılı KHK nın 213. Maddesi ile Eklenmiştir)
+Bu Kanunda veya diğer kanunlarda Cumhurbaşkanına veya Cumhurbaşkanlığına verilen merkezi yönetim bütçesinin hazırlık ve uygulamasına ilişkin yetkileri kullanmak üzere Cumhurbaşkanı tarafından oluşturulacak idarenin teşkilatlanması tamamlanıncaya kadar bu görev ve yetkiler, Cumhurbaşkanı kararı ile Hazine ve Maliye Bakanı veya Hazine ve Maliye Bakanlığınca kullanılabilir.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Geçici Madde 0023: (*)
+(Madde 25.12.2021 tarih ve 31700 sayılı Resmi Gazetede yayımlanan 7349 Sayılı Kanunun 7. Maddesi ile Eklenmiştir)
+(*) 19/12/2020 tarihli ve 7258 sayılı 2021 Yılı Merkezi Yönetim Bütçe Kanununda yer alan genel bütçe gelir tahmini üzerinde gerçekleşen gelir kadar, genel bütçe kapsamındaki kamu idareleri ile özel bütçeli idarelerin bütçelerine ödenek eklemeye Cumhurbaşkanı yetkilidir. İlgili kanunları gereğince genel bütçe gelirleri karşılığı yapılan ödenek eklemeleri bu tutardan düşülür.
+(*) (Üstü Çizili birinci ve ikinci cümle, Anayasa Mahkemesinin 27.12.2022 tarih ve 32056 Sayılı Resmi Gazetede Yayımlanan 13/10/2022 tarihli ve E.:2021/133, K.:2022/120 sayılı Kararı ile iptal edilmiştir.)
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Madde 0082: Yürürlük
+Bu Kanunun;
+30, 66, 67 ve 80 inci maddeleri ile geçici 2, 3, 4, 5, 7, 8, 10, 12, 13, 14 ve 82 ile 83 üncü maddeleri yayımı,
+81 inci maddesinin (e) bendi ile geçici 6 ncı maddesi 01.01.2004,
+Diğer hükümleri 01.01.2005,
+Tarihinde yürürlüğe girer.
+DOKUZUNCU KISIM
+Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük
+Madde 0083: Yürütme
+Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+(I) SAYILI CETVEL [122]
+(Değişik:RG-16/10/2020-7254/5 md.)
+GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
+1) Türkiye Büyük Millet Meclisi
+2) Cumhurbaşkanlığı
+3) Anayasa Mahkemesi
+4) Yargıtay
+5) Danıştay
+6) Hâkimler ve Savcılar Kurulu
+7) Sayıştay
+8) Adalet Bakanlığı
+9) (Değişik:20/5/2021-7319/10 md.) Aile ve Sosyal Hizmetler Bakanlığı
+10) (Ek:20/5/2021-7319/10 md.)(1) Çalışma ve Sosyal Güvenlik Bakanlığı
+11) (Değişik:4/11/2021-7341/18 md.) Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
+12) Dışişleri Bakanlığı
+13) Enerji ve Tabii Kaynaklar Bakanlığı
+14) Gençlik ve Spor Bakanlığı
+15) Hazine ve Maliye Bakanlığı
+16) İçişleri Bakanlığı
+17) Kültür ve Turizm Bakanlığı
+18) Milli Eğitim Bakanlığı
+19) Milli Savunma Bakanlığı
+20) Sağlık Bakanlığı
+21) Sanayi ve Teknoloji Bakanlığı
+22) Tarım ve Orman Bakanlığı
+23) Ticaret Bakanlığı
+24) Ulaştırma ve Altyapı Bakanlığı
+25) Devlet Arşivleri Başkanlığı
+26) Diyanet İşleri Başkanlığı
+27) İletişim Başkanlığı
+28) Milli Güvenlik Kurulu Genel Sekreterliği
+29) Milli İstihbarat Teşkilatı Başkanlığı
+30) Milli Saraylar İdaresi Başkanlığı
+31) Strateji ve Bütçe Başkanlığı
+32) Jandarma Genel Komutanlığı
+33) Sahil Güvenlik Komutanlığı
+34) Emniyet Genel Müdürlüğü
+35) (Mülga:18/7/2021-7333/14 md.)
+36) Afet ve Acil Durum Yönetimi Başkanlığı
+37) Gelir İdaresi Başkanlığı
+38) Tapu ve Kadastro Genel Müdürlüğü
+39) Meteoroloji Genel Müdürlüğü
+40) (Değişik:4/11/2021-7341/18 md.) Göç İdaresi Başkanlığı
+41) Avrupa Birliği Başkanlığı
+42) (Ek:4/11/2021-7341/18 md.) İklim Değişikliği Başkanlığı
+(II) SAYILI CETVEL
+(Değişik: 22/12/2005-5436/12 md.)
+ÖZEL BÜTÇELİ İDARELER
+A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLERİ
+1) Yükseköğretim Kurulu
+2) (Değişik: 17/2/2011-6114/11 md.) Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı
+3) İstanbul Üniversitesi
+4) İstanbul Teknik Üniversitesi
+5) Ankara Üniversitesi
+6) Karadeniz Teknik Üniversitesi
+7) Ege Üniversitesi
+8) Atatürk Üniversitesi
+9) Orta Doğu Teknik Üniversitesi
+10) Hacettepe Üniversitesi
+11) Boğaziçi Üniversitesi
+12) Dicle Üniversitesi
+13) Çukurova Üniversitesi
+14) Anadolu Üniversitesi
+15) (Değişik: 9/5/2018-7141/10 md.) Sivas Cumhuriyet Üniversitesi
+16) İnönü Üniversitesi
+17) Fırat Üniversitesi
+18) Ondokuz Mayıs Üniversitesi
+19) Selçuk Üniversitesi
+20) (Değişik: 9/5/2018-7141/10 md.) Bursa Uludağ Üniversitesi
+21) Erciyes Üniversitesi
+22) Akdeniz Üniversitesi
+23) Dokuz Eylül Üniversitesi
+24) Gazi Üniversitesi
+25) Marmara Üniversitesi
+26) Mimar Sinan Güzel Sanatlar Üniversitesi
+27) Trakya Üniversitesi
+28) Yıldız Teknik Üniversitesi
+29) (Değişik: 18/6/2017-7033/81 md.) Van Yüzüncü Yıl Üniversitesi
+30) Gaziantep Üniversitesi
+31) (Değişik: 9/5/2018-7141/10 md.) Bolu Abant İzzet Baysal Üniversitesi
+32) (Değişik: 9/5/2018-7141/10 md.) Aydın Adnan Menderes Üniversitesi
+33) Afyon Kocatepe Üniversitesi
+34) Balıkesir Üniversitesi
+35) (Değişik: 20/8/2016-6745/22 md.) Manisa Celal Bayar Üniversitesi
+36) Çanakkale Onsekiz Mart Üniversitesi
+37) (Değişik: 9/5/2018-7141/10 md.) Kütahya Dumlupınar Üniversitesi
+38) (Değişik: 9/5/2018-7141/10 md.) Tokat Gaziosmanpaşa Üniversitesi
+39) (Değişik: 21/10/2014-6562/4 md.) Gebze Teknik Üniversitesi
+40) Harran Üniversitesi
+41) İzmir Yüksek Teknoloji Enstitüsü
+42) Kafkas Üniversitesi
+43) Kahramanmaraş Sütçü İmam Üniversitesi
+44) Kırıkkale Üniversitesi
+45) Kocaeli Üniversitesi
+46) Mersin Üniversitesi
+47) (Ek: 16/5/2012-6307/4 md.) Muğla Sıtkı Koçman Üniversitesi
+48) (Değişik: 9/5/2018-7141/10 md.) Hatay Mustafa Kemal Üniversitesi
+49) (Değişik: 18/6/2017-7033/81 md.) Niğde Ömer Halisdemir Üniversitesi
+50) Pamukkale Üniversitesi
+51) Sakarya Üniversitesi
+52) Süleyman Demirel Üniversitesi
+53) (Değişik: 9/5/2018-7141/10 md.) Zonguldak Bülent Ecevit Üniversitesi
+54) Eskişehir Osmangazi Üniversitesi
+55) Galatasaray Üniversitesi
+56) (Ek: 1/3/2006-5467/5 md.; Değişik: 9/5/2018-7141/10 md.) Kırşehir Ahi Evran Üniversitesi
+57) (Ek: 1/3/2006-5467/5 md.) Kastamonu Üniversitesi
+58) (Ek: 1/3/2006-5467/5 md.) Düzce Üniversitesi
+59) (Ek: 1/3/2006-5467/5 md.; Değişik: 9/5/2018-7141/10 md.) Burdur Mehmet Akif Ersoy Üniversitesi
+60) (Ek: 1/3/2006-5467/5 md.) Uşak Üniversitesi
+61) (Ek: 1/3/2006-5467/5 md.; Değişik: 30/3/2012-6287/22 md.) Recep Tayyip Erdoğan Üniversitesi
+62) (Ek: 1/3/2006-5467/5 md; Değişik: 9/5/2018-7141/10 md.) Tekirdağ Namık Kemal Üniversitesi
+63) (Ek: 1/3/2006-5467/5 md. ; Değişik: 9/5/2018-7141/10 md.) Erzincan Binali Yıldırım Üniversitesi
+64) (Ek: 1/3/2006-5467/5 md.) Aksaray Üniversitesi
+65) (Ek: 1/3/2006-5467/5 md.) Giresun Üniversitesi
+66) (Ek: 1/3/2006-5467/5 md.) Hitit Üniversitesi
+67) (Ek: 1/3/2006-5467/5 md. ; Değişik: 9/5/2018-7141/10 md.) Yozgat Bozok Üniversitesi
+68) (Ek: 1/3/2006-5467/5 md.) Adıyaman Üniversitesi
+69) (Ek: 1/3/2006-5467/5 md.) Ordu Üniversitesi
+70) (Ek: 1/3/2006-5467/5 md.) Amasya Üniversitesi
+71) (Ek: 17/5/2007-5662/9 md.) Karamanoğlu Mehmetbey Üniversitesi
+72) (Ek: 17/5/2007-5662/9 md.) Ağrı Dağı Üniversitesi [123]
+73) (Ek: 17/5/2007-5662/9 md.) Sinop Üniversitesi
+74) (Ek: 17/5/2007-5662/9 md.) Siirt Üniversitesi
+75) (Ek: 17/5/2007-5662/9 md.; Değişik: 30/10/2013-6501/3 md.) Nevşehir Hacı Bektaş Veli Üniversitesi
+76) (Ek: 17/5/2007-5662/9 md.) Karabük Üniversitesi
+77) (Ek: 17/5/2007-5662/9 md.) Kilis 7 Aralık Üniversitesi
+78) (Ek: 17/5/2007-5662/9 md.) Çankırı Karatekin Üniversitesi
+79) (Ek: 17/5/2007-5662/9 md.) Artvin Çoruh Üniversitesi
+80) (Ek: 17/5/2007-5662/9 md.; Değişik: 19/4/2012-6296/4 md.) Bilecik Şeyh Edebali Üniversitesi
+81) (Ek: 17/5/2007-5662/9 md.) Bitlis Eren Üniversitesi
+82) (Ek: 17/5/2007-5662/9 md.) Kırklareli Üniversitesi
+83) (Ek: 17/5/2007-5662/9 md.) Osmaniye Korkut Ata Üniversitesi
+84) (Ek: 17/5/2007-5662/9 md.) Bingöl Üniversitesi
+85) (Ek: 17/5/2007-5662/9 md.) Muş Alparslan Üniversitesi
+86) (Ek: 17/5/2007-5662/9 md.) Mardin Artuklu Üniversitesi
+87) (Ek: 17/5/2007-5662/9 md.) Batman Üniversitesi
+88) (Ek: 22/5/2008-5765/3 md.) Ardahan Üniversitesi
+89) (Ek: 22/5/2008-5765/3 md.) Bartın Üniversitesi
+90) (Ek: 22/5/2008-5765/3 md.) Bayburt Üniversitesi
+91) (Ek: 22/5/2008-5765/3 md.) Gümüşhane Üniversitesi
+92) (Ek: 22/5/2008-5765/3 md.) Hakkari Üniversitesi
+93) (Ek: 22/5/2008-5765/3 md.) Iğdır Üniversitesi
+94) (Ek: 22/5/2008-5765/3 md.) Şırnak Üniversitesi
+95) (Ek: 22/5/2008-5765/3 md.; Değişik: 20/8/2016-6745/22 md.) Munzur Üniversitesi
+96) (Ek: 22/5/2008-5765/3 md.) Yalova Üniversitesi
+97) (Ek: 1/4/2010-5979/4 md.) Türk-Alman Üniversitesi
+98) (Ek: 14/7/2010-6005/2 md.; (Değişik: 20/8/2016-6745/22 md.) Ankara Yıldırım Beyazıt Üniversitesi
+99) (Ek: 14/7/2010-6005/2 md.) Bursa Teknik Üniversitesi
+100) (Ek: 14/7/2010-6005/2 md.) İstanbul Medeniyet Üniversitesi
+101) (Ek: 14/7/2010-6005/2 md.) İzmir Kâtip Çelebi Üniversitesi
+102) (Ek: 14/7/2010-6005/2 md.; Değişik: 30/3/2012-6287/22 md.) Necmettin Erbakan Üniversitesi
+103) (Ek: 14/7/2010-6005/2 md.; Değişik: 30/3/2012-6287/22 md.) Abdullah Gül Üniversitesi
+104) (Ek: 14/7/2010-6005/2 md.) Erzurum Teknik Üniversitesi
+105) (Ek: 31/3/2011-6218/2 md.) (Değişik:21/2/2019-7167/3 md.) Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi
+106) (Ek: 22/1/2013-6410/5 md.) Ankara Sosyal Bilimler Üniversitesi
+107) (Ek: 27/3/2015-6639/6 md.) Sağlık Bilimleri Üniversitesi
+108) (Ek: 31/3/2015-6640/7 md.) Bandırma Onyedi Eylül Üniversitesi
+109) (Ek: 31/3/2015-6640/7 md.) İskenderun Teknik Üniversitesi
+110) (Ek: 31/3/2015-6640/7 md.) Alanya Alaaddin Keykubat Üniversitesi
+111) (Ek: 1/4/2015-6641/6 md.) Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi
+112) (Ek: 20/8/2016-6745/22 md.) İzmir Bakırçay Üniversitesi
+113) (Ek: 20/8/2016-6745/22 md.) İzmir Demokrasi Üniversitesi
+114) (Ek: 18/6/2017-7033/81 md.) Yükseköğretim Kalite Kurulu
+115) (Ek: 18/6/2017-7033/81 md.; Değişik: 6/12/2017-7063/6 md.) Ankara Müzik ve Güzel Sanatlar Üniversitesi
+116) (Değişik: 17/1/2019-7161/39 md.) Gaziantep İslam Bilim ve Teknoloji Üniversitesi
+117) (Ek: 9/5/2018-7141/10 md.) Konya Teknik Üniversitesi
+118) (Ek: 9/5/2018-7141/10 md.) Kütahya Sağlık Bilimleri Üniversitesi
+119) (Ek: 9/5/2018-7141/10 md.) Malatya Turgut Özal Üniversitesi
+120) (Ek: 9/5/2018-7141/10 md.) İstanbul Üniversitesi-Cerrahpaşa
+121) (Ek: 9/5/2018-7141/10 md.) Ankara Hacı Bayram Veli Üniversitesi
+122) (Ek: 9/5/2018-7141/10 md.) Sakarya Uygulamalı Bilimler Üniversitesi
+123) (Ek: 9/5/2018-7141/10 md.) Samsun Üniversitesi
+124) (Ek: 9/5/2018-7141/10 md.) Sivas Bilim ve Teknoloji Üniversitesi
+125) (Ek: 9/5/2018-7141/10 md.) Tarsus Üniversitesi
+126) (Ek: 9/5/2018-7141/10 md.) Trabzon Üniversitesi
+127) (Ek: 9/5/2018-7141/10 md.) Kayseri Üniversitesi
+128) (Ek: 9/5/2018-7141/10 md.) Kahramanmaraş İstiklal Üniversitesi
+129) (Ek: 9/5/2018-7141/10 md.) Eskişehir Teknik Üniversitesi
+130) (Ek: 9/5/2018-7141/10 md.) Isparta Uygulamalı Bilimler Üniversitesi
+131) (Ek: 9/5/2018-7141/10 md.) Afyonkarahisar Sağlık Bilimleri Üniversitesi
+B) (Değişik:RG-16/10/2020-7254/5 md.) ÖZEL BÜTÇELİ DİĞER İDARELER
+1) Savunma Sanayi Başkanlığı
+2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
+3) Atatürk Araştırma Merkezi
+4) Atatürk Kültür Merkezi
+5) Türk Dil Kurumu
+6) Türk Tarih Kurumu
+7) Türkiye Bilimsel ve Teknolojik Araştırma Kurumu
+8) Türkiye Bilimler Akademisi
+9) Karayolları Genel Müdürlüğü
+10) Devlet Tiyatroları Genel Müdürlüğü
+11) Devlet Opera ve Balesi Genel Müdürlüğü
+12) Orman Genel Müdürlüğü
+13) Vakıflar Genel Müdürlüğü
+14) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü
+15) Maden Tetkik ve Arama Genel Müdürlüğü
+16) Sivil Havacılık Genel Müdürlüğü
+17) Türk Akreditasyon Kurumu
+18) Türk Standardları Enstitüsü
+19) Türk Patent ve Marka Kurumu
+20) Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı
+21) Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı
+22) GAP Bölge Kalkınma İdaresi
+23) Özelleştirme İdaresi Başkanlığı
+24) Kamu Denetçiliği Kurumu
+25) Ceza İnfaz Kurumları ile Tutukevleri İşyurtları Kurumu
+26) Meslekî Yeterlilik Kurumu
+27) Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
+28) Türkiye Yazma Eserler Kurumu Başkanlığı
+29) Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı
+30) Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı
+31) Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı
+32) Devlet Su İşleri Genel Müdürlüğü
+33) Türkiye Su Enstitüsü
+34) Türkiye İlaç ve Tıbbî Cihaz Kurumu
+35) Türkiye İnsan Hakları ve Eşitlik Kurumu
+36) Türkiye Sağlık Enstitüleri Başkanlığı
+37) Helal Akreditasyon Kurumu
+38) Maden ve Petrol İşleri Genel Müdürlüğü
+39) Türkiye Uzay Ajansı
+40) Türkiye Adalet Akademisi
+41) Kapadokya Alan Başkanlığı
+42) Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu
+43) (Ek:18/7/2021-7333/14 md.) Türkiye İstatistik Kurumu
+44) (Ek:18/1/2023-7432/11 md.) Uludağ Alan Başkanlığı
+45) (Ek:7/11/2023-7471/5 md.) Kentsel Dönüşüm Başkanlığı
+46) (Ek:12/3/2025-7545/19 md.) Siber Güvenlik Başkanlığı
+47) (Ek:10/7/2025-7553/11 md.) Doğa Koruma ve Milli Parklar Genel Müdürlüğü
+(III) SAYILI CETVEL
+(Değişik:RG-16/10/2020-7254/5 md.)
+DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR
+1) Radyo ve Televizyon Üst Kurulu
+2) Bilgi Teknolojileri ve İletişim Kurumu
+3) Sermaye Piyasası Kurulu
+4) Bankacılık Düzenleme ve Denetleme Kurumu
+5) Enerji Piyasası Düzenleme Kurumu
+6) Kamu İhale Kurumu
+7) Rekabet Kurumu
+8) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu
+9) Kişisel Verileri Koruma Kurumu
+10) Nükleer Düzenleme Kurumu
+11) Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
+(IV) SAYILI CETVEL
+(Değişik: 16/5/2006-5502/42 md.)
+SOSYAL GÜVENLİK KURUMLARI
+1- Sosyal Güvenlik Kurumu
+2- Türkiye İş Kurumu Genel Müdürlüğü
+[122] 20/5/2021 tarihli ve 7319 sayılı Kanunun 10 uncu maddesiyle, bu Cetvele 9 uncu sıradan sonra gelmek üzere 10 uncu sıra eklenmiş ve mevcut sıra numaraları buna göre teselsül ettirilmiştir.
+[123] 19/6/2008 tarihli ve 5773 sayılı Kanunun 2 nci maddesiyle 28/3/1983 tarihli ve 2809 sayılı Kanuna eklenen Geçici 38 inci maddede; 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununda Ağrı Dağı Üniversitesine yapılmış olan atıfların Ağrı İbrahim Çeçen Üniversitesine yapılmış sayılacağı hüküm altına alınmıştır.
+Yükleyen: yasinuzunoglu

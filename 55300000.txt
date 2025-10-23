@@ -1,0 +1,829 @@
+5530 sayılı Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununda Değişiklik Yapılmasına Dair Kanun
+Yayımlandığı Resmî Gazete Tarihi: 05.07.2006
+Yayımlandığı Resmî Gazete Sayısı: 26219
+Kabul Tarihi	29.06.2006
+T.C.
+Başbakanlık
+Kanunlar ve Kararlar Genel Müdürlüğü
+Sayı	B.02.0.KKG.0.10/101-350/2565
+17.05.2006
+TÜRKİYE BÜYÜK MİLLET MECLİSİ BAŞKANLIĞINA
+Milli Savunma Bakanlığınca hazırlanan ve Başkanlığınıza arzı Bakanlar Kurulunca 08.05.2006 tarihinde kararlaştırılan Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısı ile gerekçesi ilişikte gönderilmiştir.
+R. Tayyip Erdoğan
+Başbakan
+GENEL GEREKÇE
+Türkiye, Birleşmiş Milletler düzeyinde insan hak ve hürriyetlerine ilişkin sözleşmeleri ve İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair Sözleşmeyi (Avrupa İnsan Hakları Sözleşmesini) kabul etmiş ve Avrupa İnsan Hakları Mahkemesine bireysel başvuru hakkını tanımıştır. Bu sözleşmelerde, adil yargılanma hakkı ve bunun gerekleri olan suçsuzluk karinesi, susma hakkı, silahların eşitliği ilkeleri ve savunma hakları gibi hükümler yer almaktadır. Bu hükümler, bugün artık Türk iç hukukunun uyulması zorunlu kısımları haline gelmiştir. Söz konusu sözleşme hükümleri, mahkemelerimiz tarafından doğrudan uygulanmakta, Anayasa Mahkemesince de destek norm olarak kullanılmaktadır.
+Çağdaş hukukta ve ceza muhakemeleri usulü hukukunda egemen olan temel strateji, sosyal düzenin korunması ile bireyin temel hak ve özgürlüklerine saygı arasında bir denge kurulması suretiyle gerçeği ortaya çıkarmak ve adil yargılama ilkesine uyarak adil yaptırımlara hükmedip uygulamaktır. Söz konusu stratejinin asıl ulaşmak istediği hedef, gerçeği meydana çıkarmaktır; ancak, gerçeğin adil yargılanma hakkına uyularak meydana çıkarılması temel koşuldur. Ceza adalet sistemi, bu denge üzerine kurulmalıdır. Dengeyi sağlayacak esas güvenceler bugün artık anayasalarda ve uluslararası hukuk metinlerinde yer almaktadır.
+Alman Askeri Ceza Muhakemeleri Kanunundan iktibas edilerek hazırlanan 22.05.1930 tarihli ve 1631 sayılı Askeri Muhakeme Usulü Kanunu 33 yıl yürürlükte kalmış ve zaman zaman beliren ihtiyaçlar karşısında çeşitli tarihlerde değiştirilmiştir.
+27.05.1961 tarihinde yürürlüğe giren Türk Silahlı Kuvvetleri İç Hizmet Kanununun bazı maddeleri ile Askeri Muhakeme Usulü Kanununda geçen deyim ve kavramlarda değişiklik yapılmıştır. Ayrıca, 1961 Anayasasının askeri yargıya ait 138 ve Askeri Yargıtaya ait 141 inci maddelerinde Askeri Muhakeme Usulü Kanununu çok yakından ilgilendiren önemli değişiklikler yapılmıştır. Yine, Askeri Yargıtayın kuruluşu hakkındaki 04.12.1962 tarihli ve 127 sayılı Kanun, Askeri Muhakeme Usulü Kanununun bazı maddelerini yürürlükten kaldırmış ve Anayasa Mahkemesi de 26.06.1963 tarihli ve E.1963/197, K.1963/166 sayılı Kararıyla Askeri Muhakeme Usulü Kanununun bazı hükümlerini iptal etmiştir. Belirtilen sebeplerle Askeri Muhakeme Usulü Kanununun pek çok maddesinin değiştirilmesi gerekmiş, ancak çeşitli tarihlerde değiştirilen kanun maddeleri arasında kavram ve hüküm bakımından meydana gelen uyumsuzluk ve uygulamada görülen ihtiyaçlar dikkate alınarak, maddelerde değişiklik yapılması yerine kanunun yeni baştan tedvini tercih edilmiştir.
+25.10.1963 tarihli ve 353 sayılı Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanunu 26.10.1963 tarihinde yayımlanarak yasalaşmış ve 1631 sayılı Askeri Muhakeme Usulü Kanununun yürürlüğüne son verilmiştir.
+Avrupa Birliği Müktesebatının Üstlenilmesine İlişkin Türkiye Ulusal Programında, Türkiye Cumhuriyeti Hükümetinin, insan hakları, demokrasi ve hukukun üstünlüğü alanlarında kaydedilecek gelişmeleri sürekli olarak izleyeceği, Avrupa Birliği müktesebatına uyum çalışmalarını düzenli şekilde değerlendireceği ve bu çalışmaların hızlandırılması için gerekli önlemleri alacağı belirtilmiştir. Ulusal Programda, yargının işlevselliği ve verimliliği bölümünde orta vadede Askeri Ceza Kanunu ile Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununun gözden geçirilmesi de öngörülmüştür. Ayrıca, Ulusal Programda öngörülen hedefler doğrultusunda hazırlanan 07.05.2004 tarihli ve 5170 sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinin Değiştirilmesi Hakkında Kanun ile Anayasada yapılan bazı değişikliklerin askeri yargıya da yansıtılması gerekmektedir.
+Bu bağlamda, Anayasanın bazı maddelerinde yapılan savaş ve çok yakın savaş tehdidi hallerinde bile ölüm cezasının verilmemesine dair değişikliklerin askeri yargıya yansıtılması, sivillerin askeri yargıya tabi oldukları haller incelenerek mümkün olduğu ölçüde sivillerin askeri mahkemede yargılanmalarına son verilmesi amacıyla çeşitli çalışmalar yapılmıştır. Bu çalışmalarda, askeri yargıda karşılaşılan bazı sorunların ve yargılamanın uzamasına neden olan hallerin giderilmesi de amaçlanmıştır.
+Askeri yargı ile ilgili çalışmalar devam ederken, çağdaş hukukta egemen olan temel stratejinin direktiflerinden hareketle hazırlanan, 26.09.2004 tarihli ve 5237 sayılı Türk Ceza Kanunu, 04.11.2004 tarihli ve 5252 sayılı Türk Ceza Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanun, 04.12.2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu ve 13.12.2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun Türkiye Büyük Millet Meclisince kabul edilerek yasalaşmıştır.
+Yukarıda belirtilen kanun hükümleri, Askeri Ceza Kanununu ve Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununu da etkilemiştir. Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununu etkileyen hükümlerin başlıcaları; soruşturma ve kovuşturma evrelerinin ayrılması ve bunun sonucu olarak şüpheli ve sanık kavramlarının bu evrelerdeki yerlerine yerleştirilmesi; gecikmesinde sakınca bulunan hal kavramının tanımlanması ve yetkilerin genişlemesini sağlayan bu hallerin belirlenmesi; zorunlu avukatlık sisteminin kapsamının genişletilmesi; arama, elkoyma, ifade alma, sorgu ve hukuka aykırı delil konularında yeni düzenlemeler yapılması; tutuklama tedbiri ile ilgili kısıtlayıcı hükümler konulması; iddianamenin iadesi veya kabulü müessesesinin getirilmesi; duruşmalara gelmeyen kaçakların hazır bulunmalarını sağlayıcı zorlayıcı tedbirler alınması; şüpheliden, sanıktan veya mağdurdan yahut üçüncü kişilerden kıl, salgı, kan ve benzerleri gibi kısım veya parçaların alınabilmesi; beden muayenesini sağlayan yetkilerin tanınması; moleküler genetik incelemenin yapılabilmesi; telekomünikasyona müdahale ile belirli bilgi veya verilere elkonulabilmesi; kişiyi tanıklıkta bulunmaya zorlayacak ve tanığın korunmasını sağlayacak tedbirler getirilmesi; kaçaklar hakkında özel usul hükümlerine yer verilmesi; bilirkişilik konusunda yeni ve ayrıntılı düzenlemelere gidilmesi; ömür boyu hak yasaklanmasına son verilmesi; ceza türleri ve infaz şekillerinin değişmesi olarak sayılabilir.
+Askeri mahkemelerin yetkileri, Türkiye Cumhuriyeti Anayasasının 145 inci maddesinde düzenlenmiştir. Buna göre; askeri mahkemede askerlerin yargılanması kural, asker olmayan kişilerin yargılanması ise istisnadır. Asker olmayan kişilerin yargılanması konusunda 145 inci maddede, Askeri mahkemeler, asker olmayan kişilerin özel kanunda belirtilen askeri suçları ile kanunda gösterilen görevlerini ifa ettikleri sırada veya kanunda gösterilen askeri mahallerde askerlere karşı işledikleri suçlara da bakmakla görevlidirler. hükmü getirilmiştir.
+Bu hükme göre barış zamanında; yukarıda belirtilen hallerde kanunda gösterilmek koşuluyla askeri mahkemeler yetkili olacaktır. Savaş ve sıkıyönetim hallerinde ise, bu konuda herhangi bir sınırlama getirilmemiş, sadece kanunla düzenleme yapılacağı belirtilmiştir.
+Bu konuda, Avrupa Birliği müktesebatı incelendiğinde; Avrupa Temel Haklar Şartının Adalet başlıklı 47 ila 50 nci maddelerinde, İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Avrupa Sözleşmesinin 6 ila 18 inci maddelerinde, sanıkların temel hakları ile ilgili düzenlemelere yer verilmiştir. İnsan Haklarını ve Temel Özgürlükleri Korumaya Dair Avrupa Sözleşmesinin 6 ncı maddesinde, herkesin kişisel hak ve yükümlülükleri ile hakkındaki bir suç isnadının karara bağlanmasında hukuken kurulmuş bağımsız ve tarafsız bir yargı yeri tarafından, makul bir sürede, adil ve aleni olarak yargılanma hakkına sahip olduğu belirtilmiş; 15 inci maddesinde ise, her sözleşmeci devletin savaş zamanında veya ulusun yaşamını tehdit eden başka bir olağanüstü durumda uluslararası hukuktan doğan diğer yükümlülüklerine aykırı olmamak koşuluyla durumun zorunluluklarının kesin olarak gerektirdiği ölçüde, bu sözleşmeyle üstlendiği yükümlülüklerini azaltan tedbirleri alabileceği hükme bağlanmış; diğer taraftan 17 ve 18 inci maddelerde de, sözleşme hükümlerinden hiçbirinin sözleşmede tanınan hak ve özgürlüklerin yok edilmesine veya sözleşmede öngörüldüğünden daha geniş ölçüde sınırlandırılmasına yönelik eylemde bulunma hakkını verir biçimde yorumlanamayacağı, sınırlandırılmaların öngörüldükleri amaç dışında kullanılamayacağı belirtilmiştir.
+Değişen mevzuatın etkileri ve Avrupa Birliği Müktesebatının Üstlenilmesine İlişkin Türkiye Ulusal Programında belirtilen taahhütler dikkate alınmak ve bu konuda yapılan çalışmalardan yararlanılmak suretiyle oluşturulan Tasarıda, 353 sayılı Kanunun askeri mahkemelerin kuruluşuna, teşkilatında askeri mahkeme kurulan komutanın yetki ve sorumluluklarına savaş haline ve yasa yollarına ilişkin hükümlerinde ihtiyaçlar dışında değişikliğe gidilmemiştir. Adil yargılanma hakkına uyularak gerçeğin meydana çıkarılmasına katkıda bulunacağından, Ceza Muhakemesi Kanunu ile getirilen bazı yeni düzenlemelerin askeri yargıda da uygulanması gerekli görülmüş, ancak 353 sayılı Kanunun sistematiği dikkate alındığında getirilen yeni düzenlemelerin Kanun içinde tekrarlanması uygun görülmemiştir. 353 sayılı Kanunda arama, elkoyma, bilirkişi ve otopsi gibi sınırlı konulara ilişkin 04.04.1929 tarihli ve 1412 sayılı Ceza Muhakemeleri Usulü Kanununa atıf yapılmış olması ve buna karşılık hakimin davaya bakamayacağı haller, tanık, ifade alma ve sorgu, duruşma usulü gibi pek çok konuda Ceza Muhakemeleri Usulü Kanunundaki hükümlerin tekrarlanmış olması dikkate alındığında, Ceza Muhakemesi Kanununda bulunan hükümlerin tekrarına gerek görülmeyerek 353 sayılı Kanunun ilgili hükümlerinin yürürlükten kaldırılması ve askeri yargıda uygulanmasına ihtiyaç bulunmayan hükümler hariç olmak üzere Ceza Muhakemesi Kanununa atıf yapılması yolu tercih edilmiştir.
+Ayrıca, sivillerin askeri yargıya tabi olduğu haller barış ve savaş zamanına göre iki ayrı kategoride ele alınmıştır. Askeri mahkemelerin savaş zamanındaki yetkilerini düzenleyen hükümlerde değişikliğe gidilmemiş ve sivillerin, asker kişilerle müştereken işledikleri askeri suçlara ilişkin yargılamalar hariç olmak üzere, barış zamanında askeri mahkemelerde yargılanmalarına son verilmiştir. Buna paralel olarak, askeri mahkemece tutuklanan sivillerin askeri ceza evine konulması zorunluluğu ortadan kaldırılmıştır.
+Tasarı, yukarıda açıklanan ilke ve düşünceler esas alınarak hazırlanmıştır.
+HÜKÜMETİN TEKLİF ETTİĞİ METİN
+ASKERİ MAHKEMELER KURULUŞU VE YARGILAMA USULÜ KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN TASARISI
+Madde - 1.
+25.10.1963 tarihli ve 353 sayılı Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununun 3 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Askeri mahkemelerde bulunacak subay üyelerin, en az yüzbaşı rütbesinde muharip sınıftan olmaları, sanığın astı ve yargılama süresince en yakın amiri olmamaları ve taksirli suçlar hariç, bir suçtan hükümlü bulunmamaları şarttır.
+Madde - 2.
+353 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (A) bendi aşağıdaki şekilde değiştirilmiştir.
+A) Muvazzaf askerler; subaylar, astsubaylar, askeri öğrenciler, uzman jandarmalar, uzman erbaşlar, erbaş ve erler,
+Madde - 3.
+353 sayılı Kanunun 11 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Yabancı asker kişilerin askeri mahkemelerde yargılanmaları:
+MADDE 11- Uluslararası anlaşmalar gereğince yabancı asker kişilerin askeri mahkemede yargılanmalarını gerektiren suçları hakkında soruşturma ve kovuşturma yapılması Milli Savunma Bakanının iznine bağlıdır.
+Madde - 4.
+353 sayılı Kanunun 14 üncü maddesinin (G) ve (H) bentleri aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki (I) bendi eklenmiştir.
+G) 1632 sayılı Askeri Ceza Kanununun 55, 56, 57, 58, 59, 63, 64, 75, 78, 80, 81, 93, 94, 95, 100, 101, 102, 124, 125 ve 127 nci maddelerinde yazılı suçlara ait davalar,
+H) İlan olunan harekat bölgesinde, birinci derece askeri yasak bölgeler içinde veya nöbet yerlerinde karakollarda kışla ve karargahlarda, askeri kurumlarda, yerleşme ve konaklama amacıyla kullanılan bina ve mahaller içinde askerlere karşı işlenen 26.09.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 86, 106, 108, 113, 125 ve 265 inci maddelerinde yazılı suçlara ait davalar,
+I) Nöbet, devriye, karakol, inzibat, askeri trafik, kolluk veya kurtarma ve yardım görevi yapan askerlere karşı bu görevleri yaptıkları sırada işlenen (H) bendinde yazılı suçlara ait davalar.
+Madde - 5.
+353 sayılı Kanunun 19 uncu maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Tek hakimle ve kurulla bakılacak işler:
+MADDE 19 - Subay ve astsubayların işledikleri suçlara ait davalar hariç olmak üzere, adli para cezasını veya yukarı haddi üç yıla kadar hapis cezasını gerektiren Askeri Ceza Kanununda ve diğer kanunlarda yazılı suçları işleyenlerin davalarına ve suç konusu olmayan eşyanın müsaderesine askeri mahkemelerin hakim sınıfından olan üyelerinden birisi tarafından bakılır.
+Bir kimse tarafından işlenmiş müteaddit fiillerin yargılanması en ağır cezayı gerektiren fiile bakmakla görevli mahkemeye aittir. Fiilde irtibat halinde de aynı hüküm uygulanır. Suçun subay ve astsubayla birlikte işlenmesi halinde birinci fıkra hükmü uygulanmaz.
+Birinci fıkrada yazılı suçlarla ilgili soruşturmalarda hakim kararı gerektiren her türlü işleme ait kararlar, askeri mahkemenin hakim sınıfından olan üyelerinden birisi tarafından verilir. Bu kararlara karşı itirazı incelemeye, en yakın askeri mahkeme yetkilidir.
+İddianamenin kabulünden sonra, yargılamanın tek hakimle yürütülmesi gerektiği gerekçesi ile görevsizlik kararı verilemez.
+Görülmekte olan davalar nedeniyle tek hakim ile askeri mahkeme kurulu arasında çıkan görev uyuşmazlıklarını Askeri Yargıtay çözümler.
+Madde - 6.
+353 sayılı Kanunun 20 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 20 - Er ve erbaşlar ile yedek subayların askere girmeden veya silah altına çağrılmadan önce işledikleri yukarı haddi bir yıla kadar hapis cezasını gerektiren suçlara ait davalarda soruşturma ve kovuşturma işlemleri askerliklerini bitirmelerine kadar geri bırakılır.
+Türk Silahlı Kuvvetlerinden çıkarmayı gerektiren suçlardan sanık yedek subaylar hakkında bu hüküm uygulanmaz.
+Savaş halinde, silah altında bulunan veya silah altına çağrılan bütün asker kişiler aleyhine adliye mahkemelerinin görevine giren suçlardan aşağı haddi beş yıl ve daha fazla hapis cezasını gerektirenler hariç olmak üzere, şüpheli veya sanık bulundukları diğer suçlara ait soruşturma ve kovuşturma işlemleri barışa veya askerliklerinin bitimine kadar geri bırakılır.
+Savaş halinde, aşağıda yazılı suçlar hariç olmak üzere, askeri mahkemenin görevine giren asker kişiler hakkındaki suçlara ait soruşturma ve kovuşturma işlemleri, barışa veya askerliklerinin bitimine kadar geri bırakılır. Ancak teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri askeri menfaat ve zorunluluklar karşısında geri bırakma hükümlerinin uygulanmamasını askeri savcıdan isteyebilir.
+Aşağı haddi beş yıl ve daha fazla hapis cezasını gerektiren suçlar,
+Askeri Ceza Kanununun 3 üncü babının birinci, üçüncü (63 üncü maddesinin birinci fıkrası ile 76 ve 77 nci maddeleri hariç), dördüncü, beşinci (82, 83, 84, 95 inci maddeleri hariç), yedinci fasıllarında yazılı suçlar,
+Askeri Ceza Kanununun 130, 131 ve 137 nci maddelerinde yazılı suçlar.
+Geri bırakma süresi içinde zamanaşımı işlemez.
+Madde - 7.
+353 sayılı Kanunun 21 inci maddesinin ikinci, üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Asker olmayan kişilerin asker kişilerle müştereken işledikleri suçlarda yetkili askeri mahkeme, asker kişiler yönünden yetkili olan askeri mahkemedir. Asker olmayan kişilerin askeri mahkemelerde yargılanmalarını gerektiren diğer suçlarda ise, suçun işlendiği yere en yakın askeri mahkeme yetkilidir. Suçun işlendiği yer belli değil ise, yetkili askeri mahkeme 04.12.2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununda gösterilen usullere göre belirlenir.
+Savaş halinde saklı, yoklama kaçağı, bakaya ve geç iltihak suretiyle bakaya suçlarından sanık erbaş ve erler ile sevk edildiği eğitim merkezine zamanında katılmamak suretiyle bakaya suçu işleyen yedek subay adayları, eğitimlerini takiben verildikleri birlik veya kurumların tabi oldukları askeri mahkemede yargılanırlar.
+Savaş halinde saklı, yoklama kaçağı ve bakaya suçlarından sanık yedek subay aday adayları, kayıtlı bulundukları askerlik şubelerinin tabi olduğu askeri mahkemede yargılanırlar.
+Madde - 8.
+353 sayılı Kanunun 22 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 22 - Kadro ve kuruluş itibarıyla hangi askeri mahkemenin yetkisine girdikleri belli olmayan kişiler, suçu işledikleri veya bölgesinde bulundukları yerdeki askeri birlik veya kurumun bağlı bulunduğu askeri mahkemenin yetkisine tabidirler.
+Yetkili askeri mahkeme birden fazla olduğu takdirde şüpheliyi yakalayan veya soruşturma yapılmasını daha önce isteyen kıt a komutanı veya askeri kurum amirinin teşkilatında kurulan askeri mahkeme yetkilidir.
+Madde - 9.
+353 sayılı Kanunun 28 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+Birden fazla mahkemeye tabi şüpheliler hakkında yetki:
+MADDE 28 - Bir suçta birkaç şüpheli bulunur ve bunlar birden fazla askeri mahkeme yetkisine tabi olursa ilgili askeri savcılar hepsi hakkında soruşturmanın hangi askeri savcılık tarafından yapılacağını kararlaştırırlar. Uzlaşamazlar ise, soruşturmayı yapacak savcılığı Milli Savunma Bakanlığı tayin eder.
+Birleştirilerek yapılan soruşturma sonunda şüphelilerin hepsi hakkında dava, soruşturmayı yapan askeri savcının teşkilatında bulunduğu askeri mahkemede açılabilir.
+Şüphelilerden biri hakkında evvelden dava açılmış ise askeri savcılardan birinin istemi üzerine Askeri Yargıtay tarafından bütün şüphelilerin davasına bakacak askeri mahkeme tayin olunur.
+Madde - 10.
+353 sayılı Kanunun 32 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 32 - Sanık, sınıf ve rütbe yönünden olmayan yetkisizlik iddiasını duruşmada sorgusundan önce askeri mahkemeye bildirir.
+Yetkisizlik iddiası üzerine askeri mahkeme bu iddiayı, sanığın sorgusundan önce karara bağlar. Bu aşamalardan sonra yetkisizlik iddiasında bulunulamayacağı gibi mahkemeler de bu hususta re sen karar veremez.
+Madde - 11.
+353 sayılı Kanunun 33 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Yetkisi olmayan askeri savcının ve askeri mahkemenin yaptığı soruşturma ve kovuşturma:
+MADDE 33 - Yetkisi olmayan askeri savcı ve askeri mahkeme tarafından yapılan soruşturma ve kovuşturma işlemleri, sadece yetkisizlik nedeniyle hükümsüz sayılmaz.
+Madde - 12.
+353 sayılı Kanunun 37 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Hakimin davaya bakamayacağı haller ve hakimin reddi:
+MADDE 37 - Hakim, Ceza Muhakemesi Kanununda belirtilen hallerde ve dava ile ilgili olarak teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri sıfatı ile istemde bulunmuş veya amir sıfatı ile vak a hakkında rapor vermiş ise hakimlik görevini yapamaz.
+Savaşta, hakimin davaya bakamayacağı haller dışındaki bir sebebe dayanılarak hakimin reddi isteminde bulunulamaz.
+Madde - 13.
+353 sayılı Kanunun 46 ncı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Askeri savcıların reddi ve çekinmesi:
+MADDE 46 - Askeri savcılar reddedilemez. Ancak, hakimin davaya bakamayacağı hallerden veya hakimin ret sebeplerinden biri bulunursa davadan çekinirler.
+Madde - 14.
+353 sayılı Kanunun 49 uncu maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Tebligat ve yazışma usulü:
+MADDE 49 - Mahkeme kıdemli hakimi veya hakim, her türlü tebligatı, tüm gerçek veya özel hukuk tüzel kişileri veya kamu kurum ve kuruluşları ile ilgili yazışmaları yapar.
+İnfaz edilecek kararlar, askeri savcılığa verilir.
+Askeri Yargıtayda tebliğ veya yerine getirilecek kararlar, Askeri Yargıtay Başsavcısına verilir. Başsavcı, tebliğ veya yerine getirme için gerekli tedbirleri alır.
+Madde - 15.
+353 sayılı Kanunun 59 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 59 - Asker kişi olan tanıklar, bağlı bulundukları birlik komutanı veya askeri kurum amirlerinin emri ile getirilirler.
+Tutuklu ve ivedi işler ile savaş halinde tanıklar zorla getirilebilirler.
+Madde - 16.
+353 sayılı Kanunun 63 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Askeri mahallerde keşif:
+MADDE 63 - Askeri mahallerde yapılacak keşiflerde o yerdeki askeri birlik komutanı veya askeri kurum amiri haberdar edilir.
+Madde - 17.
+353 sayılı Kanunun 69 uncu maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Tutuklama kararı:
+MADDE 69 - Tutuklama kararı; soruşturma evresinde askeri savcının veya teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amirinin istemi üzerine, kovuşturma evresinde ise askeri savcının istemi ile veya re sen askeri mahkeme tarafından verilir.
+Teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri şüphelinin tutuklanmasını istediği takdirde bu istemini gerekçesi ile birlikte askeri savcıya bildirir. Askeri savcı, bu istemi yetkili askeri mahkemeye intikal ettirmekle yükümlüdür.
+Madde - 18.
+353 sayılı Kanunun 71 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Tutuklama nedenleri:
+MADDE 71 - Kuvvetli suç şüphesinin varlığını gösteren olguların bulunması durumunda Ceza Muhakemesi Kanununda belirtilen tutuklama nedenlerinden birinin varlığı halinde veya askeri disiplinin korunması amacıyla şüpheli veya sanık hakkında tutuklama kararı verilebilir.
+Sırf askeri suçlarda, kanunda öngörülen cezanın üst sınırı bir yıldan az olsa dahi tutuklama kararı verilebilir.
+Madde - 19.
+353 sayılı Kanunun 73 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Şüpheli veya sanığın tutuklanmasından kimlere haber verileceği:
+MADDE 73- Şüpheli veya sanığın tutuklanmasından; yakınları, teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri ile şüpheli veya sanığın mensup olduğu askeri birlik komutanı veya askeri kurum amiri derhal haberdar edilir.
+Madde - 20.
+353 sayılı Kanunun 74 üncü maddesinde yer alan Tutuklama kararına karşı sanık ibaresi Tutuklama kararına karşı şüpheli, sanık olarak, son fıkrası ise aşağıdaki şekilde değiştirilmiştir.
+Ancak, itirazı inceleyen mahkeme, şüpheli veya sanığın tutuklanmasına karar verdiği takdirde; şüpheli veya sanık, itirazda bulunan teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amirinin teşkilatındaki askeri mahkeme hariç, en yakın askeri mahkemeye yukarıdaki süre içinde itiraz edebilir. Bu mahkemenin verdiği karar kesindir.
+Madde - 21.
+353 sayılı Kanunun 75 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 75 - Soruşturma evresinde şüphelinin tutukevinde bulunduğu süre içinde ve en geç otuzar günlük süreler itibarıyla tutukluluk halinin devamının gerekip gerekmeyeceği hususunda, askeri savcının istemi üzerine tutuklama kararını veren askeri mahkeme tarafından 71 inci madde hükümleri göz önünde bulundurularak karar verilir. Bu karar şüpheliye tebliğ olunur.
+Tutukluluk halinin incelenmesi, yukarıdaki fıkrada öngörülen süre içinde şüpheli tarafından da istenebilir.
+İnceleme tarihinde askeri mahkemenin vereceği karara karşı, teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri, askeri savcı ve şüpheli üç gün içinde bu mahkemeye en yakın askeri mahkemede itiraz edebilir. İtirazı inceleyen askeri mahkemenin vereceği karar kesindir.
+Askeri mahkeme; tutuklu bulunan sanığın duruşmasında, tutukluluk halinin devamının gerekip gerekmeyeceğini, her oturumda veya koşullar gerektirdiğinde davanın açılmasından hükmün kesinleşmesine kadar askeri savcı veya sanığın istemi üzerine veya re sen inceleyerek karara bağlar.
+Madde - 22.
+353 sayılı Kanunun 79 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 79- Aşağıda belirtilen hallerde, asker kişi herkes tarafından geçici olarak yakalanabilir:
+Kişiye suçu işlerken rastlanması,
+Suçüstü bir fiilden dolayı; izlenen kişinin kaçması olasılığının bulunması veya hemen kimliğini belirleme olanağının bulunmaması.
+Tutuklama kararı veya yakalama emri düzenlenmesini gerektiren ve gecikmesinde sakınca bulunan hallerde; askeri savcıya derhal başvurma olanağı bulunmadığı takdirde, amiri, üstü, askeri karakol, nöbetçi, devriye, askeri inzibat ve kolluk görevlisi asker kişiyi yakalama yetkisine sahiptir.
+Birinci fıkra hükmü, resmi elbiseli subay, astsubay ve askeri öğrenciler hakkında ancak ağır ceza mahkemesinin görevine giren suçlarda uygulanabilir.
+Madde - 23.
+353 sayılı Kanunun 80 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+Yakalanan kimsenin sorguya çekilmesi ve gözaltı:
+MADDE 80- Yakalanan kişi serbest bırakılmaz ise hemen en yakın askeri inzibat karakoluna veya askeri makama teslim olunur veya yetkili askeri inzibat gelinceye kadar olay yerinde tutulur.
+Yakalanan kişi ve olay hakkında askeri savcı veya Cumhuriyet savcısına hemen bilgi verilerek emri doğrultusunda işlem yapılır. Kişinin yakalandığı bir yakınına veya belirlediği bir kişiye gecikmeksizin haber verilir.
+Yakalanan kişi askeri savcı veya Cumhuriyet savcısı tarafından bırakılmazsa soruşturmanın tamamlanması için gözaltına alınmasına karar verilir.
+Gözaltı süresi, yakalama yerine en yakın askeri mahkeme veya sulh hakimine gönderilmesi için zorunlu süre hariç yakalama anından itibaren yirmidört saati geçemez. Yakalama yerine en yakın askeri mahkeme veya sulh hakimine gönderilme için zorunlu süre oniki saatten fazla olamaz.
+Toplu olarak işlenen suçlarda, suçun niteliği, delillerin toplanmasındaki güçlük veya şüpheli sayısının çokluğu nedeniyle; askeri savcı veya Cumhuriyet savcısı gözaltı süresinin, her defasında bir günü geçmemek üzere, üç gün süreyle uzatılmasına yazılı olarak emir verebilir. Gözaltı süresinin uzatılması emri gözaltına alınana derhal tebliğ edilir.
+Yakalama işlemine, gözaltına alma ve gözaltı süresinin uzatılmasına ilişkin askeri savcı veya Cumhuriyet savcısının yazılı emrine karşı, yakalanan kişi, müdafi veya kanuni temsilcisi, eşi ya da birinci veya ikinci derecede kan hısımı, hemen serbest bırakılmayı sağlamak için askeri mahkemeye veya sulh ceza hakimine başvurabilir. Askeri mahkeme veya sulh ceza hakimi incelemeyi evrak üzerinde yaparak derhal ve nihayet yirmidört saat dolmadan başvuruyu sonuçlandırır. Yakalamanın veya gözaltına alma veya gözaltı süresini uzatmanın yerinde olduğu kanısına varılırsa başvuru reddedilir.
+Dördüncü ve beşinci fıkralarda yazılı süreler içinde şüpheli, sorguya çekilmek üzere askeri mahkeme önüne çıkarılır; askeri mahkeme önüne çıkarılma imkanı olmaması halinde, en yakın sulh hakimine gönderilir. Bu süreler geçtikten sonra mahkeme veya hakim kararı olmaksızın hürriyetinden yoksun kılınamaz.
+Askeri mahkeme veya sulh hakimi, yakalanma veya gözaltına almayı gerektiren bir hal görmez veya bu sebepler ortadan kalkmış bulunursa gözaltına alınan kişinin serbest bırakılmasını emreder.
+Madde - 24.
+353 sayılı Kanunun 81 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Şüpheli veya sanığın getirilmesi:
+MADDE 81 - Asker kişiler, ifadelerinin alınması veya sorguları için bağlı bulundukları askeri birlik komutanının veya askeri kurum amirinin emri ile getirilirler.
+Tutuklu olanlar muhafaza altında gönderilir.
+Savaş halinde asker olmayan şüpheli ve sanıklar davetiye çıkarılmadan zorla getirtilebilirler.
+Madde - 25.
+353 sayılı Kanunun 84 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Askeri savcı, asker kişi olan bir şüphelinin yapılan soruşturma dolayısıyla geçici olarak işten el çektirilmesini gerekli görürse, bu hususta karar verilmesini teşkilatında askeri mahkeme kurulan yetkili kıt a komutanı veya askeri kurum amirinden ister. Kıt a komutanı veya askeri kurum amiri bu hususta en geç üç gün içinde kararını verir ve sonucunu askeri savcıya bildirir.
+Madde - 26.
+353 sayılı Kanunun 85 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Müdafi sayısının sınırlanması:
+MADDE 85 - Savaş halinde müdafilerin sayısı sınırlanabilir.
+Madde - 27.
+353 sayılı Kanunun 93 üncü maddesinin birinci ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Askeri suçlara dair asker kişiler tarafından yapılacak sözlü ve yazılı ihbar ve şikayetler silsile yolu ile şüphelinin amiri olan askeri makama yapılır.
+Asker kişilerden başkası tarafından yapılacak sözlü veya yazılı ihbar ve şikayetler, Ceza Muhakemesi Kanunu hükümleri dairesinde yetkili makamlara veya şüphelinin amiri olan askeri makama yapılır.
+Madde - 28.
+353 sayılı Kanunun 95 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 95 - Cumhuriyet savcılıklarına veya zabıta makam ve memurlarına yapılacak askeri yargıya tabi suç ihbar ve şikayetleri şüphelinin amiri olan makama gönderilir.
+Askeri birlik komutanı veya askeri kurum amiri maiyetinden birinin kendisine ihbar veya şikayet olunan veyahut diğer suretle öğrendiği, askeri mahkemelerin görev alanına giren suçları hakkında şüphelinin kimliğini, isnat olunan suçu ve bu suçun delillerini gösterir bir vak a raporu düzenler ve adli yönden bağlı bulunduğu askeri mahkemenin teşkilatında kurulduğu kıt a komutanı veya askeri kurum amirine gönderir.
+Teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri, suç evrakını inceledikten sonra askeri savcıya gönderir ve şüphelinin tutuklanmasını isterse bu husustaki istemini de bildirir.
+Ağır ceza mahkemesinin görevine giren suçlar veya gecikmesinde sakınca umulan hallerde askeri savcılar derhal soruşturmaya başlarlar. Zorunluluk halinde bu soruşturma bir disiplin subayı tarafından da yapılabilir. Bu hallerde durum derhal yetkili askeri mahkemenin teşkilatında kurulduğu komutan veya askeri kurum amirine bildirilir.
+Cumhuriyet savcıları, zabıta makam ve memurları ve askeri amirler askeri savcının işe el koymasına kadar eylemin sübut vasıtalarının ve delillerinin kaybolmasını önleyecek, gecikmesinde sakınca umulan tedbirleri alırlar.
+Madde - 29.
+353 sayılı Kanunun 96 ncı maddesinin başlığı ile birinci, üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Soruşturma:
+Askeri savcı 95 inci maddede yazılı usul ve yollarla bir suçun işlendiğini öğrenir öğrenmez, kamu davasının açılmasına lüzum olup olmadığına karar verilmek üzere bir soruşturma yapar.
+Şüpheli suçunu itiraf etse bile, öz vak anın soruşturulması gerekir.
+Askeri savcı, maddi gerçeğin araştırılması ve adil yargılamanın yapılabilmesi için, kolluk görevlileri marifetiyle, şüphelinin lehine ve aleyhine olan delilleri toplayarak muhafaza altına almak ve şüphelinin haklarını korumakla yükümlüdür.
+Madde - 30.
+353 sayılı Kanunun 97 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 97 - Askeri savcı, gerek doğrudan doğruya ve gerekse askeri, adli veya diğer kolluk görevlileri aracılığı ile her türlü araştırmayı yapabilir; bütün kamu görevlilerinden ve özel kuruluşlardan soruşturmaya ilişkin her türlü bilgiyi isteyebilir.
+Askeri savcılar; diğer askeri savcılar ile Cumhuriyet savcılarını istinabe edebilirler.
+Askeri, adli ve diğer kolluk görevlileri, askeri savcının soruşturmaya ilişkin bütün emirlerini gecikmeksizin yerine getirmekle yükümlüdür. Bu emirler yazılı; acele hallerde sözlü olarak verilir.
+Diğer kamu görevlileri de, yürütülmekte olan soruşturma kapsamında ihtiyaç duyulan bilgi ve belgeleri, talep eden askeri savcıya vakit geçirmeksizin temin etmekle yükümlüdür.
+Madde - 31.
+353 sayılı Kanunun 103 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Soruşturma sırasında bu soruşturmanın başka bir kişiyi veya suçu kapsayacak şekilde genişletilmesi gerekirse, askeri savcı ivedi hallerde bu soruşturmayı kendiliğinden yapar.
+Madde - 32.
+353 sayılı Kanunun 107 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Kovuşturmaya yer olmadığına dair karara itiraz:
+MADDE 107 - Askeri savcı tarafından verilen kovuşturmaya yer olmadığına dair karar, teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri ile şüpheli ve suçtan zarar görene bildirilir.
+Bu karara karşı teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri ya da suçtan zarar gören, kararın kendilerine tebliğinden itibaren onbeş gün içinde kararı veren askeri savcının teşkilatında olduğu askeri mahkemeye yer itibarıyla en yakın askeri mahkemede itiraz edebilirler. En yakın askeri mahkemenin tayininde kararsızlık olursa, bu husus Milli Savunma Bakanlığınca giderilir. İtiraz isteminde kamu davasının açılmasını haklı gösterecek olaylar ve deliller gösterilir.
+Madde - 33.
+353 sayılı Kanunun 108 inci maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.
+İtiraz üzerine askeri savcının o zamana kadar yaptığı soruşturmayı içine alan dosya, itirazı inceleyecek olan askeri mahkemeye gönderilir.
+Askeri mahkeme, süre tayin ederek bir diyeceği varsa bildirmesi için itiraz istemini şüpheliye tebliğ edebilir.
+Madde - 34.
+353 sayılı Kanunun 109 uncu maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Ret kararı suçtan zarar görene; eğer itiraz teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri tarafından yapılmış ise bu makama tebliğ olunur ve ayrıca askeri savcıya ve şüpheliye bildirilir.
+Madde - 35.
+353 sayılı Kanunun 110 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Askeri mahkeme, itirazın yerinde ve haklı olduğuna kanaat getirirse, şüpheli hakkında kamu davası açılmasının gerekli olduğuna karar verir ve evrakı yetkili askeri savcıya gönderir.
+Madde - 36.
+353 sayılı Kanunun 111 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Askeri savcı tarafından verilip süresi içinde itiraz edilmeyen veya itiraz edilip de süresi içinde itiraz edilmediğinden veya sebep gösterilmediğinden hakkındaki itiraz reddolunmuş bulunan kovuşturmaya yer olmadığı kararı üzerine, Milli Savunma Bakanı soruşturmaya devam edilmesi veya kamu davası açılması hususlarında askeri savcıya emir verebilir.
+Madde - 37.
+353 sayılı Kanunun 112 nci maddesinin ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Bu karara karşı şüpheli ve suçtan zarar gören ile teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri onbeş gün içinde itiraz edebilir.
+Bu itiraz hakkında 107, 108 ve 109 uncu madde hükümleri uygulanır. İtirazın kabul edilmesi halinde, askeri savcı, soruşturmanın sonucuna göre karar verir.
+Madde - 38.
+353 sayılı Kanunun 115 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+İddianamenin iadesi kararına itiraz:
+MADDE 115 - Askeri savcı, iddianamenin iadesi kararına karşı yedi gün içinde en yakın askeri mahkemeye itiraz edebilir.
+Madde - 39.
+353 sayılı Kanunun 196 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 196 - Kanun yolları, askeri savcı, şüpheli, sanık ve katılan, katılma isteği karara bağlanmamış, reddedilmiş veya katılan sıfatını alabilecek surette suçtan zarar görmüş bulunanlar ile teşkilatında askeri mahkeme kurulan kıt a komutanı ve askeri kurum amirine açıktır.
+Askeri savcı ile teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri şüpheli veya sanık lehine de kanun yollarına başvurabilir.
+Madde - 40.
+353 sayılı Kanunun 202 nci maddesinin başlığı aşağıdaki şekilde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
+İtiraz olunabilecek kararlar ve itiraz merci:
+Bu Kanunda aksine hüküm bulunmayan hallerde yapılacak itirazları en yakın askeri mahkeme inceler.
+Madde - 41.
+353 sayılı Kanunun 205 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 205- Askeri mahkemelerce verilen hükümler temyiz edilebilir.
+Onbeş yıl ve daha fazla hapis cezasına ilişkin hükümler kendiliğinden temyize tabidir.
+Ancak;
+Üst sınırı beşyüz günü geçmeyen adli para cezasını gerektiren suçlardan beraat hükümlerine,
+Kanunlarda kesin olduğu yazılı bulunan hükümlere,
+karşı temyiz yoluna başvurulamaz. Bu hükümler hakkında 243 üncü madde hükümlerine göre Askeri Yargıtaya başvurulabilir.
+Madde - 42.
+353 sayılı Kanunun 207 nci maddesinin birinci ve ikinci fıkrası ile üçüncü fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiş ve üçüncü fıkrasına aşağıdaki bent eklenmiştir.
+Temyiz, kural olarak hükmün hukuka aykırılığı sebebine dayanır.
+Bir hukuk kuralının uygulanmaması veya yanlış uygulanması hukuka aykırılıktır.
+Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hallerde hukuka kesin aykırılık var sayılır:
+I) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması.
+Madde - 43.
+353 sayılı Kanunun 212 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+İsteme bağlı temyiz layihası ve tebliği:
+MADDE 212 - Temyiz dilekçesinde veya beyanında temyiz sebepleri gösterilmemiş ise, temyiz dilekçesi için belirli olan sürenin bitmesinden veyahut hükmün gerekçesi henüz tebliğ edilmemiş ise, tebliğinden itibaren yedi gün içinde hükmü temyiz olunan mahkemeye bu sebepleri kapsayan bir layiha da verilebilir.
+Teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri veya askeri savcı, temyiz yoluna başvurma nedenlerini sanığın leh ve aleyhine olduğunu belirtmek suretiyle gerekçeleri ile birlikte yazılı isteminde açıkça gösterir. Bu istem ilgililere tebliğ edilir. İlgililer, tebliğ tarihinden itibaren yedi gün içinde bu husustaki cevaplarını bildirebilirler.
+Madde - 44.
+353 sayılı Kanunun 216 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 216 - Temyiz dilekçesini ve beyanını ve varsa layihasını ve kendiliğinden temyize tabi hükümleri, askeri savcı dosyaları ile beraber Askeri Yargıtay Başsavcılığına gönderir.
+Askeri Yargıtay Başsavcılığınca düzenlenen tebliğname, hükmü temyiz etmeleri veya temyiz etmeseler dahi aleyhlerine sonuç doğurabilecek görüş içermesi halinde sanık veya müdafi ile katılan veya vekillerine tebliğ olunur. İlgili taraf tebliğden itibaren bir hafta içinde yazılı olarak cevap verebilir. Askeri Yargıtay Başsavcılığı tebliğname ile dosyayı Askeri Yargıtay Başkanlığına gönderir.
+İkinci fıkra uyarınca yapılacak tebligatlar, ilgililerin dava dosyasından belirlenen son adreslerine yapılmasıyla geçerli olur. Ceza Muhakemesi Kanununun 262 ve 263 üncü madde hükümleri saklıdır.
+Madde - 45.
+353 sayılı Kanunun 218 inci maddesinin başlığı ve birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Duruşmalı inceleme:
+On yıl veya daha fazla hapis cezasına ilişkin hükümlerde Askeri Yargıtay incelemesini, sanığın veya katılanın temyiz başvurusundaki istemi üzerine veya re sen duruşmalı olarak yapar. İncelemenin duruşmalı yapılması, bir yıldan fazla hapis cezasına ilişkin hükümlerde Askeri Yargıtayın lüzum görmesine bağlıdır. Duruşma gününden sanığa, katılana, müdafi ve vekile haber verilir. Sanık duruşmada hazır bulunabileceği gibi vekaletnameye sahip bir veya birkaç müdafi ile kendisini temsil ettirebilir. Şu kadar ki; 85 inci madde hükmü saklıdır.
+Madde - 46.
+353 sayılı Kanunun 219 uncu maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Raporun, açıklanmasından sonra, Askeri Yargıtay Başsavcısı, sanık, müdafi, katılan ve vekili iddia ve savunmalarını açıklar. Bunlar arasında temyizi istemiş olan taraf önce dinlenir. Son söz sanığındır.
+Madde - 47.
+353 sayılı Kanunun 220 nci maddesinin ikinci fıkrasının (A) ve (F) bentleri aşağıdaki şekilde değiştirilmiştir.
+A) Vakıanın daha ziyade aydınlatılması gerekli olmaksızın yalnız beraate veya alt ve üst sınırı olmayan sabit bir cezaya hükmolunması gerekirse,
+F) Suçun hukuki niteliğinin tayinine ve ceza uygulamasına bir etkisi bulunmamak kaydıyla, dosyadaki bilgi ve belgelerin dışında hiçbir araştırma yapılmasına ve takdire gerek duyulmayacak şekilde tespiti mümkün olan, suçun tarihinde hata yapılmışsa,
+Madde - 48.
+353 sayılı Kanunun 221 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 221 - Askeri Yargıtay, temyiz edilen hükmü, hükmü etkileyecek nitelikteki hukuka aykırılıklar nedeniyle bozar.
+Hükmün bozulmasına neden olan hukuka aykırılık, bu hükme esas olarak saptanan işlemlerden kaynaklanmış ise, bunlar da aynı zamanda bozulur.
+207 nci madde hükümleri saklıdır.
+Madde - 49.
+353 sayılı Kanunun 222 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 222 - Askeri Yargıtay temyiz dilekçe, beyan ve layihasında ve tebliğnamede ileri sürülen hususları ve bunlar dışında hükmün esasına dokunacak derecede hukuka aykırı hallerin bulunup bulunmadığını inceler.
+Madde - 50.
+353 sayılı Kanunun 226 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 226 - Hüküm, sanık lehine bozulmuş ise ve bu hususların temyiz isteminde bulunmamış olan diğer sanıklara da uygulanması olanağı varsa, bu sanıklar da temyiz isteminde bulunmuşçasına hükmün bozulmasından yararlanırlar.
+Madde - 51.
+353 sayılı Kanunun 227 nci maddesinin üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Hüküm, yalnız sanık tarafından veya onun lehine askeri savcı veya teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri veya 196 ncı maddede gösterilen kimselerce temyiz edilmiş ise, yeniden verilen hüküm, önceki hükümle belirlenmiş olan cezadan daha ağır olamaz.
+Sanık, müdafi, katılan ve vekilinin dosyada bulunan adreslerine de davetiye tebliğ olunamaması veya davetiye tebliğ olunmasına rağmen duruşmaya gelmemeleri nedeniyle bozmaya karşı beyanları saptanmamış olsa da, duruşmaya devam edilerek dava yokluklarında bitirilebilir. Ancak, sanık hakkında verilecek ceza, bozmaya konu olan cezadan daha ağır ise, sanığın her halde dinlenilmesi gerekir.
+Madde - 52.
+353 sayılı Kanunun dördüncü kısmının başlığı aşağıdaki şekilde değiştirilmiş, 228 inci maddesinin birinci fıkrasına (F) bendi ve maddeye ikinci fıkra eklenmiştir.
+Yargılamanın Yenilenmesi ve Kanun Yararına Bozma
+F) Ceza hükmünün, İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair Sözleşmenin veya eki protokollerin ihlali suretiyle verildiği ve hükmün bu aykırılığa dayandığı, Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararıyla tespit edilmiş olursa.
+Birinci fıkranın (F) bendinde belirtilen halde yargılamanın yenilenmesi, Avrupa İnsan Hakları Mahkemesi kararının kesinleştiği tarihten itibaren bir yıl içinde istenebilir.
+Madde - 53.
+353 sayılı Kanunun 232 nci maddesine aşağıdaki fıkra eklenmiştir.
+Bu madde, 228 inci maddenin birinci fıkrasının (E) bendinde yazılı halde uygulanmaz.
+Madde - 54.
+353 sayılı Kanunun 243 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Kanun yararına bozma:
+MADDE 243 - Askeri mahkemelerden verilen ve Askeri Yargıtayda incelenmeksizin kesinleşen karar ve hükümlerde hukuka aykırılık bulunduğunu öğrenen Milli Savunma Bakanı, o karar veya hüküm hakkında kanun yararına bozma yoluna gidebilir. Bu takdirde o karar veya hükmün Askeri Yargıtayca bozulması istemini, yasal nedenlerini belirterek Askeri Yargıtay Başsavcılığına yazılı olarak bildirir.
+Askeri Yargıtay Başsavcısı tebliğnamesine yalnız bu sebepleri yazar ve dosyayı Askeri Yargıtay Başkanlığına verir.
+Askeri Yargıtay, ileri sürülen bu sebepleri yerinde görürse kararı veya hükmü bozar.
+Bozma nedenleri;
+Ceza Muhakemesi Kanununun 223 üncü maddesinde tanımlanan ve davanın esasını çözmeyen bir karara ilişkin ise, kararı veren hakim veya mahkeme, gerekli inceleme ve araştırma sonucunda yeniden karar verir.
+Mahkumiyete ilişkin hükmün, davanın esasını çözmeyen yönüne veya savunma hakkını kaldırma veya kısıtlama sonucunu doğuran usul işlemlerine ilişkin ise, kararı veren hakim veya mahkemece yeniden yapılacak yargılama sonucuna göre gereken hüküm verilir. Bu hüküm, önceki hükümle belirlenmiş olan cezadan daha ağır olamaz.
+Davanın esasını çözüp de mahkumiyet dışındaki hükümlere ilişkin ise, aleyhte sonuç doğurmaz ve yeniden yargılamayı gerektirmez.
+Hükümlünün cezasının kaldırılmasını gerektiriyorsa cezanın kaldırılmasına, daha hafif bir cezanın verilmesini gerektiriyorsa bu hafif cezaya Askeri Yargıtay doğrudan hükmeder.
+Bu madde uyarınca verilen bozma kararına karşı direnilemez.
+Kanun yararına bozma yetkisi, dördüncü fıkranın (D) bendindeki hallere özgü olmak üzere ve kanun yararına olarak re sen Askeri Yargıtay Başsavcısı tarafından da kullanılabilir.
+Milli Savunma Bakanı tarafından kanun yararına bozma başvurusunda bulunulduğunda, bu yetki artık Askeri Yargıtay Başsavcısı tarafından kullanılamaz.
+Madde - 55.
+353 sayılı Kanunun 244 üncü maddesinin başlığı ile birinci ve yedinci fıkraları aşağıdaki şekilde değiştirilmiştir.
+Ceza ve güvenlik tedbirlerinin ne zaman, nasıl ve kimin tarafından yerine getirileceği:
+Askeri mahkemelerce verilen ceza hükümleri, kesinleşmedikçe yerine getirilmez. Bu Kanunda ve Askeri Ceza Kanununda aksine bir hüküm bulunmadığı takdirde cezalar ve güvenlik tedbirlerinin yerine getirilmesinde, 13.12.2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun ilgili hükümleri uygulanır.
+Cezaların askeri ceza ve tutukevlerinde ne suretle infaz edileceği Milli Savunma Bakanlığınca çıkarılacak bir yönetmelikte gösterilir. Askeri ceza ve tutukevlerinde bulunan hükümlü ve tutuklular hakkında uygulanacak disiplin cezaları ve tedbirleri ile kısıtlayıcı önlemler de Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun hükümlerine tabidir. Kınama haricindeki disiplin cezaları askeri mahkemenin hakim sınıfından olan bir üyesi tarafından verilir. Ancak, acil hallerde askeri savcılar veya askeri ceza ve tutukevi yetkililerince verilecek inzibati cezalar uygulamaya konulur ve derhal hakim onayına sunulur.
+Madde - 56.
+353 sayılı Kanunun 248 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Savaşta, askeri mahkemelerden verilen hükümler temyiz olunamaz. Onbeş yıl ve daha fazla hapis cezası içeren hükümler, teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri tarafından temyiz edilebilir.
+Madde - 57.
+353 sayılı Kanunun 249 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Savaş halinde, askeri mahkemelerden verilen ve Türk Silahlı Kuvvetlerinden çıkarmayı, rütbenin geri alınmasını veya askeri öğrencilik hakkının kaybedilmesini kapsayan veya gerektiren cezalar hariç olmak üzere, diğer hapis cezalarının yerine getirilmesi, teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amirinin istemi üzerine Türk Silahlı Kuvvetleri Komutanı veya onun yetki verdiği diğer komutanlar tarafından savaşın sonuna kadar geriye bırakılabilir.
+Madde - 58.
+353 sayılı Kanunun 254 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Cezaların yerine getirilmesi sırasında alınması gereken kararlar ve bu kararlara itiraz:
+MADDE 254 - Cezaların yerine getirilmesi sırasında, hüküm kesinleşmeden önce gerçekleşen şahsi hürriyeti sınırlama sonucunu doğuran haller nedeniyle geçirilmiş süreler ile hastanede geçen sürenin cezadan indirilmesine, değişik hükümlerdeki cezaların toplanmasına ve mahkumiyet hükmünün yorumunda veya çektirilecek cezanın hesabında duraksamaya ilişkin bir karar alınması gerekirse, hükmü veren askeri mahkemeden karar istenir. Bu kararlar duruşma yapılmaksızın verilir.
+Karar verilmeden önce askeri savcı ve hükümlünün görüşlerini yazılı olarak bildirmeleri istenebilir.
+Hükmü veren askeri mahkeme kaldırılmış ise ona en yakın askeri mahkeme karar verir.
+Yukarıdaki fıkralar uyarınca yapılan başvurular cezanın infazını ertelemez. Ancak, mahkeme olayın özelliğine göre infazın ertelenmesine veya durdurulmasına karar verebilir.
+Bu kararların askeri mahkemelerden verilmesi hallerinde, askeri savcı ve teşkilatında askeri mahkeme kurulan kıt a komutanı veya askeri kurum amiri ile hükümlü ve varsa müdafi bir hafta içinde itiraz edebilirler.
+İtiraz üzerine Askeri Yargıtay karar verir.
+Madde - 59.
+353 sayılı Kanunun 255 inci maddesinin ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Asker kişiler hakkında verilen adli para cezasına dair hükümler askeri savcılarca yerine getirilir.
+Asker kişi olmayanlar hakkında verilen adli para cezasına dair hükümler Cumhuriyet savcılarınca genel hükümlere göre yerine getirilir.
+Madde - 60.
+353 sayılı Kanunun ek 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+EK MADDE 1 - Bu Kanunda aksine hüküm bulunmayan hallerde Ceza Muhakemesi Kanununun adli kontrole ilişkin 109 ila 115, değerlendirme raporu yetkisine ilişkin 166 ve istinafa ilişkin 272 ila 285 inci maddeleri hükümleri hariç olmak üzere diğer hükümleri askeri yargıda da uygulanır.
+Bu Kanunun uygulanmasında, atıf yapılan hükümlerde yer alan, Adalet Bakanı, Milli Savunma Bakanını; Yargıtay, Askeri Yargıtayı; mahkeme, askeri mahkemeyi; hakim ve sulh ceza hakimi, askeri hakimi; mahkeme başkanı, duruşma hakimini; Cumhuriyet Başsavcılığı, askeri savcılığı; Cumhuriyet savcısı, askeri savcıyı ifade eder.
+Madde - 61.
+353 sayılı Kanunun 13, 18, 38, 39, 40, 41, 42, 44/a, 44/b, 47, 48, 50, 51, 53, 54, 55, 56, 57, 58, 60, 61, 62, 64, 65, 68, 70, 72, 77, 78, 82, 83, 87, 88, 89, 90, 91, 92, 99, 100, 101, 105, 106, 113, 114, 117, 118, 119, 120, 121, 122, 123, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 142, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 198, 199, 203, 241, 245, 247, 251, 252, 253, 257, 258 ve ek 2 nci maddeleri ile 10 uncu maddesinin (F) bendi, 43 üncü maddesinin ikinci, dördüncü ve beşinci fıkraları, 143 üncü maddesinin ikinci, üçüncü, dördüncü ve beşinci fıkraları, 201 inci maddesinin dördüncü fıkrası, 217 nci maddesinin üçüncü ve dördüncü fıkraları, 219 uncu maddesinin üçüncü ve dördüncü fıkraları, 244 üncü maddesinin üçüncü fıkrası, 246 ncı maddesinin ikinci ve üçüncü fıkraları ile 248 inci maddesinin dördüncü, beşinci, altıncı ve yedinci fıkraları yürürlükten kaldırılmıştır.
+Madde - 62.
+Bu Kanun yayımı tarihinden itibaren üç ay sonra yürürlüğe girer.
+Madde - 63.
+Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+MADDE GEREKÇELERİ
+Madde - 1.
+26.09.2004 tarihli ve 5237 sayılı Türk Ceza Kanunu ile cürüm ve kabahat ayırımına ceza kanunu sistematiğinde son verildiğinden, düzenleme ile buna uyum sağlanmaktadır.
+Madde - 2.
+Özel kanunları bulunan ve Askeri Ceza Kanunundaki asker kişi tanımı da dikkate alındığında asker kişi olduklarında şüphe bulunmayan uzman jandarma ve uzman erbaşların da 353 sayılı Kanun kapsamında asker kişi olduğunda tereddüde yer vermeyecek şekilde düzenleme yapılmaktadır.
+Ayrıca, 1455 sayılı Askeri Memurlar Hakkında Kanun, 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun 208 inci maddesinin (e) bendi ile yürürlükten kaldırılmış olup, 1455 sayılı Kanuna göre istihdam edilen askeri memurlar emekli olduğundan, Türk Silahlı Kuvvetlerinde halen askeri memur mevcudu kalmamıştır. Bu nedenle, yeni düzenlemede muvazzaf askerler başlığı altında askeri memur kavramına yer verilmemiştir.
+Madde - 3.
+Asker olmayan kişilerin asker kişilerle müştereken işledikleri askeri suçlar hariç olmak üzere barış zamanında askeri mahkemelerde yargılanmalarına son verilmesi nedeniyle 11 inci maddenin ilgili hükmü yürürlükten kaldırılmaktadır.
+Bu düzenlemenin yerine getirilen hükümle, uluslararası anlaşmalarla askeri mahkemelerin görev alanına sokulan yabancı asker kişilerin işledikleri suçların soruşturması ve kovuşturması Milli Savunma Bakanının iznine bağlanmaktadır.
+Çoğunlukla yabancı asker kişilerin işledikleri suçlar askeri suç niteliğinde bulunmakta ve bu şahıslar soruşturma veya kovuşturma evresinde ülkelerine dönmekte, adli yardımlaşma sözleşmelerinde askeri suçlar kapsam dışında tutulduğundan adli yardımlaşma talepleri yerine getirilmemekte, bu sebeple açılan davalar sonuçlandırılamamakta, verilen kararlar kesinleştirilememekte ve kesinleşen kararlar infaz edilememektedir. Bu sakıncaların önüne geçmek üzere soruşturma ve kovuşturma izne bağlanmakta, yukarıdaki sakıncaların ortaya çıkıp çıkmayacağı konusunda ön inceleme yapılması ve sakınca doğması ihtimali olanlar için izin verilmemesi suretiyle sakıncaların önüne geçilmesi imkanı getirilmektedir.
+Madde - 4.
+Asker olmayan kişilerin asker kişilerle müştereken işledikleri askeri suçlar hariç olmak üzere barış zamanında askeri mahkemelerde yargılanmalarına son verilmesi nedeniyle 11 inci maddenin önceki düzenlemesinde yer alan hükümler savaş zamanında askeri mahkemelerin görevlerini düzenleyen 14 üncü madde metnine dahil edilmekte, bu kapsamda; 11 inci maddenin (A) bendinde ve 14 üncü maddenin (G) bendinde yer alan düzenlemeler birleştirilmek suretiyle 14 üncü maddenin (G) bendi bu şekilde yeniden düzenlenmekte, 11 inci maddenin (B) bendinde yer alan düzenleme 14 üncü maddenin (H) bendine eklenmekte ve 11 inci maddenin (C) bendinde yer alan düzenleme 14 üncü maddenin (I) bendi olarak öngörülmektedir.
+Madde - 5.
+Görev kararına ilişkin hükümler genel atıf nedeniyle Ceza Muhakemesi Kanununun ilgili hükümlerinde düzenlenmiş olduğundan, bununla ilgili madde metni ve 353 sayılı Kanuna 21.01.1981 tarihli ve 2376 sayılı Kanunun 8 inci maddesi ile eklenen ek 1 inci madde hükmü, 353 sayılı Kanunun 19 uncu maddesi olarak yeniden düzenlenmektedir.
+Yapılan düzenleme ile,
+madde başlığı içeriğine uygun olarak belirlenmektedir.
+Birinci fıkrada; tek hakimle bakılacak suçlar ile ilgili subay ve astsubayların işledikleri suçların hariç tutulmasına dair hüküm korunmakta, öngördükleri ceza miktarları göz önüne alınarak bazı suçların madde numaralarının sayılmasından vazgeçilmekte ve 5237 sayılı Türk Ceza Kanunu ile öngörülen ceza türleri dikkate alınarak fıkra metni redaksiyona tabi tutulmaktadır. Madde ile ayrıca suç konusu olmayan eşyanın müsaderesine de tek hakimle karar verilmesi olanağı getirilmiştir.
+Üçüncü fıkrada; Ceza Muhakemesi Kanunu ile getirilen soruşturma evresinde kanaat açıklayıcı nitelikte karar veren hakimlerin kovuşturma evresinde görev yapamayacağı hükmü, genel atıf nedeniyle askeri yargıda da uygulanacağından, birinci fıkrada yazılı suçlarla ilgili soruşturmalarda hakim kararı gerektiren işlemlere dair kararların tek hakim tarafından verilmesi öngörülmektedir.
+Dördüncü fıkra ile Ceza Muhakemesi Kanununun 6 ncı maddesine paralel olarak usul ekonomisi dikkate alınarak heyetle başlamış olan kovuşturmanın tek hakimin görevine girse dahi heyetle sonuçlandırılması amaçlanmaktadır.
+Madde - 6.
+5237 sayılı Türk Ceza Kanunu ve 5271 sayılı Ceza Muhakemesi Kanunu ile bazı kavramlarda yapılan değişiklikler doğrultusunda; şahsi hürriyeti bağlayıcı ceza, ağır hapis cezası, sanık, ilk ve son soruşturma, hazırlık soruşturması gibi kavramların karşılığı olan yeni kavramlar dikkate alınarak 353 sayılı Kanunun 20 nci maddesi yeniden düzenlenmektedir.
+Madde - 7.
+Ceza Muhakemeleri Usulü Kanunu yerine 5271 sayılı Ceza Muhakemesi Kanunu yürürlüğe girdiğinden 21 inci maddenin ikinci fıkrasındaki atıf Ceza Muhakemesi Kanunu şeklinde düzeltilmektedir.
+Ayrıca, saklı, yoklama kaçağı, bakaya ve geç iltihak bakayası suçlarını işleyen yükümlülerin barış zamanında askeri mahkemelerde yargılanmalarına son verilmekte ve bu suçlarla ilgili olarak savaş zamanında yargılama yapacak askeri mahkemelerin yetkileri düzenlenmektedir.
+Madde - 8.
+Yakalama veya soruşturma emri verilmesinin soruşturma evresi ile ilgili işlemler olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak maddede yer alan sanık ibaresi şüpheli şeklinde değiştirilmektedir.
+Madde - 9.
+Soruşturma evresi ile ilgili işlem olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak madde başlığı ve maddede yer alan sanık ibareleri şüpheli şeklinde değiştirilmektedir.
+Madde - 10.
+Maddede yapılan değişiklik ile Ceza Muhakemesi Kanununa paralel olarak yetkisizlik iddiasının sanık tarafından yapılabileceği doğrultusunda bir sınırlandırma getirilmektedir.
+Bazen mahkemenin yetkili olup olmadığı, ilk olarak ancak iddianame okunduktan sonra anlaşılabilir. Bu nedenle henüz iddianame görülüp dinlenmeden önce bu iddianın öne sürülmesi imkansız olabilir. Bu gerekçeyle, yetkisizlik iddiasının duruşmada sanığın sorgusundan önce ileri sürülebileceği ve karara bağlanacağı belirtilmektedir. Böylece yetkisizlik iddiasının bildirileceği zaman dilimi makul bir ölçüde genişletilmektedir.
+Madde - 11.
+Madde başlığı ve metninde yer alan soruşturma ibaresi askeri savcılık ve askeri mahkeme işlemleri dikkate alınarak soruşturma ve kovuşturma olarak değiştirilmektedir.
+Madde - 12.
+Hakimlerin davaya bakamayacakları haller ve ret sebepleri ile ilgili hükümlerin Ceza Muhakemesi Kanununda yer alan hükümler ile aynı olması nedeniyle 353 sayılı Kanunun bu bölümdeki hükümleri 61 inci madde ile yürürlükten kaldırılmakta ve 60 ıncı madde ile değiştirilen ek 1 inci maddeyle Ceza Muhakemesi Kanununa atıf yapılmaktadır. Ancak maddede yapılan düzenleme ile askeri yargıya özgü hakimin davaya bakamayacağı hal muhafaza edilmekte, yine savaş zamanına ilişkin olarak 353 sayılı Kanunun yürürlükten kaldırılan 40 ıncı maddesinin ikinci fıkrası hükmü maddeye ikinci fıkra olarak eklenmektedir.
+Madde - 13.
+Askeri savcıların reddedilemeyeceği ancak davadan çekinebileceğine dair hüküm korunmakta, ancak madde içinde zikredilen bazı maddelerin yürürlükten kaldırılması ve bazı maddelerin içeriklerinin değişmesi nedeniyle, madde numaraları yerine ifade edilmek istenen maksat madde metnine yazılmaktadır.
+Madde - 14.
+Tebligat işlerinin askeri savcılık tarafından yapılacağı hükme bağlanmışken, bu maddeyle, mahkeme ile ilgili tebligat işlerinin doğrudan doğruya mahkeme tarafından yapılması kabul edilerek, adaletin işleyişinin hızlandırılması amaçlanmıştır. Bu yetki, askeri mahkeme hakimlerini kapsamaktadır.
+İnfaz edilecek kararlar ise, askeri savcılığa verilecek ve askeri savcı bu görevini yerine getirmek üzere gerekli bütün tedbirleri alacaktır. Bu kapsamda, infaz için teşkilatında askeri mahkeme kurulu komutanın aracı kılınması zorunluluğu ortadan kaldırılmaktadır.
+Madde - 15.
+Tanıklar ile ilgili hükümlerin Ceza Muhakemesi Kanununda yer alan hükümler ile aynı olması nedeniyle 353 sayılı Kanunun bu bölümdeki hükümleri 61 inci madde ile yürürlükten kaldırılmakta ve 60 ıncı madde ile değiştirilen ek 1 inci maddeyle Ceza Muhakemesi Kanununa atıf yapılmaktadır. Ancak maddede yapılan düzenleme ile asker tanıkların çağırılması ve tutuklu ve ivedi işler ile savaş haline ilişkin düzenleme muhafaza edilmektedir.
+Madde - 16.
+Keşif ile ilgili hükümlerin Ceza Muhakemesi Kanununda yer alan hükümler ile aynı olması nedeniyle 353 sayılı Kanunun bu bölümdeki hükümleri 61 inci madde ile yürürlükten kaldırılmakta ve 60 ıncı madde ile değiştirilen ek 1 inci maddeyle Ceza Muhakemesi Kanununa atıf yapılmaktadır. Ancak maddede yapılan düzenleme ile askeri mahallerde yapılacak keşiflerde o yerin birlik komutanı veya kurum amirinin haberdar edileceği hükmü muhafaza edilmektedir.
+Madde - 17.
+Düzenleme ile 353 sayılı Kanunun 69 ve 70 inci madde hükümleri birleştirilmektedir. Ayrıca, tutuklama kararının yerine getirilmesi için tutuklama müzekkeresi düzenlenmesi uygulamasına son verilmesi nedeniyle madde metninde buna göre düzenleme yapılmaktadır. Yine, işlemlerin soruşturma evresine ait olması dikkate alınarak sanık ibareleri şüpheli olarak değiştirilmektedir.
+Madde - 18.
+Tutuklama ile ilgili bazı hükümlerin Ceza Muhakemesi Kanununda yer alan hükümler ile aynı olması nedeniyle 353 sayılı Kanunun bu hükümleri 61 inci madde ile yürürlükten kaldırılmakta ve 60 ıncı madde ile değiştirilen ek 1 inci maddeyle Ceza Muhakemesi Kanununa atıf yapılmaktadır.
+Ancak maddede yapılan düzenleme ile Ceza Muhakemesi Kanununda belirtilen genel tutuklama nedenlerinin yanında askeri disiplinin korunması amacının tutuklama nedeni olarak varlığı muhafaza edilmektedir.
+Tutuklama kararı verilemeyecek hallere istisna getirilerek sırf askeri suçlarda hapis cezasının üst sınırı bir yıldan fazla olmasa da tutuklama kararı verilebileceği öngörülmektedir.
+Madde - 19.
+Madde metninde ve başlıkta geçen kavramın her iki evredeki işlemler ile ilgili olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak sanık ibaresi şüpheli veya sanık şeklinde değiştirilmektedir.
+Madde - 20.
+Madde metninde geçen kavramın her iki evredeki işlemler ile ilgili olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak sanık ibaresi şüpheli veya sanık şeklinde değiştirilmektedir.
+Madde - 21.
+Madde ile 353 sayılı Kanunun 75 inci maddesinde değişiklik yapılarak; madde metni, Ceza Muhakemesi Kanununun 108 inci maddesine paralel hale getirilmekte; soruşturma evresinde tutukluların tutukluluk halinin devam edip etmeyeceği hususunda askeri mahkemece karar verilmesi öngörülmekte ve askeri savcılığın bu yöndeki yetkisi kaldırılmaktadır.
+Ayrıca, soruşturma evresinde tutukluluk halinin bir sonraki incelenmesinin; bir önceki inceleme tarihinden itibaren en geç otuzar günlük süreler içinde herhangi bir tarihte de, askeri savcının veya şüphelinin talebi halinde askeri mahkemece yapılması öngörülmektedir.
+Madde - 22.
+Yapılan düzenleme ile Ceza Muhakemesi Kanununa paralel olarak yeniden düzenlenen madde metninin dili sadeleştirilmektedir.
+Madde metninde belirtilen ağır ceza mahkemesinin görevine giren suçlar, 26.09.2004 tarihli ve 5235 sayılı Adli Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanunun 12 nci maddesinde düzenlenen suçları kapsamaktadır.
+Madde - 23.
+Yapılan düzenleme ile madde başlığı içeriğine uygun olarak değiştirilmekte, Ceza Muhakemesi Kanununa paralel olarak yeniden düzenlenen madde metninin dili sadeleştirilmektedir.
+Madde - 24.
+İfade alma ve sorgu ile ilgili bazı hükümlerin Ceza Muhakemesi Kanununda yer alan hükümler ile aynı olması nedeniyle 353 sayılı Kanunun bu hükümleri 61 inci madde ile yürürlükten kaldırılmakta ve 60 ıncı madde ile değiştirilen ek 1 inci maddeyle Ceza Muhakemesi Kanununa atıf yapılmaktadır.
+Ayrıca madde başlığı içeriğine uygun olarak değiştirilmekte; madde metninde ve başlıkta geçen kavramın her iki evredeki işlemler ile ilgili olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak sanık ibaresi şüpheli veya sanık şeklinde düzeltilmektedir.
+Asker olmayan şüpheli ve sanıkların savaş zamanında getirilmesine ilişkin düzenleme muhafaza edilmektedir.
+Madde - 25.
+Yapılan düzenleme ile ilgili fıkra metninin dili sadeleştirilmekte, düzenlemeye konu işlemin soruşturma safhasına ait olması nedeniyle metinde geçen sanık ibaresi şüpheli olarak düzeltilmektedir.
+Madde - 26.
+Savunma ile ilgili bazı hükümlerin Ceza Muhakemesi Kanununda yer alan hükümler ile aynı olması nedeniyle 353 sayılı Kanunun bu hükümleri 61 inci madde ile yürürlükten kaldırılmakta ve 60 ıncı madde ile değiştirilen ek 1 inci maddeyle Ceza Muhakemesi Kanununa atıf yapılmaktadır.
+Ancak düzenleme ile savaş halinde müdafi sayısının sınırlandırılacağına dair hüküm muhafaza edilmektedir.
+Madde - 27.
+Soruşturma evresi ile ilgili işlemler olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak madde metninde yer alan sanık ibareleri şüpheli şeklinde değiştirilmekte, atıf yapılan kanun ismi Ceza Muhakemesi Kanunu olarak düzeltilmektedir.
+Madde - 28.
+Soruşturma evresi ile ilgili işlemler olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak madde metninde yer alan sanık ibareleri şüpheli, şeklinde değiştirilmekte, maddedeki yazım hataları düzeltilmektedir.
+Madde metninde belirtilen ağır ceza mahkemesinin görevine giren suçlar, 26.09.2004 tarihli ve 5235 sayılı Adli Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanunun 12 nci maddesinde düzenlenen suçları kapsamaktadır.
+Ayrıca, şahsi dava ile ilgili Ceza Muhakemesi Kanununda düzenleme bulunmadığından, maddenin yeni halinde bu konuda düzenleme yapılmamıştır.
+Madde - 29.
+Soruşturma evresi ile ilgili işlemler olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak maddede ve başlıkta yer alan hazırlık soruşturması ibaresi soruşturma, sanık ibaresi şüpheli ve zapt ibaresi muhafaza altına almak şeklinde değiştirilmektedir.
+Maddenin dördüncü fıkrasında, Ceza Muhakemesi Kanununun 160 ıncı maddesinin ikinci fıkrasına paralel olarak askeri savcının soruşturma sırasındaki yükümlülükleri düzenlenmektedir.
+Madde - 30.
+Yapılan düzenleme ile maddede değişiklik yapılarak, Ceza Muhakemesi Kanununun 161 inci maddesine paralel olarak askeri savcının soruşturma kapsamındaki yetkileri genişletilmektedir.
+Madde - 31.
+Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak maddede yer alan hazırlık soruşturması ibaresi soruşturma şeklinde değiştirilmektedir.
+Madde - 32.
+Soruşturmanın tatili müessesesine son verildiğinden buna ilişkin ifadeler madde metninden çıkartılmış, madde metni yeniden düzenlenmiş ve madde başlığı kovuşturmaya yer olmadığına dair karara itiraz şeklinde değiştirilmiştir.
+353 sayılı Kanunun 105 inci maddesinin 61 inci maddeyle yürürlükten kaldırılması nedeniyle, söz konusu maddenin ikinci fıkrasında yer alan kovuşturmaya yer olmadığına dair kararın kimlere tebliğ edileceğine ilişkin düzenleme bu maddede yapılmıştır.
+Madde - 33.
+Soruşturma evresi ile ilgili işlemler olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak maddenin ikinci fıkrasında yer alan sanık ibaresi şüpheli; mehil ibaresi süre şeklinde değiştirilmekte, maddedeki yazım hataları düzeltilmektedir.
+Madde - 34.
+Soruşturma evresi ile ilgili işlem olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak maddede yer alan sanık ibaresi şüpheli şeklinde değiştirilmektedir.
+Madde - 35.
+Soruşturma evresi ile ilgili işlem olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak maddede yer alan sanık ibaresi şüpheli şeklinde değiştirilmektedir.
+Madde - 36.
+Soruşturmanın tatili müessesesi Ceza Muhakemesi Kanunu ile kaldırıldığından buna ilişkin ifadeler madde metninden çıkartılmakta ve yazım hataları düzeltilmektedir.
+Madde - 37.
+Soruşturma evresi ile ilgili işlem olması nedeniyle, Ceza Muhakemesi Kanunundaki kavram tanımları dikkate alınarak maddede yer alan sanık ibaresi şüpheli şeklinde değiştirilmekte, imla kurallarına uyum açısından 15 rakamı yazı ile ifade edilmektedir.
+Görevsizlik ve yetkisizlik kararına yapılacak itirazlarda, itirazın kabulü halinde, soruşturmayı yürüten askeri savcının nasıl bir karar vereceği konusunda mevcut yasal boşluğun doldurulması amacıyla, maddenin üçüncü fıkrasına bu durumu düzenleyen bir cümle eklenmiştir. Böylece, itirazın kabul edilmesi halinde soruşturmayı yürüten askeri savcıya, eğer dosyada eksiklikler varsa, soruşturmaya devam edip bu soruşturmanın sonucuna göre kamu davası açma veya kovuşturma yer olmadığına karar verme imkanı sağlanmıştır.
+Madde - 38.
+Genel atıf nedeniyle kamu davasının açılmasına ilişkin Ceza Muhakemesi Kanununun hükümleri askeri yargıda da uygulanacağından, maddede değişiklik yapılarak, iddianamenin iadesi kararına karşı kanun yolu askeri yargıya özgü şekilde düzenlenmektedir.
+Madde - 39.
+Düzenleme ile kanun yollarına başvurabilecek kişiler Ceza Muhakemesi Kanununa paralel olarak sayılmakta, anılan Kanundan farklı olarak teşkilatında mahkeme kurulu komutanın yetkileri korunmaktadır.
+Şüpheli veya sanığın kanuni temsilcisi, eşi ve müdafinin kanun yollarına başvurabilmesine ilişkin Ceza Muhakemesi Kanununda yer alan hükümler genel atıf nedeniyle askeri yargıda da uygulanacağından madde metninden çıkarılmaktadır.
+Madde - 40.
+Yapılan düzenleme ile madde başlığı içeriğine uygun olarak değiştirilmiştir. Ceza Muhakemesi Kanununda yer alan hükümler ile aynı olması nedeniyle 353 sayılı Kanunun bazı hükümleri 61 inci madde ile yürürlükten kaldırılmış ve 60 ıncı madde ile değiştirilen ek 1 inci maddeyle Ceza Muhakemesi Kanununa atıf yapılmıştır. Bu atıf dolayısıyla itiraz mercinin belirlenmesinde tereddütleri ortadan kaldırmak için Ceza Muhakemesi Kanununa paralel olarak madde metnine ikinci bir fıkra eklenmiştir.
+Madde - 41.
+(A) bendinde yapılan düzenleme ile ölüm cezaları yürürlükten kaldırıldığından ölüm cezası ibaresi madde metninden çıkartılmakta; hürriyeti bağlayıcı ceza ibaresi yerine 5237 sayılı Türk Ceza Kanunundaki terminolojiye uygun olarak hapis cezası kullanılmaktadır.
+1412 sayılı Ceza Muhakemesi Usulü Kanununa paralel olarak düzenlenmiş bulunan (B) bendi, yeni ceza sistemi dikkate alınarak Ceza Muhakemesi Kanununun istinaf yoluna başvurulamayan hükümler ile ilgili düzenlemesi paralelinde değiştirilmektedir.
+Ceza Muhakemesi Kanununun 272 nci maddesinin üçüncü fıkrasının (a) bendinde belirtilen sonuç olarak belirlenen ikibin lira dahil adli para cezasına mahkumiyet hükümlerine karşı ... ... istinaf yoluna başvurulamaz kuralının askeri şahısların askeri mahkemede yargılanması esnasında uygulanması, bazı yüz kızartıcı suçlardan verilen mahkumiyet hükümlerinin adli para cezasına çevrilmesi halinde temyiz kabiliyetini kaybetmesi sonucunu doğurabilecektir. Türk Ceza Kanununun 50 nci maddesinin beşinci fıkrası dikkate alındığında asıl mahkumiyet bu madde hükümlerine göre çevrilen adli para cezası veya tedbir olacağından; hırsızlığa teşebbüs suçundan Türk Ceza Kanununun 35 inci maddesinin ikinci fıkrası gereğince dörtte üçü indirilerek üç ay hapis cezasına hükmedilebilecek, bu hapis cezası da Türk Ceza Kanununun 49 uncu maddesinin ikinci fıkrası, 50 nci maddesinin birinci fıkrasının (a) bendi ve 52 nci maddesi gereğince adli para cezasına çevrilebilecektir. Bu durumda, hırsızlığa teşebbüs suçunun sanığı, böyle bir yüz kızartıcı suçtan temyiz incelemesi olmaksızın mahkum olabilecektir. Genel bir ifade ile lehine yasal indirim hükümleri uygulanmayan sanık hakkındaki karar, temyiz kabiliyetini kaybedebilecektir. İştirak halinde işlenen hırsızlık suçundan verilecek hüküm, fail tarafından temyiz edilebilecek iken, yardım eden yönünden temyiz kabiliyeti olmayabilecektir. Üç ay on gün hapis cezası karşılığı olan iki bin lira (dahil) adli para cezasının (sonuç cezanın) temyiz dışı tutulması halinde, hırsızlık vb. yüz kızartıcı suçlar nedeniyle Askeri Ceza Kanununun 30 uncu maddesi uyarınca adli para cezalarıyla birlikte fer i cezaya da hükmedileceği nazara alındığında, bu şekilde ağır sonuçlar doğuran hükmün temyiz dışı tutulmasının adalet ve hakkaniyet ilkeleriyle bağdaşmayacağı; yine adli para cezası ile birlikte oluşan ağır hazine zararları nedeniyle verilen tazmin kararlarının temyiz dışı tutulmasının sakınca oluşturacağı göz önüne alınarak, bu düzenleme açısından, Ceza Muhakemesi Kanunundan farklı bir düzenleme yapılması zarureti doğmuştur.
+İkinci fıkradaki düzenleme ile Ceza Muhakemesi Kanunundan farklı olarak temyiz edilemeyen bu kararlara karşı 243 üncü madde kapsamında kanun yararına bozma yoluna başvurulabileceğine dair hüküm korunmaktadır.
+Madde - 42.
+Düzenleme ile madde metninde yer alan kanuna aykırılık ibareleri Ceza Muhakemesi Kanunu paralelinde hukuka aykırılık şeklinde değiştirilmektedir.
+Yargılamanın konusunu oluşturan cezai uyuşmazlık çözüldükten ve maddi gerçeğe ulaşıldıktan sonra ilgili hukuk kuralının eksik veya yanlış uygulanması veya hiç uygulanmaması, hukuka aykırılığı oluşturur.
+Hukuk kuralı deyimi, temel hukuk ilkelerini, yazılı olan ve olmayan hukuk kurallarını, yargılama hukukuna ilişkin kurallarla maddi hukuka ilişkin kuralların tümünü kapsar.
+Temyiz başvurusunun hükmün hukuka aykırı olması nedenine dayandırılması gerekir. Delillerin yanlış değerlendirilmesi, kuralların yorumunu ve eylemin gerçek niteliğinin saptanmasını etkilediğinde, elbette ki, hukuka aykırılık oluşturur.
+Madde - 43.
+Maddede yapılan değişiklik ile teşkilatında askeri mahkeme kurulan komutan ile askeri savcıya, başvuru nedenlerini yazılı temyiz başvurularında gerekçeleriyle birlikte açık bir şekilde gösterme ve bu yazılı temyiz taleplerinin ilgililere tebliği zorunluluğu getirilmekte ve ilgililere temyiz sebeplerine karşı cevap verebilme hakkı tanınmaktadır.
+Madde - 44.
+Düzenleme ile Avrupa İnsan Hakları Mahkemesi kararlarının bir gereği olarak Askeri Yargıtayca başlatılan uygulamaya yasal dayanak getirilmektedir. Buna göre, tebliğname, hükmü temyiz etmeleri veya aleyhlerine sonuç doğurabilecek görüş içermesi halinde sanık veya müdafi ile katılan veya vekillerine tebliğ olunacaktır. Kendisine tebliğ olunan taraf tebliğ tarihinden itibaren bir hafta içinde tebliğnameye yazılı olarak cevap verebilecektir.
+Tebliğnamenin tebliğinde ortaya çıkabilecek sorunları gidermek amacıyla, maddenin son fıkrasında ikinci fıkra uyarınca yapılacak tebligatların, Tebligat Kanununun 35 inci maddesine göre ilgililerin dava dosyasından belirlenen son adreslerine yapılmasıyla geçerli olacağı hükme bağlanmaktadır.
+Madde - 45.
+Madde başlığı, madde metninin içeriğine uygun olarak değiştirilmektedir.
+Maddenin birinci fıkrası Ceza Muhakemesi Kanununun 299 uncu maddesine paralel olarak düzenlenmiş ve ağır cezalı iş tabirinden vazgeçilerek on yıl ve daha fazla hapis cezasına ilişkin hükümler ibaresi kullanılmıştır. Buna göre, on yıl ve daha fazla hapis cezasına ilişkin hükümlerin temyiz incelemelerinin duruşmalı yapılacağı, ancak, Ceza Muhakemesi Kanunundan farklı olarak Askeri Yargıtayın lüzum görmesi halinde bir yıldan fazla hapis cezasına ilişkin hükümlerin temyiz incelemesinin de duruşmalı yapılabileceği öngörülmektedir.
+Madde - 46.
+Yapılan değişiklik ile temyiz incelemesinin duruşmalı yapılmasını isteme yetkisinin katılan ve vekiline de tanınması nedeniyle, katılan ve vekilinin de duruşma usulündeki hak ve yetkileri belirlenmektedir.
+Madde - 47.
+Duruşmanın tatili müessesesine son verildiğinden, maddenin ikinci fıkrasının (A) bendi bu duruma göre düzeltilmektedir. (F) bendinde ise, tamamen yazım hatasından kaynaklanan suç tarihinin, ihtimale ve kuşkuya yer vermeyen dosyadaki bilgiye göre düzeltilerek onanmasının yargılamanın amacına da uygun olacağı göz önüne alınarak düzenleme yapılmıştır.
+Madde - 48.
+Düzenleme ile madde metninde yer alan kanuna aykırılık ibareleri Ceza Muhakemesi Kanunu paralelinde hukuka aykırılık şeklinde değiştirilmektedir.
+Madde - 49.
+Düzenleme ile madde metninde yer alan kanuna aykırılık ibareleri Ceza Muhakemesi Kanunu paralelinde hukuka aykırılık şeklinde değiştirilmektedir.
+Madde - 50.
+Madde ile Ceza Muhakemesi Kanununun 306 ncı maddesine paralel bir düzenleme getirilmekte ve bozmada sirayetin alanı genişletilmektedir.
+Mahkemece verilen hüküm, temyiz etmeyen sanık yönünden kesinleşir ve infaz edilebilir hale gelir. Kural bu olmakla beraber aynı mahkemece aynı hükümle cezalandırılan sanıklar hakkında birbiriyle çelişen sonuçların doğmasının önlenmesi, adalet düşüncesiyle ve bazı koşullarda Askeri Yargıtayın bozma kararından temyiz etmeyen sanıkların da yararlandırılması uygun görülmüştür.
+Bunun için;
+Aynı mahkemece aynı kararla birden çok sanığın hükümlendirilmesi,
+Sanıkların fiilinde Ceza Muhakemesi Kanununun 8 inci maddesinde tanımlanan nitelikte bağlantı bulunması,
+Hükmün teşkilatında askeri mahkeme kurulan komutan, askeri savcı, katılan veya sanıklardan bir veya birkaçınca ve sanıkların tümünü kapsamayacak şekilde temyiz edilmiş olması,
+Hükmün hukuka aykırılık nedeniyle sanık yararına bozulması,
+Bu bozmanın hükmü temyiz etmeyen veya kendileriyle ilgili temyiz bulunmayan sanıklara da uygulanma olanağına sahip olması,
+gerekecektir.
+Temyiz etmeyen deyimine; temyiz yoluna hiç başvurmayan, süresinden sonra başvuran, temyiz istemi reddolunanlar dahildir.
+Askeri Yargıtay, bozma kararında, karardan temyiz etmeyen sanıklardan hangilerinin yararlanacağını gösterir; ancak gösterilmemiş olması yararlanmayı önlemez. Mahkeme kanun gereği olarak bu durumu gözetmek zorundadır.
+Bu bozma kararı ile temyiz yoluna başvurmayan sanıklar hakkında kesinleşen hüküm de ortadan kalkar, aynı sanıklarla ilgili olarak yeniden hüküm kurmak gerekir.
+Madde - 51.
+Bozmaya karşı beyanları tespit edilemediği halde, yokluklarında dava bitirilebilecekler arasına, sanık ve katılanın müdafi ve vekili de eklenmekte ancak dosyada bilinen adreslere tebligat çıkartılması yeterli sayılmaktadır.
+Madde - 52.
+Dördüncü kısım başlığı içeriğine uygun olarak değiştirilmektedir.
+228 inci maddede yapılan düzenleme ile Ceza Muhakemesi Kanununun 311 inci maddesine paralel olarak birinci fıkraya (F) bendi ve maddeye ikinci fıkra eklenmekte, bu suretle; ceza hükmünün İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair Sözleşmenin veya eki protokollerin ihlali suretiyle verildiğinin, Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararıyla tespit edilmiş olması, yargılamanın yenilenmesi sebebi olarak belirlenmektedir. Hükümlü lehine yargılamanın yenilenmesi için maddede sayılan diğer nedenler bakımından bir süre öngörülmemiş olmasına karşılık, (F) bendinde sayılan neden yönünden başvuruda bulunma süresi, Avrupa İnsan Hakları Mahkemesi kararının kesinleştiği tarihten itibaren hak düşürücü süre niteliğindeki bir yılla sınırlandırılmaktadır. Bu süre, Avrupa İnsan Hakları Sözleşmesinin 44 üncü maddesi anlamında kararın kesin nitelik kazandığı tarihten itibaren işlemeye başlayacaktır.
+Madde - 53.
+Cezayı gerektiren bir eylemin varlığı iddiasına dayanan yargılamanın yenilenmesi istemi ancak, bu fiilden dolayı kesinleşmiş bir hüküm bulunması veya bu fiil hakkında kuvvetli delil bulunmamasından başka bir nedenle bir ceza soruşturmasına başlanamamış veya başlanan soruşturma ve kovuşturmaya devam edilememiş olması hallerinde kabul edilebilmektedir.
+Bu hüküm karşısında, örneğin aleyhte tanıklık yapan bir kimsenin, yalan tanıklıktan kesinleşmiş bir hükümle mahkum olması veya bu suçtan dolayı kuvvetli delil bulunmaması dışında bir nedenle hakkında ceza soruşturmasına başlanamamış veya devam edilememiş olması halinde, yenileme talebinde bulunulabilecektir.
+Maddeye eklenen fıkra gereğince, yukarıdaki örnekte olduğu gibi yalan tanıklığı ispata yarayan yeni olaylar ve deliller varsa, yenileme istemi 228 inci maddenin birinci fıkrasının (E) bendine dayandırılacaktır.
+Madde - 54.
+Düzenleme ile, Ceza Muhakemesi Kanununun 309 ve 310 uncu maddelerine paralel değişiklik yapılmaktadır. Bu kapsamda;
+Madde başlığı, düzenlemenin içeriğine uygun olarak değiştirilmekte,
+Davanın esasını çözen hükümlere ilişkin kanun yararına bozmanın yeniden yargılama yapılmasını gerektirmeyeceğine dair kurala istisna getirilmekte ve bozmanın, savunma hakkını kaldırma veya kısıtlama sonucunu doğurmuş usul işlemlerine ilişkin olması halinde, kararı veren hakim veya mahkemenin yeniden yargılama yapıp önceki mahkumiyetten daha ağır olmamak koşuluyla yargılama sonucuna göre hüküm kuracağı öngörülmekte,
+Milli Savunma Bakanının başvuruda bulunduğu haller hariç olmak ve bir mahkumiyet hükmünün içerdiği cezanın kaldırılması veya hükümlüye daha hafif bir cezanın verilmesi gerektiği hallerle sınırlı olmak üzere, Askeri Yargıtay Başsavcısına da kanun yararına olarak Askeri Yargıtaya re sen başvurabilme yetkisi getirilmektedir.
+Madde - 55.
+Madde başlığı, madde metninin içeriğine uygun olarak değiştirilmektedir.
+Birinci fıkrada yapılan düzenleme ile cezaların ne zaman kesinleşeceği, ceza ve güvenlik tedbirlerinin yerine getirilmesinde 353 sayılı Kanunda ve Askeri Ceza Kanununda aksine hüküm bulunmadığı takdirde 13.12.2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun ilgili hükümlerinin uygulanacağı belirtilerek, bu konuda adli yargı ile uygulama birliği sağlanmaktadır.
+Yedinci fıkrada yapılan değişiklik ile cezada kanunilik ilkesine uygun olarak cezaevindeki hükümlülere uygulanacak disiplin cezaları ve tedbirleri ile tutuklular hakkındaki kısıtlayıcı önlemler konusunda da Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanuna atıf yapılmaktadır.
+Madde - 56.
+Ölüm cezaları kaldırılmış ve hürriyeti bağlayıcı ceza yerine hapis cezası ibaresi kabul edilmiş olduğundan, madde metninden ölüm cezası ibaresi çıkarılmakta, hürriyeti bağlayıcı ceza ibaresi hapis cezası olarak değiştirilmektedir.
+Madde - 57.
+Şahsi hürriyeti bağlayıcı ceza ibaresi, 5237 sayılı Türk Ceza Kanunundaki ibarelere uygun olarak hapis cezaları şeklinde değiştirilmektedir.
+Madde - 58.
+Madde başlığı, madde metninin içeriğine uygun olarak değiştirilmektedir.
+353 sayılı Kanunun 251, 252 ve 253 üncü maddeleri hükümleri 5237 sayılı Türk Ceza Kanunu ve Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunda düzenlendiğinden, bu maddeler 61 inci madde ile yürürlükten kaldırılmaktadır. 55 inci madde ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun ilgili hükümlerinin askeri mahkemelerce de uygulanacağı düzenlendiğinden, cezaların yerine getirilmesi sırasında, hüküm kesinleşmeden önce gerçekleşen şahsi hürriyeti sınırlama sonucunu doğuran haller nedeniyle geçirilmiş süreler ile hastanede geçen sürenin cezadan indirilmesine ve değişik hükümlerdeki cezaların toplanması ve mahkumiyet hükmünün yorumunda veya çektirilecek cezanın hesabında duraksamaya ilişkin bir karar alınması gerekirse, hükmü veren askeri mahkemeden alınacak karar ve bu karara itiraz şekli düzenlenmektedir.
+Madde - 59.
+Madde metninde yer alan para cezası ibareleri 5237 sayılı Türk Ceza Kanunundaki ibarelere uygun olarak adli para cezası şeklinde değiştirilmektedir.
+Madde - 60.
+Ceza Muhakemesi Kanununda düzenlenen hususların ayrıca 353 sayılı Kanunda yer almasına gerek görülmediğinden bu nitelikteki hükümler müteakip madde ile yürürlükten kaldırılmıştır. Bu Kanunda aksine hüküm bulunmayan hallerde Ceza Muhakemesi Kanununa genel atıf yapılmış, askeri yargıda uygulama olanağı bulunmayan hükümler ayrık tutulmuştur.
+Ayrıca Ceza Muhakemesi Kanununda geçen bazı terimlerin askeri yargıda hangi terimlerin karşılığı olduğu belirtilmiştir.
+Madde - 61.
+Kanunun yürürlüğe girmesi ile yürürlükten kalkacak hükümler belirtilmektedir.
+Madde - 62.
+Yürürlük maddesidir.
+Madde - 63.
+Yürütme maddesidir.
+Adalet Komisyonu Raporu
+T.B.M.M.
+Adalet Komisyonu
+Esas No	1/1210
+Karar No	105
+22.06.2006
+TÜRKİYE BÜYÜK MİLLET MECLİSİ BAŞKANLIĞINA
+Komisyonumuzun 1/6/2006 tarihli 49 uncu toplantısında görüşülen ve geneli üzerindeki görüşmeleri tamamlanarak maddelerine geçilmesi kabul edilen, ancak maddelerin ayrıntılı biçimde incelenerek düzenlenmesi için Alt Komisyona havale edilen Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısı (1/1210), Adalet, Milli Savunma ve Dışişleri bakanlıkları ile Avrupa Birliği Genel Sekreterliği temsilcilerinin katılımlarıyla etraflıca incelenip görüşülmüştür. Alt Komisyon, Raporunu, 7/6/2006 tarihinde Komisyonumuza sunmuştur. 21/6/2006 tarihli 59 uncu toplantısında Komisyonumuz, yukarıda sözü edilen Tasarıyı, Alt Komisyonun kabul ettiği metni esas alarak, Milli Savunma Bakanlığı ve Adalet Bakanlığı temsilcilerinin katılımlarıyla inceleyip görüşmüş, geneli üzerindeki görüşmelerin tamamlanmasından sonra maddelerine geçilmesi kabul edilmiştir.
+Barış zamanında asker olmayan kişilerin askeri mahkemelerde yargılanması ile ilgili 353 sayılı Kanunun 11 inci maddesinde yer alan düzenlemelerin, Tasarı ile yürürlükten kaldırılmasından dolayı, ortaya çıkan boşluğun giderilmesi ve uygulamada çıkması muhtemel sorunların önüne geçilmesi amacıyla Tasarıya, çerçeve 3 üncü maddeden sonra gelmek üzere, 353 sayılı Kanunun 13 üncü maddesinde değişiklik öngören yeni çerçeve 4 üncü madde eklenmesi ile ilgili olarak, Alt Komisyonca yapılan değişiklik kabul edilmiştir.
+Tasarının çerçeve 6 ncı maddesi ile değiştirilmesi öngörülen 353 sayılı Kanunun 20 nci maddesinde öngörülen bir yıla kadar hapis cezası süresi, kısa bir süre olarak değerlendirildiğinden, bu süre, iki yıla çıkartılmak suretiyle 7 nci madde olarak kabul edilmiştir.
+353 sayılı Kanunun 21 inci maddesinin ikinci ve devamındaki üçüncü ve dördüncü fıkralarında değişiklik öngören Tasarının çerçeve 7 nci maddesiyle değiştirilen ikinci fıkra hükmüne, açıklık sağlanması amacıyla, fıkranın ikinci cümlesine Asker olmayan kişilerin ibaresinden önce gelmek üzere savaş halinde ibaresi eklenmiş ve aynı gerekçelerle, sözü edilen cümlede yer alan diğer ibaresi madde metninden çıkarılmış ve ikinci fıkra hükmünün daha anlaşılabilir olmasını sağlamak için ikinci fıkranın son iki cümlesi ayrı bir fıkra olarak düzenlenmiş ve çerçeve 8 inci madde olarak kabul edilmiştir.
+Kolluk kuvvetlerinin, yakalanan asker kişiler açısından hangi savcılık makamına haber vermeleri gerektiği konusunda yaşayacakları tereddüdün önlenmesi amacıyla, yakalanan kişi ve olay hakkında askeri savcı ve Cumhuriyet savcısının aynı anda haberdar edilmesi gayesiyle, Tasarının 23 üncü maddesiyle değiştirilmesi öngörülen 353 sayılı Kanunun 80 inci maddesinin ikinci fıkrasının birinci cümlesinde yer alan veya ibaresi ve olarak değiştirilmiş ve çerçeve 24 üncü madde olarak kabul edilmiştir.
+Tasarının 30 uncu maddesiyle değiştirilmesi öngörülen 353 sayılı Kanunun 97 nci maddesinin üçüncü fıkrasına, Ceza Muhakemesi Kanununun 161 inci maddesi hükümlerine uyum sağlamak amacıyla Sözlü emir, en kısa sürede yazılı olarak da bildirilir. cümlesi eklenmek suretiyle çerçeve 31 inci madde olarak, Alt Komisyonca yapılan değişiklik kabul edilmiştir.
+Tasarının yürürlükten kaldırılan hükümleri düzenleyen 61 inci maddesinde yer alan 13 ibaresi; yukarıda bahsedildiği şekilde çerçeve 4 üncü maddeyle, 13 üncü madde hükmü olarak yeniden düzenlendiğinden, madde metninden çıkarılması ile ilgili olarak Alt Komisyonca yapılan değişiklik kabul edilmiştir.
+Tasarıya, 353 sayılı Kanuna önergeyle Ek Geçici 6 ncı madde eklenmiştir. Bu eklenen ek geçici maddeyle, 353 sayılı Kanunun bu Tasarı ile değiştirilmesi ve yürürlükten kaldırılması öngörülen hükümlerinin, yürürlüğe girmesine ve uygulanmasına ilişkin esas ve usullerin belirlenmesi için bu Tasarının, Kanunlaşıp yürürlüğe giriş tarihi esas alınmak suretiyle uygulamadan doğabilecek karışıklıkları önlemek amacıyla 23/5/2005 tarihli ve 5320 sayılı Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkındaki Kanunda belirtilen esaslara atıf yapılmaktadır. Ayrıca, bu Tasarıyla yapılması öngörülen değişikliklerin tümünün yürürlük tarihi ile birlikte derhal uygulamaya konması amacıyla ilgili hükümler düzenlenmiştir. Bunun yanında barış zamanında sivillerin işledikleri askeri suçlara ilişkin askeri mahkemelerde karar verilmiş ve henüz kesinleşmemiş dava dosyalarından görevli yargı yeri değişenler hakkında uygulanacak esasları düzenleyen hükümler eklenmiştir.
+Tasarıya eklenen 4 üncü ve 63 üncü maddeler nedeniyle, Tasarının madde numaraları bu duruma göre teselsül ettirilmiştir.
+Tasarının, yukarıda bahsedilen maddeleri dışında, diğer maddeleri Komisyonumuzca aynen kabul edilmiştir.
+Raporumuz, Genel Kurula sunulmak üzere, Başkanlığa saygıyla arz olunur.
+Madde 0001:
+25.10.1963 tarihli ve 353 sayılı Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununun 3 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Askeri mahkemelerde bulunacak subay üyelerin, en az yüzbaşı rütbesinde muharip sınıftan olmaları, sanığın astı ve yargılama süresince en yakın amiri olmamaları ve taksirli suçlar hariç, bir suçtan hükümlü bulunmamaları şarttır.
+Madde 0002:
+353 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (A) bendi aşağıdaki şekilde değiştirilmiştir.
+A) Muvazzaf askerler; subaylar, astsubaylar, askeri öğrenciler, uzman jandarmalar, uzman erbaşlar, erbaş ve erler,
+Madde 0003:
+353 sayılı Kanunun 11 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Yabancı asker kişilerin askeri mahkemelerde yargılanmaları:
+MADDE 11- Uluslararası anlaşmalar gereğince yabancı asker kişilerin askeri mahkemede yargılanmalarını gerektiren suçları hakkında soruşturma ve kovuşturma yapılması Milli Savunma Bakanının iznine bağlıdır.
+Madde 0004:
+353 sayılı Kanunun 13 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Barış zamanında sivil kişilerin Askeri Ceza Kanununa tâbi suçlarında yargılama mercii:
+MADDE 13- Askeri Ceza Kanununun 55, 56, 57, 58, 59, 61, 63, 64, 75, 79, 80, 81, 93, 94, 95, 114 ve 131 inci maddelerinde yazılı suçlar, askeri mahkemelerin yargı yetkisine tâbi olmayan sivil kişiler tarafından barış zamanında işlenirse; bu kişilerin yargılanması, adli yargı mahkemeleri tarafından, Askeri Ceza Kanunu hükümleri uygulanmak suretiyle yapılır.
+Madde 0005:
+353 sayılı Kanunun 14 üncü maddesinin (G) ve (H) bentleri aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki (I) bendi eklenmiştir.
+G) 1632 sayılı Askeri Ceza Kanununun 55, 56, 57, 58, 59, 63, 64, 75, 78, 80, 81, 93, 94, 95, 100, 101, 102, 124, 125 ve 127 nci maddelerinde yazılı suçlara ait davalar,
+H) İlan olunan harekât bölgesinde, birinci derece askeri yasak bölgeler içinde veya nöbet yerlerinde karakollarda kışla ve karargâhlarda, askeri kurumlarda, yerleşme ve konaklama amacıyla kullanılan bina ve mahaller içinde askerlere karşı işlenen 26.09.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 86, 106, 108, 113, 125 ve 265 inci maddelerinde yazılı suçlara ait davalar,
+I) Nöbet, devriye, karakol, inzibat, askeri trafik, kolluk veya kurtarma ve yardım görevi yapan askerlere karşı bu görevleri yaptıkları sırada işlenen (H) bendinde yazılı suçlara ait davalar.
+Madde 0006:
+353 sayılı Kanunun 19 uncu maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Tek hakimle ve kurulla bakılacak işler:
+MADDE 19- Subay ve astsubayların işledikleri suçlara ait davalar hariç olmak üzere, adli para cezasını veya yukarı haddi üç yıla kadar hapis cezasını gerektiren Askeri Ceza Kanununda ve diğer kanunlarda yazılı suçları işleyenlerin davalarına ve suç konusu olmayan eşyanın müsaderesine askeri mahkemelerin hakim sınıfından olan üyelerinden birisi tarafından bakılır.
+Bir kimse tarafından işlenmiş müteaddit fiillerin yargılanması en ağır cezayı gerektiren fiile bakmakla görevli mahkemeye aittir. Fiilde irtibat halinde de aynı hüküm uygulanır. Suçun subay ve astsubayla birlikte işlenmesi halinde birinci fıkra hükmü uygulanmaz.
+Birinci fıkrada yazılı suçlarla ilgili soruşturmalarda hakim kararı gerektiren her türlü işleme ait kararlar, askeri mahkemenin hakim sınıfından olan üyelerinden birisi tarafından verilir. Bu kararlara karşı itirazı incelemeye, en yakın askeri mahkeme yetkilidir.
+İddianamenin kabulünden sonra, yargılamanın tek hakimle yürütülmesi gerektiği gerekçesi ile görevsizlik kararı verilemez.
+Görülmekte olan davalar nedeniyle tek hakim ile askeri mahkeme kurulu arasında çıkan görev uyuşmazlıklarını Askeri Yargıtay çözümler.
+Madde 0007:
+353 sayılı Kanunun 20 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 20- Er ve erbaşlar ile yedek subayların askere girmeden veya silah altına çağrılmadan önce işledikleri yukarı haddi iki yıla kadar hapis cezasını gerektiren suçlara ait davalarda soruşturma ve kovuşturma işlemleri askerliklerini bitirmelerine kadar geri bırakılır.
+Türk Silahlı Kuvvetlerinden çıkarmayı gerektiren suçlardan sanık yedek subaylar hakkında bu hüküm uygulanmaz.
+Savaş halinde, silah altında bulunan veya silah altına çağrılan bütün asker kişiler aleyhine adliye mahkemelerinin görevine giren suçlardan aşağı haddi beş yıl ve daha fazla hapis cezasını gerektirenler hariç olmak üzere, şüpheli veya sanık bulundukları diğer suçlara ait soruşturma ve kovuşturma işlemleri barışa veya askerliklerinin bitimine kadar geri bırakılır.
+Savaş halinde, aşağıda yazılı suçlar hariç olmak üzere, askeri mahkemenin görevine giren asker kişiler hakkındaki suçlara ait soruşturma ve kovuşturma işlemleri, barışa veya askerliklerinin bitimine kadar geri bırakılır. Ancak teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri askeri menfaat ve zorunluluklar karşısında geri bırakma hükümlerinin uygulanmamasını askeri savcıdan isteyebilir:
+Aşağı haddi beş yıl ve daha fazla hapis cezasını gerektiren suçlar.
+Askeri Ceza Kanununun 3 üncü babının birinci, üçüncü (63 üncü maddesinin birinci fıkrası ile 76 ve 77 nci maddeleri hariç), dördüncü, beşinci (82, 83, 84, 95 inci maddeleri hariç), yedinci fasıllarında yazılı suçlar.
+Askeri Ceza Kanununun 130, 131 ve 137 nci maddelerinde yazılı suçlar.
+Geri bırakma süresi içinde zamanaşımı işlemez.
+Madde 0008:
+353 sayılı Kanunun 21 inci maddesinin ikinci, üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiş ve maddeye ikinci fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+Asker olmayan kişilerin asker kişilerle müştereken işledikleri suçlarda yetkili askeri mahkeme, asker kişiler yönünden yetkili olan askeri mahkemedir.
+Savaş halinde saklı, yoklama kaçağı, bakaya ve geç iltihak suretiyle bakaya suçlarından sanık erbaş ve erler ile sevk edildiği eğitim merkezine zamanında katılmamak suretiyle bakaya suçu işleyen yedek subay adayları, eğitimlerini takiben verildikleri birlik veya kurumların tabi oldukları askeri mahkemede yargılanırlar.
+Savaş halinde saklı, yoklama kaçağı ve bakaya suçlarından sanık yedek subay aday adayları, kayıtlı bulundukları askerlik şubelerinin tabi olduğu askeri mahkemede yargılanırlar.
+Savaş halinde, asker olmayan kişilerin askeri mahkemelerde yargılanmalarını gerektiren suçlarda ise, suçun işlendiği yere en yakın askeri mahkeme yetkilidir. Suçun işlendiği yer belli değil ise, yetkili askeri mahkeme 04.12.2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununda gösterilen usûllere göre belirlenir.
+Madde 0009:
+353 sayılı Kanunun 22 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 22- Kadro ve kuruluş itibarıyla hangi askeri mahkemenin yetkisine girdikleri belli olmayan kişiler, suçu işledikleri veya bölgesinde bulundukları yerdeki askeri birlik veya kurumun bağlı bulunduğu askeri mahkemenin yetkisine tabidirler.
+Yetkili askeri mahkeme birden fazla olduğu takdirde şüpheliyi yakalayan veya soruşturma yapılmasını daha önce isteyen kıt'a komutanı veya askeri kurum amirinin teşkilatında kurulan askeri mahkeme yetkilidir.
+Madde 0010:
+353 sayılı Kanunun 28 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+Birden fazla mahkemeye tabi şüpheliler hakkında yetki:
+MADDE 28- Bir suçta birkaç şüpheli bulunur ve bunlar birden fazla askeri mahkeme yetkisine tabi olursa ilgili askeri savcılar hepsi hakkında soruşturmanın hangi askeri savcılık tarafından yapılacağını kararlaştırırlar. Uzlaşamazlar ise, soruşturmayı yapacak savcılığı Milli Savunma Bakanlığı tayin eder.
+Birleştirilerek yapılan soruşturma sonunda şüphelilerin hepsi hakkında dava, soruşturmayı yapan askeri savcının teşkilatında bulunduğu askeri mahkemede açılabilir.
+Şüphelilerden biri hakkında evvelden dava açılmış ise askeri savcılardan birinin istemi üzerine Askeri Yargıtay tarafından bütün şüphelilerin davasına bakacak askeri mahkeme tayin olunur.
+Madde 0011:
+353 sayılı Kanunun 32 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 32- Sanık, sınıf ve rütbe yönünden olmayan yetkisizlik iddiasını duruşmada sorgusundan önce askeri mahkemeye bildirir. Yetkisizlik iddiası üzerine askeri mahkeme bu iddiayı, sanığın sorgusundan önce karara bağlar. Bu aşamalardan sonra yetkisizlik iddiasında bulunulamayacağı gibi mahkemeler de bu hususta re'sen karar veremez.
+Madde 0012:
+353 sayılı Kanunun 33 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Yetkisi olmayan askeri savcının ve askeri mahkemenin yaptığı soruşturma ve kovuşturma: MADDE 33- Yetkisi olmayan askeri savcı ve askeri mahkeme tarafından yapılan soruşturma ve kovuşturma işlemleri, sadece yetkisizlik nedeniyle hükümsüz sayılmaz.
+Madde 0013:
+353 sayılı Kanunun 37 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Hakimin davaya bakamayacağı haller ve hakimin reddi:
+MADDE 37- Hakim, Ceza Muhakemesi Kanununda belirtilen hallerde ve dava ile ilgili olarak teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri sıfatı ile istemde bulunmuş veya amir sıfatı ile vak'a hakkında rapor vermiş ise hakimlik görevini yapamaz.
+Savaşta, hakimin davaya bakamayacağı haller dışındaki bir sebebe dayanılarak hakimin reddi isteminde bulunulamaz.
+Madde 0014:
+353 sayılı Kanunun 46 ncı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Askeri savcıların reddi ve çekinmesi:
+MADDE 46- Askeri savcılar reddedilemez. Ancak, hakimin davaya bakamayacağı hallerden veya hakimin ret sebeplerinden biri bulunursa davadan çekinirler.
+Madde 0015:
+353 sayılı Kanunun 49 uncu maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Tebligat ve yazışma usûlü:
+MADDE 49- Mahkeme kıdemli hakimi veya hakim, her türlü tebligatı, tüm gerçek veya özel hukuk tüzel kişileri veya kamu kurum ve kuruluşları ile ilgili yazışmaları yapar.
+İnfaz edilecek kararlar, askeri savcılığa verilir.
+Askeri Yargıtayda tebliğ veya yerine getirilecek kararlar, Askeri Yargıtay Başsavcısına verilir. Başsavcı, tebliğ veya yerine getirme için gerekli tedbirleri alır.
+Madde 0016:
+353 sayılı Kanunun 59 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 59- Asker kişi olan tanıklar, bağlı bulundukları birlik komutanı veya askeri kurum amirlerinin emri ile getirilirler. Tutuklu ve ivedi işler ile savaş halinde tanıklar zorla getirilebilirler.
+Madde 0017:
+353 sayılı Kanunun 63 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Askeri mahallerde keşif:
+MADDE 63- Askeri mahallerde yapılacak keşiflerde o yerdeki askeri birlik komutanı veya askeri kurum amiri haberdar edilir.
+Madde 0018:
+353 sayılı Kanunun 69 uncu maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Tutuklama kararı:
+MADDE 69- Tutuklama kararı; soruşturma evresinde askeri savcının veya teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amirinin istemi üzerine, kovuşturma evresinde ise askeri savcının istemi ile veya re'sen askeri mahkeme tarafından verilir.
+Teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri şüphelinin tutuklanmasını istediği takdirde bu istemini gerekçesi ile birlikte askeri savcıya bildirir. Askeri savcı, bu istemi yetkili askeri mahkemeye intikal ettirmekle yükümlüdür.
+Madde 0019:
+353 sayılı Kanunun 71 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Tutuklama nedenleri:
+MADDE 71- Kuvvetli suç şüphesinin varlığını gösteren olguların bulunması durumunda Ceza Muhakemesi Kanununda belirtilen tutuklama nedenlerinden birinin varlığı halinde veya askeri disiplinin korunması amacıyla şüpheli veya sanık hakkında tutuklama kararı verilebilir.
+Sırf askeri suçlarda, kanunda öngörülen cezanın üst sınırı bir yıldan az olsa dahi tutuklama kararı verilebilir.
+Madde 0020:
+353 sayılı Kanunun 73 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Şüpheli veya sanığın tutuklanmasından kimlere haber verileceği:
+MADDE 73- Şüpheli veya sanığın tutuklanmasından; yakınları, teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri ile şüpheli veya sanığın mensup olduğu askeri birlik komutanı veya askeri kurum amiri derhal haberdar edilir.
+Madde 0021:
+353 sayılı Kanunun 74 üncü maddesinde yer alan Tutuklama kararına karşı sanık ibaresi Tutuklama kararına karşı şüpheli, sanık olarak, son fıkrası ise aşağıdaki şekilde değiştirilmiştir.
+Ancak, itirazı inceleyen mahkeme, şüpheli veya sanığın tutuklanmasına karar verdiği takdirde; şüpheli veya sanık, itirazda bulunan teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amirinin teşkilatındaki askeri mahkeme hariç, en yakın askeri mahkemeye yukarıdaki süre içinde itiraz edebilir. Bu mahkemenin verdiği karar kesindir.
+Madde 0022:
+353 sayılı Kanunun 75 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 75- Soruşturma evresinde şüphelinin tutukevinde bulunduğu süre içinde ve en geç otuzar günlük süreler itibarıyla tutukluluk halinin devamının gerekip gerekmeyeceği hususunda, askeri savcının istemi üzerine tutuklama kararını veren askeri mahkeme tarafından 71 inci madde hükümleri göz önünde bulundurularak karar verilir. Bu karar şüpheliye tebliğ olunur.
+Tutukluluk halinin incelenmesi, yukarıdaki fıkrada öngörülen süre içinde şüpheli tarafından da istenebilir.
+İnceleme tarihinde askeri mahkemenin vereceği karara karşı, teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri, askeri savcı ve şüpheli üç gün içinde bu mahkemeye en yakın askeri mahkemede itiraz edebilir. İtirazı inceleyen askeri mahkemenin vereceği karar kesindir.
+Askeri mahkeme; tutuklu bulunan sanığın duruşmasında, tutukluluk halinin devamının gerekip gerekmeyeceğini, her oturumda veya koşullar gerektirdiğinde davanın açılmasından hükmün kesinleşmesine kadar askeri savcı veya sanığın istemi üzerine veya re'sen inceleyerek karara bağlar.
+Madde 0023:
+353 sayılı Kanunun 79 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 79- Aşağıda belirtilen hallerde, asker kişi herkes tarafından geçici olarak yakalanabilir:
+Kişiye suçu işlerken rastlanması.
+Suçüstü bir fiilden dolayı; izlenen kişinin kaçması olasılığının bulunması veya hemen kimliğini belirleme olanağının bulunmaması.
+Tutuklama kararı veya yakalama emri düzenlenmesini gerektiren ve gecikmesinde sakınca bulunan hallerde; askeri savcıya derhal başvurma olanağı bulunmadığı takdirde, amiri, üstü, askeri karakol, nöbetçi, devriye, askeri inzibat ve kolluk görevlisi asker kişiyi yakalama yetkisine sahiptir.
+Birinci fıkra hükmü, resmi elbiseli subay, astsubay ve askeri öğrenciler hakkında ancak ağır ceza mahkemesinin görevine giren suçlarda uygulanabilir.
+Madde 0024:
+353 sayılı Kanunun 80 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+Yakalanan kimsenin sorguya çekilmesi ve gözaltı:
+MADDE 80- Yakalanan kişi serbest bırakılmaz ise hemen en yakın askeri inzibat karakoluna veya askeri makama teslim olunur veya yetkili askeri inzibat gelinceye kadar olay yerinde tutulur.
+Yakalanan kişi ve olay hakkında askeri savcı ve Cumhuriyet savcısına hemen bilgi verilerek emri doğrultusunda işlem yapılır. Kişinin yakalandığı bir yakınına veya belirlediği bir kişiye gecikmeksizin haber verilir.
+Yakalanan kişi askeri savcı veya Cumhuriyet savcısı tarafından bırakılmazsa soruşturmanın tamamlanması için gözaltına alınmasına karar verilir.
+Gözaltı süresi, yakalama yerine en yakın askeri mahkeme veya sulh hakimine gönderilmesi için zorunlu süre hariç yakalama anından itibaren yirmidört saati geçemez. Yakalama yerine en yakın askeri mahkeme veya sulh hakimine gönderilme için zorunlu süre oniki saatten fazla olamaz.
+Toplu olarak işlenen suçlarda, suçun niteliği, delillerin toplanmasındaki güçlük veya şüpheli sayısının çokluğu nedeniyle; askeri savcı veya Cumhuriyet savcısı gözaltı süresinin, her defasında bir günü geçmemek üzere, üç gün süreyle uzatılmasına yazılı olarak emir verebilir. Gözaltı süresinin uzatılması emri gözaltına alınana derhal tebliğ edilir.
+Yakalama işlemine, gözaltına alma ve gözaltı süresinin uzatılmasına ilişkin askeri savcı veya Cumhuriyet savcısının yazılı emrine karşı, yakalanan kişi, müdafi veya kanuni temsilcisi, eşi ya da birinci veya ikinci derecede kan hısımı, hemen serbest bırakılmayı sağlamak için askeri mahkemeye veya sulh ceza hakimine başvurabilir. Askeri mahkeme veya sulh ceza hakimi incelemeyi evrak üzerinde yaparak derhal ve nihayet yirmidört saat dolmadan başvuruyu sonuçlandırır. Yakalamanın veya gözaltına alma veya gözaltı süresini uzatmanın yerinde olduğu kanısına varılırsa başvuru reddedilir.
+Dördüncü ve beşinci fıkralarda yazılı süreler içinde şüpheli, sorguya çekilmek üzere askeri mahkeme önüne çıkarılır; askeri mahkeme önüne çıkarılma imkanı olmaması halinde, en yakın sulh hakimine gönderilir. Bu süreler geçtikten sonra mahkeme veya hakim kararı olmaksızın hürriyetinden yoksun kılınamaz.
+Askeri mahkeme veya sulh hakimi, yakalanma veya gözaltına almayı gerektiren bir hal görmez veya bu sebepler ortadan kalkmış bulunursa gözaltına alınan kişinin serbest bırakılmasını emreder.
+Madde 0025:
+353 sayılı Kanunun 81 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Şüpheli veya sanığın getirilmesi:
+MADDE 81- Asker kişiler, ifadelerinin alınması veya sorguları için bağlı bulundukları askeri birlik komutanının veya askeri kurum amirinin emri ile getirilirler.
+Tutuklu olanlar muhafaza altında gönderilir.
+Savaş halinde asker olmayan şüpheli ve sanıklar davetiye çıkarılmadan zorla getirtilebilirler.
+Madde 0026:
+353 sayılı Kanunun 84 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Askeri savcı, asker kişi olan bir şüphelinin yapılan soruşturma dolayısıyla geçici olarak işten el çektirilmesini gerekli görürse, bu hususta karar verilmesini teşkilatında askeri mahkeme kurulan yetkili kıt'a komutanı veya askeri kurum amirinden ister. Kıt'a komutanı veya askeri kurum amiri bu hususta en geç üç gün içinde kararını verir ve sonucunu askeri savcıya bildirir.
+Madde 0027:
+353 sayılı Kanunun 85 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Müdafi sayısının sınırlanması:
+MADDE 85- Savaş halinde müdafilerin sayısı sınırlanabilir.
+Madde 0028:
+353 sayılı Kanunun 93 üncü maddesinin birinci ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Askeri suçlara dair asker kişiler tarafından yapılacak sözlü ve yazılı ihbar ve şikayetler silsile yolu ile şüphelinin amiri olan askeri makama yapılır.
+Asker kişilerden başkası tarafından yapılacak sözlü veya yazılı ihbar ve şikayetler, Ceza Muhakemesi Kanunu hükümleri dairesinde yetkili makamlara veya şüphelinin amiri olan askeri makama yapılır.
+Madde 0029:
+353 sayılı Kanunun 95 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 95- Cumhuriyet savcılıklarına veya zabıta makam ve memurlarına yapılacak askeri yargıya tabi suç ihbar ve şikayetleri şüphelinin amiri olan makama gönderilir.
+Askeri birlik komutanı veya askeri kurum amiri maiyetinden birinin kendisine ihbar veya şikayet olunan veyahut diğer suretle öğrendiği, askeri mahkemelerin görev alanına giren suçları hakkında şüphelinin kimliğini, isnat olunan suçu ve bu suçun delillerini gösterir bir vak'a raporu düzenler ve adli yönden bağlı bulunduğu askeri mahkemenin teşkilatında kurulduğu kıt'a komutanı veya askeri kurum amirine gönderir.
+Teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri, suç evrakını inceledikten sonra askeri savcıya gönderir ve şüphelinin tutuklanmasını isterse bu husustaki istemini de bildirir.
+Ağır ceza mahkemesinin görevine giren suçlar veya gecikmesinde sakınca umulan hallerde askeri savcılar derhal soruşturmaya başlarlar. Zorunluluk halinde bu soruşturma bir disiplin subayı tarafından da yapılabilir. Bu hallerde durum derhal yetkili askeri mahkemenin teşkilatında kurulduğu komutan veya askeri kurum amirine bildirilir.
+Cumhuriyet savcıları, zabıta makam ve memurları ve askeri amirler askeri savcının işe el koymasına kadar eylemin sübut vasıtalarının ve delillerinin kaybolmasını önleyecek, gecikmesinde sakınca umulan tedbirleri alırlar.
+Madde 0030:
+353 sayılı Kanunun 96 ncı maddesinin başlığı ile birinci, üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Soruşturma: Askeri savcı 95 inci maddede yazılı usûl ve yollarla bir suçun işlendiğini öğrenir öğrenmez, kamu davasının açılmasına lüzum olup olmadığına karar verilmek üzere bir soruşturma yapar. Şüpheli suçunu itiraf etse bile, öz vak'anın soruşturulması gerekir. Askeri savcı, maddi gerçeğin araştırılması ve adil yargılamanın yapılabilmesi için, kolluk görevlileri marifetiyle, şüphelinin lehine ve aleyhine olan delilleri toplayarak muhafaza altına almak ve şüphelinin haklarını korumakla yükümlüdür.
+Madde 0031:
+353 sayılı Kanunun 97 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 97- Askeri savcı, gerek doğrudan doğruya ve gerekse askeri, adli veya diğer kolluk görevlileri aracılığı ile her türlü araştırmayı yapabilir; bütün kamu görevlilerinden ve özel kuruluşlardan soruşturmaya ilişkin her türlü bilgiyi isteyebilir.
+Askeri savcılar; diğer askeri savcılar ile Cumhuriyet savcılarını istinabe edebilirler.
+Askeri, adli ve diğer kolluk görevlileri, askeri savcının soruşturmaya ilişkin bütün emirlerini gecikmeksizin yerine getirmekle yükümlüdür. Bu emirler yazılı; acele hallerde sözlü olarak verilir. Sözlü emir, en kısa sürede yazılı olarak da bildirilir.
+Diğer kamu görevlileri de, yürütülmekte olan soruşturma kapsamında ihtiyaç duyulan bilgi ve belgeleri, talep eden askeri savcıya vakit geçirmeksizin temin etmekle yükümlüdür.
+Madde 0032:
+353 sayılı Kanunun 103 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Soruşturma sırasında bu soruşturmanın başka bir kişiyi veya suçu kapsayacak şekilde genişletilmesi gerekirse, askeri savcı ivedi hallerde bu soruşturmayı kendiliğinden yapar.
+Madde 0033:
+353 sayılı Kanunun 107 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Kovuşturmaya yer olmadığına dair karara itiraz:
+MADDE 107- Askeri savcı tarafından verilen kovuşturmaya yer olmadığına dair karar, teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri ile şüpheli ve suçtan zarar görene bildirilir.
+Bu karara karşı teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri ya da suçtan zarar gören, kararın kendilerine tebliğinden itibaren onbeş gün içinde kararı veren askeri savcının teşkilatında olduğu askeri mahkemeye yer itibarıyla en yakın askeri mahkemede itiraz edebilirler. En yakın askeri mahkemenin tayininde kararsızlık olursa, bu husus Milli Savunma Bakanlığınca giderilir. İtiraz isteminde kamu davasının açılmasını haklı gösterecek olaylar ve deliller gösterilir.
+Madde 0034:
+353 sayılı Kanunun 108 inci maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.
+İtiraz üzerine askeri savcının o zamana kadar yaptığı soruşturmayı içine alan dosya, itirazı inceleyecek olan askeri mahkemeye gönderilir. Askeri mahkeme, süre tayin ederek bir diyeceği varsa bildirmesi için itiraz istemini şüpheliye tebliğ edebilir.
+Madde 0035:
+353 sayılı Kanunun 109 uncu maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Ret kararı suçtan zarar görene; eğer itiraz, teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri tarafından yapılmış ise bu makama tebliğ olunur ve ayrıca askeri savcıya ve şüpheliye bildirilir.
+Madde 0036:
+353 sayılı Kanunun 110 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Askeri mahkeme, itirazın yerinde ve haklı olduğuna kanaat getirirse, şüpheli hakkında kamu davası açılmasının gerekli olduğuna karar verir ve evrakı yetkili askeri savcıya gönderir.
+Madde 0037:
+353 sayılı Kanunun 111 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Askeri savcı tarafından verilip süresi içinde itiraz edilmeyen veya itiraz edilip de süresi içinde itiraz edilmediğinden veya sebep gösterilmediğinden hakkındaki itiraz reddolunmuş bulunan kovuşturmaya yer olmadığı kararı üzerine, Milli Savunma Bakanı soruşturmaya devam edilmesi veya kamu davası açılması hususlarında askeri savcıya emir verebilir.
+Madde 0038:
+353 sayılı Kanunun 112 nci maddesinin ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Bu karara karşı şüpheli ve suçtan zarar gören ile teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri onbeş gün içinde itiraz edebilir. Bu itiraz hakkında 107, 108 ve 109 uncu madde hükümleri uygulanır. İtirazın kabul edilmesi halinde, askeri savcı, soruşturmanın sonucuna göre karar verir.
+Madde 0039:
+353 sayılı Kanunun 115 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+İddianamenin iadesi kararına itiraz:
+MADDE 115- Askeri savcı, iddianamenin iadesi kararına karşı yedi gün içinde en yakın askeri mahkemeye itiraz edebilir.
+Madde 0040:
+353 sayılı Kanunun 196 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 196- Kanun yolları, askeri savcı, şüpheli, sanık ve katılan, katılma isteği karara bağlanmamış, reddedilmiş veya katılan sıfatını alabilecek surette suçtan zarar görmüş bulunanlar ile teşkilatında askeri mahkeme kurulan kıt'a komutanı ve askeri kurum amirine açıktır.
+Askeri savcı ile teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri şüpheli veya sanık lehine de kanun yollarına başvurabilir.
+Madde 0041:
+353 sayılı Kanunun 202 nci maddesinin başlığı aşağıdaki şekilde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
+İtiraz olunabilecek kararlar ve itiraz merci: Bu Kanunda aksine hüküm bulunmayan hallerde yapılacak itirazları en yakın askeri mahkeme inceler.
+Madde 0042:
+353 sayılı Kanunun 205 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 205- Askeri mahkemelerce verilen hükümler temyiz edilebilir.
+Onbeş yıl ve daha fazla hapis cezasına ilişkin hükümler kendiliğinden temyize tabidir.
+Ancak;
+Üst sınırı beşyüz günü geçmeyen adli para cezasını gerektiren suçlardan beraat hükümlerine,
+Kanunlarda kesin olduğu yazılı bulunan hükümlere,
+karşı temyiz yoluna başvurulamaz. Bu hükümler hakkında 243 üncü madde hükümlerine göre Askeri Yargıtaya başvurulabilir.
+Madde 0043:
+353 sayılı Kanunun 207 nci maddesinin birinci ve ikinci fıkrası ile üçüncü fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiş ve üçüncü fıkrasına aşağıdaki bent eklenmiştir.
+Temyiz, kural olarak hükmün hukuka aykırılığı sebebine dayanır.
+Bir hukuk kuralının uygulanmaması veya yanlış uygulanması hukuka aykırılıktır.
+Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda yazılı hallerde hukuka kesin aykırılık varsayılır:
+I) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması.
+Madde 0044:
+353 sayılı Kanunun 212 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+İsteme bağlı temyiz layihası ve tebliği:
+MADDE 212- Temyiz dilekçesinde veya beyanında temyiz sebepleri gösterilmemiş ise, temyiz dilekçesi için belirli olan sürenin bitmesinden veyahut hükmün gerekçesi henüz tebliğ edilmemiş ise, tebliğinden itibaren yedi gün içinde hükmü temyiz olunan mahkemeye bu sebepleri kapsayan bir layiha da verilebilir.
+Teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri veya askeri savcı, temyiz yoluna başvurma nedenlerini sanığın leh ve aleyhine olduğunu belirtmek suretiyle gerekçeleri ile birlikte yazılı isteminde açıkça gösterir. Bu istem ilgililere tebliğ edilir. İlgililer, tebliğ tarihinden itibaren yedi gün içinde bu husustaki cevaplarını bildirebilirler.
+Madde 0045:
+353 sayılı Kanunun 216 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 216- Temyiz dilekçesini ve beyanını ve varsa layihasını ve kendiliğinden temyize tabi hükümleri, askeri savcı dosyaları ile beraber Askeri Yargıtay Başsavcılığına gönderir.
+Askeri Yargıtay Başsavcılığınca düzenlenen tebliğname, hükmü temyiz etmeleri veya temyiz etmeseler dahi aleyhlerine sonuç doğurabilecek görüş içermesi halinde sanık veya müdafi ile katılan veya vekillerine tebliğ olunur. İlgili taraf tebliğden itibaren bir hafta içinde yazılı olarak cevap verebilir. Askeri Yargıtay Başsavcılığı tebliğname ile dosyayı Askeri Yargıtay Başkanlığına gönderir.
+İkinci fıkra uyarınca yapılacak tebligatlar, ilgililerin dava dosyasından belirlenen son adreslerine yapılmasıyla geçerli olur. Ceza Muhakemesi Kanununun 262 ve 263 üncü madde hükümleri saklıdır.
+Madde 0046:
+353 sayılı Kanunun 218 inci maddesinin başlığı ve birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Duruşmalı inceleme:
+On yıl veya daha fazla hapis cezasına ilişkin hükümlerde Askeri Yargıtay incelemesini, sanığın veya katılanın temyiz başvurusundaki istemi üzerine veya re'sen duruşmalı olarak yapar. İncelemenin duruşmalı yapılması, bir yıldan fazla hapis cezasına ilişkin hükümlerde Askeri Yargıtayın lüzum görmesine bağlıdır. Duruşma gününden sanığa, katılana, müdafi ve vekile haber verilir. Sanık duruşmada hazır bulunabileceği gibi vekaletnameye sahip bir veya birkaç müdafi ile kendisini temsil ettirebilir. Şu kadar ki; 85 inci madde hükmü saklıdır.
+Madde 0047:
+353 sayılı Kanunun 219 uncu maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Raporun, açıklanmasından sonra, Askeri Yargıtay Başsavcısı, sanık, müdafi, katılan ve vekili iddia ve savunmalarını açıklar. Bunlar arasında temyizi istemiş olan taraf önce dinlenir. Son söz sanığındır.
+Madde 0048:
+353 sayılı Kanunun 220 nci maddesinin ikinci fıkrasının (A) ve (F) bentleri aşağıdaki şekilde değiştirilmiştir.
+A) Vakıanın daha ziyade aydınlatılması gerekli olmaksızın yalnız beraate veya alt ve üst sınırı olmayan sabit bir cezaya hükmolunması gerekirse,
+F) Suçun hukuki niteliğinin tayinine ve ceza uygulamasına bir etkisi bulunmamak kaydıyla, dosyadaki bilgi ve belgelerin dışında hiçbir araştırma yapılmasına ve takdire gerek duyulmayacak şekilde tespiti mümkün olan, suçun tarihinde hata yapılmışsa,
+Madde 0049:
+353 sayılı Kanunun 221 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 221- Askeri Yargıtay, temyiz edilen hükmü, hükmü etkileyecek nitelikteki hukuka aykırılıklar nedeniyle bozar.
+Hükmün bozulmasına neden olan hukuka aykırılık, bu hükme esas olarak saptanan işlemlerden kaynaklanmış ise, bunlar da aynı zamanda bozulur.
+207 nci madde hükümleri saklıdır.
+Madde 0050:
+353 sayılı Kanunun 222 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 222- Askeri Yargıtay temyiz dilekçe, beyan ve layihasında ve tebliğnamede ileri sürülen hususları ve bunlar dışında hükmün esasına dokunacak derecede hukuka aykırı hallerin bulunup bulunmadığını inceler.
+Madde 0051:
+353 sayılı Kanunun 226 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+MADDE 226- Hüküm, sanık lehine bozulmuş ise ve bu hususların temyiz isteminde bulunmamış olan diğer sanıklara da uygulanması olanağı varsa, bu sanıklar da temyiz isteminde bulunmuşçasına hükmün bozulmasından yararlanırlar.
+Madde 0052:
+353 sayılı Kanunun 227 nci maddesinin üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Hüküm, yalnız sanık tarafından veya onun lehine askeri savcı veya teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri veya 196 ncı maddede gösterilen kimselerce temyiz edilmiş ise, yeniden verilen hüküm, önceki hükümle belirlenmiş olan cezadan daha ağır olamaz.
+Sanık, müdafi, katılan ve vekilinin dosyada bulunan adreslerine de davetiye tebliğ olunamaması veya davetiye tebliğ olunmasına rağmen duruşmaya gelmemeleri nedeniyle bozmaya karşı beyanları saptanmamış olsa da, duruşmaya devam edilerek dava yokluklarında bitirilebilir. Ancak, sanık hakkında verilecek ceza, bozmaya konu olan cezadan daha ağır ise, sanığın her halde dinlenilmesi gerekir.
+Madde 0053:
+353 sayılı Kanunun dördüncü kısmının başlığı aşağıdaki şekilde değiştirilmiş, 228 inci maddesinin birinci fıkrasına (F) bendi ve maddeye ikinci fıkra eklenmiştir.
+Yargılamanın Yenilenmesi ve Kanun Yararına Bozma
+F) Ceza hükmünün, İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair Sözleşmenin veya eki protokollerin ihlali suretiyle verildiği ve hükmün bu aykırılığa dayandığı, Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararıyla tespit edilmiş olursa.
+Birinci fıkranın (F) bendinde belirtilen halde yargılamanın yenilenmesi, Avrupa İnsan Hakları Mahkemesi kararının kesinleştiği tarihten itibaren bir yıl içinde istenebilir.
+Madde 0054:
+353 sayılı Kanunun 232 nci maddesine aşağıdaki fıkra eklenmiştir.
+Bu madde, 228 inci maddenin birinci fıkrasının (E) bendinde yazılı halde uygulanmaz.
+Madde 0055:
+353 sayılı Kanunun 243 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Kanun yararına bozma:
+MADDE 243- Askeri mahkemelerden verilen ve Askeri Yargıtayda incelenmeksizin kesinleşen karar ve hükümlerde hukuka aykırılık bulunduğunu öğrenen Milli Savunma Bakanı, o karar veya hüküm hakkında kanun yararına bozma yoluna gidebilir. Bu takdirde o karar veya hükmün Askeri Yargıtayca bozulması istemini, yasal nedenlerini belirterek Askeri Yargıtay Başsavcılığına yazılı olarak bildirir.
+Askeri Yargıtay Başsavcısı tebliğnamesine yalnız bu sebepleri yazar ve dosyayı Askeri Yargıtay Başkanlığına verir.
+Askeri Yargıtay, ileri sürülen bu sebepleri yerinde görürse kararı veya hükmü bozar.
+Bozma nedenleri;
+Ceza Muhakemesi Kanununun 223 üncü maddesinde tanımlanan ve davanın esasını çözmeyen bir karara ilişkin ise, kararı veren hakim veya mahkeme, gerekli inceleme ve araştırma sonucunda yeniden karar verir.
+Mahkûmiyete ilişkin hükmün, davanın esasını çözmeyen yönüne veya savunma hakkını kaldırma veya kısıtlama sonucunu doğuran usûl işlemlerine ilişkin ise, kararı veren hakim veya mahkemece yeniden yapılacak yargılama sonucuna göre gereken hüküm verilir. Bu hüküm, önceki hükümle belirlenmiş olan cezadan daha ağır olamaz.
+Davanın esasını çözüp de mahkûmiyet dışındaki hükümlere ilişkin ise, aleyhte sonuç doğurmaz ve yeniden yargılamayı gerektirmez.
+Hükümlünün cezasının kaldırılmasını gerektiriyorsa cezanın kaldırılmasına, daha hafif bir cezanın verilmesini gerektiriyorsa bu hafif cezaya Askeri Yargıtay doğrudan hükmeder.
+Bu madde uyarınca verilen bozma kararına karşı direnilemez.
+Kanun yararına bozma yetkisi, dördüncü fıkranın (D) bendindeki hallere özgü olmak üzere ve kanun yararına olarak re'sen Askeri Yargıtay Başsavcısı tarafından da kullanılabilir.
+Milli Savunma Bakanı tarafından kanun yararına bozma başvurusunda bulunulduğunda, bu yetki artık Askeri Yargıtay Başsavcısı tarafından kullanılamaz.
+Madde 0056:
+353 sayılı Kanunun 244 üncü maddesinin başlığı ile birinci ve yedinci fıkraları aşağıdaki şekilde değiştirilmiştir.
+Ceza ve güvenlik tedbirlerinin ne zaman, nasıl ve kimin tarafından yerine getirileceği:
+Askeri mahkemelerce verilen ceza hükümleri, kesinleşmedikçe yerine getirilmez. Bu Kanunda ve Askeri Ceza Kanununda aksine bir hüküm bulunmadığı takdirde cezalar ve güvenlik tedbirlerinin yerine getirilmesinde, 13.12.2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun ilgili hükümleri uygulanır.
+Cezaların askeri ceza ve tutukevlerinde ne suretle infaz edileceği Milli Savunma Bakanlığınca çıkarılacak bir yönetmelikte gösterilir. Askeri ceza ve tutukevlerinde bulunan hükümlü ve tutuklular hakkında uygulanacak disiplin cezaları ve tedbirleri ile kısıtlayıcı önlemler de Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun hükümlerine tabidir. Kınama haricindeki disiplin cezaları askeri mahkemenin hakim sınıfından olan bir üyesi tarafından verilir. Ancak, acil hallerde askeri savcılar veya askeri ceza ve tutukevi yetkililerince verilecek inzibati cezalar uygulamaya konulur ve derhal hakim onayına sunulur.
+Madde 0057:
+353 sayılı Kanunun 248 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Savaşta, askeri mahkemelerden verilen hükümler temyiz olunamaz. Onbeş yıl ve daha fazla hapis cezası içeren hükümler, teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri tarafından temyiz edilebilir.
+Madde 0058:
+353 sayılı Kanunun 249 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Savaş halinde, askeri mahkemelerden verilen ve Türk Silahlı Kuvvetlerinden çıkarmayı, rütbenin geri alınmasını veya askeri öğrencilik hakkının kaybedilmesini kapsayan veya gerektiren cezalar hariç olmak üzere, diğer hapis cezalarının yerine getirilmesi, teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amirinin istemi üzerine Türk Silahlı Kuvvetleri Komutanı veya onun yetki verdiği diğer komutanlar tarafından savaşın sonuna kadar geriye bırakılabilir.
+Madde 0059:
+353 sayılı Kanunun 254 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+Cezaların yerine getirilmesi sırasında alınması gereken kararlar ve bu kararlara itiraz:
+MADDE 254- Cezaların yerine getirilmesi sırasında, hüküm kesinleşmeden önce gerçekleşen şahsi hürriyeti sınırlama sonucunu doğuran haller nedeniyle geçirilmiş süreler ile hastanede geçen sürenin cezadan indirilmesine, değişik hükümlerdeki cezaların toplanmasına ve mahkûmiyet hükmünün yorumunda veya çektirilecek cezanın hesabında duraksamaya ilişkin bir karar alınması gerekirse, hükmü veren askeri mahkemeden karar istenir. Bu kararlar duruşma yapılmaksızın verilir.
+Karar verilmeden önce askeri savcı ve hükümlünün görüşlerini yazılı olarak bildirmeleri istenebilir.
+Hükmü veren askeri mahkeme kaldırılmış ise ona en yakın askeri mahkeme karar verir.
+Yukarıdaki fıkralar uyarınca yapılan başvurular cezanın infazını ertelemez. Ancak, mahkeme olayın özelliğine göre infazın ertelenmesine veya durdurulmasına karar verebilir.
+Bu kararların askeri mahkemelerden verilmesi hallerinde, askeri savcı ve teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri ile hükümlü ve varsa müdafi bir hafta içinde itiraz edebilirler.
+İtiraz üzerine Askeri Yargıtay karar verir.
+Madde 0060:
+353 sayılı Kanunun 255 inci maddesinin ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Asker kişiler hakkında verilen adli para cezasına dair hükümler askeri savcılarca yerine getirilir.
+Asker kişi olmayanlar hakkında verilen adli para cezasına dair hükümler Cumhuriyet savcılarınca genel hükümlere göre yerine getirilir.
+Madde 0061:
+353 sayılı Kanunun ek 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+EK MADDE 1- Bu Kanunda aksine hüküm bulunmayan hallerde Ceza Muhakemesi Kanununun adli kontrole ilişkin 109 ila 115, değerlendirme raporu yetkisine ilişkin 166 ve istinafa ilişkin 272 ila 285 inci maddeleri hükümleri hariç olmak üzere diğer hükümleri askeri yargıda da uygulanır.
+Bu Kanunun uygulanmasında, atıf yapılan hükümlerde yer alan, Adalet Bakanı, Milli Savunma Bakanını; Yargıtay, Askeri Yargıtayı; mahkeme, askeri mahkemeyi; hakim ve sulh ceza hakimi, askeri hakimi; mahkeme başkanı, duruşma hakimini; Cumhuriyet Başsavcılığı, askeri savcılığı; Cumhuriyet savcısı, askeri savcıyı ifade eder.
+Madde 0062:
+353 sayılı Kanunun 18, 38, 39, 40, 41, 42, 44/a, 44/b, 47, 48, 50, 51, 53, 54, 55, 56, 57, 58, 60, 61, 62, 64, 65, 68, 70, 72, 77, 78, 82, 83, 87, 88, 89, 90, 91, 92, 99, 100, 101, 105, 106, 113, 114, 117, 118, 119, 120, 121, 122, 123, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 142, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 198, 199, 203, 241, 245, 247, 251, 252, 253, 257, 258 ve ek 2 nci maddeleri ile 10 uncu maddesinin (F) bendi, 43 üncü maddesinin ikinci, dördüncü ve beşinci fıkraları, 143 üncü maddesinin ikinci, üçüncü, dördüncü ve beşinci fıkraları, 201 inci maddesinin dördüncü fıkrası, 217 nci maddesinin üçüncü ve dördüncü fıkraları, 219 uncu maddesinin üçüncü ve dördüncü fıkraları, 244 üncü maddesinin üçüncü fıkrası, 246 ncı maddesinin ikinci ve üçüncü fıkraları ile 248 inci maddesinin dördüncü, beşinci, altıncı ve yedinci fıkraları yürürlükten kaldırılmıştır.
+Madde 0063:
+353 sayılı Kanuna aşağıdaki ek geçici madde eklenmiştir.
+EK GEÇİCİ MADDE 6- 353 sayılı Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununun, bu Kanun ile değiştirilen ve yürürlükten kaldırılan hükümlerinin, yürürlüğe konulmasına ve uygulanmasına ilişkin, bu Kanunun yürürlüğe giriş tarihi esas alınarak 23.05.2005 tarihli ve 5320 sayılı Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanunda belirtilen esaslar uygulanır.
+Bu Kanun hükümleri, yürürlüğe girdiği tarihten itibaren kesin hükme bağlanmış olanlar hariç, bütün soruşturma ve kovuşturmalarda uygulanır.
+Bu Kanunun yürürlüğe girdiği tarihten önce, askeri mahkemelerce karar verilmiş ve henüz kesinleşmemiş olan dava dosyalarından görevli yargı yeri değişenler hakkında, askeri savcının yazılı görüşü alınmak suretiyle, mahkemesince duruşma yapılmaksızın görevsizlik kararı verilir. Bu karara karşı, teşkilatında askeri mahkeme kurulan kıt'a komutanı veya askeri kurum amiri, askeri savcı, sanık ve varsa müdafi bir hafta içinde itiraz edebilir. İtirazlar en yakın askeri mahkemede incelenir. Bu dosyalardan temyiz ve itiraz edilmek suretiyle Askeri Yargıtay Başsavcılığında ve Askeri Yargıtayda inceleme aşamasında olan dosyalar mahkemesine iade edilir.
+Madde 0064:
+Bu Kanun yayımı tarihinden itibaren üç ay sonra yürürlüğe girer.
+Madde 0065:
+Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Yükleyen: yasinuzunoglu

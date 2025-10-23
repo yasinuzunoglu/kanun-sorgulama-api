@@ -1,0 +1,38 @@
+3094 sayılı 04.01.1961 Tarihli ve 213 Sayılı Vergi Usul Kanunu ile 21.01.1983 Tarihli ve 2791 Sayılı Kanunun Bazı Maddelerinin Değiştirilmesi Hakkında Kanun
+Yayımlandığı Resmî Gazete Tarihi: 12.12.1984
+Yayımlandığı Resmî Gazete Sayısı: 18603
+Kabul Tarihi	04.12.1984
+Madde 0001:
+213 sayılı Vergi Usul Kanununa 205 sayılı Kanunla eklenen ve 2701 sayılı Kanunla değişik Geçici 11 inci madde aşağıdaki şekilde değiştirilmiştir.
+Geçici Madde 11: Yeniden değerleme
+Bilanço esasına göre defter tutan Gelir ve Kurumlar Vergisi mükellefleri (imtiyazlı şirketler ve dar mükellefler hariç; kollektif, adi komandit ve adi şirketler dahil) bilançolarına dahil amortismana tabi iktisadi kıymetleri ve bu kıymetler üzerinden ayrılmış olup bilançolarının pasifinde gösterilen amortismanları, her hesap dönemi sonu itibariyle aşağıdaki şartlarla yeniden değerleyebilirler. Şu kadar ki, İktisadi Devlet Teşekküllerinin yeniden değerleme yapmaları zorunludur.
+Değeri 5.000 lirayı geçmeyen iktisadi kıymetler, iktisadi kıymetlerin maliyet bedellerine eklenmiş bulunan kur farkları, sinema filmleri, alameti farika hakları, peştemallıklar, özel maliyet bedelleri, ilk tesis ve taazzuv giderleri, organizasyon, etüt ve arama giderleri ile mahiyetleri ve amortisman süre ve tarzları itibariyle bunlara benzeyen sair aktif kıymetler yeniden değerleme kapsamına girmezler.
+Bilançonun aktifine dahil iktisadi kıymetler ve bu kıymetler için geçmiş yıllarda ayrılmış olan amortismanlar, yeniden değerlemenin yapılacağı yıla ait oran ile çarpılmak suretiyle yeniden değerlenirler.
+Kendilerine özel hesap dönemi tayin olunan mükellefler için, özel hesap döneminin başladığı takvim yılına ait oran esas alınır.
+Yeniden değerleme neticesinde doğacak değer artışı, bilançonun pasifinde özel bir fon hesabında gösterilir.
+Değer artışı amortismana tabi iktisadi kıymetlerin yeniden değerlemesinden önceki net bilanço aktif değerlerinin, bu kıymetlere yeniden değerleme oranının tatbikinden sonra bulunacak net bilanço aktif değerlerinden indirilmesi suretiyle bulunur.
+Net bilanço aktif değeri, iktisadi kıymetlerin bilançonun aktifinde yazılı değerlerinden, pasifte yazılı amortismanın tenzili suretiyle bulunan miktarı ifade eder.
+Bu değerin tespitinde, 320 nci maddesinin son fıkrasına göre ayrılmış sayılan amortismanlar da fiilen ayrılmış kabul edilir.
+.
+Bilanço esasına göre defter tutan gelir vergisi mükellefleri (Kollektif, adi komandit ve adi şirketler dahil) bilançolarını yeniden değerlemeleri halinde, değer artışını pasifte özel bir fon hesabında tutarlar ve iktisadi kıymetlerin değerlemeden önceki değerleri üzerinden amortisman ayırmaya devam ederler.
+Kurumlar Vergisi mükellefleri, pasifte özel bir fon hesabında gösterilen değer artışının tamamını sermayelerine ilave edebilirler. Bu suretle sermayeye eklenen değer artışları, ortaklar tarafından işletmeye ilave edilmiş kıymetler olarak kabul edilir. Değerleme yapılan kuruma iştirak eden işletmelerin aktifinde bu nedenle meydana gelen artışlar ise pasifte özel bir karşılık hesabında gösterilir ve bu karşılık sermayenin cüzü addolunur. Karşılık hesabında gösterilen değer artışı kurumlar tarafından sermayeye eklenebilir. Bu işlemler kar dağıtımı sayılmaz.
+Amortismana tabi sabit kıymetlerini yeniden değerlemeye tabi tutan kurumlar, yeniden değerlemenin yapıldığı hesap döneminden itibaren sabit kıymetlerini yeni değerleri üzerinden itfa ederler. Şu kadar ki bina, arsa ve araziler yeniden değerlemeden önceki kıymetleri üzerinden amortismana tabi tutulur.
+Bankalar, yeniden değerleme neticesinde doğacak değer artışlarını, nakit karşılığı hisse senedi ihracı suretiyle sermaye artırımına gidilmesi ve taahhüt edilen pay bedellerinin ödenmesi şartıyla sermayelerine ekleyebilirler. Ancak, her yıl sermayeye eklenecek değer artışı, taahhüt edilen pay bedellerinin ödenen kısmına isabet eden miktarı aşamaz.
+05.11.1981 tarihinden bu Kanunun yürürlüğe girdiği tarihe kadar sermayelerini artıran bankaların, söz konusu sermaye artırımları ile ödenen pay bedelleri, bu bent uyarınca nakit karşılığı yapılmış sermaye artırımı olarak kabul ve ödenen pay bedellerine tekabül eden değer artışları sermayeye ilave edilir.
+Bilançonun pasifinde özel bir fon hesabında tutulan değer artışları, Türk Ticaret Kanununun 422 nci maddesinin uygulamasında ödenmiş sermaye, Bankalar Kanununun uygulamasında ise ihtiyat addolunur.
+Değer artış fonu, sermayeye ilave dışında herhangi bir suretle başka bir hesaba nakledildiği veya işletmeden çekildiği takdirde, bu işlemin yapıldığı dönemin kazancı sayılarak vergiye tabi tutulur.
+Yeniden değerlemeye tabi tutulan iktisadi kıymetlerin her birine isabet eden değer artışları ile bunların hesap şekilleri amortisman kayıtlarında müfredatlı olarak gösterilir.
+Yeniden değerlemeye tabi tutulan iktisadi kıymetlerin satışı halinde, bunlara isabet eden değer artışları aynen amortismanlar gibi muameleye tabi tutulur.
+Her hesap dönemi sonu itibariyle yapılacak değerleme esas alınacak yeniden değerleme oranı yeniden değerleme yapılacak yılın Ekim ayında (Ekim ayı dahil) bir önceki yılın aynı dönemine göre Devlet istatistik Enstitüsünün Toptan Eşya Fiyatları Genel İndeksinde meydana gelen ortalama fiyat artışından yüzde on (% 10) indirildikten sonra kalan kısımdır.
+Bu oran Maliye ve Gümrük Bakanlığınca her yıl Aralık ayının 15 inci gününe kadar Resmi Gazete ile ilan edilir. Devlet İstatistik Enstitüsünce belirlenen oranın yüzde on (yüzde on dahil) ve daha aşağı olması halinde o yıl için yeniden değerleme yapılmaz.
+Her yılın yeniden değerleme oranı ancak o yıla ait değerlemede nazara alınabilir. Yeniden değerlemenin herhangi bir yıl yapılmamasından veya değerleme oranında düşük uygulanmasından dolayı daha sonraki yıllar geçmiş dönemlere ilişkin yeniden değerleme yapılamaz.
+Hesap dönemi içinde aktife giren amortismana tabi iktisadi kıymetler için aktife girdiği dönem, yeniden değerleme yapılmaz.
+Yeniden değerlemeye ilişkin diğer hususları tespit etmeye, gelir ve kurumlar vergisi mükellefleri için yukarıdaki esaslar dışına çıkan uygulamalar ile devir ve nevi değiştirmeleri önleyici düzenlemeler getirmeye Maliye ve Gümrük Bakanlığı yetkilidir.
+Madde 0002:
+21.01.1983 tarihli ve 2791 sayılı Kanunun Geçici 2 nci maddesinin (a) bendine aşağıdaki alt bent hükmü eklenmiştir.
+Teminat olarak verilen bu hisse senetlerinin intifa hakkı, ikraz anlaşması çerçevesinde Hazine fonlarından verilmiş bulunan borç tamamen geri ödeninceye kadar Hazineye aittir. Borç tamamen ödendikten sonra bu hisse senetleri kuruma iade edilir.
+Madde 0003:
+Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 0004:
+Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Yükleyen: yasinuzunoglu
